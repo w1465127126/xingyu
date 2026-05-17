@@ -68,17 +68,6 @@
     text-align: center;
   }
 
-  .logo {
-    width: 90px; height: 90px;
-    margin: 0 auto 28px;
-    animation: logoFloat 4s ease-in-out infinite;
-  }
-  .logo svg { width: 100%; height: 100%; }
-  @keyframes logoFloat {
-    0%, 100% { transform: translateY(0); }
-    50% { transform: translateY(-6px); }
-  }
-
   .header-mark {
     display: inline-block;
     font-family: 'Orbitron', monospace;
@@ -94,21 +83,36 @@
 
   .header h1 {
     font-family: 'Noto Serif SC', serif;
-    font-size: clamp(40px, 6vw, 64px);
+    font-size: clamp(36px, 5vw, 56px);
     font-weight: 900;
-    line-height: 1.1;
+    line-height: 1.2;
     letter-spacing: -1px;
     color: var(--text-primary);
+    display: flex; align-items: baseline; justify-content: center;
+    gap: clamp(12px, 2vw, 28px);
+    flex-wrap: wrap;
+  }
+  .header h1 .brand { color: var(--text-primary); }
+  .header h1 .divider {
+    width: 1px; height: 0.9em;
+    background: var(--gold-dim);
+    align-self: center;
+    flex-shrink: 0;
+  }
+  .header h1 .tagline {
+    font-size: clamp(18px, 2.5vw, 28px);
+    font-weight: 400;
+    color: var(--text-secondary);
+    letter-spacing: 2px;
   }
 
-  .header h1 .accent { color: var(--gold); }
-
-  .header .subtitle {
-    margin-top: 16px;
-    font-size: 16px;
-    color: var(--text-secondary);
+  .header .slogan {
+    margin-top: 14px;
+    font-size: 15px;
+    color: var(--text-muted);
     font-weight: 300;
     letter-spacing: 4px;
+    word-spacing: 6px;
   }
 
   .header-line {
@@ -488,36 +492,9 @@
 <div class="container">
 
   <header class="header anim-up">
-    <div class="logo">
-      <svg viewBox="0 0 100 100" fill="none" xmlns="http://www.w3.org/2000/svg">
-        <defs>
-          <linearGradient id="logoGrad" x1="20" y1="10" x2="80" y2="90" gradientUnits="userSpaceOnUse">
-            <stop stop-color="#e4c87c"/>
-            <stop offset="1" stop-color="#8b7340"/>
-          </linearGradient>
-        </defs>
-        <circle cx="50" cy="50" r="46" stroke="url(#logoGrad)" stroke-width="2.5" opacity="0.6"/>
-        <circle cx="50" cy="50" r="38" stroke="url(#logoGrad)" stroke-width="0.8" opacity="0.25"/>
-        <!-- 星核 / 球头 -->
-        <polygon points="50,34 55,44 66,44 58,51 61,62 50,56 39,62 42,51 34,44 45,44" fill="url(#logoGrad)"/>
-        <!-- 羽翼 / 星芒 -->
-        <line x1="50" y1="56" x2="50" y2="74" stroke="url(#logoGrad)" stroke-width="2" stroke-linecap="round"/>
-        <line x1="50" y1="56" x2="36" y2="72" stroke="url(#logoGrad)" stroke-width="1.8" stroke-linecap="round"/>
-        <line x1="50" y1="56" x2="64" y2="72" stroke="url(#logoGrad)" stroke-width="1.8" stroke-linecap="round"/>
-        <line x1="50" y1="56" x2="26" y2="66" stroke="url(#logoGrad)" stroke-width="1.5" stroke-linecap="round" opacity="0.7"/>
-        <line x1="50" y1="56" x2="74" y2="66" stroke="url(#logoGrad)" stroke-width="1.5" stroke-linecap="round" opacity="0.7"/>
-        <line x1="50" y1="56" x2="19" y2="55" stroke="url(#logoGrad)" stroke-width="1" stroke-linecap="round" opacity="0.4"/>
-        <line x1="50" y1="56" x2="81" y2="55" stroke="url(#logoGrad)" stroke-width="1" stroke-linecap="round" opacity="0.4"/>
-        <!-- 宇宙光点 -->
-        <circle cx="15" cy="25" r="1.5" fill="#e4c87c" opacity="0.6"/>
-        <circle cx="80" cy="20" r="1" fill="#e4c87c" opacity="0.4"/>
-        <circle cx="85" cy="75" r="1.2" fill="#e4c87c" opacity="0.5"/>
-        <circle cx="18" cy="80" r="1" fill="#e4c87c" opacity="0.35"/>
-      </svg>
-    </div>
     <div class="header-mark">XINGYU SPORTS</div>
-    <h1>兴宇<span class="accent">体育</span></h1>
-    <p class="subtitle">羽毛球穿线价目表</p>
+    <h1><span class="brand">兴宇体育</span><span class="divider"></span><span class="tagline">羽毛球穿线价目表</span></h1>
+    <p class="slogan">匠心穿线 · 精益求精 · 品质保障</p>
     <div class="header-line"></div>
   </header>
 
