@@ -68,6 +68,17 @@
     text-align: center;
   }
 
+  .logo {
+    width: 90px; height: 90px;
+    margin: 0 auto 28px;
+    animation: logoFloat 4s ease-in-out infinite;
+  }
+  .logo svg { width: 100%; height: 100%; }
+  @keyframes logoFloat {
+    0%, 100% { transform: translateY(0); }
+    50% { transform: translateY(-6px); }
+  }
+
   .header-mark {
     display: inline-block;
     font-family: 'Orbitron', monospace;
@@ -477,9 +488,36 @@
 <div class="container">
 
   <header class="header anim-up">
-    <div class="header-mark">Stringing Price List</div>
-    <h1>羽毛球<span class="accent">穿线</span>价目表</h1>
-    <p class="subtitle">精 准  ·  专 业  ·  匠 心</p>
+    <div class="logo">
+      <svg viewBox="0 0 100 100" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <defs>
+          <linearGradient id="logoGrad" x1="20" y1="10" x2="80" y2="90" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#e4c87c"/>
+            <stop offset="1" stop-color="#8b7340"/>
+          </linearGradient>
+        </defs>
+        <circle cx="50" cy="50" r="46" stroke="url(#logoGrad)" stroke-width="2.5" opacity="0.6"/>
+        <circle cx="50" cy="50" r="38" stroke="url(#logoGrad)" stroke-width="0.8" opacity="0.25"/>
+        <!-- 星核 / 球头 -->
+        <polygon points="50,34 55,44 66,44 58,51 61,62 50,56 39,62 42,51 34,44 45,44" fill="url(#logoGrad)"/>
+        <!-- 羽翼 / 星芒 -->
+        <line x1="50" y1="56" x2="50" y2="74" stroke="url(#logoGrad)" stroke-width="2" stroke-linecap="round"/>
+        <line x1="50" y1="56" x2="36" y2="72" stroke="url(#logoGrad)" stroke-width="1.8" stroke-linecap="round"/>
+        <line x1="50" y1="56" x2="64" y2="72" stroke="url(#logoGrad)" stroke-width="1.8" stroke-linecap="round"/>
+        <line x1="50" y1="56" x2="26" y2="66" stroke="url(#logoGrad)" stroke-width="1.5" stroke-linecap="round" opacity="0.7"/>
+        <line x1="50" y1="56" x2="74" y2="66" stroke="url(#logoGrad)" stroke-width="1.5" stroke-linecap="round" opacity="0.7"/>
+        <line x1="50" y1="56" x2="19" y2="55" stroke="url(#logoGrad)" stroke-width="1" stroke-linecap="round" opacity="0.4"/>
+        <line x1="50" y1="56" x2="81" y2="55" stroke="url(#logoGrad)" stroke-width="1" stroke-linecap="round" opacity="0.4"/>
+        <!-- 宇宙光点 -->
+        <circle cx="15" cy="25" r="1.5" fill="#e4c87c" opacity="0.6"/>
+        <circle cx="80" cy="20" r="1" fill="#e4c87c" opacity="0.4"/>
+        <circle cx="85" cy="75" r="1.2" fill="#e4c87c" opacity="0.5"/>
+        <circle cx="18" cy="80" r="1" fill="#e4c87c" opacity="0.35"/>
+      </svg>
+    </div>
+    <div class="header-mark">XINGYU SPORTS</div>
+    <h1>兴宇<span class="accent">体育</span></h1>
+    <p class="subtitle">羽毛球穿线价目表</p>
     <div class="header-line"></div>
   </header>
 
@@ -673,7 +711,7 @@
   </div>
 
   <footer class="footer">
-    羽毛球穿线价目表<span class="divider"> · </span>STRINGING PRICE LIST
+    兴宇体育<span class="divider"> · </span>XINGYU SPORTS
   </footer>
 
 </div>
