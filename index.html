@@ -3,58 +3,94 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>羽毛球穿线价目表</title>
+<title>兴羽体育 · 羽毛球穿线 & 球拍</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Noto+Serif+SC:wght@400;600;700;900&family=Noto+Sans+SC:wght@300;400;500;700&family=Orbitron:wght@500;700&display=swap" rel="stylesheet">
 <style>
   :root {
-    --bg-deep: #0a0e17;
-    --bg-card: #111827;
-    --bg-elevated: #1a2235;
-    --gold: #c8a45c;
-    --gold-dim: #8b7340;
-    --gold-bright: #e4c87c;
-    --coral: #e85d3a;
-    --text-primary: #e8e4dd;
-    --text-secondary: #979590;
-    --text-muted: #5e5c56;
-    --border: #1e293b;
-    --border-active: #2a3550;
-    --radius: 12px;
-    --shadow-card: 0 1px 2px rgba(0,0,0,0.4), 0 4px 16px rgba(0,0,0,0.3);
+    --bg-primary: #f8faff;
+    --bg-card: #ffffff;
+    --bg-elevated: #f3f5ff;
+    --accent-blue: #4b6fff;
+    --accent-purple: #7c3aed;
+    --accent-pink: #e040fb;
+    --accent-orange: #ff9100;
+    --accent-amber: #ffb300;
+    --gradient-primary: linear-gradient(135deg, #4b6fff, #7c3aed, #e040fb);
+    --gradient-warm: linear-gradient(135deg, #ff9100, #ff6d00);
+    --gradient-subtle: linear-gradient(135deg, #eef1ff, #f5eeff, #fff5f0);
+    --text-primary: #1a1d33;
+    --text-secondary: #5a5d77;
+    --text-muted: #9598b3;
+    --border: #e2e5f0;
+    --border-active: #c5c9dd;
+    --radius: 14px;
+    --shadow-sm: 0 1px 3px rgba(75,111,255,0.06), 0 1px 2px rgba(0,0,0,0.03);
+    --shadow-card: 0 2px 8px rgba(75,111,255,0.06), 0 8px 24px rgba(0,0,0,0.05);
+    --shadow-hover: 0 4px 16px rgba(75,111,255,0.1), 0 12px 36px rgba(0,0,0,0.08);
+    --shadow-glow: 0 0 28px rgba(75,111,255,0.2);
   }
 
   * { margin:0; padding:0; box-sizing:border-box; }
 
   body {
     font-family: 'Noto Sans SC', sans-serif;
-    background: var(--bg-deep);
+    background: var(--bg-primary);
     color: var(--text-primary);
     min-height: 100vh;
     overflow-x: hidden;
   }
 
-  .bg-layer {
-    position: fixed; inset:0; pointer-events:none; z-index:0;
-    background:
-      radial-gradient(ellipse 80% 60% at 50% 0%, rgba(200,164,92,0.06) 0%, transparent 60%),
-      radial-gradient(ellipse 60% 50% at 80% 100%, rgba(232,93,58,0.04) 0%, transparent 60%),
-      radial-gradient(ellipse 50% 40% at 20% 80%, rgba(200,164,92,0.03) 0%, transparent 50%);
+  /* ═══════════════════════════ Shuttlecock animated background ═══════════════════════════ */
+  .shuttlecock-layer {
+    position: fixed; inset: 0; pointer-events: none; z-index: 0;
+    overflow: hidden;
+  }
+  .shuttle {
+    position: absolute;
+    font-size: 60px;
+    opacity: 0.1;
+    animation: shuttleFloat linear infinite;
+  }
+  .shuttle:nth-child(1) { top: 8%; left: -80px; animation-duration: 18s; animation-delay: 0s; font-size: 70px; }
+  .shuttle:nth-child(2) { top: 22%; left: -100px; animation-duration: 22s; animation-delay: -5s; font-size: 50px; opacity: 0.07; }
+  .shuttle:nth-child(3) { top: 45%; left: -60px; animation-duration: 20s; animation-delay: -10s; font-size: 80px; opacity: 0.08; }
+  .shuttle:nth-child(4) { top: 65%; left: -120px; animation-duration: 25s; animation-delay: -3s; font-size: 55px; opacity: 0.07; }
+  .shuttle:nth-child(5) { top: 78%; left: -90px; animation-duration: 16s; animation-delay: -8s; font-size: 65px; opacity: 0.09; }
+  .shuttle:nth-child(6) { top: 35%; left: -70px; animation-duration: 28s; animation-delay: -15s; font-size: 45px; opacity: 0.06; }
+  .shuttle:nth-child(7) { top: 55%; left: -110px; animation-duration: 19s; animation-delay: -12s; font-size: 75px; opacity: 0.08; }
+  .shuttle:nth-child(8) { top: 12%; left: -50px; animation-duration: 23s; animation-delay: -6s; font-size: 48px; opacity: 0.07; }
+
+  @keyframes shuttleFloat {
+    0%   { transform: translateX(0) translateY(0) rotate(0deg); }
+    25%  { transform: translateX(calc(100vw + 200px)) translateY(40px) rotate(120deg); }
+    50%  { transform: translateX(calc(100vw + 200px)) translateY(-30px) rotate(240deg); }
+    75%  { transform: translateX(0) translateY(20px) rotate(300deg); }
+    100% { transform: translateX(0) translateY(0) rotate(360deg); }
   }
 
-  .bg-grid {
-    position: fixed; inset:0; pointer-events:none; z-index:0; opacity:0.03;
-    background-image:
-      linear-gradient(rgba(200,164,92,0.5) 1px, transparent 1px),
-      linear-gradient(90deg, rgba(200,164,92,0.5) 1px, transparent 1px);
-    background-size: 60px 60px;
+  /* Ambient gradient blobs */
+  .ambient-glow {
+    position: fixed; pointer-events: none; z-index: 0;
+    border-radius: 50%;
+    filter: blur(140px);
+    opacity: 0.5;
   }
-
-  .bg-strings {
-    position: fixed; inset:0; pointer-events:none; z-index:0; opacity:0.015;
-    background: repeating-linear-gradient(0deg, transparent, transparent 3px, rgba(200,164,92,0.5) 3px, rgba(200,164,92,0.5) 4px),
-                repeating-linear-gradient(90deg, transparent, transparent 18px, rgba(200,164,92,0.3) 18px, rgba(200,164,92,0.3) 19px);
+  .ambient-glow.g1 {
+    width: 600px; height: 600px;
+    background: rgba(75,111,255,0.07);
+    top: -300px; right: -100px;
+  }
+  .ambient-glow.g2 {
+    width: 500px; height: 500px;
+    background: rgba(224,64,251,0.05);
+    bottom: -200px; left: -150px;
+  }
+  .ambient-glow.g3 {
+    width: 350px; height: 350px;
+    background: rgba(255,145,0,0.04);
+    top: 40%; left: 50%; transform: translate(-50%, -50%);
   }
 
   .container {
@@ -62,9 +98,40 @@
     max-width: 900px; margin:0 auto; padding: 0 24px;
   }
 
+  /* ═══════════════════════════ Section Nav (分栏导航) ═══════════════════════════ */
+  .section-nav {
+    display: flex; gap: 0; margin-bottom: 40px; justify-content: center;
+    border-radius: 12px;
+    overflow: hidden;
+    background: var(--bg-card);
+    box-shadow: var(--shadow-sm);
+    border: 1px solid var(--border);
+  }
+  .section-nav-btn {
+    flex: 1; max-width: 220px;
+    padding: 14px 32px;
+    background: transparent;
+    border: none;
+    color: var(--text-secondary);
+    font-family: 'Noto Sans SC', sans-serif;
+    font-size: 15px; font-weight: 600;
+    cursor: pointer;
+    letter-spacing: 2px;
+    transition: all 0.35s ease;
+    position: relative;
+  }
+  .section-nav-btn:first-child { border-right: 1px solid var(--border); }
+  .section-nav-btn:hover { color: var(--accent-blue); background: rgba(75,111,255,0.04); }
+  .section-nav-btn.active {
+    background: var(--gradient-primary);
+    color: #fff;
+    font-weight: 700;
+    box-shadow: 0 4px 20px rgba(75,111,255,0.35);
+  }
+
   /* ── Header ── */
   .header {
-    padding: 80px 0 48px;
+    padding: 60px 0 36px;
     text-align: center;
   }
 
@@ -73,17 +140,18 @@
     font-family: 'Orbitron', monospace;
     font-size: 11px;
     letter-spacing: 6px;
-    color: var(--gold-dim);
+    color: var(--accent-purple);
     text-transform: uppercase;
-    border: 1px solid rgba(200,164,92,0.2);
+    border: 1.5px solid rgba(75,111,255,0.25);
     padding: 8px 20px;
-    border-radius: 2px;
-    margin-bottom: 32px;
+    border-radius: 20px;
+    margin-bottom: 28px;
+    background: rgba(75,111,255,0.04);
   }
 
   .header h1 {
     font-family: 'Noto Serif SC', serif;
-    font-size: clamp(36px, 5vw, 56px);
+    font-size: clamp(38px, 5vw, 58px);
     font-weight: 900;
     line-height: 1.2;
     letter-spacing: -1px;
@@ -92,16 +160,23 @@
     gap: clamp(12px, 2vw, 28px);
     flex-wrap: wrap;
   }
-  .header h1 .brand { color: var(--text-primary); }
+  .header h1 .brand {
+    background: var(--gradient-primary);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+  }
   .header h1 .divider {
-    width: 1px; height: 0.9em;
-    background: var(--gold-dim);
+    width: 2px; height: 0.9em;
+    background: var(--gradient-primary);
     align-self: center;
     flex-shrink: 0;
+    border-radius: 1px;
+    opacity: 0.5;
   }
   .header h1 .tagline {
     font-size: clamp(18px, 2.5vw, 28px);
-    font-weight: 400;
+    font-weight: 600;
     color: var(--text-secondary);
     letter-spacing: 2px;
   }
@@ -110,53 +185,61 @@
     margin-top: 14px;
     font-size: 15px;
     color: var(--text-muted);
-    font-weight: 300;
+    font-weight: 500;
     letter-spacing: 4px;
     word-spacing: 6px;
   }
 
   .header-line {
-    width: 60px; height: 2px;
-    background: var(--gold);
+    width: 60px; height: 3px;
+    background: var(--gradient-primary);
     margin: 24px auto 0;
+    border-radius: 2px;
     position: relative;
   }
   .header-line::after, .header-line::before {
     content: '';
     position: absolute;
-    width: 5px; height: 5px;
-    background: var(--gold-bright);
+    width: 7px; height: 7px;
+    background: var(--accent-blue);
     border-radius: 50%;
-    top: -1.5px;
+    top: -2px;
   }
   .header-line::after { left:0; }
-  .header-line::before { right:0; }
+  .header-line::before { right:0; background: var(--accent-pink); }
+
+  /* ═══════════════════════════ Page Sections ═══════════════════════════ */
+  .page-section { display: none; }
+  .page-section.active { display: block; }
 
   /* ── Tabs ── */
   .tabs {
     display: flex; gap: 8px; margin-bottom: 40px; flex-wrap: wrap; justify-content: center;
   }
   .tab {
-    padding: 8px 20px;
-    border: 1px solid var(--border);
-    background: transparent;
+    padding: 9px 22px;
+    border: 1.5px solid var(--border);
+    background: var(--bg-card);
     color: var(--text-secondary);
     font-family: 'Noto Sans SC', sans-serif;
     font-size: 13px;
+    font-weight: 500;
     cursor: pointer;
-    border-radius: 2px;
+    border-radius: 20px;
     transition: all 0.3s ease;
     letter-spacing: 1px;
   }
   .tab:hover {
-    border-color: var(--gold-dim);
-    color: var(--text-primary);
+    border-color: var(--accent-blue);
+    color: var(--accent-blue);
+    background: rgba(75,111,255,0.04);
   }
   .tab.active {
-    background: var(--gold);
-    border-color: var(--gold);
-    color: #0a0e17;
-    font-weight: 500;
+    background: var(--gradient-primary);
+    border-color: transparent;
+    color: #fff;
+    font-weight: 600;
+    box-shadow: 0 4px 16px rgba(75,111,255,0.3);
   }
 
   /* ── Price card ── */
@@ -169,9 +252,12 @@
     border-radius: var(--radius);
     overflow: hidden;
     box-shadow: var(--shadow-card);
-    transition: border-color 0.4s ease;
+    transition: all 0.35s ease;
   }
-  .price-card:hover { border-color: var(--border-active); }
+  .price-card:hover {
+    border-color: rgba(75,111,255,0.25);
+    box-shadow: var(--shadow-hover);
+  }
 
   .price-card-header {
     display: flex; align-items: center; gap: 14px;
@@ -180,25 +266,26 @@
     border-bottom: 1px solid var(--border);
   }
   .brand-badge {
-    width: 36px; height: 36px;
-    border-radius: 50%;
+    width: 38px; height: 38px;
+    border-radius: 10px;
     display: flex; align-items: center; justify-content: center;
     font-family: 'Orbitron', monospace;
-    font-size: 12px; font-weight: 700;
+    font-size: 13px; font-weight: 700;
     flex-shrink: 0;
   }
-  .brand-badge.yonex { background: #003399; color: #fff; }
-  .brand-badge.lining { background: #c41230; color: #fff; }
-  .brand-badge.victor { background: #1a1a2e; color: #00d4aa; border: 1px solid #00d4aa; }
-  .brand-badge.kizuna { background: #1a1a2e; color: #e85d3a; border: 1px solid #e85d3a; }
-  .brand-badge.gosen { background: #1a1a2e; color: #ff6b35; border: 1px solid #ff6b35; }
-  .brand-badge.xunfeng { background: #1a1a2e; color: #a78bfa; border: 1px solid #a78bfa; }
-  .brand-badge.wong { background: #1a1a2e; color: #f5a623; border: 1px solid #f5a623; }
-  .brand-badge.own { background: var(--bg-elevated); color: var(--text-secondary); border: 1px solid var(--border); }
+  .brand-badge.yonex { background: linear-gradient(135deg, #0055cc, #0077ee); color: #fff; }
+  .brand-badge.lining { background: linear-gradient(135deg, #e01a3a, #ff3b5c); color: #fff; }
+  .brand-badge.victor { background: #eef9ff; color: #0099aa; border: 1.5px solid #b3e5f0; }
+  .brand-badge.kizuna { background: #fff0ed; color: #e85d3a; border: 1.5px solid #fcc8ba; }
+  .brand-badge.gosen { background: #fff5ed; color: #ff6b35; border: 1.5px solid #ffc9a8; }
+  .brand-badge.xunfeng { background: #f3eeff; color: #7c3aed; border: 1.5px solid #d4c5f7; }
+  .brand-badge.wong { background: #fff8ed; color: #e09020; border: 1.5px solid #fcdba8; }
+  .brand-badge.own { background: var(--bg-elevated); color: var(--text-muted); border: 1.5px solid var(--border); }
 
   .price-card-header h3 {
     font-family: 'Noto Serif SC', serif;
     font-size: 18px; font-weight: 700;
+    color: var(--text-primary);
   }
 
   /* ── Table ── */
@@ -206,53 +293,54 @@
   .price-table th {
     text-align: left;
     padding: 12px 28px;
-    font-size: 11px; font-weight: 500;
+    font-size: 11px; font-weight: 600;
     color: var(--text-muted);
     text-transform: uppercase;
     letter-spacing: 2px;
-    border-bottom: 1px solid var(--border);
-    background: rgba(0,0,0,0.2);
+    border-bottom: 2px solid var(--border);
+    background: rgba(75,111,255,0.03);
   }
   .price-table th:last-child,
   .price-table th:nth-child(3) { text-align: center; }
 
   .price-table td {
     padding: 14px 28px;
-    border-bottom: 1px solid rgba(30,41,59,0.5);
+    border-bottom: 1px solid var(--border);
     font-size: 14px;
     transition: background 0.2s ease;
   }
   .price-table tr:last-child td { border-bottom: none; }
-  .price-table tbody tr:hover td { background: rgba(200,164,92,0.03); }
+  .price-table tbody tr:hover td { background: rgba(75,111,255,0.03); }
 
   .string-model {
-    font-weight: 500;
+    font-weight: 700;
     color: var(--text-primary);
   }
   .string-type {
     display: inline-block;
-    padding: 3px 10px;
-    border-radius: 2px;
+    padding: 4px 12px;
+    border-radius: 12px;
     font-size: 12px;
     letter-spacing: 1px;
+    font-weight: 600;
   }
-  .string-type.high-elastic { background: rgba(232,93,58,0.12); color: #f07a5a; }
-  .string-type.control { background: rgba(100,149,237,0.12); color: #7ba4f0; }
-  .string-type.durable { background: rgba(74,222,128,0.1); color: #6ee7a0; }
-  .string-type.attack { background: rgba(248,113,113,0.12); color: #f87171; }
-  .string-type.balanced { background: rgba(200,164,92,0.12); color: var(--gold-bright); }
-  .string-type.durable-attack { background: rgba(251,191,36,0.1); color: #fbbf24; }
+  .string-type.high-elastic { background: rgba(255,145,0,0.1); color: #e07800; }
+  .string-type.control { background: rgba(75,111,255,0.1); color: var(--accent-blue); }
+  .string-type.durable { background: rgba(34,197,94,0.1); color: #16a34a; }
+  .string-type.attack { background: rgba(239,68,68,0.1); color: #dc2626; }
+  .string-type.balanced { background: rgba(124,58,237,0.1); color: var(--accent-purple); }
+  .string-type.durable-attack { background: rgba(255,145,0,0.08); color: #d97706; }
 
   .price-cell {
     text-align: center;
     font-family: 'Orbitron', monospace;
-    font-size: 16px;
-    font-weight: 500;
-    color: var(--gold);
+    font-size: 18px;
+    font-weight: 700;
+    color: var(--accent-blue);
   }
   .price-cell.member {
-    color: var(--gold-bright);
-    font-size: 14px;
+    color: var(--accent-purple);
+    font-size: 15px;
   }
   .price-cell .yen {
     font-size: 11px;
@@ -262,8 +350,8 @@
 
   /* ── Highlight Banner ── */
   .highlight-banner {
-    background: linear-gradient(135deg, rgba(200,164,92,0.08) 0%, rgba(200,164,92,0.02) 100%);
-    border: 1px solid rgba(200,164,92,0.2);
+    background: linear-gradient(135deg, rgba(75,111,255,0.06), rgba(224,64,251,0.04));
+    border: 1.5px solid rgba(75,111,255,0.15);
     border-radius: var(--radius);
     padding: 28px 36px;
     margin-bottom: 48px;
@@ -271,14 +359,14 @@
     align-items: center;
     gap: 20px;
   }
-  .highlight-icon {
-    font-size: 40px;
-    flex-shrink: 0;
-  }
+  .highlight-icon { font-size: 40px; flex-shrink: 0; }
   .highlight-text h3 {
     font-family: 'Noto Serif SC', serif;
     font-size: 20px; font-weight: 700;
-    color: var(--gold-bright);
+    background: var(--gradient-primary);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
     margin-bottom: 4px;
   }
   .highlight-text p {
@@ -292,6 +380,7 @@
     border-radius: var(--radius);
     padding: 36px;
     margin-bottom: 80px;
+    box-shadow: var(--shadow-card);
   }
   .notes-section h3 {
     font-family: 'Noto Serif SC', serif;
@@ -311,13 +400,135 @@
   .note-num {
     font-family: 'Orbitron', monospace;
     font-size: 13px;
-    color: var(--gold-dim);
+    font-weight: 700;
+    color: var(--accent-blue);
     flex-shrink: 0;
     padding-top: 1px;
   }
   .note-item p {
     font-size: 14px; color: var(--text-secondary);
     line-height: 1.7;
+  }
+
+  /* ═══════════════════════════ Racket Page ═══════════════════════════ */
+  .racket-intro {
+    text-align: center;
+    margin-bottom: 36px;
+  }
+  .racket-intro h2 {
+    font-family: 'Noto Serif SC', serif;
+    font-size: 24px; font-weight: 700;
+    background: var(--gradient-primary);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    margin-bottom: 6px;
+  }
+  .racket-intro p {
+    font-size: 14px; color: var(--text-muted);
+    letter-spacing: 1px;
+  }
+
+  .racket-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+    gap: 20px;
+    margin-bottom: 48px;
+  }
+
+  .racket-card {
+    background: var(--bg-card);
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    overflow: hidden;
+    transition: all 0.35s ease;
+    box-shadow: var(--shadow-card);
+  }
+  .racket-card:hover {
+    border-color: rgba(75,111,255,0.3);
+    transform: translateY(-6px);
+    box-shadow: var(--shadow-hover);
+  }
+
+  .racket-card-img {
+    height: 180px;
+    display: flex; align-items: center; justify-content: center;
+    position: relative;
+    overflow: hidden;
+  }
+  .racket-card-img .racket-emoji {
+    font-size: 80px;
+    filter: drop-shadow(0 4px 12px rgba(0,0,0,0.15));
+    transition: transform 0.4s ease;
+  }
+  .racket-card:hover .racket-emoji { transform: scale(1.08) rotate(-5deg); }
+
+  .racket-card-img.yy-bg { background: linear-gradient(135deg, #e8f0ff, #d0e0ff, #e0e8ff); }
+  .racket-card-img.ln-bg { background: linear-gradient(135deg, #ffe8ec, #ffd0d8, #ffe0e5); }
+  .racket-card-img.vc-bg { background: linear-gradient(135deg, #e0faf5, #c5f0e8, #d5f5ee); }
+  .racket-card-img.other-bg { background: linear-gradient(135deg, #f0e8ff, #e5d8ff, #ede0ff); }
+
+  .racket-card-body {
+    padding: 20px;
+  }
+  .racket-card-brand {
+    font-size: 11px; font-weight: 700;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    margin-bottom: 4px;
+  }
+  .racket-card-brand.yy { color: #2563eb; }
+  .racket-card-brand.ln { color: #e01a3a; }
+  .racket-card-brand.vc { color: #0099aa; }
+  .racket-card-brand.other { color: #7c3aed; }
+
+  .racket-card-body h4 {
+    font-family: 'Noto Serif SC', serif;
+    font-size: 17px; font-weight: 700;
+    margin-bottom: 12px;
+    color: var(--text-primary);
+  }
+  .racket-specs {
+    display: flex; flex-wrap: wrap; gap: 8px;
+    margin-bottom: 14px;
+  }
+  .racket-spec {
+    font-size: 11px;
+    padding: 4px 10px;
+    border-radius: 12px;
+    background: rgba(75,111,255,0.06);
+    color: var(--text-secondary);
+    border: 1px solid rgba(75,111,255,0.1);
+    font-weight: 500;
+    letter-spacing: 0.5px;
+  }
+  .racket-card-price {
+    font-family: 'Orbitron', monospace;
+    font-size: 19px; font-weight: 700;
+    color: var(--accent-orange);
+  }
+  .racket-card-price .rmb {
+    font-size: 11px; font-weight: 400;
+    color: var(--text-muted);
+  }
+  .racket-card-price .original {
+    font-size: 13px; color: var(--text-muted);
+    text-decoration: line-through;
+    margin-left: 8px;
+    font-weight: 400;
+  }
+
+  .racket-note {
+    text-align: center;
+    background: var(--bg-elevated);
+    border: 1.5px dashed rgba(75,111,255,0.15);
+    border-radius: var(--radius);
+    padding: 28px 36px;
+    margin-bottom: 80px;
+    color: var(--text-muted);
+    font-size: 14px;
+    line-height: 1.8;
+    letter-spacing: 1px;
   }
 
   /* ── Footer ── */
@@ -329,7 +540,7 @@
     font-size: 13px; letter-spacing: 2px;
   }
 
-  /* ── Animations ── */
+  /* ═══════════════════════════ Animations ═══════════════════════════ */
   @keyframes fadeUp {
     from { opacity:0; transform: translateY(20px); }
     to { opacity:1; transform: translateY(0); }
@@ -347,39 +558,97 @@
 
   /* ── Responsive ── */
   @media (max-width: 768px) {
-    .header { padding: 48px 0 32px; }
-    .header h1 { font-size: 36px; }
+    .header { padding: 40px 0 28px; }
+    .header h1 { font-size: 32px; }
+    .section-nav-btn { padding: 12px 20px; font-size: 14px; }
     .price-card-header { padding: 16px; flex-wrap: wrap; }
     .price-table th, .price-table td { padding: 10px 12px; font-size: 12px; }
     .price-table th { font-size: 10px; letter-spacing: 1px; }
-    .price-cell { font-size: 13px; }
-    .price-cell.member { font-size: 12px; }
+    .price-cell { font-size: 15px; }
+    .price-cell.member { font-size: 13px; }
     .tabs { gap: 6px; }
-    .tab { padding: 6px 14px; font-size: 12px; }
+    .tab { padding: 7px 16px; font-size: 12px; }
     .notes-section { padding: 24px; }
     .highlight-banner { flex-direction: column; text-align: center; padding: 24px; }
     .highlight-text h3 { font-size: 17px; }
     .string-model { font-size: 13px; }
+    .racket-grid { grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); gap: 14px; }
+    .racket-card-img { height: 140px; }
+    .racket-card-img .racket-emoji { font-size: 60px; }
   }
 
   ::-webkit-scrollbar { width:6px; }
-  ::-webkit-scrollbar-track { background: var(--bg-deep); }
+  ::-webkit-scrollbar-track { background: var(--bg-primary); }
   ::-webkit-scrollbar-thumb { background: var(--border); border-radius:3px; }
   ::-webkit-scrollbar-thumb:hover { background: var(--border-active); }
 
-  /* ── WeChat Floating Button ── */
-  .wechat-float {
+  /* ═══════════════════════════ WeChat Floating Button ═══════════════════════════ */
+  .wechat-area {
     position: fixed;
     bottom: 32px; right: 32px;
     z-index: 100;
+    display: flex; flex-direction: column; align-items: center;
+  }
+
+  /* Animated indicator above WeChat button */
+  .wechat-hint {
+    margin-bottom: 10px;
+    display: flex; flex-direction: column; align-items: center;
+    animation: hintBounce 1.5s ease-in-out infinite;
+    cursor: pointer;
+  }
+  .wechat-hint-badge {
+    background: var(--gradient-warm);
+    color: #fff;
+    font-size: 12px; font-weight: 700;
+    padding: 6px 16px;
+    border-radius: 20px;
+    letter-spacing: 2px;
+    white-space: nowrap;
+    box-shadow: 0 4px 18px rgba(255,145,0,0.45);
+  }
+  .wechat-hint-arrow {
+    width: 0; height: 0;
+    border-left: 8px solid transparent;
+    border-right: 8px solid transparent;
+    border-top: 8px solid var(--accent-orange);
+    margin-top: -1px;
+    filter: drop-shadow(0 2px 4px rgba(255,145,0,0.4));
+  }
+
+  @keyframes hintBounce {
+    0%, 100% { transform: translateY(0); }
+    50% { transform: translateY(-8px); }
+  }
+
+  /* Sparkle dots around hint */
+  .wechat-spark {
+    position: absolute;
+    width: 4px; height: 4px;
+    background: var(--accent-amber);
+    border-radius: 50%;
+    animation: sparkFloat 2s ease-in-out infinite;
+    box-shadow: 0 0 6px var(--accent-amber);
+  }
+  .wechat-spark.s1 { top: -4px; left: -8px; animation-delay: 0s; }
+  .wechat-spark.s2 { top: -6px; right: -6px; animation-delay: 0.6s; }
+  .wechat-spark.s3 { top: 2px; left: -12px; animation-delay: 1.2s; }
+
+  @keyframes sparkFloat {
+    0%, 100% { opacity: 0; transform: translateY(0) scale(1); }
+    50% { opacity: 1; transform: translateY(-10px) scale(1.8); }
+  }
+
+  .wechat-float {
     width: 56px; height: 56px;
     border-radius: 50%;
-    background: #07c160;
+    background: linear-gradient(135deg, #07c160, #06ad56);
     border: none;
     cursor: pointer;
     display: flex; align-items: center; justify-content: center;
     box-shadow: 0 4px 20px rgba(7,193,96,0.4);
     transition: transform 0.3s ease, box-shadow 0.3s ease;
+    position: relative;
   }
   .wechat-float:hover {
     transform: scale(1.08);
@@ -403,8 +672,8 @@
   .modal-overlay {
     position: fixed; inset: 0;
     z-index: 200;
-    background: rgba(0,0,0,0.7);
-    backdrop-filter: blur(6px);
+    background: rgba(0,0,0,0.5);
+    backdrop-filter: blur(8px);
     display: flex; align-items: center; justify-content: center;
     opacity: 0; pointer-events: none;
     transition: opacity 0.35s ease;
@@ -415,14 +684,15 @@
 
   .modal-card {
     background: var(--bg-card);
-    border: 1px solid var(--border-active);
-    border-radius: 16px;
+    border: 1px solid var(--border);
+    border-radius: 20px;
     padding: 40px 36px 32px;
     text-align: center;
     max-width: 360px; width: 90%;
     position: relative;
     transform: translateY(20px);
     transition: transform 0.35s ease;
+    box-shadow: 0 20px 60px rgba(0,0,0,0.12);
   }
   .modal-overlay.open .modal-card { transform: translateY(0); }
 
@@ -441,6 +711,7 @@
     font-family: 'Noto Serif SC', serif;
     font-size: 18px; font-weight: 700;
     margin-bottom: 8px;
+    color: var(--text-primary);
   }
   .modal-card .modal-sub {
     font-size: 13px; color: var(--text-muted);
@@ -450,7 +721,7 @@
   .qr-wrapper {
     width: 200px; height: 200px;
     margin: 0 auto 20px;
-    border-radius: 12px;
+    border-radius: 14px;
     overflow: hidden;
     border: 2px solid var(--border);
     background: #fff;
@@ -460,17 +731,6 @@
     width: 100%; height: 100%;
     object-fit: contain;
   }
-  .qr-placeholder {
-    text-align: center;
-    color: #999;
-    font-size: 13px;
-    line-height: 1.6;
-  }
-  .qr-placeholder .qr-icon {
-    font-size: 48px;
-    display: block;
-    margin-bottom: 8px;
-  }
 
   .modal-tip {
     font-size: 12px; color: var(--text-muted);
@@ -478,16 +738,29 @@
   }
 
   @media (max-width: 768px) {
-    .wechat-float { bottom: 24px; right: 24px; width: 50px; height: 50px; }
+    .wechat-area { bottom: 24px; right: 24px; }
+    .wechat-float { width: 50px; height: 50px; }
     .wechat-float svg { width: 24px; height: 24px; }
+    .wechat-hint-badge { font-size: 11px; padding: 5px 12px; }
   }
 </style>
 </head>
 <body>
 
-<div class="bg-layer"></div>
-<div class="bg-grid"></div>
-<div class="bg-strings"></div>
+<!-- Shuttlecock animated background -->
+<div class="shuttlecock-layer">
+  <span class="shuttle">🏸</span>
+  <span class="shuttle">🏸</span>
+  <span class="shuttle">🏸</span>
+  <span class="shuttle">🏸</span>
+  <span class="shuttle">🏸</span>
+  <span class="shuttle">🏸</span>
+  <span class="shuttle">🏸</span>
+  <span class="shuttle">🏸</span>
+</div>
+<div class="ambient-glow g1"></div>
+<div class="ambient-glow g2"></div>
+<div class="ambient-glow g3"></div>
 
 <div class="container">
 
@@ -498,194 +771,207 @@
     <div class="header-line"></div>
   </header>
 
-  <!-- Tabs -->
-  <div class="tabs anim-up">
-    <button class="tab active" data-cat="all">全部</button>
-    <button class="tab" data-cat="yonex">YONEX 尤尼克斯</button>
-    <button class="tab" data-cat="lining">LI-NING 李宁</button>
-    <button class="tab" data-cat="victor">VICTOR 胜利</button>
-    <button class="tab" data-cat="kizuna">科祖纳</button>
-    <button class="tab" data-cat="gosen">高神</button>
-    <button class="tab" data-cat="xunfeng">薰风</button>
-    <button class="tab" data-cat="wong">WONG</button>
-    <button class="tab" data-cat="own">自带线</button>
+  <!-- ══════ 分栏导航 ══════ -->
+  <div class="section-nav anim-up">
+    <button class="section-nav-btn active" data-page="stringing">🏸 穿线价目表</button>
+    <button class="section-nav-btn" data-page="racket">🏆 球拍展示</button>
   </div>
 
-  <!-- YONEX -->
-  <div class="price-section active" data-cat="yonex">
-    <div class="price-card">
-      <div class="price-card-header">
-        <div class="brand-badge yonex">YY</div>
-        <h3>YONEX 尤尼克斯</h3>
-      </div>
-      <table class="price-table">
-        <thead><tr><th>型号</th><th>定位</th><th>价格</th><th>学生/会员价</th></tr></thead>
-        <tbody>
-          <tr><td><span class="string-model">AB</span></td><td><span class="string-type control">控制</span></td><td class="price-cell">75<span class="yen"> 元</span></td><td class="price-cell member">70<span class="yen"> 元</span></td></tr>
-          <tr><td><span class="string-model">SKY</span></td><td><span class="string-type control">控制</span></td><td class="price-cell">70<span class="yen"> 元</span></td><td class="price-cell member">66<span class="yen"> 元</span></td></tr>
-          <tr><td><span class="string-model">BG80</span></td><td><span class="string-type attack">进攻</span></td><td class="price-cell">65<span class="yen"> 元</span></td><td class="price-cell member">62<span class="yen"> 元</span></td></tr>
-          <tr><td><span class="string-model">BG66U</span></td><td><span class="string-type high-elastic">高弹</span></td><td class="price-cell">58<span class="yen"> 元</span></td><td class="price-cell member">55<span class="yen"> 元</span></td></tr>
-          <tr><td><span class="string-model">XB63</span></td><td><span class="string-type durable-attack">高弹进攻</span></td><td class="price-cell">70<span class="yen"> 元</span></td><td class="price-cell member">66<span class="yen"> 元</span></td></tr>
-          <tr><td><span class="string-model">XB65</span></td><td><span class="string-type high-elastic">高弹</span></td><td class="price-cell">60<span class="yen"> 元</span></td><td class="price-cell member">58<span class="yen"> 元</span></td></tr>
-          <tr><td><span class="string-model">BG65</span></td><td><span class="string-type durable">耐打</span></td><td class="price-cell">50<span class="yen"> 元</span></td><td class="price-cell member">48<span class="yen"> 元</span></td></tr>
-          <tr><td><span class="string-model">BG65TI</span></td><td><span class="string-type durable-attack">耐打偏进攻</span></td><td class="price-cell">52<span class="yen"> 元</span></td><td class="price-cell member">50<span class="yen"> 元</span></td></tr>
-        </tbody>
-      </table>
-    </div>
-  </div>
+  <!-- ═══════════════════════════ PAGE: 穿线价目表 ═══════════════════════════ -->
+  <div class="page-section active" id="page-stringing">
 
-  <!-- LI-NING -->
-  <div class="price-section" data-cat="lining">
-    <div class="price-card">
-      <div class="price-card-header">
-        <div class="brand-badge lining">LN</div>
-        <h3>LI-NING 李宁</h3>
-      </div>
-      <table class="price-table">
-        <thead><tr><th>型号</th><th>定位</th><th>价格</th><th>学生/会员价</th></tr></thead>
-        <tbody>
-          <tr><td><span class="string-model">L67</span></td><td><span class="string-type balanced">均衡</span></td><td class="price-cell">42<span class="yen"> 元</span></td><td class="price-cell member">40<span class="yen"> 元</span></td></tr>
-          <tr><td><span class="string-model">一号线 / N65</span></td><td><span class="string-type high-elastic">高弹</span></td><td class="price-cell">52<span class="yen"> 元</span></td><td class="price-cell member">50<span class="yen"> 元</span></td></tr>
-          <tr><td><span class="string-model">L64</span></td><td><span class="string-type high-elastic">高弹</span></td><td class="price-cell">45<span class="yen"> 元</span></td><td class="price-cell member">42<span class="yen"> 元</span></td></tr>
-        </tbody>
-      </table>
+    <!-- Brand tabs -->
+    <div class="tabs anim-up">
+      <button class="tab active" data-cat="all">全部</button>
+      <button class="tab" data-cat="yonex">YONEX 尤尼克斯</button>
+      <button class="tab" data-cat="lining">LI-NING 李宁</button>
+      <button class="tab" data-cat="victor">VICTOR 胜利</button>
+      <button class="tab" data-cat="kizuna">科祖纳</button>
+      <button class="tab" data-cat="gosen">高神</button>
+      <button class="tab" data-cat="xunfeng">薰风</button>
+      <button class="tab" data-cat="wong">WONG</button>
+      <button class="tab" data-cat="own">自带线</button>
     </div>
-  </div>
 
-  <!-- VICTOR -->
-  <div class="price-section" data-cat="victor">
-    <div class="price-card">
-      <div class="price-card-header">
-        <div class="brand-badge victor">VC</div>
-        <h3>VICTOR 胜利</h3>
+    <!-- YONEX -->
+    <div class="price-section active" data-cat="yonex">
+      <div class="price-card">
+        <div class="price-card-header">
+          <div class="brand-badge yonex">YY</div>
+          <h3>YONEX 尤尼克斯</h3>
+        </div>
+        <table class="price-table">
+          <thead><tr><th>型号</th><th>定位</th><th>价格</th><th>学生/会员价</th></tr></thead>
+          <tbody>
+            <tr><td><span class="string-model">AB</span></td><td><span class="string-type control">控制</span></td><td class="price-cell">75<span class="yen"> 元</span></td><td class="price-cell member">70<span class="yen"> 元</span></td></tr>
+            <tr><td><span class="string-model">SKY</span></td><td><span class="string-type control">控制</span></td><td class="price-cell">70<span class="yen"> 元</span></td><td class="price-cell member">66<span class="yen"> 元</span></td></tr>
+            <tr><td><span class="string-model">BG80</span></td><td><span class="string-type attack">进攻</span></td><td class="price-cell">65<span class="yen"> 元</span></td><td class="price-cell member">62<span class="yen"> 元</span></td></tr>
+            <tr><td><span class="string-model">BG66U</span></td><td><span class="string-type high-elastic">高弹</span></td><td class="price-cell">58<span class="yen"> 元</span></td><td class="price-cell member">55<span class="yen"> 元</span></td></tr>
+            <tr><td><span class="string-model">XB63</span></td><td><span class="string-type durable-attack">高弹进攻</span></td><td class="price-cell">70<span class="yen"> 元</span></td><td class="price-cell member">66<span class="yen"> 元</span></td></tr>
+            <tr><td><span class="string-model">XB65</span></td><td><span class="string-type high-elastic">高弹</span></td><td class="price-cell">60<span class="yen"> 元</span></td><td class="price-cell member">58<span class="yen"> 元</span></td></tr>
+            <tr><td><span class="string-model">BG65</span></td><td><span class="string-type durable">耐打</span></td><td class="price-cell">50<span class="yen"> 元</span></td><td class="price-cell member">48<span class="yen"> 元</span></td></tr>
+            <tr><td><span class="string-model">BG65TI</span></td><td><span class="string-type durable-attack">耐打偏进攻</span></td><td class="price-cell">52<span class="yen"> 元</span></td><td class="price-cell member">50<span class="yen"> 元</span></td></tr>
+          </tbody>
+        </table>
       </div>
-      <table class="price-table">
-        <thead><tr><th>型号</th><th>定位</th><th>价格</th><th>学生/会员价</th></tr></thead>
-        <tbody>
-          <tr><td><span class="string-model">VBS 70</span></td><td><span class="string-type durable">耐打</span></td><td class="price-cell">45<span class="yen"> 元</span></td><td class="price-cell member">42<span class="yen"> 元</span></td></tr>
-          <tr><td><span class="string-model">VBS 66N</span></td><td><span class="string-type durable-attack">高弹均衡</span></td><td class="price-cell">50<span class="yen"> 元</span></td><td class="price-cell member">48<span class="yen"> 元</span></td></tr>
-          <tr><td><span class="string-model">VBS 61</span></td><td><span class="string-type high-elastic">高弹</span></td><td class="price-cell">58<span class="yen"> 元</span></td><td class="price-cell member">55<span class="yen"> 元</span></td></tr>
-          <tr><td><span class="string-model">VBS 68</span></td><td><span class="string-type attack">进攻</span></td><td class="price-cell">55<span class="yen"> 元</span></td><td class="price-cell member">52<span class="yen"> 元</span></td></tr>
-        </tbody>
-      </table>
     </div>
-  </div>
 
-  <!-- Kizuna -->
-  <div class="price-section" data-cat="kizuna">
-    <div class="price-card">
-      <div class="price-card-header">
-        <div class="brand-badge kizuna">KZ</div>
-        <h3>科祖纳</h3>
+    <!-- LI-NING -->
+    <div class="price-section" data-cat="lining">
+      <div class="price-card">
+        <div class="price-card-header">
+          <div class="brand-badge lining">LN</div>
+          <h3>LI-NING 李宁</h3>
+        </div>
+        <table class="price-table">
+          <thead><tr><th>型号</th><th>定位</th><th>价格</th><th>学生/会员价</th></tr></thead>
+          <tbody>
+            <tr><td><span class="string-model">L67</span></td><td><span class="string-type balanced">均衡</span></td><td class="price-cell">42<span class="yen"> 元</span></td><td class="price-cell member">40<span class="yen"> 元</span></td></tr>
+            <tr><td><span class="string-model">一号线 / N65</span></td><td><span class="string-type high-elastic">高弹</span></td><td class="price-cell">52<span class="yen"> 元</span></td><td class="price-cell member">50<span class="yen"> 元</span></td></tr>
+            <tr><td><span class="string-model">L64</span></td><td><span class="string-type high-elastic">高弹</span></td><td class="price-cell">45<span class="yen"> 元</span></td><td class="price-cell member">42<span class="yen"> 元</span></td></tr>
+          </tbody>
+        </table>
       </div>
-      <table class="price-table">
-        <thead><tr><th>型号</th><th>定位</th><th>价格</th><th>学生/会员价</th></tr></thead>
-        <tbody>
-          <tr><td><span class="string-model">Z61</span></td><td><span class="string-type durable-attack">高弹进攻</span></td><td class="price-cell">68<span class="yen"> 元</span></td><td class="price-cell member">65<span class="yen"> 元</span></td></tr>
-          <tr><td><span class="string-model">Z63X</span></td><td><span class="string-type high-elastic">高弹</span></td><td class="price-cell">58<span class="yen"> 元</span></td><td class="price-cell member">55<span class="yen"> 元</span></td></tr>
-        </tbody>
-      </table>
     </div>
-  </div>
 
-  <!-- Gosen -->
-  <div class="price-section" data-cat="gosen">
-    <div class="price-card">
-      <div class="price-card-header">
-        <div class="brand-badge gosen">GS</div>
-        <h3>高神</h3>
+    <!-- VICTOR -->
+    <div class="price-section" data-cat="victor">
+      <div class="price-card">
+        <div class="price-card-header">
+          <div class="brand-badge victor">VC</div>
+          <h3>VICTOR 胜利</h3>
+        </div>
+        <table class="price-table">
+          <thead><tr><th>型号</th><th>定位</th><th>价格</th><th>学生/会员价</th></tr></thead>
+          <tbody>
+            <tr><td><span class="string-model">VBS 70</span></td><td><span class="string-type durable">耐打</span></td><td class="price-cell">45<span class="yen"> 元</span></td><td class="price-cell member">42<span class="yen"> 元</span></td></tr>
+            <tr><td><span class="string-model">VBS 66N</span></td><td><span class="string-type durable-attack">高弹均衡</span></td><td class="price-cell">50<span class="yen"> 元</span></td><td class="price-cell member">48<span class="yen"> 元</span></td></tr>
+            <tr><td><span class="string-model">VBS 61</span></td><td><span class="string-type high-elastic">高弹</span></td><td class="price-cell">58<span class="yen"> 元</span></td><td class="price-cell member">55<span class="yen"> 元</span></td></tr>
+            <tr><td><span class="string-model">VBS 68</span></td><td><span class="string-type attack">进攻</span></td><td class="price-cell">55<span class="yen"> 元</span></td><td class="price-cell member">52<span class="yen"> 元</span></td></tr>
+          </tbody>
+        </table>
       </div>
-      <table class="price-table">
-        <thead><tr><th>型号</th><th>定位</th><th>价格</th><th>学生/会员价</th></tr></thead>
-        <tbody>
-          <tr><td><span class="string-model">雷鸣65</span></td><td><span class="string-type high-elastic">高弹</span></td><td class="price-cell">48<span class="yen"> 元</span></td><td class="price-cell member">46<span class="yen"> 元</span></td></tr>
-          <tr><td><span class="string-model">雷鸣69</span></td><td><span class="string-type durable-attack">耐打偏进攻</span></td><td class="price-cell">50<span class="yen"> 元</span></td><td class="price-cell member">48<span class="yen"> 元</span></td></tr>
-        </tbody>
-      </table>
     </div>
-  </div>
 
-  <!-- 薰风 -->
-  <div class="price-section" data-cat="xunfeng">
-    <div class="price-card">
-      <div class="price-card-header">
-        <div class="brand-badge xunfeng">XF</div>
-        <h3>薰风</h3>
+    <!-- Kizuna -->
+    <div class="price-section" data-cat="kizuna">
+      <div class="price-card">
+        <div class="price-card-header">
+          <div class="brand-badge kizuna">KZ</div>
+          <h3>科祖纳</h3>
+        </div>
+        <table class="price-table">
+          <thead><tr><th>型号</th><th>定位</th><th>价格</th><th>学生/会员价</th></tr></thead>
+          <tbody>
+            <tr><td><span class="string-model">Z61</span></td><td><span class="string-type durable-attack">高弹进攻</span></td><td class="price-cell">68<span class="yen"> 元</span></td><td class="price-cell member">65<span class="yen"> 元</span></td></tr>
+            <tr><td><span class="string-model">Z63X</span></td><td><span class="string-type high-elastic">高弹</span></td><td class="price-cell">58<span class="yen"> 元</span></td><td class="price-cell member">55<span class="yen"> 元</span></td></tr>
+          </tbody>
+        </table>
       </div>
-      <table class="price-table">
-        <thead><tr><th>型号</th><th>定位</th><th>价格</th><th>学生/会员价</th></tr></thead>
-        <tbody>
-          <tr><td><span class="string-model">JS 63 / 65</span></td><td><span class="string-type high-elastic">高弹</span></td><td class="price-cell">46<span class="yen"> 元</span></td><td class="price-cell member">44<span class="yen"> 元</span></td></tr>
-          <tr><td><span class="string-model">JS 67</span></td><td><span class="string-type balanced">均衡控制</span></td><td class="price-cell">44<span class="yen"> 元</span></td><td class="price-cell member">42<span class="yen"> 元</span></td></tr>
-          <tr><td><span class="string-model">JS 69</span></td><td><span class="string-type durable-attack">耐打偏进攻</span></td><td class="price-cell">44<span class="yen"> 元</span></td><td class="price-cell member">42<span class="yen"> 元</span></td></tr>
-        </tbody>
-      </table>
     </div>
-  </div>
 
-  <!-- WONG -->
-  <div class="price-section" data-cat="wong">
-    <div class="price-card">
-      <div class="price-card-header">
-        <div class="brand-badge wong">WG</div>
-        <h3>WONG</h3>
+    <!-- Gosen -->
+    <div class="price-section" data-cat="gosen">
+      <div class="price-card">
+        <div class="price-card-header">
+          <div class="brand-badge gosen">GS</div>
+          <h3>高神</h3>
+        </div>
+        <table class="price-table">
+          <thead><tr><th>型号</th><th>定位</th><th>价格</th><th>学生/会员价</th></tr></thead>
+          <tbody>
+            <tr><td><span class="string-model">雷鸣65</span></td><td><span class="string-type high-elastic">高弹</span></td><td class="price-cell">48<span class="yen"> 元</span></td><td class="price-cell member">46<span class="yen"> 元</span></td></tr>
+            <tr><td><span class="string-model">雷鸣69</span></td><td><span class="string-type durable-attack">耐打偏进攻</span></td><td class="price-cell">50<span class="yen"> 元</span></td><td class="price-cell member">48<span class="yen"> 元</span></td></tr>
+          </tbody>
+        </table>
       </div>
-      <table class="price-table">
-        <thead><tr><th>型号</th><th>定位</th><th>价格</th><th>学生/会员价</th></tr></thead>
-        <tbody>
-          <tr><td><span class="string-model">EX63</span></td><td><span class="string-type high-elastic">高弹</span></td><td class="price-cell">42<span class="yen"> 元</span></td><td class="price-cell member">40<span class="yen"> 元</span></td></tr>
-        </tbody>
-      </table>
     </div>
-  </div>
 
-  <!-- 自带线 -->
-  <div class="price-section" data-cat="own">
-    <div class="price-card">
-      <div class="price-card-header">
-        <div class="brand-badge own">—</div>
-        <h3>自带线</h3>
+    <!-- 薰风 -->
+    <div class="price-section" data-cat="xunfeng">
+      <div class="price-card">
+        <div class="price-card-header">
+          <div class="brand-badge xunfeng">XF</div>
+          <h3>薰风</h3>
+        </div>
+        <table class="price-table">
+          <thead><tr><th>型号</th><th>定位</th><th>价格</th><th>学生/会员价</th></tr></thead>
+          <tbody>
+            <tr><td><span class="string-model">JS 63 / 65</span></td><td><span class="string-type high-elastic">高弹</span></td><td class="price-cell">46<span class="yen"> 元</span></td><td class="price-cell member">44<span class="yen"> 元</span></td></tr>
+            <tr><td><span class="string-model">JS 67</span></td><td><span class="string-type balanced">均衡控制</span></td><td class="price-cell">44<span class="yen"> 元</span></td><td class="price-cell member">42<span class="yen"> 元</span></td></tr>
+            <tr><td><span class="string-model">JS 69</span></td><td><span class="string-type durable-attack">耐打偏进攻</span></td><td class="price-cell">44<span class="yen"> 元</span></td><td class="price-cell member">42<span class="yen"> 元</span></td></tr>
+          </tbody>
+        </table>
       </div>
-      <table class="price-table">
-        <thead><tr><th>说明</th><th>定位</th><th>价格</th><th>学生/会员价</th></tr></thead>
-        <tbody>
-          <tr><td><span class="string-model">客户自备球线</span></td><td><span class="string-type balanced">仅手工费</span></td><td class="price-cell">23<span class="yen"> 元</span></td><td class="price-cell member">22<span class="yen"> 元</span></td></tr>
-        </tbody>
-      </table>
     </div>
-  </div>
 
-  <!-- Highlights -->
-  <div class="highlight-banner anim-up">
-    <div class="highlight-icon">&#128640;</div>
-    <div class="highlight-text">
-      <h3>无需出门！市区内免费上门取送球拍</h3>
-      <p>足不出户即可享受专业穿线服务</p>
+    <!-- WONG -->
+    <div class="price-section" data-cat="wong">
+      <div class="price-card">
+        <div class="price-card-header">
+          <div class="brand-badge wong">WG</div>
+          <h3>WONG</h3>
+        </div>
+        <table class="price-table">
+          <thead><tr><th>型号</th><th>定位</th><th>价格</th><th>学生/会员价</th></tr></thead>
+          <tbody>
+            <tr><td><span class="string-model">EX63</span></td><td><span class="string-type high-elastic">高弹</span></td><td class="price-cell">42<span class="yen"> 元</span></td><td class="price-cell member">40<span class="yen"> 元</span></td></tr>
+          </tbody>
+        </table>
+      </div>
     </div>
-  </div>
 
-  <!-- Notes -->
-  <div class="notes-section anim-up">
-    <h3>穿线须知</h3>
-    <div class="notes-list">
-      <div class="note-item">
-        <span class="note-num">01</span>
-        <p>穿线无质保，因个人使用不当而意外断线（例如击打到单线区），穿线师不承担责任。</p>
-      </div>
-      <div class="note-item">
-        <span class="note-num">02</span>
-        <p>高仿拍、山寨拍、小黑拍、定制拍、杂牌拍、修复拍等，穿线后出现任何问题，穿线师不承担责任。</p>
-      </div>
-      <div class="note-item">
-        <span class="note-num">03</span>
-        <p>超过球拍标明所承受磅数而导致的断裂，穿线师不承担责任。</p>
-      </div>
-      <div class="note-item">
-        <span class="note-num">04</span>
-        <p>新线跑线属于正常情况，并非穿线师能力导致。</p>
+    <!-- 自带线 -->
+    <div class="price-section" data-cat="own">
+      <div class="price-card">
+        <div class="price-card-header">
+          <div class="brand-badge own">—</div>
+          <h3>自带线</h3>
+        </div>
+        <table class="price-table">
+          <thead><tr><th>说明</th><th>定位</th><th>价格</th><th>学生/会员价</th></tr></thead>
+          <tbody>
+            <tr><td><span class="string-model">客户自备球线</span></td><td><span class="string-type balanced">仅手工费</span></td><td class="price-cell">23<span class="yen"> 元</span></td><td class="price-cell member">22<span class="yen"> 元</span></td></tr>
+          </tbody>
+        </table>
       </div>
     </div>
-  </div>
+
+    <!-- Highlights -->
+    <div class="highlight-banner anim-up">
+      <div class="highlight-icon">&#128640;</div>
+      <div class="highlight-text">
+        <h3>无需出门！市区内免费上门取送球拍</h3>
+        <p>足不出户即可享受专业穿线服务</p>
+      </div>
+    </div>
+
+    <!-- Notes -->
+    <div class="notes-section anim-up">
+      <h3>穿线须知</h3>
+      <div class="notes-list">
+        <div class="note-item"><span class="note-num">01</span><p>穿线无质保，因个人使用不当而意外断线（例如击打到单线区），穿线师不承担责任。</p></div>
+        <div class="note-item"><span class="note-num">02</span><p>高仿拍、山寨拍、小黑拍、定制拍、杂牌拍、修复拍等，穿线后出现任何问题，穿线师不承担责任。</p></div>
+        <div class="note-item"><span class="note-num">03</span><p>超过球拍标明所承受磅数而导致的断裂，穿线师不承担责任。</p></div>
+        <div class="note-item"><span class="note-num">04</span><p>新线跑线属于正常情况，并非穿线师能力导致。</p></div>
+      </div>
+    </div>
+
+  </div><!-- /page-stringing -->
+
+  <!-- ═══════════════════════════ PAGE: 球拍展示 ═══════════════════════════ -->
+  <div class="page-section" id="page-racket">
+
+    <div class="racket-intro anim-up">
+      <h2>精选球拍</h2>
+      <p>更多球拍型号及优惠价格，请添加微信详询</p>
+    </div>
+
+    <div class="racket-note anim-up">
+      所有球拍均为正品行货 · 支持验货 · 享受官方质保
+    </div>
+
+  </div><!-- /page-racket -->
 
   <footer class="footer">
     兴羽体育<span class="divider"> · </span>XINGYU SPORTS
@@ -693,11 +979,24 @@
 
 </div>
 
-<!-- WeChat Floating Button -->
-<button class="wechat-float" id="wechatBtn" aria-label="微信联系">
-  <span class="wechat-pulse"></span>
-  <svg viewBox="0 0 24 24"><path d="M8.691 2.188C3.891 2.188 0 5.476 0 9.53c0 2.212 1.17 4.203 3.002 5.55a.59.59 0 0 1 .213.665l-.39 1.48c-.019.07-.048.141-.048.213 0 .163.13.295.29.295a.326.326 0 0 0 .167-.054l1.903-1.114a.864.864 0 0 1 .717-.098 10.16 10.16 0 0 0 2.837.403c.276 0 .543-.027.811-.05-.857-2.578.157-4.972 1.932-6.446 1.703-1.415 3.882-1.98 5.853-1.838-.576-3.583-4.196-6.348-8.596-6.348zM5.785 5.991c.642 0 1.162.529 1.162 1.18a1.17 1.17 0 0 1-1.162 1.178A1.17 1.17 0 0 1 4.623 7.17c0-.651.52-1.18 1.162-1.18zm5.813 0c.642 0 1.162.529 1.162 1.18a1.17 1.17 0 0 1-1.162 1.178 1.17 1.17 0 0 1-1.162-1.178c0-.651.52-1.18 1.162-1.18zm3.244 3.792c-2.596 0-4.842 1.908-4.842 4.511 0 3.399 3.712 5.607 6.798 5.607.738 0 1.488-.105 2.205-.316a.664.664 0 0 1 .548.076l1.462.856a.251.251 0 0 0 .128.042c.123 0 .224-.102.224-.228 0-.055-.015-.11-.037-.163l-.3-1.137a.45.45 0 0 1 .164-.511C22.626 17.698 24 16.483 24 14.844c0-2.568-3.126-5.06-6.158-5.06zm-2.594 2.362c.494 0 .895.407.895.908 0 .5-.401.907-.895.907a.902.902 0 0 1-.895-.907c0-.5.401-.908.895-.908zm4.58 0c.494 0 .896.407.896.908 0 .5-.402.907-.896.907a.902.902 0 0 1-.895-.907c0-.5.401-.908.895-.908z"/></svg>
-</button>
+<!-- ══════ WeChat Area ══════ -->
+<div class="wechat-area" id="wechatArea">
+  <!-- Animated hint -->
+  <div class="wechat-hint" id="wechatHint">
+    <div class="wechat-hint-badge">
+      <span class="wechat-spark s1"></span>
+      <span class="wechat-spark s2"></span>
+      <span class="wechat-spark s3"></span>
+      微信联系
+    </div>
+    <div class="wechat-hint-arrow"></div>
+  </div>
+  <!-- Button -->
+  <button class="wechat-float" id="wechatBtn" aria-label="微信联系">
+    <span class="wechat-pulse"></span>
+    <svg viewBox="0 0 24 24"><path d="M8.691 2.188C3.891 2.188 0 5.476 0 9.53c0 2.212 1.17 4.203 3.002 5.55a.59.59 0 0 1 .213.665l-.39 1.48c-.019.07-.048.141-.048.213 0 .163.13.295.29.295a.326.326 0 0 0 .167-.054l1.903-1.114a.864.864 0 0 1 .717-.098 10.16 10.16 0 0 0 2.837.403c.276 0 .543-.027.811-.05-.857-2.578.157-4.972 1.932-6.446 1.703-1.415 3.882-1.98 5.853-1.838-.576-3.583-4.196-6.348-8.596-6.348zM5.785 5.991c.642 0 1.162.529 1.162 1.18a1.17 1.17 0 0 1-1.162 1.178A1.17 1.17 0 0 1 4.623 7.17c0-.651.52-1.18 1.162-1.18zm5.813 0c.642 0 1.162.529 1.162 1.18a1.17 1.17 0 0 1-1.162 1.178 1.17 1.17 0 0 1-1.162-1.178c0-.651.52-1.18 1.162-1.18zm3.244 3.792c-2.596 0-4.842 1.908-4.842 4.511 0 3.399 3.712 5.607 6.798 5.607.738 0 1.488-.105 2.205-.316a.664.664 0 0 1 .548.076l1.462.856a.251.251 0 0 0 .128.042c.123 0 .224-.102.224-.228 0-.055-.015-.11-.037-.163l-.3-1.137a.45.45 0 0 1 .164-.511C22.626 17.698 24 16.483 24 14.844c0-2.568-3.126-5.06-6.158-5.06zm-2.594 2.362c.494 0 .895.407.895.908 0 .5-.401.907-.895.907a.902.902 0 0 1-.895-.907c0-.5.401-.908.895-.908zm4.58 0c.494 0 .896.407.896.908 0 .5-.402.907-.896.907a.902.902 0 0 1-.895-.907c0-.5.401-.908.895-.908z"/></svg>
+  </button>
+</div>
 
 <!-- WeChat Modal -->
 <div class="modal-overlay" id="wechatModal">
@@ -713,6 +1012,20 @@
 </div>
 
 <script>
+  // ══════ Section nav (分栏切换) ══════
+  const sectionBtns = document.querySelectorAll('.section-nav-btn');
+  const pageSections = document.querySelectorAll('.page-section');
+
+  sectionBtns.forEach(btn => {
+    btn.addEventListener('click', () => {
+      sectionBtns.forEach(b => b.classList.remove('active'));
+      btn.classList.add('active');
+      const page = btn.dataset.page;
+      pageSections.forEach(s => s.classList.toggle('active', s.id === `page-${page}`));
+    });
+  });
+
+  // ══════ Brand tabs ══════
   const tabs = document.querySelectorAll('.tab');
   const sections = document.querySelectorAll('.price-section');
 
@@ -740,16 +1053,35 @@
     });
   });
 
-  // WeChat modal
+  // ══════ WeChat modal ══════
   const wechatBtn = document.getElementById('wechatBtn');
+  const wechatHint = document.getElementById('wechatHint');
   const wechatModal = document.getElementById('wechatModal');
   const modalClose = document.getElementById('modalClose');
 
-  wechatBtn.addEventListener('click', () => wechatModal.classList.add('open'));
+  function openModal() {
+    wechatModal.classList.add('open');
+  }
+  wechatBtn.addEventListener('click', openModal);
+  wechatHint.addEventListener('click', openModal);
   modalClose.addEventListener('click', () => wechatModal.classList.remove('open'));
   wechatModal.addEventListener('click', (e) => {
     if (e.target === wechatModal) wechatModal.classList.remove('open');
   });
+
+  // Hide hint after first click or after 15 seconds
+  let hintHidden = false;
+  function hideHint() {
+    if (!hintHidden) {
+      hintHidden = true;
+      wechatHint.style.opacity = '0';
+      wechatHint.style.transition = 'opacity 0.5s ease';
+      setTimeout(() => { wechatHint.style.display = 'none'; }, 500);
+    }
+  }
+  wechatBtn.addEventListener('click', hideHint);
+  wechatHint.addEventListener('click', hideHint);
+  setTimeout(hideHint, 15000);
 </script>
 
 </body>
