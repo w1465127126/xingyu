@@ -29,3 +29,8 @@
 [2026-07-04 18:56:34] [x6.sjcmc.cn:34054] [JOIN] 连接服务器: x6.sjcmc.cn:34054
 [2026-07-04 18:56:39] [x6.sjcmc.cn:34054] [CMD] /l wokaoa
 [2026-07-04 18:57:19] [x6.sjcmc.cn:34054] [CMD] /spawn
+[2026-07-04 18:57:21] [x6.sjcmc.cn:34054] [CMD] /spawn
+[2026-07-04 18:57:22] [x6.sjcmc.cn:34054] [CMD] /spawn
+[2026-07-04 19:26:40] [x6.sjcmc.cn:34054] [JOIN] 连接服务器: x6.sjcmc.cn:34054
+[2026-07-04 19:26:44] [x6.sjcmc.cn:34054] [CMD] /l wokaoa
+[2026-07-04 19:26:54] [x6.sjcmc.cn:34054] [CMD] /res tp d
