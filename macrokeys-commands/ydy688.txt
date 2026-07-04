@@ -34,3 +34,6 @@
 [2026-07-05 00:55:22] [AuroraCity.kkwmc.cn] [JOIN] 连接服务器: AuroraCity.kkwmc.cn
 [2026-07-05 00:55:30] [AuroraCity.kkwmc.cn] [CMD] /login xvvcxc
 [2026-07-05 00:55:34] [AuroraCity.kkwmc.cn] [CMD] /home 3
+[2026-07-05 00:55:58] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-05 00:57:41] [AuroraCity.kkwmc.cn] [CMD] /
+[2026-07-05 00:57:44] [AuroraCity.kkwmc.cn] [CMD] /back
