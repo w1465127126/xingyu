@@ -7,3 +7,6 @@
 [2026-07-04 19:21:57] [x6.sjcmc.cn:34054] [CMD] /home fb
 [2026-07-04 19:22:13] [x6.sjcmc.cn:34054] [CMD] /home fb
 [2026-07-04 19:30:19] [x6.sjcmc.cn:34054] [CMD] /tpahere Aevum7
+[2026-07-04 19:35:03] [x6.sjcmc.cn:34054] [CMD] /tpa Aevum7
+[2026-07-04 19:36:25] [x6.sjcmc.cn:34054] [CHAT] 没· ·
+[2026-07-04 19:37:05] [x6.sjcmc.cn:34054] [CMD] /末影箱
