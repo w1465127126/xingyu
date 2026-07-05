@@ -365,3 +365,6 @@
 [2026-07-05 14:55:03] [AuroraCity.kkwmc.cn] [CHAT] 1
 [2026-07-05 14:55:24] [AuroraCity.kkwmc.cn] [CHAT] 凉拌
 [2026-07-05 14:55:31] [AuroraCity.kkwmc.cn] [CHAT] 带我刷完副本过去看看
+[2026-07-05 14:57:12] [AuroraCity.kkwmc.cn] [CHAT] 我没在
+[2026-07-05 14:57:22] [AuroraCity.kkwmc.cn] [CHAT] 不想戴耳机
+[2026-07-05 15:00:26] [AuroraCity.kkwmc.cn] [CMD] /home 3
