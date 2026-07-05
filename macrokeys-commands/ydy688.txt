@@ -567,3 +567,9 @@
 [2026-07-05 21:43:12] [AuroraCity.kkwmc.cn] [CMD] /back\
 [2026-07-05 21:43:14] [AuroraCity.kkwmc.cn] [CMD] /back
 [2026-07-05 21:43:26] [AuroraCity.kkwmc.cn] [CHAT] 你这个弓真是拉完了
+[2026-07-05 21:45:09] [AuroraCity.kkwmc.cn] [CHAT] 我手上
+[2026-07-05 21:45:13] [AuroraCity.kkwmc.cn] [CMD] /tpa Aevum7
+[2026-07-05 21:46:18] [AuroraCity.kkwmc.cn] [CHAT] 你这玩意太垃圾了
+[2026-07-05 21:47:06] [AuroraCity.kkwmc.cn] [CMD] /tpa Aevum7
+[2026-07-05 21:47:49] [AuroraCity.kkwmc.cn] [CHAT] 给我扣见到
+[2026-07-05 21:47:55] [AuroraCity.kkwmc.cn] [CHAT] 剪刀
