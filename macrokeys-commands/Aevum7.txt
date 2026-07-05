@@ -1182,3 +1182,6 @@
 [2026-07-06 00:32:51] [x6.sjcmc.cn:34054] [CMD] /home gj
 [2026-07-06 00:33:53] [x6.sjcmc.cn:34054] [CMD] /home gj
 [2026-07-06 00:34:54] [x6.sjcmc.cn:34054] [CMD] /home gj
+[2026-07-06 00:35:56] [x6.sjcmc.cn:34054] [CMD] /home gj
+[2026-07-06 00:37:12] [x6.sjcmc.cn:34054] [CMD] /back
+[2026-07-06 00:37:20] [x6.sjcmc.cn:34054] [CMD] /home fb
