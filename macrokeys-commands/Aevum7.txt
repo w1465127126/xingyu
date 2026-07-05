@@ -810,3 +810,6 @@
 [2026-07-05 20:18:43] [x6.sjcmc.cn:34054] [CMD] /home fb
 [2026-07-05 20:18:45] [x6.sjcmc.cn:34054] [CMD] /l wokaoa
 [2026-07-05 20:18:49] [x6.sjcmc.cn:34054] [CMD] /home fb
+[2026-07-05 20:19:15] [x6.sjcmc.cn:34054] [JOIN] 连接服务器: x6.sjcmc.cn:34054
+[2026-07-05 20:19:17] [x6.sjcmc.cn:34054] [CMD] /l wokaoa
+[2026-07-05 20:21:05] [x6.sjcmc.cn:34054] [CMD] /home fb
