@@ -422,3 +422,6 @@
 [2026-07-05 15:57:39] [AuroraCity.kkwmc.cn] [CHAT] 就是说mc原版暴击和rpg的暴击可以同时出现
 [2026-07-05 15:58:37] [AuroraCity.kkwmc.cn] [CHAT] 当然了
 [2026-07-05 15:58:46] [AuroraCity.kkwmc.cn] [CHAT] 但是其实是削弱
+[2026-07-05 15:59:04] [AuroraCity.kkwmc.cn] [CHAT] 下来试试伤害就知道了
+[2026-07-05 16:00:00] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-05 16:00:19] [AuroraCity.kkwmc.cn] [CHAT] 爆头试试
