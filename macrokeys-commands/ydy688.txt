@@ -666,3 +666,6 @@
 [2026-07-05 22:48:52] [AuroraCity.kkwmc.cn] [CHAT] 搞四个弹射保护加一个护身符去
 [2026-07-05 22:48:58] [AuroraCity.kkwmc.cn] [CMD] /home 1
 [2026-07-05 22:49:05] [AuroraCity.kkwmc.cn] [CHAT] 才用了二十多个
+[2026-07-05 22:49:10] [AuroraCity.kkwmc.cn] [CHAT] 多着呢
+[2026-07-05 22:49:58] [AuroraCity.kkwmc.cn] [CHAT] 我给你了铁砧护身符
+[2026-07-05 22:50:00] [AuroraCity.kkwmc.cn] [CHAT] 爆不了
