@@ -504,3 +504,6 @@
 [2026-07-05 20:52:07] [AuroraCity.kkwmc.cn] [CMD] /warp 冒险者大厅
 [2026-07-05 20:52:47] [AuroraCity.kkwmc.cn] [CHAT] 最优解是两个白值一个暴击
 [2026-07-05 20:53:55] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-05 20:55:53] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-05 20:57:00] [AuroraCity.kkwmc.cn] [CHAT] 刷怪塔
+[2026-07-05 20:57:14] [AuroraCity.kkwmc.cn] [CMD] /home 3
