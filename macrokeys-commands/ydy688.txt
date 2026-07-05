@@ -534,3 +534,6 @@
 [2026-07-05 21:08:37] [AuroraCity.kkwmc.cn] [CHAT] 把剑给我
 [2026-07-05 21:08:47] [AuroraCity.kkwmc.cn] [CMD] /home 3
 [2026-07-05 21:08:51] [AuroraCity.kkwmc.cn] [CMD] /home 1
+[2026-07-05 21:08:56] [AuroraCity.kkwmc.cn] [CMD] /home 0
+[2026-07-05 21:09:14] [AuroraCity.kkwmc.cn] [CMD] /home 3
+[2026-07-05 21:12:29] [AuroraCity.kkwmc.cn] [CHAT] 10000000
