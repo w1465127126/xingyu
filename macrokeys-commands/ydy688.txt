@@ -483,3 +483,6 @@
 [2026-07-05 20:46:30] [AuroraCity.kkwmc.cn] [CMD] /tpa Aevum7
 [2026-07-05 20:46:48] [AuroraCity.kkwmc.cn] [CHAT] 拿来吧你
 [2026-07-05 20:46:59] [AuroraCity.kkwmc.cn] [CHAT] ？
+[2026-07-05 20:47:06] [AuroraCity.kkwmc.cn] [CHAT] 我劝你给我
+[2026-07-05 20:47:18] [AuroraCity.kkwmc.cn] [CHAT] 你那破弓拉满也不如剑一根
+[2026-07-05 20:47:31] [AuroraCity.kkwmc.cn] [CHAT] 一分钱我也不会出
