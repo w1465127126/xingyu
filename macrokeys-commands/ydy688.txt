@@ -600,3 +600,6 @@
 [2026-07-05 22:22:46] [AuroraCity.kkwmc.cn] [CMD] /back
 [2026-07-05 22:24:39] [AuroraCity.kkwmc.cn] [CMD] /home 1
 [2026-07-05 22:25:00] [AuroraCity.kkwmc.cn] [CHAT] 诶呀
+[2026-07-05 22:25:21] [AuroraCity.kkwmc.cn] [CHAT] 可惜是个垃圾
+[2026-07-05 22:25:23] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-05 22:26:31] [AuroraCity.kkwmc.cn] [CHAT] 玩玩
