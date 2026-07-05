@@ -717,3 +717,6 @@
 [2026-07-05 23:22:52] [AuroraCity.kkwmc.cn] [CHAT] 我胡汉三又回来了
 [2026-07-05 23:22:56] [AuroraCity.kkwmc.cn] [CMD] /tpa Aevum7
 [2026-07-05 23:24:43] [AuroraCity.kkwmc.cn] [CHAT] 哈哈哈哈
+[2026-07-05 23:24:55] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-05 23:25:35] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-05 23:25:38] [AuroraCity.kkwmc.cn] [CHAT] ?
