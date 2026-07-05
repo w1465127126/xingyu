@@ -720,3 +720,6 @@
 [2026-07-05 23:24:55] [AuroraCity.kkwmc.cn] [CMD] /back
 [2026-07-05 23:25:35] [AuroraCity.kkwmc.cn] [CMD] /back
 [2026-07-05 23:25:38] [AuroraCity.kkwmc.cn] [CHAT] ?
+[2026-07-05 23:25:45] [AuroraCity.kkwmc.cn] [JOIN] 连接服务器: AuroraCity.kkwmc.cn
+[2026-07-05 23:25:51] [AuroraCity.kkwmc.cn] [CMD] /login xvvcxc
+[2026-07-05 23:26:10] [AuroraCity.kkwmc.cn] [CHAT] 一下把我打到虚空了
