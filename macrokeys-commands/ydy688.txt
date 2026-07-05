@@ -648,3 +648,6 @@
 [2026-07-05 22:41:51] [AuroraCity.kkwmc.cn] [CHAT] 这下绝对不是修脚
 [2026-07-05 22:41:53] [AuroraCity.kkwmc.cn] [CMD] /back
 [2026-07-05 22:43:00] [AuroraCity.kkwmc.cn] [CHAT] 过来给你点好东西
+[2026-07-05 22:43:06] [AuroraCity.kkwmc.cn] [CMD] /backk
+[2026-07-05 22:43:08] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-05 22:43:17] [AuroraCity.kkwmc.cn] [CMD] /back
