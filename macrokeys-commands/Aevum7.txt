@@ -138,3 +138,6 @@
 [2026-07-05 10:35:17] [x6.sjcmc.cn:34054] [CMD] /res tp xiaoheiota
 [2026-07-05 10:35:19] [x6.sjcmc.cn:34054] [CMD] /res tp xiaoheita
 [2026-07-05 10:35:21] [x6.sjcmc.cn:34054] [CMD] /res tp xiaohei
+[2026-07-05 10:35:27] [x6.sjcmc.cn:34054] [CMD] /res tp xht
+[2026-07-05 10:35:44] [x6.sjcmc.cn:34054] [CMD] /warp
+[2026-07-05 10:36:22] [x6.sjcmc.cn:34054] [CMD] /back
