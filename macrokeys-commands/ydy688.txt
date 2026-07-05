@@ -543,3 +543,6 @@
 [2026-07-05 21:14:00] [AuroraCity.kkwmc.cn] [CHAT] 1000000
 [2026-07-05 21:16:30] [AuroraCity.kkwmc.cn] [CMD] /home 3
 [2026-07-05 21:16:40] [AuroraCity.kkwmc.cn] [CHAT] 对啊
+[2026-07-05 21:16:47] [AuroraCity.kkwmc.cn] [CMD] /warps 冒险者大厅
+[2026-07-05 21:16:56] [AuroraCity.kkwmc.cn] [CMD] /home 3
+[2026-07-05 21:17:16] [AuroraCity.kkwmc.cn] [CMD] /back
