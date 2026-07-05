@@ -663,3 +663,6 @@
 [2026-07-05 18:22:24] [x6.sjcmc.cn:34054] [CMD] /res tp zhucheng2
 [2026-07-05 18:22:27] [x6.sjcmc.cn:34054] [CHAT] 啊
 [2026-07-05 18:22:30] [x6.sjcmc.cn:34054] [CHAT] 不是res吗
+[2026-07-05 18:22:39] [x6.sjcmc.cn:34054] [CMD] /tpa zzzz
+[2026-07-05 18:22:53] [x6.sjcmc.cn:34054] [CMD] /res tp zhucheng2
+[2026-07-05 18:22:55] [x6.sjcmc.cn:34054] [CHAT] 没有权限
