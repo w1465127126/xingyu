@@ -398,3 +398,6 @@
 [2026-07-05 15:24:13] [AuroraCity.kkwmc.cn] [CMD] /home 3
 [2026-07-05 15:49:05] [AuroraCity.kkwmc.cn] [CHAT] 家里一堆
 [2026-07-05 15:49:23] [AuroraCity.kkwmc.cn] [CHAT] 啥啊
+[2026-07-05 15:49:29] [AuroraCity.kkwmc.cn] [CHAT] 发生什么了
+[2026-07-05 15:49:56] [AuroraCity.kkwmc.cn] [CHAT] 你要做弓吗
+[2026-07-05 15:50:09] [AuroraCity.kkwmc.cn] [CHAT] 我看看
