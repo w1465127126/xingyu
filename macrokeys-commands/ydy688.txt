@@ -486,3 +486,6 @@
 [2026-07-05 20:47:06] [AuroraCity.kkwmc.cn] [CHAT] 我劝你给我
 [2026-07-05 20:47:18] [AuroraCity.kkwmc.cn] [CHAT] 你那破弓拉满也不如剑一根
 [2026-07-05 20:47:31] [AuroraCity.kkwmc.cn] [CHAT] 一分钱我也不会出
+[2026-07-05 20:47:37] [AuroraCity.kkwmc.cn] [CMD] /home 3
+[2026-07-05 20:47:47] [AuroraCity.kkwmc.cn] [CHAT] 炸了
+[2026-07-05 20:48:11] [AuroraCity.kkwmc.cn] [CHAT] 真炸了
