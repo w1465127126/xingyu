@@ -10,3 +10,6 @@
 [2026-07-05 18:21:14] [x6.sjcmc.cn:34054] [JOIN] 连接服务器: x6.sjcmc.cn:34054
 [2026-07-05 18:21:19] [x6.sjcmc.cn:34054] [CMD] /l wokaoa
 [2026-07-05 18:21:25] [x6.sjcmc.cn:34054] [CMD] /spawn
+[2026-07-05 18:21:55] [x6.sjcmc.cn:34054] [CMD] /res tp gz
+[2026-07-05 18:40:18] [x6.sjcmc.cn:34054] [CMD] /home jia
+[2026-07-05 19:06:39] [x6.sjcmc.cn:34054] [CMD] /tpa __nba__
