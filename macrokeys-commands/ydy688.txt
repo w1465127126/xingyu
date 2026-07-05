@@ -678,3 +678,6 @@
 [2026-07-05 22:51:49] [AuroraCity.kkwmc.cn] [CMD] /back
 [2026-07-05 22:52:09] [AuroraCity.kkwmc.cn] [CHAT] 因为爆了
 [2026-07-05 22:52:13] [AuroraCity.kkwmc.cn] [CHAT] 所以穿了
+[2026-07-05 22:52:15] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-05 22:52:28] [AuroraCity.kkwmc.cn] [CHAT] 这下没爆
+[2026-07-05 22:53:18] [AuroraCity.kkwmc.cn] [CHAT] 忘记我还有这个了
