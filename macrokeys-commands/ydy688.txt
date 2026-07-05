@@ -672,3 +672,6 @@
 [2026-07-05 22:50:07] [AuroraCity.kkwmc.cn] [CMD] /back
 [2026-07-05 22:50:38] [AuroraCity.kkwmc.cn] [CHAT] t护身符呗
 [2026-07-05 22:51:01] [AuroraCity.kkwmc.cn] [CHAT] 你是不是傻
+[2026-07-05 22:51:09] [AuroraCity.kkwmc.cn] [CHAT] 满和轻是一样的
+[2026-07-05 22:51:12] [AuroraCity.kkwmc.cn] [CHAT] 你有快速射击
+[2026-07-05 22:51:42] [AuroraCity.kkwmc.cn] [CHAT] 再试试
