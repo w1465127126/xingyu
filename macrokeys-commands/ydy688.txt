@@ -374,3 +374,6 @@
 [2026-07-05 15:04:02] [AuroraCity.kkwmc.cn] [CHAT] 还有饱食度吗
 [2026-07-05 15:04:26] [AuroraCity.kkwmc.cn] [CHAT] 这玩意挺牛逼的
 [2026-07-05 15:07:07] [AuroraCity.kkwmc.cn] [CMD] /warp 鹅斯拉
+[2026-07-05 15:07:19] [AuroraCity.kkwmc.cn] [CMD] /home 3
+[2026-07-05 15:08:33] [AuroraCity.kkwmc.cn] [CHAT] 500金币一个鹅蛋
+[2026-07-05 15:09:21] [AuroraCity.kkwmc.cn] [CHAT] 收
