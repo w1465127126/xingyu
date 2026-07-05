@@ -663,3 +663,6 @@
 [2026-07-05 22:47:30] [AuroraCity.kkwmc.cn] [CMD] /back
 [2026-07-05 22:47:41] [AuroraCity.kkwmc.cn] [CMD] /back
 [2026-07-05 22:48:23] [AuroraCity.kkwmc.cn] [CHAT] 太假了
+[2026-07-05 22:48:52] [AuroraCity.kkwmc.cn] [CHAT] 搞四个弹射保护加一个护身符去
+[2026-07-05 22:48:58] [AuroraCity.kkwmc.cn] [CMD] /home 1
+[2026-07-05 22:49:05] [AuroraCity.kkwmc.cn] [CHAT] 才用了二十多个
