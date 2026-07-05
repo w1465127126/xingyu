@@ -471,3 +471,6 @@
 [2026-07-05 20:41:11] [AuroraCity.kkwmc.cn] [CHAT] 1w一个
 [2026-07-05 20:41:35] [AuroraCity.kkwmc.cn] [CMD] /tpa zxz
 [2026-07-05 20:42:43] [AuroraCity.kkwmc.cn] [CHAT] 你要勾八
+[2026-07-05 20:42:48] [AuroraCity.kkwmc.cn] [CHAT] 别弄这个
+[2026-07-05 20:43:04] [AuroraCity.kkwmc.cn] [CHAT] 把这个扔了吧
+[2026-07-05 20:43:32] [AuroraCity.kkwmc.cn] [CHAT] 你打不过
