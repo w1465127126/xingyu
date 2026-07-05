@@ -789,3 +789,6 @@
 [2026-07-06 01:02:13] [AuroraCity.kkwmc.cn] [CHAT] ？
 [2026-07-06 01:04:42] [AuroraCity.kkwmc.cn] [CHAT] 看好了
 [2026-07-06 01:04:48] [AuroraCity.kkwmc.cn] [CHAT] 见证奇迹的时刻
+[2026-07-06 01:06:32] [AuroraCity.kkwmc.cn] [CHAT] 牛不牛
+[2026-07-06 01:16:06] [AuroraCity.kkwmc.cn] [CMD] /home 3
+[2026-07-06 01:24:55] [AuroraCity.kkwmc.cn] [CMD] /tpahere Aevum7
