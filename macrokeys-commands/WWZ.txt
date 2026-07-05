@@ -7,3 +7,6 @@
 [2026-07-05 20:15:14] [x6.sjcmc.cn:34054] [CMD] /sethome fb
 [2026-07-05 20:17:06] [x6.sjcmc.cn:34054] [CMD] /home fb
 [2026-07-05 20:17:55] [x6.sjcmc.cn:34054] [CMD] /back
+[2026-07-05 20:19:44] [x6.sjcmc.cn:34054] [CMD] /home fb
+[2026-07-05 20:21:26] [x6.sjcmc.cn:34054] [CMD] /home fb
+[2026-07-05 20:23:07] [x6.sjcmc.cn:34054] [CMD] /home fb
