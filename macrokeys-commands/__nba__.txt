@@ -292,3 +292,6 @@
 [2026-07-06 03:28:42] [x6.sjcmc.cn:34054] [CMD] /home fb
 [2026-07-06 03:30:26] [x6.sjcmc.cn:34054] [CMD] /home fb
 [2026-07-06 03:32:11] [x6.sjcmc.cn:34054] [CMD] /home fb
+[2026-07-06 07:26:33] [x6.sjcmc.cn:34054] [CMD] /home fb
+[2026-07-06 07:26:49] [x6.sjcmc.cn:34054] [JOIN] 连接服务器: x6.sjcmc.cn:34054
+[2026-07-06 07:26:53] [x6.sjcmc.cn:34054] [CMD] /l chen123
