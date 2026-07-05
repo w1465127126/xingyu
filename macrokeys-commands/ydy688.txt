@@ -756,3 +756,6 @@
 [2026-07-05 23:44:09] [AuroraCity.kkwmc.cn] [CHAT] 你的法杖我玩玩
 [2026-07-05 23:44:20] [AuroraCity.kkwmc.cn] [CMD] /tpa LuckyMengYi
 [2026-07-05 23:45:00] [AuroraCity.kkwmc.cn] [CHAT] 没了
+[2026-07-05 23:45:25] [AuroraCity.kkwmc.cn] [CHAT] 真的没了
+[2026-07-05 23:45:35] [AuroraCity.kkwmc.cn] [CHAT] 有了有了
+[2026-07-05 23:45:41] [AuroraCity.kkwmc.cn] [CHAT] 点了一下这个包裹就有了
