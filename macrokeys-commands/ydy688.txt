@@ -437,3 +437,6 @@
 [2026-07-05 16:02:05] [AuroraCity.kkwmc.cn] [CHAT] 但是本来打头就有暴击
 [2026-07-05 16:02:19] [AuroraCity.kkwmc.cn] [CHAT] 因为你没蓄力啊
 [2026-07-05 16:02:25] [AuroraCity.kkwmc.cn] [CHAT] 搞个快速射击
+[2026-07-05 16:02:29] [AuroraCity.kkwmc.cn] [CMD] /home 3
+[2026-07-05 16:03:06] [AuroraCity.kkwmc.cn] [CHAT] 难道你要敲两个暴击石头
+[2026-07-05 16:03:33] [AuroraCity.kkwmc.cn] [CHAT] 是的
