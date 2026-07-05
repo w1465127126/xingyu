@@ -150,3 +150,6 @@
 [2026-07-05 11:01:59] [x6.sjcmc.cn:34054] [JOIN] 连接服务器: x6.sjcmc.cn:34054
 [2026-07-05 11:02:03] [x6.sjcmc.cn:34054] [CMD] /l wokaoa
 [2026-07-05 11:05:17] [x6.sjcmc.cn:34054] [CMD] /res tp xh
+[2026-07-05 11:05:34] [x6.sjcmc.cn:34054] [CMD] /res tp d
+[2026-07-05 11:31:00] [x6.sjcmc.cn:34054] [CMD] /back
+[2026-07-05 11:31:10] [x6.sjcmc.cn:34054] [CMD] /back
