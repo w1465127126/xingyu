@@ -732,3 +732,6 @@
 [2026-07-05 23:28:36] [AuroraCity.kkwmc.cn] [CMD] /back
 [2026-07-05 23:28:45] [AuroraCity.kkwmc.cn] [CMD] /back
 [2026-07-05 23:29:40] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-05 23:32:21] [AuroraCity.kkwmc.cn] [CHAT] 你逗我呢，凭什么弓箭打我不会被反死
+[2026-07-05 23:32:22] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-05 23:32:39] [AuroraCity.kkwmc.cn] [CMD] /back
