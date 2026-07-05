@@ -744,3 +744,6 @@
 [2026-07-05 23:34:48] [AuroraCity.kkwmc.cn] [CMD] /back
 [2026-07-05 23:35:10] [AuroraCity.kkwmc.cn] [CMD] /back
 [2026-07-05 23:35:57] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-05 23:36:31] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-05 23:37:30] [AuroraCity.kkwmc.cn] [CHAT] 不玩了
+[2026-07-05 23:38:03] [AuroraCity.kkwmc.cn] [CHAT] 还好吧
