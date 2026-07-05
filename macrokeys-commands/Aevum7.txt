@@ -1293,3 +1293,6 @@
 [2026-07-06 03:27:38] [x6.sjcmc.cn:34054] [CMD] /home fb
 [2026-07-06 03:29:22] [x6.sjcmc.cn:34054] [CMD] /home fb
 [2026-07-06 03:31:06] [x6.sjcmc.cn:34054] [CMD] /home fb
+[2026-07-06 03:32:50] [x6.sjcmc.cn:34054] [CMD] /home fb
+[2026-07-06 07:26:08] [x6.sjcmc.cn:34054] [JOIN] 连接服务器: x6.sjcmc.cn:34054
+[2026-07-06 07:26:09] [x6.sjcmc.cn:34054] [CMD] /home fb
