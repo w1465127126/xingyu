@@ -109,3 +109,6 @@
 [2026-07-05 22:24:04] [x6.sjcmc.cn:34054] [CMD] /res tp gz
 [2026-07-05 22:24:12] [x6.sjcmc.cn:34054] [CMD] /back
 [2026-07-05 22:26:02] [x6.sjcmc.cn:34054] [CMD] /home fb
+[2026-07-05 22:27:46] [x6.sjcmc.cn:34054] [CMD] /home fb
+[2026-07-05 22:29:30] [x6.sjcmc.cn:34054] [CMD] /home fb
+[2026-07-05 22:31:14] [x6.sjcmc.cn:34054] [CMD] /home fb
