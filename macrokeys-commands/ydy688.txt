@@ -747,3 +747,6 @@
 [2026-07-05 23:36:31] [AuroraCity.kkwmc.cn] [CMD] /back
 [2026-07-05 23:37:30] [AuroraCity.kkwmc.cn] [CHAT] 不玩了
 [2026-07-05 23:38:03] [AuroraCity.kkwmc.cn] [CHAT] 还好吧
+[2026-07-05 23:40:07] [AuroraCity.kkwmc.cn] [CHAT] 枪给我玩玩
+[2026-07-05 23:40:14] [AuroraCity.kkwmc.cn] [CMD] /tpa Aevum7
+[2026-07-05 23:40:54] [AuroraCity.kkwmc.cn] [CHAT] 是全身判定
