@@ -88,3 +88,6 @@
 [2026-07-05 21:43:35] [x6.sjcmc.cn:34054] [CHAT] 可以了
 [2026-07-05 21:44:46] [x6.sjcmc.cn:34054] [CMD] /tpaccept
 [2026-07-05 21:49:50] [x6.sjcmc.cn:34054] [CMD] /home fb
+[2026-07-05 21:51:37] [x6.sjcmc.cn:34054] [CMD] /home fb
+[2026-07-05 21:53:19] [x6.sjcmc.cn:34054] [CMD] /home fb
+[2026-07-05 21:55:02] [x6.sjcmc.cn:34054] [CMD] /home fb
