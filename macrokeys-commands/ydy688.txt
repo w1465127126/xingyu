@@ -362,3 +362,6 @@
 [2026-07-05 14:51:53] [AuroraCity.kkwmc.cn] [CMD] /hoem 3
 [2026-07-05 14:51:55] [AuroraCity.kkwmc.cn] [CMD] /home 3
 [2026-07-05 14:54:07] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-05 14:55:03] [AuroraCity.kkwmc.cn] [CHAT] 1
+[2026-07-05 14:55:24] [AuroraCity.kkwmc.cn] [CHAT] 凉拌
+[2026-07-05 14:55:31] [AuroraCity.kkwmc.cn] [CHAT] 带我刷完副本过去看看
