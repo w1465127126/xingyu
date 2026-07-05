@@ -597,3 +597,6 @@
 [2026-07-05 22:21:18] [AuroraCity.kkwmc.cn] [CHAT] 你身上
 [2026-07-05 22:21:40] [AuroraCity.kkwmc.cn] [CHAT] 快去给我修
 [2026-07-05 22:22:21] [AuroraCity.kkwmc.cn] [CMD] /home 3
+[2026-07-05 22:22:46] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-05 22:24:39] [AuroraCity.kkwmc.cn] [CMD] /home 1
+[2026-07-05 22:25:00] [AuroraCity.kkwmc.cn] [CHAT] 诶呀
