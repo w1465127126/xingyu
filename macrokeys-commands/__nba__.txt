@@ -40,3 +40,6 @@
 [2026-07-05 20:35:06] [x6.sjcmc.cn:34054] [CMD] /leave
 [2026-07-05 20:37:26] [x6.sjcmc.cn:34054] [CMD] /back
 [2026-07-05 20:39:15] [x6.sjcmc.cn:34054] [CMD] /home fb
+[2026-07-05 20:40:59] [x6.sjcmc.cn:34054] [CMD] /home fb
+[2026-07-05 20:42:44] [x6.sjcmc.cn:34054] [CMD] /home fb
+[2026-07-05 20:44:28] [x6.sjcmc.cn:34054] [CMD] /home fb
