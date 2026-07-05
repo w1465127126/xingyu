@@ -321,3 +321,6 @@
 [2026-07-06 01:00:28] [x6.sjcmc.cn:34054] [CMD] /res tp fan
 [2026-07-06 01:01:51] [x6.sjcmc.cn:34054] [CMD] /skins
 [2026-07-06 01:02:20] [x6.sjcmc.cn:34054] [CMD] /skins
+[2026-07-06 01:03:27] [x6.sjcmc.cn:34054] [CMD] /skins
+[2026-07-06 01:03:54] [x6.sjcmc.cn:34054] [CMD] /skins
+[2026-07-06 01:04:07] [x6.sjcmc.cn:34054] [CMD] /fly
