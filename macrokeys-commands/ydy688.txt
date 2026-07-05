@@ -606,3 +606,6 @@
 [2026-07-05 22:27:51] [AuroraCity.kkwmc.cn] [CHAT] 伤害真一般
 [2026-07-05 22:28:02] [AuroraCity.kkwmc.cn] [CHAT] 抽到白值了吗
 [2026-07-05 22:28:34] [AuroraCity.kkwmc.cn] [CHAT] 你们卡吗
+[2026-07-05 22:28:38] [AuroraCity.kkwmc.cn] [CHAT] 刚才我这边炸了
+[2026-07-05 22:29:10] [AuroraCity.kkwmc.cn] [JOIN] 连接服务器: AuroraCity.kkwmc.cn
+[2026-07-05 22:29:15] [AuroraCity.kkwmc.cn] [CMD] /login xvvcxc
