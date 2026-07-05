@@ -687,3 +687,6 @@
 [2026-07-05 22:54:48] [AuroraCity.kkwmc.cn] [CMD] /back
 [2026-07-05 22:56:19] [AuroraCity.kkwmc.cn] [CHAT] 盾牌岂是如此不便之物
 [2026-07-05 22:57:06] [AuroraCity.kkwmc.cn] [CHAT] 没电了
+[2026-07-05 22:57:46] [AuroraCity.kkwmc.cn] [CHAT] 来看看这是谁
+[2026-07-05 22:57:52] [AuroraCity.kkwmc.cn] [CHAT] 你把他推下去杀了
+[2026-07-05 22:58:21] [AuroraCity.kkwmc.cn] [CHAT] 火城的吧
