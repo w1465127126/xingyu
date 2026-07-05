@@ -416,3 +416,6 @@
 [2026-07-05 15:55:58] [AuroraCity.kkwmc.cn] [CHAT] [i]
 [2026-07-05 15:56:23] [AuroraCity.kkwmc.cn] [CHAT] 商店上哪给你权限
 [2026-07-05 15:57:02] [AuroraCity.kkwmc.cn] [CHAT] 爆头必暴击
+[2026-07-05 15:57:10] [AuroraCity.kkwmc.cn] [CHAT] 没记错的话
+[2026-07-05 15:57:22] [AuroraCity.kkwmc.cn] [CHAT] 但是和rpg的暴击好像不是同一个类型
+[2026-07-05 15:57:26] [AuroraCity.kkwmc.cn] [CHAT] 你懂不懂
