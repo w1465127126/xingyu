@@ -13,3 +13,6 @@
 [2026-07-05 18:21:55] [x6.sjcmc.cn:34054] [CMD] /res tp gz
 [2026-07-05 18:40:18] [x6.sjcmc.cn:34054] [CMD] /home jia
 [2026-07-05 19:06:39] [x6.sjcmc.cn:34054] [CMD] /tpa __nba__
+[2026-07-05 19:06:47] [x6.sjcmc.cn:34054] [CHAT] awa
+[2026-07-05 19:07:38] [x6.sjcmc.cn:34054] [CMD] /tpa WWZ
+[2026-07-05 19:07:54] [x6.sjcmc.cn:34054] [CMD] /back
