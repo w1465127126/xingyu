@@ -192,3 +192,6 @@
 [2026-07-05 18:24:04] [x6.sjcmc.cn:34054] [CMD] /res tp zhucheng2
 [2026-07-05 18:24:21] [x6.sjcmc.cn:34054] [CMD] /home Home
 [2026-07-05 18:25:21] [x6.sjcmc.cn:34054] [CMD] /back
+[2026-07-05 18:25:37] [x6.sjcmc.cn:34054] [CHAT] all
+[2026-07-05 18:25:41] [x6.sjcmc.cn:34054] [CHAT] all
+[2026-07-05 18:26:04] [x6.sjcmc.cn:34054] [CMD] /back
