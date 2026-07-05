@@ -419,3 +419,6 @@
 [2026-07-05 15:57:10] [AuroraCity.kkwmc.cn] [CHAT] 没记错的话
 [2026-07-05 15:57:22] [AuroraCity.kkwmc.cn] [CHAT] 但是和rpg的暴击好像不是同一个类型
 [2026-07-05 15:57:26] [AuroraCity.kkwmc.cn] [CHAT] 你懂不懂
+[2026-07-05 15:57:39] [AuroraCity.kkwmc.cn] [CHAT] 就是说mc原版暴击和rpg的暴击可以同时出现
+[2026-07-05 15:58:37] [AuroraCity.kkwmc.cn] [CHAT] 当然了
+[2026-07-05 15:58:46] [AuroraCity.kkwmc.cn] [CHAT] 但是其实是削弱
