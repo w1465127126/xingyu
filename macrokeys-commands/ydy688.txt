@@ -753,3 +753,6 @@
 [2026-07-05 23:41:01] [AuroraCity.kkwmc.cn] [CHAT] 这玩意搭配新能源无敌
 [2026-07-05 23:43:58] [AuroraCity.kkwmc.cn] [CHAT] 不行还是还不够好用
 [2026-07-05 23:44:03] [AuroraCity.kkwmc.cn] [CHAT] LuckyMengYi
+[2026-07-05 23:44:09] [AuroraCity.kkwmc.cn] [CHAT] 你的法杖我玩玩
+[2026-07-05 23:44:20] [AuroraCity.kkwmc.cn] [CMD] /tpa LuckyMengYi
+[2026-07-05 23:45:00] [AuroraCity.kkwmc.cn] [CHAT] 没了
