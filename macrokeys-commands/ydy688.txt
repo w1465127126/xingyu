@@ -762,3 +762,6 @@
 [2026-07-05 23:45:44] [AuroraCity.kkwmc.cn] [CHAT] 卡没了
 [2026-07-05 23:45:57] [AuroraCity.kkwmc.cn] [CMD] /back
 [2026-07-05 23:47:17] [AuroraCity.kkwmc.cn] [CHAT] 这个好用
+[2026-07-05 23:47:20] [AuroraCity.kkwmc.cn] [CHAT] 这个是真好用
+[2026-07-05 23:48:10] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-05 23:48:13] [AuroraCity.kkwmc.cn] [CMD] /tpa LuckyMengYi
