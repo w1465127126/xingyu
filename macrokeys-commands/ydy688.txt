@@ -209,3 +209,6 @@
 [2026-07-05 10:46:44] [AuroraCity.kkwmc.cn] [CMD] /back
 [2026-07-05 10:48:09] [AuroraCity.kkwmc.cn] [CMD] /home 3
 [2026-07-05 10:52:21] [AuroraCity.kkwmc.cn] [CMD] /warp 鹅斯拉
+[2026-07-05 10:52:56] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-05 10:52:59] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-05 10:53:08] [AuroraCity.kkwmc.cn] [CMD] /home 2
