@@ -389,3 +389,6 @@
 [2026-07-05 15:19:08] [AuroraCity.kkwmc.cn] [CHAT] 你拿这个玩吧
 [2026-07-05 15:20:26] [AuroraCity.kkwmc.cn] [CMD] /tpa mao_yao
 [2026-07-05 15:21:20] [AuroraCity.kkwmc.cn] [CHAT] ?
+[2026-07-05 15:21:26] [AuroraCity.kkwmc.cn] [CHAT] 哪来的雪人
+[2026-07-05 15:21:45] [AuroraCity.kkwmc.cn] [CHAT] 流血呗
+[2026-07-05 15:22:10] [AuroraCity.kkwmc.cn] [CHAT] 你才几滴血衣服也不穿
