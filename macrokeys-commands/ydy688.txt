@@ -564,3 +564,6 @@
 [2026-07-05 21:37:26] [AuroraCity.kkwmc.cn] [CMD] /warp 冒险者大厅
 [2026-07-05 21:42:16] [AuroraCity.kkwmc.cn] [CMD] /back
 [2026-07-05 21:42:53] [AuroraCity.kkwmc.cn] [CMD] /warp 鹅斯拉
+[2026-07-05 21:43:12] [AuroraCity.kkwmc.cn] [CMD] /back\
+[2026-07-05 21:43:14] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-05 21:43:26] [AuroraCity.kkwmc.cn] [CHAT] 你这个弓真是拉完了
