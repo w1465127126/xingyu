@@ -1,18 +1,461 @@
-[2026-07-05 19:22:59] [x6.sjcmc.cn:34054] [JOIN] 连接服务器: x6.sjcmc.cn:34054
-[2026-07-05 19:23:04] [x6.sjcmc.cn:34054] [CMD] /login xvvcxc
-[2026-07-05 19:23:42] [x6.sjcmc.cn:34054] [CMD] /warp 冒险者大厅
-[2026-07-05 19:23:51] [x6.sjcmc.cn:34054] [CMD] /home 0
-[2026-07-05 19:23:54] [x6.sjcmc.cn:34054] [CMD] /home 4
-[2026-07-05 19:23:57] [x6.sjcmc.cn:34054] [CMD] /home 3
-[2026-07-05 19:23:58] [x6.sjcmc.cn:34054] [CMD] /home 2
-[2026-07-05 19:25:19] [x6.sjcmc.cn:34054] [CMD] /back
-[2026-07-05 19:26:00] [x6.sjcmc.cn:34054] [CMD] /back
-[2026-07-05 19:26:05] [x6.sjcmc.cn:34054] [CMD] /home 2
-[2026-07-05 19:27:58] [x6.sjcmc.cn:34054] [CMD] /back
-[2026-07-05 19:29:20] [x6.sjcmc.cn:34054] [CMD] /back
-[2026-07-05 19:29:33] [x6.sjcmc.cn:34054] [CMD] /home 2
-[2026-07-05 19:29:47] [x6.sjcmc.cn:34054] [CMD] /res tp d
-[2026-07-05 19:31:13] [x6.sjcmc.cn:34054] [JOIN] 连接服务器: x6.sjcmc.cn:34054
-[2026-07-05 19:31:16] [x6.sjcmc.cn:34054] [CMD] /l wokaoa
-[2026-07-05 19:31:18] [x6.sjcmc.cn:34054] [JOIN] 连接服务器: x6.sjcmc.cn:34054
-[2026-07-05 19:31:21] [x6.sjcmc.cn:34054] [CMD] /login xvvcxc
+[2026-07-05 00:11:02] [AuroraCity.kkwmc.cn] [JOIN] 连接服务器: AuroraCity.kkwmc.cn
+[2026-07-05 00:11:06] [AuroraCity.kkwmc.cn] [CMD] /login xvvcxc
+[2026-07-05 00:12:55] [AuroraCity.kkwmc.cn] [CMD] /home 3
+[2026-07-05 00:13:02] [AuroraCity.kkwmc.cn] [CMD] /warp 冒险者大厅
+[2026-07-05 00:15:19] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-05 00:17:21] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-05 00:18:05] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-05 00:18:49] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-05 00:19:42] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-05 00:21:29] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-05 00:21:56] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-05 00:22:42] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-05 00:24:33] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-05 00:28:59] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-05 00:30:26] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-05 00:31:15] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-05 00:33:05] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-05 00:35:34] [AuroraCity.kkwmc.cn] [CMD] /
+[2026-07-05 00:40:34] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-05 00:42:13] [AuroraCity.kkwmc.cn] [CMD] /
+[2026-07-05 00:42:16] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-05 00:43:52] [AuroraCity.kkwmc.cn] [CMD] /
+[2026-07-05 00:43:56] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-05 00:45:32] [AuroraCity.kkwmc.cn] [CMD] /
+[2026-07-05 00:45:35] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-05 00:45:47] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-05 00:46:03] [AuroraCity.kkwmc.cn] [CMD] /home
+[2026-07-05 00:46:13] [AuroraCity.kkwmc.cn] [CMD] /home
+[2026-07-05 00:46:22] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-05 00:46:34] [AuroraCity.kkwmc.cn] [CMD] /sethome 2
+[2026-07-05 00:49:34] [AuroraCity.kkwmc.cn] [CMD] /
+[2026-07-05 00:49:37] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-05 00:50:23] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-05 00:55:22] [AuroraCity.kkwmc.cn] [JOIN] 连接服务器: AuroraCity.kkwmc.cn
+[2026-07-05 00:55:30] [AuroraCity.kkwmc.cn] [CMD] /login xvvcxc
+[2026-07-05 00:55:34] [AuroraCity.kkwmc.cn] [CMD] /home 3
+[2026-07-05 00:55:58] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-05 00:57:41] [AuroraCity.kkwmc.cn] [CMD] /
+[2026-07-05 00:57:44] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-05 00:59:20] [AuroraCity.kkwmc.cn] [CMD] /
+[2026-07-05 00:59:23] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-05 01:01:00] [AuroraCity.kkwmc.cn] [CMD] /
+[2026-07-05 01:01:03] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-05 01:02:39] [AuroraCity.kkwmc.cn] [CMD] /
+[2026-07-05 01:02:42] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-05 01:04:19] [AuroraCity.kkwmc.cn] [CMD] /
+[2026-07-05 01:04:22] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-05 01:08:50] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-05 01:09:07] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-05 01:11:52] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-05 01:13:30] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-05 01:15:09] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-05 01:16:47] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-05 01:18:26] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-05 01:20:04] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-05 01:21:42] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-05 01:23:21] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-05 01:24:59] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-05 01:26:38] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-05 01:28:16] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-05 01:29:54] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-05 01:33:19] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-05 01:34:57] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-05 01:36:36] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-05 01:38:14] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-05 01:39:53] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-05 01:41:31] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-05 01:43:09] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-05 01:44:48] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-05 01:46:26] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-05 01:48:05] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-05 01:49:43] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-05 01:51:21] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-05 01:53:00] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-05 01:54:38] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-05 01:56:17] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-05 01:57:55] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-05 01:59:33] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-05 02:01:12] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-05 02:02:50] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-05 02:04:29] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-05 02:06:07] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-05 02:07:45] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-05 02:09:24] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-05 02:11:02] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-05 02:12:41] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-05 02:14:19] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-05 02:15:57] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-05 02:17:36] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-05 02:19:14] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-05 02:20:53] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-05 02:22:31] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-05 02:24:09] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-05 02:25:48] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-05 02:27:26] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-05 02:29:05] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-05 02:30:43] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-05 02:32:21] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-05 02:34:00] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-05 02:35:38] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-05 02:37:17] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-05 02:38:55] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-05 02:40:33] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-05 02:42:12] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-05 02:43:50] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-05 02:45:29] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-05 02:47:07] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-05 02:48:45] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-05 02:50:24] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-05 02:52:02] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-05 02:53:41] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-05 02:55:19] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-05 02:56:57] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-05 02:58:36] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-05 03:00:14] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-05 03:01:53] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-05 03:03:31] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-05 03:05:09] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-05 03:06:48] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-05 03:08:26] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-05 03:10:05] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-05 03:11:43] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-05 03:13:21] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-05 03:15:00] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-05 03:16:38] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-05 03:18:17] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-05 03:19:55] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-05 03:21:33] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-05 03:23:12] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-05 03:24:50] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-05 03:26:29] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-05 03:28:07] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-05 03:29:45] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-05 03:31:24] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-05 03:33:02] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-05 03:34:41] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-05 03:36:19] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-05 03:37:57] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-05 03:39:36] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-05 03:41:14] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-05 03:42:53] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-05 03:44:31] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-05 03:46:09] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-05 03:47:48] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-05 03:49:26] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-05 03:51:05] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-05 03:52:43] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-05 03:54:21] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-05 03:56:00] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-05 03:57:38] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-05 03:59:17] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-05 09:15:46] [AuroraCity.kkwmc.cn] [JOIN] 连接服务器: AuroraCity.kkwmc.cn
+[2026-07-05 09:15:55] [AuroraCity.kkwmc.cn] [CMD] /login xvvcxc
+[2026-07-05 09:20:16] [AuroraCity.kkwmc.cn] [CMD] /home 3
+[2026-07-05 09:20:58] [AuroraCity.kkwmc.cn] [CMD] /warp 鹅斯拉
+[2026-07-05 09:21:42] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-05 09:24:11] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-05 09:25:49] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-05 09:27:28] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-05 09:29:06] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-05 09:30:44] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-05 09:32:23] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-05 09:34:01] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-05 09:35:40] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-05 09:37:18] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-05 09:38:56] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-05 09:40:35] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-05 09:42:13] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-05 09:43:52] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-05 09:45:30] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-05 09:47:08] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-05 09:48:47] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-05 09:50:25] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-05 09:52:04] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-05 09:53:42] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-05 09:55:20] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-05 09:56:59] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-05 09:58:37] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-05 10:00:16] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-05 10:01:54] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-05 10:03:32] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-05 10:05:11] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-05 10:06:49] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-05 10:08:28] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-05 10:10:06] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-05 10:11:44] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-05 10:13:23] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-05 10:15:01] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-05 10:16:40] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-05 10:18:18] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-05 10:19:56] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-05 10:21:35] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-05 10:23:13] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-05 10:24:52] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-05 10:26:30] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-05 10:28:08] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-05 10:29:47] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-05 10:31:25] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-05 10:33:04] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-05 10:34:42] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-05 10:36:20] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-05 10:37:59] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-05 10:39:37] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-05 10:43:40] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-05 10:45:18] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-05 10:45:29] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-05 10:45:31] [AuroraCity.kkwmc.cn] [CMD] /warp
+[2026-07-05 10:46:05] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-05 10:46:44] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-05 10:48:09] [AuroraCity.kkwmc.cn] [CMD] /home 3
+[2026-07-05 10:52:21] [AuroraCity.kkwmc.cn] [CMD] /warp 鹅斯拉
+[2026-07-05 10:52:56] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-05 10:52:59] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-05 10:53:08] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-05 10:53:28] [AuroraCity.kkwmc.cn] [CMD] /hom2
+[2026-07-05 10:53:34] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-05 10:55:19] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-05 10:56:58] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-05 10:58:36] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-05 11:00:14] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-05 11:01:53] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-05 11:03:31] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-05 11:05:10] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-05 11:06:48] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-05 11:08:26] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-05 11:10:05] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-05 11:11:43] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-05 11:13:22] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-05 11:15:00] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-05 11:16:38] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-05 11:18:17] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-05 11:19:55] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-05 11:21:34] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-05 11:23:12] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-05 11:24:50] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-05 11:26:29] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-05 11:28:07] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-05 11:29:46] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-05 11:31:24] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-05 11:33:02] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-05 11:34:41] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-05 11:36:19] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-05 11:37:58] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-05 11:39:36] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-05 11:41:14] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-05 11:42:53] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-05 11:44:31] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-05 11:46:10] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-05 11:47:48] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-05 11:49:26] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-05 11:51:05] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-05 11:51:18] [AuroraCity.kkwmc.cn] [CMD] /home 3
+[2026-07-05 11:51:43] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-05 11:52:04] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-05 11:55:07] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-05 11:56:45] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-05 11:58:24] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-05 12:00:02] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-05 12:01:41] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-05 12:03:19] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-05 12:04:57] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-05 12:06:36] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-05 12:08:14] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-05 12:09:53] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-05 12:11:31] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-05 12:13:09] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-05 12:14:48] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-05 12:16:26] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-05 12:18:05] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-05 12:19:43] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-05 12:21:21] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-05 12:23:00] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-05 12:24:38] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-05 12:26:17] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-05 12:28:48] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-05 12:30:29] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-05 12:32:09] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-05 12:33:48] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-05 12:35:27] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-05 12:37:07] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-05 12:38:46] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-05 12:40:26] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-05 12:42:05] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-05 12:43:44] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-05 12:45:24] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-05 12:47:03] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-05 12:48:43] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-05 12:50:22] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-05 12:52:01] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-05 12:53:41] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-05 12:55:20] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-05 12:57:00] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-05 12:58:39] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-05 13:00:18] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-05 13:01:58] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-05 13:03:37] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-05 13:05:17] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-05 13:06:56] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-05 13:08:35] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-05 13:10:15] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-05 13:11:54] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-05 13:13:34] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-05 13:15:13] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-05 13:16:52] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-05 13:18:32] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-05 13:20:11] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-05 13:21:51] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-05 13:23:30] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-05 13:25:09] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-05 13:26:49] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-05 13:28:28] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-05 13:30:08] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-05 13:31:47] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-05 13:33:26] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-05 13:35:06] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-05 13:36:45] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-05 13:38:25] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-05 13:40:04] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-05 13:41:43] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-05 13:43:23] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-05 13:45:02] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-05 13:46:34] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-05 13:49:15] [AuroraCity.kkwmc.cn] [CMD] /home 3
+[2026-07-05 13:51:03] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-05 13:51:26] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-05 13:53:08] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-05 13:54:47] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-05 13:56:27] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-05 13:58:06] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-05 13:59:46] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-05 14:01:25] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-05 14:03:04] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-05 14:04:44] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-05 14:06:23] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-05 14:08:03] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-05 14:09:42] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-05 14:11:21] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-05 14:13:01] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-05 14:14:40] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-05 14:16:20] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-05 14:17:59] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-05 14:19:38] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-05 14:21:18] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-05 14:22:57] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-05 14:24:37] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-05 14:26:16] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-05 14:27:55] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-05 14:29:35] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-05 14:30:17] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-05 14:30:49] [AuroraCity.kkwmc.cn] [CMD] /home 3
+[2026-07-05 14:31:18] [AuroraCity.kkwmc.cn] [CMD] /tpa zxz
+[2026-07-05 14:37:20] [AuroraCity.kkwmc.cn] [CMD] /warp 鹅斯拉
+[2026-07-05 14:37:31] [AuroraCity.kkwmc.cn] [CMD] /home 1
+[2026-07-05 14:37:51] [AuroraCity.kkwmc.cn] [CMD] /home 1
+[2026-07-05 14:37:54] [AuroraCity.kkwmc.cn] [CMD] /home 3
+[2026-07-05 14:43:10] [AuroraCity.kkwmc.cn] [CMD] /home 23
+[2026-07-05 14:43:12] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-05 14:45:41] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-05 14:49:39] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-05 14:51:35] [AuroraCity.kkwmc.cn] [CMD] /warp 鹅斯拉
+[2026-07-05 14:51:40] [AuroraCity.kkwmc.cn] [CMD] /warp 鹅斯拉
+[2026-07-05 14:51:53] [AuroraCity.kkwmc.cn] [CMD] /hoem 3
+[2026-07-05 14:51:55] [AuroraCity.kkwmc.cn] [CMD] /home 3
+[2026-07-05 14:54:07] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-05 14:55:03] [AuroraCity.kkwmc.cn] [CHAT] 1
+[2026-07-05 14:55:24] [AuroraCity.kkwmc.cn] [CHAT] 凉拌
+[2026-07-05 14:55:31] [AuroraCity.kkwmc.cn] [CHAT] 带我刷完副本过去看看
+[2026-07-05 14:57:12] [AuroraCity.kkwmc.cn] [CHAT] 我没在
+[2026-07-05 14:57:22] [AuroraCity.kkwmc.cn] [CHAT] 不想戴耳机
+[2026-07-05 15:00:26] [AuroraCity.kkwmc.cn] [CMD] /home 3
+[2026-07-05 15:03:30] [AuroraCity.kkwmc.cn] [CHAT] nba过来
+[2026-07-05 15:03:37] [AuroraCity.kkwmc.cn] [CMD] /tpahere __nba__
+[2026-07-05 15:03:50] [AuroraCity.kkwmc.cn] [CMD] /pvpt
+[2026-07-05 15:04:02] [AuroraCity.kkwmc.cn] [CHAT] 还有饱食度吗
+[2026-07-05 15:04:26] [AuroraCity.kkwmc.cn] [CHAT] 这玩意挺牛逼的
+[2026-07-05 15:07:07] [AuroraCity.kkwmc.cn] [CMD] /warp 鹅斯拉
+[2026-07-05 15:07:19] [AuroraCity.kkwmc.cn] [CMD] /home 3
+[2026-07-05 15:08:33] [AuroraCity.kkwmc.cn] [CHAT] 500金币一个鹅蛋
+[2026-07-05 15:09:21] [AuroraCity.kkwmc.cn] [CHAT] 收
+[2026-07-05 15:09:38] [AuroraCity.kkwmc.cn] [CMD] /home 3
+[2026-07-05 15:13:13] [AuroraCity.kkwmc.cn] [CHAT] 1
+[2026-07-05 15:15:23] [AuroraCity.kkwmc.cn] [CMD] /home 3
+[2026-07-05 15:16:00] [AuroraCity.kkwmc.cn] [CHAT] nba来砍我
+[2026-07-05 15:16:03] [AuroraCity.kkwmc.cn] [CMD] /tpahere __nba__
+[2026-07-05 15:16:52] [AuroraCity.kkwmc.cn] [CHAT] 无了
+[2026-07-05 15:18:04] [AuroraCity.kkwmc.cn] [CHAT] 扔了
+[2026-07-05 15:18:09] [AuroraCity.kkwmc.cn] [CMD] /home 3
+[2026-07-05 15:18:53] [AuroraCity.kkwmc.cn] [CMD] /tpa mao_yao
+[2026-07-05 15:19:08] [AuroraCity.kkwmc.cn] [CHAT] 你拿这个玩吧
+[2026-07-05 15:20:26] [AuroraCity.kkwmc.cn] [CMD] /tpa mao_yao
+[2026-07-05 15:21:20] [AuroraCity.kkwmc.cn] [CHAT] ?
+[2026-07-05 15:21:26] [AuroraCity.kkwmc.cn] [CHAT] 哪来的雪人
+[2026-07-05 15:21:45] [AuroraCity.kkwmc.cn] [CHAT] 流血呗
+[2026-07-05 15:22:10] [AuroraCity.kkwmc.cn] [CHAT] 你才几滴血衣服也不穿
+[2026-07-05 15:22:26] [AuroraCity.kkwmc.cn] [CMD] /home 3
+[2026-07-05 15:23:11] [AuroraCity.kkwmc.cn] [CMD] /res tp jiaoyi
+[2026-07-05 15:23:27] [AuroraCity.kkwmc.cn] [CHAT] 新人玩了两下就退了
+[2026-07-05 15:24:13] [AuroraCity.kkwmc.cn] [CMD] /home 3
+[2026-07-05 15:49:05] [AuroraCity.kkwmc.cn] [CHAT] 家里一堆
+[2026-07-05 15:49:23] [AuroraCity.kkwmc.cn] [CHAT] 啥啊
+[2026-07-05 15:49:29] [AuroraCity.kkwmc.cn] [CHAT] 发生什么了
+[2026-07-05 15:49:56] [AuroraCity.kkwmc.cn] [CHAT] 你要做弓吗
+[2026-07-05 15:50:09] [AuroraCity.kkwmc.cn] [CHAT] 我看看
+[2026-07-05 15:50:37] [AuroraCity.kkwmc.cn] [CHAT] 有什么buff
+[2026-07-05 15:50:51] [AuroraCity.kkwmc.cn] [CHAT] 下来试试
+[2026-07-05 15:51:19] [AuroraCity.kkwmc.cn] [CHAT] pvp
+[2026-07-05 15:52:03] [AuroraCity.kkwmc.cn] [CHAT] 没了?
+[2026-07-05 15:52:35] [AuroraCity.kkwmc.cn] [CHAT] 才个位数
+[2026-07-05 15:52:59] [AuroraCity.kkwmc.cn] [CHAT] 缓慢加着火
+[2026-07-05 15:53:12] [AuroraCity.kkwmc.cn] [CHAT] 我是说我等级才个位数
+[2026-07-05 15:53:30] [AuroraCity.kkwmc.cn] [CHAT] s啥啊怎么还有中毒
+[2026-07-05 15:53:57] [AuroraCity.kkwmc.cn] [CHAT] 饥饿值没了
+[2026-07-05 15:54:00] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-05 15:55:02] [AuroraCity.kkwmc.cn] [CHAT] 我的建议是
+[2026-07-05 15:55:50] [AuroraCity.kkwmc.cn] [CHAT] 装五个白值
+[2026-07-05 15:55:58] [AuroraCity.kkwmc.cn] [CHAT] [i]
+[2026-07-05 15:56:23] [AuroraCity.kkwmc.cn] [CHAT] 商店上哪给你权限
+[2026-07-05 15:57:02] [AuroraCity.kkwmc.cn] [CHAT] 爆头必暴击
+[2026-07-05 15:57:10] [AuroraCity.kkwmc.cn] [CHAT] 没记错的话
+[2026-07-05 15:57:22] [AuroraCity.kkwmc.cn] [CHAT] 但是和rpg的暴击好像不是同一个类型
+[2026-07-05 15:57:26] [AuroraCity.kkwmc.cn] [CHAT] 你懂不懂
+[2026-07-05 15:57:39] [AuroraCity.kkwmc.cn] [CHAT] 就是说mc原版暴击和rpg的暴击可以同时出现
+[2026-07-05 15:58:37] [AuroraCity.kkwmc.cn] [CHAT] 当然了
+[2026-07-05 15:58:46] [AuroraCity.kkwmc.cn] [CHAT] 但是其实是削弱
+[2026-07-05 15:59:04] [AuroraCity.kkwmc.cn] [CHAT] 下来试试伤害就知道了
+[2026-07-05 16:00:00] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-05 16:00:19] [AuroraCity.kkwmc.cn] [CHAT] 爆头试试
+[2026-07-05 16:00:27] [AuroraCity.kkwmc.cn] [CHAT] 20
+[2026-07-05 16:00:48] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-05 16:00:52] [AuroraCity.kkwmc.cn] [CHAT] 打身体试试
+[2026-07-05 16:00:58] [AuroraCity.kkwmc.cn] [CHAT] 高了就不好试了
+[2026-07-05 16:01:17] [AuroraCity.kkwmc.cn] [CHAT] 这是暴击了吧
+[2026-07-05 16:01:21] [AuroraCity.kkwmc.cn] [CHAT] 有暴击率吗
+[2026-07-05 16:01:23] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-05 16:01:37] [AuroraCity.kkwmc.cn] [CHAT] 给我看看
+[2026-07-05 16:01:55] [AuroraCity.kkwmc.cn] [CHAT] 是触发暴击了
+[2026-07-05 16:02:05] [AuroraCity.kkwmc.cn] [CHAT] 但是本来打头就有暴击
+[2026-07-05 16:02:19] [AuroraCity.kkwmc.cn] [CHAT] 因为你没蓄力啊
+[2026-07-05 16:02:25] [AuroraCity.kkwmc.cn] [CHAT] 搞个快速射击
+[2026-07-05 16:02:29] [AuroraCity.kkwmc.cn] [CMD] /home 3
+[2026-07-05 16:03:06] [AuroraCity.kkwmc.cn] [CHAT] 难道你要敲两个暴击石头
+[2026-07-05 16:03:33] [AuroraCity.kkwmc.cn] [CHAT] 是的
+[2026-07-05 16:03:38] [AuroraCity.kkwmc.cn] [CHAT] 因为攻速的事
+[2026-07-05 16:03:53] [AuroraCity.kkwmc.cn] [CHAT] 按理说是增加速度，但是因为没有基础数值
+[2026-07-05 16:04:52] [AuroraCity.kkwmc.cn] [CHAT] 展示出来
+[2026-07-05 16:05:01] [AuroraCity.kkwmc.cn] [CHAT] 刚才都能射远
+[2026-07-05 16:05:09] [AuroraCity.kkwmc.cn] [CHAT] 箭矢速度
+[2026-07-05 16:05:17] [AuroraCity.kkwmc.cn] [CHAT] 这不是还没卸吗
+[2026-07-05 16:05:24] [AuroraCity.kkwmc.cn] [CHAT] 攻击速度是平a
+[2026-07-05 16:08:46] [AuroraCity.kkwmc.cn] [CHAT] 红紫黄是最佳搭配吗
+[2026-07-05 16:11:32] [AuroraCity.kkwmc.cn] [CHAT] 雪人的雪球会攻击村民？
+[2026-07-05 16:12:38] [AuroraCity.kkwmc.cn] [CHAT] 一个没死啊
+[2026-07-05 16:19:33] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-05 16:19:42] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-05 16:29:20] [AuroraCity.kkwmc.cn] [CHAT] 快点给我打个黄金遗物来
+[2026-07-05 16:29:49] [AuroraCity.kkwmc.cn] [CMD] /home 3
+[2026-07-05 16:30:11] [AuroraCity.kkwmc.cn] [CHAT] 怒放红花还有吗
+[2026-07-05 16:30:25] [AuroraCity.kkwmc.cn] [CHAT] 给我打去
+[2026-07-05 20:17:13] [AuroraCity.kkwmc.cn] [JOIN] 连接服务器: AuroraCity.kkwmc.cn
+[2026-07-05 20:17:27] [AuroraCity.kkwmc.cn] [CMD] /login xvvcxc
+[2026-07-05 20:18:29] [AuroraCity.kkwmc.cn] [CMD] /tpa zxz
