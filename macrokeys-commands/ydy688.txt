@@ -477,3 +477,6 @@
 [2026-07-05 20:43:44] [AuroraCity.kkwmc.cn] [CHAT] 而且很难打
 [2026-07-05 20:43:58] [AuroraCity.kkwmc.cn] [CHAT] 性价比很低，不如下届套
 [2026-07-05 20:44:06] [AuroraCity.kkwmc.cn] [CHAT] 你去玩粘液科技去
+[2026-07-05 20:44:33] [AuroraCity.kkwmc.cn] [CHAT] ./sf guide
+[2026-07-05 20:44:36] [AuroraCity.kkwmc.cn] [CMD] /sf guide
+[2026-07-05 20:44:46] [AuroraCity.kkwmc.cn] [CHAT] 去玩这个去
