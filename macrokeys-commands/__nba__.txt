@@ -13,3 +13,6 @@
 [2026-07-05 19:50:42] [x6.sjcmc.cn:34054] [JOIN] 连接服务器: x6.sjcmc.cn:34054
 [2026-07-05 19:50:45] [x6.sjcmc.cn:34054] [CMD] /l chen123
 [2026-07-05 19:52:31] [x6.sjcmc.cn:34054] [CMD] /home fb
+[2026-07-05 19:54:13] [x6.sjcmc.cn:34054] [CMD] /home fb
+[2026-07-05 19:55:55] [x6.sjcmc.cn:34054] [CMD] /home fb
+[2026-07-05 19:57:36] [x6.sjcmc.cn:34054] [CMD] /home fb
