@@ -693,3 +693,6 @@
 [2026-07-05 22:59:21] [AuroraCity.kkwmc.cn] [CHAT] 干嘛啊
 [2026-07-05 22:59:26] [AuroraCity.kkwmc.cn] [CHAT] 我要杀他
 [2026-07-05 23:00:08] [AuroraCity.kkwmc.cn] [CHAT] 这就摔死了
+[2026-07-05 23:00:11] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-05 23:00:32] [AuroraCity.kkwmc.cn] [CHAT] 不是刚才那是哪里啊
+[2026-07-05 23:00:35] [AuroraCity.kkwmc.cn] [CMD] /back
