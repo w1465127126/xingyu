@@ -645,3 +645,6 @@
 [2026-07-05 22:40:45] [AuroraCity.kkwmc.cn] [CHAT] 不对
 [2026-07-05 22:40:59] [AuroraCity.kkwmc.cn] [CHAT] 就算能修，我一身保护9也不应该死
 [2026-07-05 22:41:05] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-05 22:41:51] [AuroraCity.kkwmc.cn] [CHAT] 这下绝对不是修脚
+[2026-07-05 22:41:53] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-05 22:43:00] [AuroraCity.kkwmc.cn] [CHAT] 过来给你点好东西
