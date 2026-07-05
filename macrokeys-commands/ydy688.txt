@@ -624,3 +624,6 @@
 [2026-07-05 22:33:15] [AuroraCity.kkwmc.cn] [CHAT] 看我了吗
 [2026-07-05 22:33:33] [AuroraCity.kkwmc.cn] [CHAT] 别打了
 [2026-07-05 22:33:38] [AuroraCity.kkwmc.cn] [CHAT] 我死过了
+[2026-07-05 22:33:42] [AuroraCity.kkwmc.cn] [CHAT] 这是复活后
+[2026-07-05 22:34:57] [AuroraCity.kkwmc.cn] [CHAT] ？
+[2026-07-05 22:35:00] [AuroraCity.kkwmc.cn] [CHAT] 你装备呢
