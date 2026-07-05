@@ -777,3 +777,6 @@
 [2026-07-05 23:57:53] [AuroraCity.kkwmc.cn] [CMD] /home 3
 [2026-07-05 23:58:15] [AuroraCity.kkwmc.cn] [CHAT] 刚才pvp死半天没看见吗
 [2026-07-05 23:58:28] [AuroraCity.kkwmc.cn] [CHAT] 基本上全程穿着甲
+[2026-07-06 00:15:54] [AuroraCity.kkwmc.cn] [CHAT] 有人买拳套了吗
+[2026-07-06 00:26:19] [AuroraCity.kkwmc.cn] [CMD] /home 3
+[2026-07-06 00:26:27] [AuroraCity.kkwmc.cn] [CMD] /warp 冒险者大厅
