@@ -459,3 +459,6 @@
 [2026-07-05 20:17:13] [AuroraCity.kkwmc.cn] [JOIN] 连接服务器: AuroraCity.kkwmc.cn
 [2026-07-05 20:17:27] [AuroraCity.kkwmc.cn] [CMD] /login xvvcxc
 [2026-07-05 20:18:29] [AuroraCity.kkwmc.cn] [CMD] /tpa zxz
+[2026-07-05 20:19:20] [AuroraCity.kkwmc.cn] [CHAT] 刀还有多少耐久
+[2026-07-05 20:20:53] [AuroraCity.kkwmc.cn] [CHAT] 怎么是满的
+[2026-07-05 20:21:13] [AuroraCity.kkwmc.cn] [CHAT] 666神了
