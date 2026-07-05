@@ -582,3 +582,6 @@
 [2026-07-05 22:02:18] [AuroraCity.kkwmc.cn] [CMD] /hat
 [2026-07-05 22:02:20] [AuroraCity.kkwmc.cn] [CMD] /hat
 [2026-07-05 22:02:24] [AuroraCity.kkwmc.cn] [CMD] /hat
+[2026-07-05 22:13:07] [AuroraCity.kkwmc.cn] [CMD] /home 3
+[2026-07-05 22:15:01] [AuroraCity.kkwmc.cn] [CHAT] 收拆卸3000一个
+[2026-07-05 22:18:26] [AuroraCity.kkwmc.cn] [CMD] /tpa WWZ
