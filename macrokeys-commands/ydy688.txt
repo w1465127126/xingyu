@@ -630,3 +630,6 @@
 [2026-07-05 22:35:25] [AuroraCity.kkwmc.cn] [CHAT] 杀我
 [2026-07-05 22:35:44] [AuroraCity.kkwmc.cn] [CMD] /back
 [2026-07-05 22:36:32] [AuroraCity.kkwmc.cn] [CHAT] 过来
+[2026-07-05 22:36:33] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-05 22:36:44] [AuroraCity.kkwmc.cn] [CHAT] WallE
+[2026-07-05 22:37:05] [AuroraCity.kkwmc.cn] [CMD] /tpahere WallE
