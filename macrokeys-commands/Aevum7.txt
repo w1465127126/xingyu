@@ -783,3 +783,6 @@
 [2026-07-05 19:49:43] [x6.sjcmc.cn:34054] [CMD] /home fb
 [2026-07-05 19:51:26] [x6.sjcmc.cn:34054] [CMD] /home fb
 [2026-07-05 19:53:09] [x6.sjcmc.cn:34054] [CMD] /home fb
+[2026-07-05 19:54:54] [x6.sjcmc.cn:34054] [CMD] /res tp fan
+[2026-07-05 19:55:00] [x6.sjcmc.cn:34054] [CMD] /res tp fan
+[2026-07-05 19:55:17] [x6.sjcmc.cn:34054] [CHAT] 好东西
