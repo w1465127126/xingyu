@@ -410,3 +410,6 @@
 [2026-07-05 15:53:12] [AuroraCity.kkwmc.cn] [CHAT] 我是说我等级才个位数
 [2026-07-05 15:53:30] [AuroraCity.kkwmc.cn] [CHAT] s啥啊怎么还有中毒
 [2026-07-05 15:53:57] [AuroraCity.kkwmc.cn] [CHAT] 饥饿值没了
+[2026-07-05 15:54:00] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-05 15:55:02] [AuroraCity.kkwmc.cn] [CHAT] 我的建议是
+[2026-07-05 15:55:50] [AuroraCity.kkwmc.cn] [CHAT] 装五个白值
