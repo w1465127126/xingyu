@@ -765,3 +765,6 @@
 [2026-07-05 23:47:20] [AuroraCity.kkwmc.cn] [CHAT] 这个是真好用
 [2026-07-05 23:48:10] [AuroraCity.kkwmc.cn] [CMD] /back
 [2026-07-05 23:48:13] [AuroraCity.kkwmc.cn] [CMD] /tpa LuckyMengYi
+[2026-07-05 23:49:18] [AuroraCity.kkwmc.cn] [CHAT] 这个赌场是没了吗
+[2026-07-05 23:51:08] [AuroraCity.kkwmc.cn] [CMD] /tpa LuckyMengYi
+[2026-07-05 23:51:59] [AuroraCity.kkwmc.cn] [CHAT] LuckyMengYi
