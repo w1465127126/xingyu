@@ -402,3 +402,6 @@
 [2026-07-05 16:38:55] [x6.sjcmc.cn:34054] [CMD] /back
 [2026-07-05 16:44:55] [x6.sjcmc.cn:34054] [CMD] /res tp d
 [2026-07-05 16:45:00] [x6.sjcmc.cn:34054] [CMD] /res tp s
+[2026-07-05 16:45:54] [x6.sjcmc.cn:34054] [CMD] /back
+[2026-07-05 16:45:57] [x6.sjcmc.cn:34054] [CHAT] awa
+[2026-07-05 16:47:12] [x6.sjcmc.cn:34054] [CMD] /res tp s
