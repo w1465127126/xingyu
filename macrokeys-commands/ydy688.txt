@@ -443,3 +443,6 @@
 [2026-07-05 16:03:38] [AuroraCity.kkwmc.cn] [CHAT] 因为攻速的事
 [2026-07-05 16:03:53] [AuroraCity.kkwmc.cn] [CHAT] 按理说是增加速度，但是因为没有基础数值
 [2026-07-05 16:04:52] [AuroraCity.kkwmc.cn] [CHAT] 展示出来
+[2026-07-05 16:05:01] [AuroraCity.kkwmc.cn] [CHAT] 刚才都能射远
+[2026-07-05 16:05:09] [AuroraCity.kkwmc.cn] [CHAT] 箭矢速度
+[2026-07-05 16:05:17] [AuroraCity.kkwmc.cn] [CHAT] 这不是还没卸吗
