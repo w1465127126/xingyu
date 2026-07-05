@@ -798,3 +798,6 @@
 [2026-07-06 01:28:03] [AuroraCity.kkwmc.cn] [CHAT] 终于停下来了
 [2026-07-06 01:28:14] [AuroraCity.kkwmc.cn] [CHAT] 教程上红石火把能停下来
 [2026-07-06 01:28:23] [AuroraCity.kkwmc.cn] [CHAT] 但是我放了之后就被打掉了
+[2026-07-06 01:29:21] [AuroraCity.kkwmc.cn] [CHAT] 有个粘液块好像bug了
+[2026-07-06 01:29:24] [AuroraCity.kkwmc.cn] [CHAT] 打不掉
+[2026-07-06 01:38:13] [AuroraCity.kkwmc.cn] [CMD] /home 3
