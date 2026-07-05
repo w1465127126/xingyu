@@ -7,3 +7,6 @@
 [2026-07-04 19:21:15] [x6.sjcmc.cn:34054] [CMD] /tpa __nba__
 [2026-07-04 19:25:26] [x6.sjcmc.cn:34054] [CMD] /home fb
 [2026-07-04 19:26:00] [x6.sjcmc.cn:34054] [CMD] /home jia
+[2026-07-05 18:21:14] [x6.sjcmc.cn:34054] [JOIN] 连接服务器: x6.sjcmc.cn:34054
+[2026-07-05 18:21:19] [x6.sjcmc.cn:34054] [CMD] /l wokaoa
+[2026-07-05 18:21:25] [x6.sjcmc.cn:34054] [CMD] /spawn
