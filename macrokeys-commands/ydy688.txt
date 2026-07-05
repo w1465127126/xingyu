@@ -654,3 +654,6 @@
 [2026-07-05 22:43:42] [AuroraCity.kkwmc.cn] [CMD] /back
 [2026-07-05 22:44:08] [AuroraCity.kkwmc.cn] [CHAT] [i]
 [2026-07-05 22:44:20] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-05 22:45:15] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-05 22:45:23] [AuroraCity.kkwmc.cn] [CHAT] 我都举盾了
+[2026-07-05 22:45:26] [AuroraCity.kkwmc.cn] [CMD] /back
