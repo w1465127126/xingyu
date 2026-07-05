@@ -552,3 +552,6 @@
 [2026-07-05 21:24:29] [AuroraCity.kkwmc.cn] [CMD] /back
 [2026-07-05 21:24:33] [AuroraCity.kkwmc.cn] [CMD] /warp 冒险者大厅
 [2026-07-05 21:26:19] [AuroraCity.kkwmc.cn] [CHAT] 我刚才一剑打了两万三？
+[2026-07-05 21:26:27] [AuroraCity.kkwmc.cn] [CMD] /home 1
+[2026-07-05 21:26:36] [AuroraCity.kkwmc.cn] [CMD] /home 1
+[2026-07-05 21:26:56] [AuroraCity.kkwmc.cn] [CMD] /home 1
