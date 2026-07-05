@@ -368,3 +368,6 @@
 [2026-07-05 14:57:12] [AuroraCity.kkwmc.cn] [CHAT] 我没在
 [2026-07-05 14:57:22] [AuroraCity.kkwmc.cn] [CHAT] 不想戴耳机
 [2026-07-05 15:00:26] [AuroraCity.kkwmc.cn] [CMD] /home 3
+[2026-07-05 15:03:30] [AuroraCity.kkwmc.cn] [CHAT] nba过来
+[2026-07-05 15:03:37] [AuroraCity.kkwmc.cn] [CMD] /tpahere __nba__
+[2026-07-05 15:03:50] [AuroraCity.kkwmc.cn] [CMD] /pvpt
