@@ -594,3 +594,6 @@
 [2026-07-05 22:20:44] [AuroraCity.kkwmc.cn] [CMD] /back
 [2026-07-05 22:20:49] [AuroraCity.kkwmc.cn] [CHAT] 还有这个
 [2026-07-05 22:21:09] [AuroraCity.kkwmc.cn] [CHAT] 怒之角
+[2026-07-05 22:21:18] [AuroraCity.kkwmc.cn] [CHAT] 你身上
+[2026-07-05 22:21:40] [AuroraCity.kkwmc.cn] [CHAT] 快去给我修
+[2026-07-05 22:22:21] [AuroraCity.kkwmc.cn] [CMD] /home 3
