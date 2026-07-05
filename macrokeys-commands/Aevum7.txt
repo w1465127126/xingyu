@@ -125,3 +125,7 @@
 [2026-07-04 22:07:20] [x6.sjcmc.cn:34054] [CMD] /ah
 [2026-07-04 22:07:29] [x6.sjcmc.cn:34054] [CMD] /ah
 [2026-07-04 22:07:33] [x6.sjcmc.cn:34054] [CMD] /ah
+[2026-07-04 22:10:35] [x6.sjcmc.cn:34054] [CMD] /tell zxz res tp shuatie
+[2026-07-05 10:04:35] [x6.sjcmc.cn:34054] [JOIN] 连接服务器: x6.sjcmc.cn:34054
+[2026-07-05 10:04:49] [x6.sjcmc.cn:34054] [CMD] /l wokaoa
+[2026-07-05 10:04:53] [x6.sjcmc.cn:34054] [CMD] /res tp d
