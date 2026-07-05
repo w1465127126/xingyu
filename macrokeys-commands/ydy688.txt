@@ -492,3 +492,6 @@
 [2026-07-05 20:48:14] [AuroraCity.kkwmc.cn] [CHAT] 刚才没炸
 [2026-07-05 20:48:16] [AuroraCity.kkwmc.cn] [CHAT] 现在炸了
 [2026-07-05 20:48:49] [AuroraCity.kkwmc.cn] [CHAT] 给我个拆卸
+[2026-07-05 20:50:25] [AuroraCity.kkwmc.cn] [CHAT] 炸就炸
+[2026-07-05 20:50:42] [AuroraCity.kkwmc.cn] [CHAT] 给你的铁砧没看见吗
+[2026-07-05 20:50:48] [AuroraCity.kkwmc.cn] [CMD] /tpa Aevum7
