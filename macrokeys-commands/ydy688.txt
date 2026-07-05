@@ -350,3 +350,6 @@
 [2026-07-05 14:30:49] [AuroraCity.kkwmc.cn] [CMD] /home 3
 [2026-07-05 14:31:18] [AuroraCity.kkwmc.cn] [CMD] /tpa zxz
 [2026-07-05 14:37:20] [AuroraCity.kkwmc.cn] [CMD] /warp 鹅斯拉
+[2026-07-05 14:37:31] [AuroraCity.kkwmc.cn] [CMD] /home 1
+[2026-07-05 14:37:51] [AuroraCity.kkwmc.cn] [CMD] /home 1
+[2026-07-05 14:37:54] [AuroraCity.kkwmc.cn] [CMD] /home 3
