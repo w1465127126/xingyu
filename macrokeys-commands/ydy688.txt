@@ -669,3 +669,6 @@
 [2026-07-05 22:49:10] [AuroraCity.kkwmc.cn] [CHAT] 多着呢
 [2026-07-05 22:49:58] [AuroraCity.kkwmc.cn] [CHAT] 我给你了铁砧护身符
 [2026-07-05 22:50:00] [AuroraCity.kkwmc.cn] [CHAT] 爆不了
+[2026-07-05 22:50:07] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-05 22:50:38] [AuroraCity.kkwmc.cn] [CHAT] t护身符呗
+[2026-07-05 22:51:01] [AuroraCity.kkwmc.cn] [CHAT] 你是不是傻
