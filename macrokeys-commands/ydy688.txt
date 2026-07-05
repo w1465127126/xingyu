@@ -618,3 +618,6 @@
 [2026-07-05 22:31:34] [AuroraCity.kkwmc.cn] [CMD] /tpa Aevum7
 [2026-07-05 22:31:47] [AuroraCity.kkwmc.cn] [CHAT] ??
 [2026-07-05 22:31:49] [AuroraCity.kkwmc.cn] [CHAT] Aevum7
+[2026-07-05 22:32:25] [AuroraCity.kkwmc.cn] [CMD] /tpa Aevum7
+[2026-07-05 22:33:04] [AuroraCity.kkwmc.cn] [CHAT] 坏了
+[2026-07-05 22:33:08] [AuroraCity.kkwmc.cn] [CHAT] 我也复活不了了
