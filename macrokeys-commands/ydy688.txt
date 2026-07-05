@@ -531,3 +531,6 @@
 [2026-07-05 21:07:59] [AuroraCity.kkwmc.cn] [CHAT] 这是把剑
 [2026-07-05 21:08:02] [AuroraCity.kkwmc.cn] [CMD] /tpa zxz
 [2026-07-05 21:08:31] [AuroraCity.kkwmc.cn] [CHAT] 体验卡到期了
+[2026-07-05 21:08:37] [AuroraCity.kkwmc.cn] [CHAT] 把剑给我
+[2026-07-05 21:08:47] [AuroraCity.kkwmc.cn] [CMD] /home 3
+[2026-07-05 21:08:51] [AuroraCity.kkwmc.cn] [CMD] /home 1
