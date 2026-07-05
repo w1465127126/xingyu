@@ -702,3 +702,6 @@
 [2026-07-05 23:03:50] [AuroraCity.kkwmc.cn] [CMD] /home 3
 [2026-07-05 23:11:30] [AuroraCity.kkwmc.cn] [CHAT] Aevum7
 [2026-07-05 23:11:48] [AuroraCity.kkwmc.cn] [CHAT] 我要羽毛，这ji怎么杀
+[2026-07-05 23:12:31] [AuroraCity.kkwmc.cn] [CMD] /hat
+[2026-07-05 23:12:34] [AuroraCity.kkwmc.cn] [CHAT] 不行
+[2026-07-05 23:13:12] [AuroraCity.kkwmc.cn] [CHAT] 为什么我戴不上
