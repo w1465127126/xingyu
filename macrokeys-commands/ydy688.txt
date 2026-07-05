@@ -603,3 +603,6 @@
 [2026-07-05 22:25:21] [AuroraCity.kkwmc.cn] [CHAT] 可惜是个垃圾
 [2026-07-05 22:25:23] [AuroraCity.kkwmc.cn] [CMD] /home 2
 [2026-07-05 22:26:31] [AuroraCity.kkwmc.cn] [CHAT] 玩玩
+[2026-07-05 22:27:51] [AuroraCity.kkwmc.cn] [CHAT] 伤害真一般
+[2026-07-05 22:28:02] [AuroraCity.kkwmc.cn] [CHAT] 抽到白值了吗
+[2026-07-05 22:28:34] [AuroraCity.kkwmc.cn] [CHAT] 你们卡吗
