@@ -759,3 +759,6 @@
 [2026-07-05 23:45:25] [AuroraCity.kkwmc.cn] [CHAT] 真的没了
 [2026-07-05 23:45:35] [AuroraCity.kkwmc.cn] [CHAT] 有了有了
 [2026-07-05 23:45:41] [AuroraCity.kkwmc.cn] [CHAT] 点了一下这个包裹就有了
+[2026-07-05 23:45:44] [AuroraCity.kkwmc.cn] [CHAT] 卡没了
+[2026-07-05 23:45:57] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-05 23:47:17] [AuroraCity.kkwmc.cn] [CHAT] 这个好用
