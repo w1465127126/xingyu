@@ -792,3 +792,6 @@
 [2026-07-06 01:06:32] [AuroraCity.kkwmc.cn] [CHAT] 牛不牛
 [2026-07-06 01:16:06] [AuroraCity.kkwmc.cn] [CMD] /home 3
 [2026-07-06 01:24:55] [AuroraCity.kkwmc.cn] [CMD] /tpahere Aevum7
+[2026-07-06 01:25:37] [AuroraCity.kkwmc.cn] [CHAT] 666停不下来了
+[2026-07-06 01:25:47] [AuroraCity.kkwmc.cn] [CHAT] 怎么停啊
+[2026-07-06 01:27:03] [AuroraCity.kkwmc.cn] [CHAT] 不对啊
