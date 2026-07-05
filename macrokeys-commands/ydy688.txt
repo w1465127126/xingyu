@@ -558,3 +558,6 @@
 [2026-07-05 21:27:00] [AuroraCity.kkwmc.cn] [CMD] /home 2
 [2026-07-05 21:29:08] [AuroraCity.kkwmc.cn] [CMD] /back
 [2026-07-05 21:30:30] [AuroraCity.kkwmc.cn] [CMD] /home 3
+[2026-07-05 21:30:57] [AuroraCity.kkwmc.cn] [CHAT] [i]
+[2026-07-05 21:37:09] [AuroraCity.kkwmc.cn] [CMD] /warp 鹅斯拉
+[2026-07-05 21:37:19] [AuroraCity.kkwmc.cn] [CMD] /warp 末地世界
