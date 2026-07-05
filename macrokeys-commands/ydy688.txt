@@ -609,3 +609,6 @@
 [2026-07-05 22:28:38] [AuroraCity.kkwmc.cn] [CHAT] 刚才我这边炸了
 [2026-07-05 22:29:10] [AuroraCity.kkwmc.cn] [JOIN] 连接服务器: AuroraCity.kkwmc.cn
 [2026-07-05 22:29:15] [AuroraCity.kkwmc.cn] [CMD] /login xvvcxc
+[2026-07-05 22:29:20] [AuroraCity.kkwmc.cn] [CHAT] 神饿了
+[2026-07-05 22:29:33] [AuroraCity.kkwmc.cn] [CHAT] 拿这些rpg武器右键人，可以打开所有界面
+[2026-07-05 22:29:41] [AuroraCity.kkwmc.cn] [CHAT] 刚才一瞬间给我跳转了几百个界面
