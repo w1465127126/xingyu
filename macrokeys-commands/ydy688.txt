@@ -528,3 +528,6 @@
 [2026-07-05 21:07:23] [AuroraCity.kkwmc.cn] [CHAT] []i
 [2026-07-05 21:07:28] [AuroraCity.kkwmc.cn] [CHAT] [i]
 [2026-07-05 21:07:30] [AuroraCity.kkwmc.cn] [CHAT] 这是什么
+[2026-07-05 21:07:59] [AuroraCity.kkwmc.cn] [CHAT] 这是把剑
+[2026-07-05 21:08:02] [AuroraCity.kkwmc.cn] [CMD] /tpa zxz
+[2026-07-05 21:08:31] [AuroraCity.kkwmc.cn] [CHAT] 体验卡到期了
