@@ -431,3 +431,6 @@
 [2026-07-05 16:00:58] [AuroraCity.kkwmc.cn] [CHAT] 高了就不好试了
 [2026-07-05 16:01:17] [AuroraCity.kkwmc.cn] [CHAT] 这是暴击了吧
 [2026-07-05 16:01:21] [AuroraCity.kkwmc.cn] [CHAT] 有暴击率吗
+[2026-07-05 16:01:23] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-05 16:01:37] [AuroraCity.kkwmc.cn] [CHAT] 给我看看
+[2026-07-05 16:01:55] [AuroraCity.kkwmc.cn] [CHAT] 是触发暴击了
