@@ -708,3 +708,6 @@
 [2026-07-05 23:14:46] [AuroraCity.kkwmc.cn] [CHAT] WallE
 [2026-07-05 23:14:50] [AuroraCity.kkwmc.cn] [CHAT] 你怎么戴上的
 [2026-07-05 23:17:56] [AuroraCity.kkwmc.cn] [CMD] /hat
+[2026-07-05 23:18:00] [AuroraCity.kkwmc.cn] [CMD] /hat
+[2026-07-05 23:19:20] [AuroraCity.kkwmc.cn] [CMD] /home 3
+[2026-07-05 23:19:23] [AuroraCity.kkwmc.cn] [CMD] /home 1
