@@ -2192,3 +2192,6 @@
 [2026-07-06 17:27:06] [happycraft.cc] [CMD] /reg wokaoa wokaoa 544128
 [2026-07-06 17:27:20] [happycraft.cc] [JOIN] 连接服务器: happycraft.cc
 [2026-07-06 17:27:31] [happycraft.cc] [JOIN] 连接服务器: happycraft.cc
+[2026-07-06 17:30:31] [happycraft.cc] [CMD] /warp 生存世界
+[2026-07-06 17:30:34] [happycraft.cc] [CMD] /rtp
+[2026-07-06 17:30:52] [happycraft.cc] [CMD] /rtp
