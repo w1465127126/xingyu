@@ -924,3 +924,6 @@
 [2026-07-06 11:29:15] [AuroraCity.kkwmc.cn] [CHAT] 技能的反伤吗
 [2026-07-06 11:29:21] [AuroraCity.kkwmc.cn] [CHAT] 没有啊
 [2026-07-06 11:29:30] [AuroraCity.kkwmc.cn] [CHAT] 就一个皮革帽子
+[2026-07-06 11:29:36] [AuroraCity.kkwmc.cn] [CHAT] 特效没显示是吧
+[2026-07-06 11:29:39] [AuroraCity.kkwmc.cn] [CHAT] 给我看看
+[2026-07-06 11:29:54] [AuroraCity.kkwmc.cn] [CHAT] 这些rpg装备的护甲值也都是假的
