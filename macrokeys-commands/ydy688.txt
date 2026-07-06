@@ -861,3 +861,6 @@
 [2026-07-06 11:07:16] [AuroraCity.kkwmc.cn] [CHAT] 这个又没灵魂和逆势
 [2026-07-06 11:07:23] [AuroraCity.kkwmc.cn] [CHAT] 怎么可能这么疼
 [2026-07-06 11:08:50] [AuroraCity.kkwmc.cn] [CHAT] 你拿脚本刷的吗
+[2026-07-06 11:09:12] [AuroraCity.kkwmc.cn] [CHAT] 有多材料吗
+[2026-07-06 11:09:18] [AuroraCity.kkwmc.cn] [CMD] /home 3
+[2026-07-06 11:09:43] [AuroraCity.kkwmc.cn] [CHAT] 护甲不够
