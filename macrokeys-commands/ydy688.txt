@@ -1192,3 +1192,6 @@
 [2026-07-06 21:47:22] [AuroraCity.kkwmc.cn] [CHAT] 这怎么死的
 [2026-07-06 21:47:24] [AuroraCity.kkwmc.cn] [CMD] /back
 [2026-07-06 21:47:59] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-06 21:48:30] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-06 21:49:03] [AuroraCity.kkwmc.cn] [CMD] /backl
+[2026-07-06 21:49:04] [AuroraCity.kkwmc.cn] [CMD] /back
