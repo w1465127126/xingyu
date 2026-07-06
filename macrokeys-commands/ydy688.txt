@@ -1054,3 +1054,6 @@
 [2026-07-06 20:49:28] [AuroraCity.kkwmc.cn] [CMD] /back
 [2026-07-06 20:50:07] [AuroraCity.kkwmc.cn] [JOIN] 连接服务器: AuroraCity.kkwmc.cn
 [2026-07-06 20:50:18] [AuroraCity.kkwmc.cn] [CMD] /login xvvcxc
+[2026-07-06 20:52:22] [AuroraCity.kkwmc.cn] [CHAT] 猜猜一刀能打多少
+[2026-07-06 20:52:47] [AuroraCity.kkwmc.cn] [CHAT] 两万三
+[2026-07-06 20:56:18] [AuroraCity.kkwmc.cn] [JOIN] 连接服务器: AuroraCity.kkwmc.cn
