@@ -1162,3 +1162,6 @@
 [2026-07-06 21:34:53] [AuroraCity.kkwmc.cn] [CHAT] ？？
 [2026-07-06 21:34:59] [AuroraCity.kkwmc.cn] [CHAT] 不要削我的剑啊
 [2026-07-06 21:36:18] [AuroraCity.kkwmc.cn] [CHAT] 看见没一刀爆
+[2026-07-06 21:36:28] [AuroraCity.kkwmc.cn] [CHAT] 打个耐久十也就三下的事
+[2026-07-06 21:36:34] [AuroraCity.kkwmc.cn] [CHAT] 太弱了
+[2026-07-06 21:36:58] [AuroraCity.kkwmc.cn] [CHAT] 耐久十好造
