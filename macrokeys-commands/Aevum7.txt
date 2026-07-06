@@ -2069,3 +2069,6 @@
 [2026-07-06 15:21:55] [x6.sjcmc.cn:34054] [CMD] /tpa mao_yao
 [2026-07-06 15:22:30] [x6.sjcmc.cn:34054] [CHAT] 好家伙你就整上货运了
 [2026-07-06 15:22:49] [x6.sjcmc.cn:34054] [CHAT] res tp gz
+[2026-07-06 15:22:51] [x6.sjcmc.cn:34054] [CMD] /res tp gz
+[2026-07-06 15:23:06] [x6.sjcmc.cn:34054] [CMD] /tpahere mao_yao
+[2026-07-06 15:23:27] [x6.sjcmc.cn:34054] [CHAT] 掏武器
