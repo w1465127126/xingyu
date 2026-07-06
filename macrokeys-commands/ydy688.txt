@@ -855,3 +855,6 @@
 [2026-07-06 11:05:24] [AuroraCity.kkwmc.cn] [CHAT] 之前也这么快
 [2026-07-06 11:05:26] [AuroraCity.kkwmc.cn] [CHAT] 傻福
 [2026-07-06 11:06:00] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-06 11:06:18] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-06 11:06:41] [AuroraCity.kkwmc.cn] [CHAT] 凭什么扛不住
+[2026-07-06 11:06:49] [AuroraCity.kkwmc.cn] [CHAT] 本来就不扣血吧
