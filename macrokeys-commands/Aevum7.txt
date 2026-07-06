@@ -2265,3 +2265,6 @@
 [2026-07-07 00:21:19] [mc.lumiomc.top] [JOIN] 连接服务器: mc.lumiomc.top
 [2026-07-07 00:21:22] [mc.lumiomc.top] [CMD] /res tp fan
 [2026-07-07 00:21:27] [mc.lumiomc.top] [CMD] /res tp fan
+[2026-07-07 00:46:46] [mc.lumiomc.top] [CMD] /res expand fan 3
+[2026-07-07 00:50:08] [mc.lumiomc.top] [CMD] /sethome jia
+[2026-07-07 00:54:04] [mc.lumiomc.top] [JOIN] 连接服务器: mc.lumiomc.top
