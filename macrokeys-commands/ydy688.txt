@@ -813,3 +813,6 @@
 [2026-07-06 10:47:57] [AuroraCity.kkwmc.cn] [CHAT] 装上了
 [2026-07-06 10:48:22] [AuroraCity.kkwmc.cn] [CHAT] 等下再给我看看
 [2026-07-06 10:48:49] [AuroraCity.kkwmc.cn] [CHAT] 不可能是无限
+[2026-07-06 10:49:30] [AuroraCity.kkwmc.cn] [CHAT] 你身上都没东西了啊
+[2026-07-06 10:50:03] [AuroraCity.kkwmc.cn] [CMD] /tpa Aevum7
+[2026-07-06 10:51:09] [AuroraCity.kkwmc.cn] [CHAT] 你的剑给我
