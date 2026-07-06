@@ -1327,3 +1327,6 @@
 [2026-07-06 22:43:00] [AuroraCity.kkwmc.cn] [CMD] /sf guide
 [2026-07-06 22:43:11] [AuroraCity.kkwmc.cn] [CMD] /tpa LuckyMengYi
 [2026-07-06 22:43:46] [AuroraCity.kkwmc.cn] [CMD] /tpa huiji
+[2026-07-06 22:43:53] [AuroraCity.kkwmc.cn] [CMD] /tpa Jaek
+[2026-07-06 22:43:55] [AuroraCity.kkwmc.cn] [CMD] /tpa app
+[2026-07-06 22:44:27] [AuroraCity.kkwmc.cn] [CHAT] 按shift加+f
