@@ -1174,3 +1174,6 @@
 [2026-07-06 21:40:11] [AuroraCity.kkwmc.cn] [CHAT] [i]
 [2026-07-06 21:40:29] [AuroraCity.kkwmc.cn] [CHAT] 斩首示众
 [2026-07-06 21:41:03] [AuroraCity.kkwmc.cn] [CHAT] 扔给他了
+[2026-07-06 21:41:34] [AuroraCity.kkwmc.cn] [CHAT] 有蜘蛛打你
+[2026-07-06 21:42:07] [AuroraCity.kkwmc.cn] [CHAT] 诶把头给我我留着吧
+[2026-07-06 21:42:14] [AuroraCity.kkwmc.cn] [CMD] /tpa WallE
