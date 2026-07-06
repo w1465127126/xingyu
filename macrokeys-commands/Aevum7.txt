@@ -2195,3 +2195,6 @@
 [2026-07-06 17:30:31] [happycraft.cc] [CMD] /warp 生存世界
 [2026-07-06 17:30:34] [happycraft.cc] [CMD] /rtp
 [2026-07-06 17:30:52] [happycraft.cc] [CMD] /rtp
+[2026-07-06 19:51:04] [x6.sjcmc.cn:34054] [JOIN] 连接服务器: x6.sjcmc.cn:34054
+[2026-07-06 19:51:09] [x6.sjcmc.cn:34054] [CMD] /l wokaoa
+[2026-07-06 19:53:43] [x6.sjcmc.cn:34054] [CHAT] 咋了
