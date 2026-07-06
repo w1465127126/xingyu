@@ -2180,3 +2180,6 @@
 [2026-07-06 16:59:09] [paopaomc.fun] [JOIN] 连接服务器: paopaomc.fun
 [2026-07-06 16:59:22] [paopaomc.fun] [CMD] /back
 [2026-07-06 17:09:09] [mcyyy.cc] [JOIN] 连接服务器: mcyyy.cc
+[2026-07-06 17:10:16] [mcyyy.cc] [JOIN] 连接服务器: mcyyy.cc
+[2026-07-06 17:15:27] [mcyyy.cc] [JOIN] 连接服务器: mcyyy.cc
+[2026-07-06 17:16:34] [mcyyy.cc] [JOIN] 连接服务器: mcyyy.cc
