@@ -1135,3 +1135,6 @@
 [2026-07-06 21:27:30] [AuroraCity.kkwmc.cn] [CMD] /tpahere WallE
 [2026-07-06 21:27:35] [AuroraCity.kkwmc.cn] [CHAT] 开pvp
 [2026-07-06 21:27:59] [AuroraCity.kkwmc.cn] [CHAT] 刚才没附魔
+[2026-07-06 21:28:04] [AuroraCity.kkwmc.cn] [CHAT] 刚附上
+[2026-07-06 21:28:26] [AuroraCity.kkwmc.cn] [CHAT] 耐久没掉
+[2026-07-06 21:28:32] [AuroraCity.kkwmc.cn] [CHAT] 反弹伤害
