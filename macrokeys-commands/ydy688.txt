@@ -1390,3 +1390,6 @@
 [2026-07-06 23:04:31] [AuroraCity.kkwmc.cn] [CHAT] 我不小心卸魔了
 [2026-07-06 23:05:22] [AuroraCity.kkwmc.cn] [CMD] /hat
 [2026-07-06 23:05:28] [AuroraCity.kkwmc.cn] [CHAT] 怪好看的
+[2026-07-06 23:06:17] [AuroraCity.kkwmc.cn] [CHAT] 公告把我名也写上去
+[2026-07-06 23:06:25] [AuroraCity.kkwmc.cn] [CHAT] 然后给我美美发个称号
+[2026-07-06 23:07:12] [AuroraCity.kkwmc.cn] [CHAT] 干嘛呢
