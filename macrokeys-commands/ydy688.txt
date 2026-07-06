@@ -870,3 +870,6 @@
 [2026-07-06 11:11:10] [AuroraCity.kkwmc.cn] [CMD] /back
 [2026-07-06 11:11:30] [AuroraCity.kkwmc.cn] [CMD] /back
 [2026-07-06 11:12:18] [AuroraCity.kkwmc.cn] [CHAT] 这么稀有你给打死了
+[2026-07-06 11:12:30] [AuroraCity.kkwmc.cn] [CHAT] 你要打的
+[2026-07-06 11:12:59] [AuroraCity.kkwmc.cn] [CMD] /tpa Aevum7
+[2026-07-06 11:13:58] [AuroraCity.kkwmc.cn] [CMD] /home 3
