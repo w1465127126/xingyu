@@ -2250,3 +2250,6 @@
 [2026-07-07 00:20:08] [mc.lumiomc.top] [CMD] /res tp stj
 [2026-07-07 00:20:13] [mc.lumiomc.top] [CMD] /res tp 刷铁
 [2026-07-07 00:20:16] [mc.lumiomc.top] [CMD] /res tp shuatieji
+[2026-07-07 00:20:18] [mc.lumiomc.top] [CMD] /res tp fm
+[2026-07-07 00:20:21] [mc.lumiomc.top] [CMD] /res tp fumo
+[2026-07-07 00:20:24] [mc.lumiomc.top] [CMD] /res tp fmt
