@@ -1483,3 +1483,6 @@
 [2026-07-06 23:42:38] [AuroraCity.kkwmc.cn] [CMD] /home 4
 [2026-07-06 23:43:52] [AuroraCity.kkwmc.cn] [CMD] /back
 [2026-07-06 23:44:09] [AuroraCity.kkwmc.cn] [CMD] /tpa Jaek
+[2026-07-06 23:45:06] [AuroraCity.kkwmc.cn] [CHAT] 666有钱圈地了
+[2026-07-06 23:45:15] [AuroraCity.kkwmc.cn] [CHAT] 一般吧
+[2026-07-06 23:45:20] [AuroraCity.kkwmc.cn] [CHAT] 只有种地的
