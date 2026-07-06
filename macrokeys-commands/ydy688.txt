@@ -879,3 +879,6 @@
 [2026-07-06 11:17:49] [AuroraCity.kkwmc.cn] [CMD] /home 3
 [2026-07-06 11:18:18] [AuroraCity.kkwmc.cn] [CHAT] 修什么
 [2026-07-06 11:18:25] [AuroraCity.kkwmc.cn] [CHAT] 总不能修耐久吧
+[2026-07-06 11:18:45] [AuroraCity.kkwmc.cn] [CHAT] 永森之心还有吗
+[2026-07-06 11:18:48] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-06 11:19:03] [AuroraCity.kkwmc.cn] [CHAT] [i]
