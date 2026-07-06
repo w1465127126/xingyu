@@ -1510,3 +1510,6 @@
 [2026-07-06 23:55:19] [AuroraCity.kkwmc.cn] [CMD] /tpa huiji
 [2026-07-06 23:56:00] [AuroraCity.kkwmc.cn] [CHAT] WWZ
 [2026-07-06 23:56:08] [AuroraCity.kkwmc.cn] [CHAT] 试试新抽的盾有耐久吗
+[2026-07-06 23:56:23] [AuroraCity.kkwmc.cn] [CHAT] 你试试就知道了
+[2026-07-06 23:56:43] [AuroraCity.kkwmc.cn] [CHAT] 你是外国人吗
+[2026-07-06 23:56:58] [AuroraCity.kkwmc.cn] [CMD] /pvpt
