@@ -1354,3 +1354,6 @@
 [2026-07-06 22:55:16] [AuroraCity.kkwmc.cn] [CHAT] 解锁了吗
 [2026-07-06 22:55:26] [AuroraCity.kkwmc.cn] [CHAT] 魔法装备里
 [2026-07-06 22:55:29] [AuroraCity.kkwmc.cn] [CHAT] 解锁去
+[2026-07-06 22:55:52] [AuroraCity.kkwmc.cn] [CHAT] ./sf guide
+[2026-07-06 22:55:56] [AuroraCity.kkwmc.cn] [CHAT] 直接获取一本书
+[2026-07-06 22:56:59] [AuroraCity.kkwmc.cn] [CHAT] 你干啥
