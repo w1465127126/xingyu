@@ -1396,3 +1396,6 @@
 [2026-07-06 23:07:33] [AuroraCity.kkwmc.cn] [CHAT] 死不掉气不气
 [2026-07-06 23:07:41] [AuroraCity.kkwmc.cn] [CHAT] 工会解散了
 [2026-07-06 23:08:44] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-06 23:09:09] [AuroraCity.kkwmc.cn] [CMD] /home 3
+[2026-07-06 23:09:39] [AuroraCity.kkwmc.cn] [CHAT] 你们加光影了吗
+[2026-07-06 23:09:44] [AuroraCity.kkwmc.cn] [CHAT] 不认识
