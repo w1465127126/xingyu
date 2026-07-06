@@ -2256,3 +2256,6 @@
 [2026-07-07 00:20:31] [mc.lumiomc.top] [CMD] /res list add
 [2026-07-07 00:20:33] [mc.lumiomc.top] [CMD] /res list apply
 [2026-07-07 00:20:38] [mc.lumiomc.top] [CMD] /res list set
+[2026-07-07 00:20:43] [mc.lumiomc.top] [CMD] /res list
+[2026-07-07 00:20:50] [mc.lumiomc.top] [CMD] /res list ssa
+[2026-07-07 00:20:54] [mc.lumiomc.top] [CMD] /res list ssaku
