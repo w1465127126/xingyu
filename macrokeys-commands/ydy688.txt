@@ -867,3 +867,6 @@
 [2026-07-06 11:10:06] [AuroraCity.kkwmc.cn] [CHAT] 能抗小怪啊
 [2026-07-06 11:10:29] [AuroraCity.kkwmc.cn] [CHAT] 我靠来
 [2026-07-06 11:10:41] [AuroraCity.kkwmc.cn] [CHAT] 快来
+[2026-07-06 11:11:10] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-06 11:11:30] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-06 11:12:18] [AuroraCity.kkwmc.cn] [CHAT] 这么稀有你给打死了
