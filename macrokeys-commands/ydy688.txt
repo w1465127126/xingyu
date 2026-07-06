@@ -918,3 +918,6 @@
 [2026-07-06 11:27:32] [AuroraCity.kkwmc.cn] [CMD] /res tp gz
 [2026-07-06 11:27:42] [AuroraCity.kkwmc.cn] [CHAT] ?
 [2026-07-06 11:28:04] [AuroraCity.kkwmc.cn] [CHAT] 不用吧
+[2026-07-06 11:28:38] [AuroraCity.kkwmc.cn] [CHAT] 这不就行
+[2026-07-06 11:28:44] [AuroraCity.kkwmc.cn] [CHAT] 都怪你装荆棘
+[2026-07-06 11:28:47] [AuroraCity.kkwmc.cn] [CHAT] 把你自己围起来
