@@ -1450,3 +1450,6 @@
 [2026-07-06 23:29:39] [AuroraCity.kkwmc.cn] [CMD] /bck
 [2026-07-06 23:29:41] [AuroraCity.kkwmc.cn] [CMD] /back
 [2026-07-06 23:29:46] [AuroraCity.kkwmc.cn] [CMD] /pvpt
+[2026-07-06 23:29:58] [AuroraCity.kkwmc.cn] [CHAT] 拳套普攻怎么样啊
+[2026-07-06 23:30:23] [AuroraCity.kkwmc.cn] [CHAT] 我咋没用到这个技能
+[2026-07-06 23:31:51] [AuroraCity.kkwmc.cn] [CHAT] 杀生啊
