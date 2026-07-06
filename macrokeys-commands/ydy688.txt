@@ -933,3 +933,6 @@
 [2026-07-06 11:31:46] [AuroraCity.kkwmc.cn] [CHAT] 我把护身符拿下来了
 [2026-07-06 11:32:21] [AuroraCity.kkwmc.cn] [CHAT] 停停
 [2026-07-06 11:33:05] [AuroraCity.kkwmc.cn] [CHAT] 加是加，但是后面伤害太高了
+[2026-07-06 11:33:13] [AuroraCity.kkwmc.cn] [CHAT] 搞个饱和的信标吧
+[2026-07-06 11:33:27] [AuroraCity.kkwmc.cn] [CHAT] 你把我围起来不就行了
+[2026-07-06 11:33:34] [AuroraCity.kkwmc.cn] [CHAT] 拿永清打
