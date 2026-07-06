@@ -1249,3 +1249,6 @@
 [2026-07-06 22:03:25] [AuroraCity.kkwmc.cn] [CHAT] [i]
 [2026-07-06 22:03:29] [AuroraCity.kkwmc.cn] [CHAT] 这个也能复制吗
 [2026-07-06 22:04:13] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-06 22:04:18] [AuroraCity.kkwmc.cn] [CMD] /home 3
+[2026-07-06 22:06:15] [AuroraCity.kkwmc.cn] [CHAT] [i]
+[2026-07-06 22:06:18] [AuroraCity.kkwmc.cn] [CHAT] 这个怎么复制
