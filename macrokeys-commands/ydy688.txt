@@ -1456,3 +1456,6 @@
 [2026-07-06 23:32:03] [AuroraCity.kkwmc.cn] [CMD] /tpa LuckyMengYi
 [2026-07-06 23:32:35] [AuroraCity.kkwmc.cn] [CHAT] 给我吃点
 [2026-07-06 23:34:24] [AuroraCity.kkwmc.cn] [CMD] /tpa huiji
+[2026-07-06 23:34:27] [AuroraCity.kkwmc.cn] [CMD] /tpa Jaek
+[2026-07-06 23:34:36] [AuroraCity.kkwmc.cn] [CHAT] app呢
+[2026-07-06 23:34:47] [AuroraCity.kkwmc.cn] [CMD] /home 3
