@@ -891,3 +891,6 @@
 [2026-07-06 11:20:53] [AuroraCity.kkwmc.cn] [CHAT] 帽子我昨天也说过了
 [2026-07-06 11:20:59] [AuroraCity.kkwmc.cn] [CHAT] 咱们也能hat
 [2026-07-06 11:21:57] [AuroraCity.kkwmc.cn] [CMD] /skin
+[2026-07-06 11:21:59] [AuroraCity.kkwmc.cn] [CMD] /skins
+[2026-07-06 11:22:57] [AuroraCity.kkwmc.cn] [CHAT] 来帮我刷刷防御
+[2026-07-06 11:23:12] [AuroraCity.kkwmc.cn] [CHAT] 防御怎么刷
