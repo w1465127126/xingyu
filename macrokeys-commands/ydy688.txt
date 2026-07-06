@@ -978,3 +978,6 @@
 [2026-07-06 11:49:56] [AuroraCity.kkwmc.cn] [CMD] /back
 [2026-07-06 11:51:11] [AuroraCity.kkwmc.cn] [CHAT] 还歹是艾斯法
 [2026-07-06 11:51:43] [AuroraCity.kkwmc.cn] [CHAT] 诶呀你感觉把装备给我拿钻石剑挂
+[2026-07-06 11:52:15] [AuroraCity.kkwmc.cn] [CHAT] 副本慢死了
+[2026-07-06 11:52:20] [AuroraCity.kkwmc.cn] [CHAT] 钻石剑一下22
+[2026-07-06 11:52:37] [AuroraCity.kkwmc.cn] [CHAT] 我装备会爆啊
