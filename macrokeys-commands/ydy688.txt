@@ -954,3 +954,6 @@
 [2026-07-06 11:41:41] [AuroraCity.kkwmc.cn] [CMD] /res tp gz
 [2026-07-06 11:41:50] [AuroraCity.kkwmc.cn] [CMD] /tpahere Aevum7
 [2026-07-06 11:41:56] [AuroraCity.kkwmc.cn] [CHAT] 怪找不到我啊
+[2026-07-06 11:42:09] [AuroraCity.kkwmc.cn] [CHAT] 这个加的多
+[2026-07-06 11:42:14] [AuroraCity.kkwmc.cn] [CHAT] 一下二十
+[2026-07-06 11:42:28] [AuroraCity.kkwmc.cn] [CHAT] 还是二十
