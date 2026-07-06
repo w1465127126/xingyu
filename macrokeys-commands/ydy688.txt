@@ -1024,3 +1024,6 @@
 [2026-07-06 20:21:02] [AuroraCity.kkwmc.cn] [CMD] /warp 冒险者大厅
 [2026-07-06 20:23:06] [AuroraCity.kkwmc.cn] [CMD] /res tp ss
 [2026-07-06 20:23:56] [AuroraCity.kkwmc.cn] [CMD] /tpa LuckyMengYi
+[2026-07-06 20:25:12] [AuroraCity.kkwmc.cn] [CHAT] 干啥呢
+[2026-07-06 20:25:30] [AuroraCity.kkwmc.cn] [CHAT] 鱼塔不是有
+[2026-07-06 20:25:36] [AuroraCity.kkwmc.cn] [CMD] /res tp yt
