@@ -1495,3 +1495,6 @@
 [2026-07-06 23:50:07] [AuroraCity.kkwmc.cn] [CHAT] 这个游戏可以加语音
 [2026-07-06 23:50:12] [AuroraCity.kkwmc.cn] [CHAT] 群里有mod
 [2026-07-06 23:50:20] [AuroraCity.kkwmc.cn] [CMD] /warp 鹅斯拉
+[2026-07-06 23:50:42] [AuroraCity.kkwmc.cn] [CHAT] 啥情况
+[2026-07-06 23:50:55] [AuroraCity.kkwmc.cn] [CMD] /tpa Jaek
+[2026-07-06 23:51:06] [AuroraCity.kkwmc.cn] [CHAT] 蛐蛐大鹅
