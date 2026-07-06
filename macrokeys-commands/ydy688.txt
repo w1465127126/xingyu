@@ -1060,3 +1060,6 @@
 [2026-07-06 20:56:24] [AuroraCity.kkwmc.cn] [CMD] /login xvvcxc
 [2026-07-06 20:56:48] [AuroraCity.kkwmc.cn] [CHAT] 飞升了
 [2026-07-06 20:57:09] [AuroraCity.kkwmc.cn] [CHAT] 利用打非pvp玩家会被击退的特性
+[2026-07-06 20:57:37] [AuroraCity.kkwmc.cn] [CHAT] 持续性伤害就会这样
+[2026-07-06 20:57:55] [AuroraCity.kkwmc.cn] [CHAT] 你输入/pvpt
+[2026-07-06 20:57:58] [AuroraCity.kkwmc.cn] [CMD] /pvpt
