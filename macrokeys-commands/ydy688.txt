@@ -1336,3 +1336,6 @@
 [2026-07-06 22:46:43] [AuroraCity.kkwmc.cn] [CHAT] 攻击速度0.1
 [2026-07-06 22:46:59] [AuroraCity.kkwmc.cn] [CHAT] 对于没攻击速度这个属性的rpg武器，会让攻速变成0.1
 [2026-07-06 22:47:16] [AuroraCity.kkwmc.cn] [CHAT] [i]
+[2026-07-06 22:47:57] [AuroraCity.kkwmc.cn] [CHAT] 那个箭矢速度的宝石同理
+[2026-07-06 22:48:53] [AuroraCity.kkwmc.cn] [CHAT] 你能直接变成头盔模型吗
+[2026-07-06 22:49:23] [AuroraCity.kkwmc.cn] [CHAT] 幻翼手办要不要
