@@ -972,3 +972,6 @@
 [2026-07-06 11:45:59] [AuroraCity.kkwmc.cn] [CHAT] 没打到
 [2026-07-06 11:46:20] [AuroraCity.kkwmc.cn] [CMD] /home 3
 [2026-07-06 11:46:32] [AuroraCity.kkwmc.cn] [CMD] /warp 冒险者大厅
+[2026-07-06 11:47:44] [AuroraCity.kkwmc.cn] [CHAT] 马上绝版了
+[2026-07-06 11:47:50] [AuroraCity.kkwmc.cn] [CHAT] 赶紧收藏
+[2026-07-06 11:49:42] [AuroraCity.kkwmc.cn] [CHAT] 深渊都是垃圾小怪
