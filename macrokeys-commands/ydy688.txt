@@ -822,3 +822,6 @@
 [2026-07-06 10:52:23] [AuroraCity.kkwmc.cn] [CMD] /back
 [2026-07-06 10:53:07] [AuroraCity.kkwmc.cn] [CHAT] 给我看看
 [2026-07-06 10:53:42] [AuroraCity.kkwmc.cn] [CHAT] 假的吧
+[2026-07-06 10:54:04] [AuroraCity.kkwmc.cn] [CHAT] 我估计是耐久没算上
+[2026-07-06 10:54:12] [AuroraCity.kkwmc.cn] [CHAT] 还能砍十倍
+[2026-07-06 10:54:15] [AuroraCity.kkwmc.cn] [CHAT] 然后再保
