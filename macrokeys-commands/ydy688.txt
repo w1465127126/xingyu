@@ -1315,3 +1315,6 @@
 [2026-07-06 22:37:07] [AuroraCity.kkwmc.cn] [CHAT] 无限耐久了
 [2026-07-06 22:37:20] [AuroraCity.kkwmc.cn] [CMD] /home 3
 [2026-07-06 22:37:28] [AuroraCity.kkwmc.cn] [CMD] /home 1
+[2026-07-06 22:37:39] [AuroraCity.kkwmc.cn] [CHAT] 我没举盾刚才
+[2026-07-06 22:37:55] [AuroraCity.kkwmc.cn] [CHAT] 你的盾有耐久
+[2026-07-06 22:38:00] [AuroraCity.kkwmc.cn] [CHAT] 一刀就爆了
