@@ -1420,3 +1420,6 @@
 [2026-07-06 23:15:42] [AuroraCity.kkwmc.cn] [CMD] /tpa zxz
 [2026-07-06 23:16:15] [AuroraCity.kkwmc.cn] [CHAT] 拿着那个帽子
 [2026-07-06 23:16:19] [AuroraCity.kkwmc.cn] [CHAT] ./hat
+[2026-07-06 23:19:19] [AuroraCity.kkwmc.cn] [CHAT] qunzu
+[2026-07-06 23:23:06] [AuroraCity.kkwmc.cn] [CMD] /home 3
+[2026-07-06 23:23:21] [AuroraCity.kkwmc.cn] [CMD] /home 3
