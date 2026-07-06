@@ -1048,3 +1048,6 @@
 [2026-07-06 20:47:03] [AuroraCity.kkwmc.cn] [CMD] /tpa app
 [2026-07-06 20:48:33] [AuroraCity.kkwmc.cn] [CHAT] 你是哥哥还是妹妹啊
 [2026-07-06 20:48:58] [AuroraCity.kkwmc.cn] [CMD] /warp 鹅斯拉
+[2026-07-06 20:49:11] [AuroraCity.kkwmc.cn] [CHAT] 6666
+[2026-07-06 20:49:14] [AuroraCity.kkwmc.cn] [CHAT] 这个时候打鹅
+[2026-07-06 20:49:21] [AuroraCity.kkwmc.cn] [CHAT] 我都没蹭到
