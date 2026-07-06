@@ -960,3 +960,6 @@
 [2026-07-06 11:42:59] [AuroraCity.kkwmc.cn] [CHAT] G你了
 [2026-07-06 11:43:14] [AuroraCity.kkwmc.cn] [CHAT] 拖了一直死
 [2026-07-06 11:43:19] [AuroraCity.kkwmc.cn] [CHAT] 傻福
+[2026-07-06 11:43:40] [AuroraCity.kkwmc.cn] [CHAT] 脱了效率太慢了
+[2026-07-06 11:43:51] [AuroraCity.kkwmc.cn] [CHAT] 死了那一下不加的
+[2026-07-06 11:43:53] [AuroraCity.kkwmc.cn] [CHAT] 慢死了
