@@ -1273,3 +1273,6 @@
 [2026-07-06 22:23:35] [AuroraCity.kkwmc.cn] [CHAT] 你们玩粘液科技啊
 [2026-07-06 22:24:01] [AuroraCity.kkwmc.cn] [CHAT] 背包
 [2026-07-06 22:24:13] [AuroraCity.kkwmc.cn] [CHAT] 去玩这个
+[2026-07-06 22:25:11] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-06 22:25:17] [AuroraCity.kkwmc.cn] [CHAT] 有小黑塔
+[2026-07-06 22:25:33] [AuroraCity.kkwmc.cn] [CHAT] 是的
