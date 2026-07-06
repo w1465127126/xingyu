@@ -984,3 +984,6 @@
 [2026-07-06 11:52:49] [AuroraCity.kkwmc.cn] [CHAT] qnmd
 [2026-07-06 11:54:00] [AuroraCity.kkwmc.cn] [CHAT] 艾斯法会给饥饿
 [2026-07-06 11:55:05] [AuroraCity.kkwmc.cn] [CMD] /home 3
+[2026-07-06 11:55:08] [AuroraCity.kkwmc.cn] [CHAT] 慢死了
+[2026-07-06 11:55:11] [AuroraCity.kkwmc.cn] [CMD] /hoem 3
+[2026-07-06 11:55:12] [AuroraCity.kkwmc.cn] [CMD] /home 3
