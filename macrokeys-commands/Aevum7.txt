@@ -2247,3 +2247,6 @@
 [2026-07-07 00:14:59] [mc.lumiomc.top] [CMD] /res expand 5
 [2026-07-07 00:19:53] [mc.lumiomc.top] [CMD] /res tp shuatie
 [2026-07-07 00:19:56] [mc.lumiomc.top] [CMD] /res tp st
+[2026-07-07 00:20:08] [mc.lumiomc.top] [CMD] /res tp stj
+[2026-07-07 00:20:13] [mc.lumiomc.top] [CMD] /res tp 刷铁
+[2026-07-07 00:20:16] [mc.lumiomc.top] [CMD] /res tp shuatieji
