@@ -804,3 +804,6 @@
 [2026-07-06 10:44:36] [AuroraCity.kkwmc.cn] [JOIN] 连接服务器: AuroraCity.kkwmc.cn
 [2026-07-06 10:44:45] [AuroraCity.kkwmc.cn] [CMD] /login xvvcxc
 [2026-07-06 10:45:57] [AuroraCity.kkwmc.cn] [CMD] /warp 鹅斯拉
+[2026-07-06 10:46:32] [AuroraCity.kkwmc.cn] [CHAT] 炸了吧
+[2026-07-06 10:46:47] [AuroraCity.kkwmc.cn] [CHAT] 耐久10了吗
+[2026-07-06 10:46:56] [AuroraCity.kkwmc.cn] [CHAT] 给我看看
