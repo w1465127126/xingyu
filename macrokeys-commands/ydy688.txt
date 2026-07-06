@@ -1237,3 +1237,6 @@
 [2026-07-06 21:59:02] [AuroraCity.kkwmc.cn] [CHAT] 我卖吧
 [2026-07-06 21:59:10] [AuroraCity.kkwmc.cn] [CHAT] 66
 [2026-07-06 21:59:16] [AuroraCity.kkwmc.cn] [CHAT] 给我转点钱
+[2026-07-06 21:59:19] [AuroraCity.kkwmc.cn] [CHAT] 我没钱了
+[2026-07-06 22:01:12] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-06 22:01:31] [AuroraCity.kkwmc.cn] [CHAT] WallE
