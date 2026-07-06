@@ -1027,3 +1027,6 @@
 [2026-07-06 20:25:12] [AuroraCity.kkwmc.cn] [CHAT] 干啥呢
 [2026-07-06 20:25:30] [AuroraCity.kkwmc.cn] [CHAT] 鱼塔不是有
 [2026-07-06 20:25:36] [AuroraCity.kkwmc.cn] [CMD] /res tp yt
+[2026-07-06 20:25:58] [AuroraCity.kkwmc.cn] [CHAT] 卡住
+[2026-07-06 20:26:36] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-06 20:26:51] [AuroraCity.kkwmc.cn] [CHAT] 想钱想疯了
