@@ -1225,3 +1225,6 @@
 [2026-07-06 21:55:48] [AuroraCity.kkwmc.cn] [CMD] /back
 [2026-07-06 21:56:06] [AuroraCity.kkwmc.cn] [CMD] /back
 [2026-07-06 21:56:25] [AuroraCity.kkwmc.cn] [CHAT] 无限耐久也就那样
+[2026-07-06 21:56:29] [AuroraCity.kkwmc.cn] [CHAT] 挡不住东西
+[2026-07-06 21:56:33] [AuroraCity.kkwmc.cn] [CHAT] 不打了
+[2026-07-06 21:56:40] [AuroraCity.kkwmc.cn] [CMD] /tpa WallE
