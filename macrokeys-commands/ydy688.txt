@@ -999,3 +999,8 @@
 [2026-07-06 11:59:49] [AuroraCity.kkwmc.cn] [CMD] /home 3
 [2026-07-06 12:00:16] [AuroraCity.kkwmc.cn] [CHAT] shift+f
 [2026-07-06 12:00:22] [AuroraCity.kkwmc.cn] [CHAT] 你加材质包了吗
+[2026-07-06 12:01:09] [AuroraCity.kkwmc.cn] [CMD] /tpa Dawn
+[2026-07-06 12:01:32] [AuroraCity.kkwmc.cn] [CMD] /tpa Dawn
+[2026-07-06 17:14:49] [AuroraCity.kkwmc.cn] [JOIN] 连接服务器: AuroraCity.kkwmc.cn
+[2026-07-06 17:14:56] [AuroraCity.kkwmc.cn] [CMD] /login xvvcxc
+[2026-07-06 17:15:09] [AuroraCity.kkwmc.cn] [CHAT] 我是新手，有人能送我点东西吗
