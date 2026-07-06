@@ -1291,3 +1291,6 @@
 [2026-07-06 22:29:22] [AuroraCity.kkwmc.cn] [CHAT] [i]
 [2026-07-06 22:29:32] [AuroraCity.kkwmc.cn] [CMD] /bck
 [2026-07-06 22:29:34] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-06 22:30:22] [AuroraCity.kkwmc.cn] [CHAT] 总不能给扇子附吧
+[2026-07-06 22:30:24] [AuroraCity.kkwmc.cn] [CMD] /home 3
+[2026-07-06 22:30:32] [AuroraCity.kkwmc.cn] [CMD] /tpa WallE
