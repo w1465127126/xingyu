@@ -2099,3 +2099,8 @@
 [2026-07-06 15:30:10] [x6.sjcmc.cn:34054] [CHAT] 昂
 [2026-07-06 15:32:25] [x6.sjcmc.cn:34054] [CMD] /home dl
 [2026-07-06 15:33:06] [x6.sjcmc.cn:34054] [CMD] /res list LuckyMengYi
+[2026-07-06 15:33:09] [x6.sjcmc.cn:34054] [CMD] /res tp dlkl
+[2026-07-06 15:33:44] [x6.sjcmc.cn:34054] [CMD] /back
+[2026-07-06 16:22:29] [x6.sjcmc.cn:34054] [JOIN] 连接服务器: x6.sjcmc.cn:34054
+[2026-07-06 16:22:43] [x6.sjcmc.cn:34054] [CMD] /l wokaoa
+[2026-07-06 16:23:13] [x6.sjcmc.cn:34054] [CMD] /pay __nba__ 300000
