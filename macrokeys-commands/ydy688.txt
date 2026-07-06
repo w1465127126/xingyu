@@ -1528,3 +1528,6 @@
 [2026-07-06 23:59:37] [AuroraCity.kkwmc.cn] [CHAT] 对啊
 [2026-07-06 23:59:39] [AuroraCity.kkwmc.cn] [CHAT] 没扫掉了
 [2026-07-06 23:59:46] [AuroraCity.kkwmc.cn] [CHAT] 刚想提醒你
+[2026-07-06 23:59:51] [AuroraCity.kkwmc.cn] [CHAT] 想到你没那么傻
+[2026-07-06 23:59:53] [AuroraCity.kkwmc.cn] [CHAT] 直接就扔
+[2026-07-07 00:00:39] [AuroraCity.kkwmc.cn] [CMD] /tpa wwz
