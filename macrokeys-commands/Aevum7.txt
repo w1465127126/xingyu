@@ -2213,3 +2213,6 @@
 [2026-07-06 20:12:53] [x6.sjcmc.cn:34054] [JOIN] 连接服务器: x6.sjcmc.cn:34054
 [2026-07-06 20:12:56] [x6.sjcmc.cn:34054] [CMD] /l wokaoa
 [2026-07-06 20:12:58] [x6.sjcmc.cn:34054] [CMD] /spawn
+[2026-07-06 20:19:01] [mc.lumiomc.top] [JOIN] 连接服务器: mc.lumiomc.top
+[2026-07-06 20:19:09] [mc.lumiomc.top] [CHAT] reg wokaoa wokaoa
+[2026-07-06 20:19:17] [mc.lumiomc.top] [CMD] /reg wokaoa wokaoa
