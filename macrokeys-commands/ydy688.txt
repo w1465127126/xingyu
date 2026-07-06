@@ -951,3 +951,6 @@
 [2026-07-06 11:41:19] [AuroraCity.kkwmc.cn] [CMD] /home 3
 [2026-07-06 11:41:24] [AuroraCity.kkwmc.cn] [CHAT] 现在
 [2026-07-06 11:41:34] [AuroraCity.kkwmc.cn] [CHAT] 打死怎么办w
+[2026-07-06 11:41:41] [AuroraCity.kkwmc.cn] [CMD] /res tp gz
+[2026-07-06 11:41:50] [AuroraCity.kkwmc.cn] [CMD] /tpahere Aevum7
+[2026-07-06 11:41:56] [AuroraCity.kkwmc.cn] [CHAT] 怪找不到我啊
