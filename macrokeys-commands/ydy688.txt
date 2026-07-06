@@ -1498,3 +1498,6 @@
 [2026-07-06 23:50:42] [AuroraCity.kkwmc.cn] [CHAT] 啥情况
 [2026-07-06 23:50:55] [AuroraCity.kkwmc.cn] [CMD] /tpa Jaek
 [2026-07-06 23:51:06] [AuroraCity.kkwmc.cn] [CHAT] 蛐蛐大鹅
+[2026-07-06 23:51:31] [AuroraCity.kkwmc.cn] [CHAT] 你能看见我在用望远镜吗
+[2026-07-06 23:51:53] [AuroraCity.kkwmc.cn] [CHAT] 那我走的很慢你能看见吗
+[2026-07-06 23:52:22] [AuroraCity.kkwmc.cn] [CHAT] 我是迈口杰克逊
