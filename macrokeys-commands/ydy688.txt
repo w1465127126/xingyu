@@ -975,3 +975,6 @@
 [2026-07-06 11:47:44] [AuroraCity.kkwmc.cn] [CHAT] 马上绝版了
 [2026-07-06 11:47:50] [AuroraCity.kkwmc.cn] [CHAT] 赶紧收藏
 [2026-07-06 11:49:42] [AuroraCity.kkwmc.cn] [CHAT] 深渊都是垃圾小怪
+[2026-07-06 11:49:56] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-06 11:51:11] [AuroraCity.kkwmc.cn] [CHAT] 还歹是艾斯法
+[2026-07-06 11:51:43] [AuroraCity.kkwmc.cn] [CHAT] 诶呀你感觉把装备给我拿钻石剑挂
