@@ -1429,3 +1429,6 @@
 [2026-07-06 23:23:42] [AuroraCity.kkwmc.cn] [CMD] /hat
 [2026-07-06 23:24:23] [AuroraCity.kkwmc.cn] [CMD] /hat
 [2026-07-06 23:24:35] [AuroraCity.kkwmc.cn] [CHAT] 这是哪把
+[2026-07-06 23:24:53] [AuroraCity.kkwmc.cn] [CHAT] ？？
+[2026-07-06 23:25:17] [AuroraCity.kkwmc.cn] [CHAT] 给我点钱
+[2026-07-06 23:25:19] [AuroraCity.kkwmc.cn] [CHAT] __nba__
