@@ -894,3 +894,6 @@
 [2026-07-06 11:21:59] [AuroraCity.kkwmc.cn] [CMD] /skins
 [2026-07-06 11:22:57] [AuroraCity.kkwmc.cn] [CHAT] 来帮我刷刷防御
 [2026-07-06 11:23:12] [AuroraCity.kkwmc.cn] [CHAT] 防御怎么刷
+[2026-07-06 11:23:19] [AuroraCity.kkwmc.cn] [CHAT] 承受有效伤害吗
+[2026-07-06 11:23:28] [AuroraCity.kkwmc.cn] [CHAT] 死的那一下好像算
+[2026-07-06 11:23:30] [AuroraCity.kkwmc.cn] [CHAT] 那怎么办
