@@ -936,3 +936,6 @@
 [2026-07-06 11:33:13] [AuroraCity.kkwmc.cn] [CHAT] 搞个饱和的信标吧
 [2026-07-06 11:33:27] [AuroraCity.kkwmc.cn] [CHAT] 你把我围起来不就行了
 [2026-07-06 11:33:34] [AuroraCity.kkwmc.cn] [CHAT] 拿永清打
+[2026-07-06 11:33:51] [AuroraCity.kkwmc.cn] [CHAT] 这里是你家吗
+[2026-07-06 11:34:00] [AuroraCity.kkwmc.cn] [CHAT] 你有权限吗
+[2026-07-06 11:35:20] [AuroraCity.kkwmc.cn] [CHAT] 不对
