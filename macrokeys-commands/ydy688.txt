@@ -825,3 +825,6 @@
 [2026-07-06 10:54:04] [AuroraCity.kkwmc.cn] [CHAT] 我估计是耐久没算上
 [2026-07-06 10:54:12] [AuroraCity.kkwmc.cn] [CHAT] 还能砍十倍
 [2026-07-06 10:54:15] [AuroraCity.kkwmc.cn] [CHAT] 然后再保
+[2026-07-06 10:54:23] [AuroraCity.kkwmc.cn] [CHAT] 你觉得呢
+[2026-07-06 10:54:34] [AuroraCity.kkwmc.cn] [CMD] /tpa Aevum7
+[2026-07-06 10:55:02] [AuroraCity.kkwmc.cn] [CHAT] 拿来给我穿
