@@ -1039,3 +1039,6 @@
 [2026-07-06 20:36:48] [AuroraCity.kkwmc.cn] [CMD] /tpa app
 [2026-07-06 20:37:26] [AuroraCity.kkwmc.cn] [CHAT] 这不是主城吗
 [2026-07-06 20:38:11] [AuroraCity.kkwmc.cn] [CHAT] 都卡
+[2026-07-06 20:38:15] [AuroraCity.kkwmc.cn] [CHAT] 现在这几秒不卡了
+[2026-07-06 20:41:31] [AuroraCity.kkwmc.cn] [CHAT] 辅助是啥子
+[2026-07-06 20:41:36] [AuroraCity.kkwmc.cn] [CHAT] 信他还是信我
