@@ -942,3 +942,6 @@
 [2026-07-06 11:35:24] [AuroraCity.kkwmc.cn] [CHAT] 感觉弓不行
 [2026-07-06 11:36:13] [AuroraCity.kkwmc.cn] [CHAT] 可以
 [2026-07-06 11:36:26] [AuroraCity.kkwmc.cn] [CHAT] 试试剑呢
+[2026-07-06 11:37:03] [AuroraCity.kkwmc.cn] [CHAT] 用剑轻打
+[2026-07-06 11:37:37] [AuroraCity.kkwmc.cn] [CHAT] 你个傻逼别连击两下
+[2026-07-06 11:38:15] [AuroraCity.kkwmc.cn] [CHAT] 不加
