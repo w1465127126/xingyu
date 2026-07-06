@@ -882,3 +882,6 @@
 [2026-07-06 11:18:45] [AuroraCity.kkwmc.cn] [CHAT] 永森之心还有吗
 [2026-07-06 11:18:48] [AuroraCity.kkwmc.cn] [CMD] /back
 [2026-07-06 11:19:03] [AuroraCity.kkwmc.cn] [CHAT] [i]
+[2026-07-06 11:19:27] [AuroraCity.kkwmc.cn] [CMD] /skin
+[2026-07-06 11:19:35] [AuroraCity.kkwmc.cn] [CMD] /skins
+[2026-07-06 11:20:07] [AuroraCity.kkwmc.cn] [CMD] /hat
