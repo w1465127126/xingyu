@@ -1276,3 +1276,6 @@
 [2026-07-06 22:25:11] [AuroraCity.kkwmc.cn] [CMD] /back
 [2026-07-06 22:25:17] [AuroraCity.kkwmc.cn] [CHAT] 有小黑塔
 [2026-07-06 22:25:33] [AuroraCity.kkwmc.cn] [CHAT] 是的
+[2026-07-06 22:25:44] [AuroraCity.kkwmc.cn] [CHAT] 菜单-多功能区-坐标
+[2026-07-06 22:26:32] [AuroraCity.kkwmc.cn] [CHAT] 你钓呗
+[2026-07-06 22:26:59] [AuroraCity.kkwmc.cn] [CHAT] 无限耐久了？
