@@ -1246,3 +1246,6 @@
 [2026-07-06 22:01:52] [AuroraCity.kkwmc.cn] [CMD] /home 3
 [2026-07-06 22:02:55] [AuroraCity.kkwmc.cn] [CHAT] Aevum7
 [2026-07-06 22:03:01] [AuroraCity.kkwmc.cn] [CHAT] 还有升下届的模板吗
+[2026-07-06 22:03:25] [AuroraCity.kkwmc.cn] [CHAT] [i]
+[2026-07-06 22:03:29] [AuroraCity.kkwmc.cn] [CHAT] 这个也能复制吗
+[2026-07-06 22:04:13] [AuroraCity.kkwmc.cn] [CMD] /back
