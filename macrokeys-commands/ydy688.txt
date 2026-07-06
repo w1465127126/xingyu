@@ -1030,3 +1030,6 @@
 [2026-07-06 20:25:58] [AuroraCity.kkwmc.cn] [CHAT] 卡住
 [2026-07-06 20:26:36] [AuroraCity.kkwmc.cn] [CMD] /home 2
 [2026-07-06 20:26:51] [AuroraCity.kkwmc.cn] [CHAT] 想钱想疯了
+[2026-07-06 20:29:48] [AuroraCity.kkwmc.cn] [CHAT] 卡住老弟
+[2026-07-06 20:32:01] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-06 20:32:11] [AuroraCity.kkwmc.cn] [CMD] /home 3
