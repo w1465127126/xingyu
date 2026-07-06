@@ -1531,3 +1531,6 @@
 [2026-07-06 23:59:51] [AuroraCity.kkwmc.cn] [CHAT] 想到你没那么傻
 [2026-07-06 23:59:53] [AuroraCity.kkwmc.cn] [CHAT] 直接就扔
 [2026-07-07 00:00:39] [AuroraCity.kkwmc.cn] [CMD] /tpa wwz
+[2026-07-07 00:00:42] [AuroraCity.kkwmc.cn] [CHAT] 赔钱
+[2026-07-07 00:00:55] [AuroraCity.kkwmc.cn] [CHAT] 666
+[2026-07-07 00:01:48] [AuroraCity.kkwmc.cn] [CMD] /home 3
