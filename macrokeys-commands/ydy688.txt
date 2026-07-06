@@ -1417,3 +1417,6 @@
 [2026-07-06 23:14:30] [AuroraCity.kkwmc.cn] [CHAT] 给我点吃的
 [2026-07-06 23:14:49] [AuroraCity.kkwmc.cn] [CHAT] ZXZ
 [2026-07-06 23:14:57] [AuroraCity.kkwmc.cn] [CHAT] 过来
+[2026-07-06 23:15:42] [AuroraCity.kkwmc.cn] [CMD] /tpa zxz
+[2026-07-06 23:16:15] [AuroraCity.kkwmc.cn] [CHAT] 拿着那个帽子
+[2026-07-06 23:16:19] [AuroraCity.kkwmc.cn] [CHAT] ./hat
