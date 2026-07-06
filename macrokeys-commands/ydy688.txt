@@ -1414,3 +1414,6 @@
 [2026-07-06 23:13:48] [AuroraCity.kkwmc.cn] [CHAT] 我去这帽子还能夜视
 [2026-07-06 23:14:08] [AuroraCity.kkwmc.cn] [CMD] /hat
 [2026-07-06 23:14:14] [AuroraCity.kkwmc.cn] [CMD] /hat
+[2026-07-06 23:14:30] [AuroraCity.kkwmc.cn] [CHAT] 给我点吃的
+[2026-07-06 23:14:49] [AuroraCity.kkwmc.cn] [CHAT] ZXZ
+[2026-07-06 23:14:57] [AuroraCity.kkwmc.cn] [CHAT] 过来
