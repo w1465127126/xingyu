@@ -1465,3 +1465,6 @@
 [2026-07-06 23:36:30] [AuroraCity.kkwmc.cn] [CHAT] 干啥呢
 [2026-07-06 23:36:35] [AuroraCity.kkwmc.cn] [CHAT] huiji
 [2026-07-06 23:37:17] [AuroraCity.kkwmc.cn] [CHAT] 这个灰机是谁的小号吗
+[2026-07-06 23:37:47] [AuroraCity.kkwmc.cn] [CHAT] 咋不理我
+[2026-07-06 23:38:24] [AuroraCity.kkwmc.cn] [CMD] /tpa Jaek
+[2026-07-06 23:38:42] [AuroraCity.kkwmc.cn] [CHAT] 你们放暑假了吗
