@@ -1426,3 +1426,6 @@
 [2026-07-06 23:23:24] [AuroraCity.kkwmc.cn] [CMD] /tpa
 [2026-07-06 23:23:29] [AuroraCity.kkwmc.cn] [CMD] /tpa ZXZ
 [2026-07-06 23:23:38] [AuroraCity.kkwmc.cn] [CHAT] __nba__
+[2026-07-06 23:23:42] [AuroraCity.kkwmc.cn] [CMD] /hat
+[2026-07-06 23:24:23] [AuroraCity.kkwmc.cn] [CMD] /hat
+[2026-07-06 23:24:35] [AuroraCity.kkwmc.cn] [CHAT] 这是哪把
