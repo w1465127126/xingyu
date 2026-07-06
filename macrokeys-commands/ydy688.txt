@@ -1010,3 +1010,6 @@
 [2026-07-06 17:21:58] [AuroraCity.kkwmc.cn] [CMD] /baack
 [2026-07-06 17:22:00] [AuroraCity.kkwmc.cn] [CMD] /home 3
 [2026-07-06 17:22:22] [AuroraCity.kkwmc.cn] [CHAT] [i]
+[2026-07-06 17:22:31] [AuroraCity.kkwmc.cn] [CHAT] 因为地牢里面有人
+[2026-07-06 17:22:51] [AuroraCity.kkwmc.cn] [CHAT] [i]
+[2026-07-06 17:23:06] [AuroraCity.kkwmc.cn] [CHAT] 那你退呗
