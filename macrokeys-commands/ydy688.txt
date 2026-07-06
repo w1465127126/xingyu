@@ -1333,3 +1333,6 @@
 [2026-07-06 22:45:23] [AuroraCity.kkwmc.cn] [CMD] /tpa LuckyMengYi
 [2026-07-06 22:45:50] [AuroraCity.kkwmc.cn] [CHAT] 冲突了
 [2026-07-06 22:46:23] [AuroraCity.kkwmc.cn] [CHAT] 这个宝石有bug
+[2026-07-06 22:46:43] [AuroraCity.kkwmc.cn] [CHAT] 攻击速度0.1
+[2026-07-06 22:46:59] [AuroraCity.kkwmc.cn] [CHAT] 对于没攻击速度这个属性的rpg武器，会让攻速变成0.1
+[2026-07-06 22:47:16] [AuroraCity.kkwmc.cn] [CHAT] [i]
