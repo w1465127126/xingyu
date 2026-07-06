@@ -2232,3 +2232,6 @@
 [2026-07-06 23:01:14] [mc.lumiomc.top] [CMD] /tpaccept
 [2026-07-06 23:10:40] [mc.lumiomc.top] [CMD] /tpaccept
 [2026-07-06 23:13:17] [mc.lumiomc.top] [CMD] /res create fan
+[2026-07-06 23:13:21] [mc.lumiomc.top] [CMD] /res set
+[2026-07-06 23:41:32] [mc.lumiomc.top] [CMD] /ah
+[2026-07-07 00:03:02] [mc.lumiomc.top] [JOIN] 连接服务器: mc.lumiomc.top
