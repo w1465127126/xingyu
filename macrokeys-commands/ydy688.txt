@@ -1525,3 +1525,6 @@
 [2026-07-06 23:58:40] [AuroraCity.kkwmc.cn] [CHAT] 我真服了
 [2026-07-06 23:58:43] [AuroraCity.kkwmc.cn] [CHAT] 哎呀
 [2026-07-06 23:58:48] [AuroraCity.kkwmc.cn] [CHAT] 刚搞的盾
+[2026-07-06 23:59:37] [AuroraCity.kkwmc.cn] [CHAT] 对啊
+[2026-07-06 23:59:39] [AuroraCity.kkwmc.cn] [CHAT] 没扫掉了
+[2026-07-06 23:59:46] [AuroraCity.kkwmc.cn] [CHAT] 刚想提醒你
