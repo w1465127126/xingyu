@@ -1258,3 +1258,6 @@
 [2026-07-06 22:11:00] [AuroraCity.kkwmc.cn] [CMD] /res tp jiaoyi
 [2026-07-06 22:11:42] [AuroraCity.kkwmc.cn] [CMD] /home 3
 [2026-07-06 22:14:17] [AuroraCity.kkwmc.cn] [CHAT] 啥情况
+[2026-07-06 22:14:49] [AuroraCity.kkwmc.cn] [CHAT] 都退了
+[2026-07-06 22:15:37] [AuroraCity.kkwmc.cn] [CHAT] 这服凉了
+[2026-07-06 22:17:08] [AuroraCity.kkwmc.cn] [CMD] /tpa app
