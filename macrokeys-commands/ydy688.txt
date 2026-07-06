@@ -1264,3 +1264,6 @@
 [2026-07-06 22:17:27] [AuroraCity.kkwmc.cn] [CHAT] 没权限传送、
 [2026-07-06 22:17:38] [AuroraCity.kkwmc.cn] [CMD] /tpa app
 [2026-07-06 22:20:53] [AuroraCity.kkwmc.cn] [CHAT] 我们还会有以后吗
+[2026-07-06 22:21:04] [AuroraCity.kkwmc.cn] [CHAT] 资源区是不是没刷过
+[2026-07-06 22:21:45] [AuroraCity.kkwmc.cn] [CHAT] 怎么不开语音了
+[2026-07-06 22:22:11] [AuroraCity.kkwmc.cn] [CHAT] 这个游戏有语音功能
