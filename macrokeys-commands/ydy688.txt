@@ -1474,3 +1474,6 @@
 [2026-07-06 23:40:38] [AuroraCity.kkwmc.cn] [CMD] /hat
 [2026-07-06 23:40:51] [AuroraCity.kkwmc.cn] [CMD] /hat
 [2026-07-06 23:40:55] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-06 23:40:59] [AuroraCity.kkwmc.cn] [CMD] /tpa Jaek
+[2026-07-06 23:41:36] [AuroraCity.kkwmc.cn] [CHAT] 给你个鱼竿
+[2026-07-06 23:41:39] [AuroraCity.kkwmc.cn] [CMD] /home 0
