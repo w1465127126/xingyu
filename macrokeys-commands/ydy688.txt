@@ -927,3 +927,6 @@
 [2026-07-06 11:29:36] [AuroraCity.kkwmc.cn] [CHAT] 特效没显示是吧
 [2026-07-06 11:29:39] [AuroraCity.kkwmc.cn] [CHAT] 给我看看
 [2026-07-06 11:29:54] [AuroraCity.kkwmc.cn] [CHAT] 这些rpg装备的护甲值也都是假的
+[2026-07-06 11:29:59] [AuroraCity.kkwmc.cn] [CHAT] 不加护甲值说是
+[2026-07-06 11:30:39] [AuroraCity.kkwmc.cn] [CHAT] 就一百伤害，有护甲值肯定减免
+[2026-07-06 11:31:01] [AuroraCity.kkwmc.cn] [CHAT] 那岂不是说旧版的绝版了
