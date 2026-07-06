@@ -1351,3 +1351,6 @@
 [2026-07-06 22:53:32] [AuroraCity.kkwmc.cn] [CMD] /tpahere app
 [2026-07-06 22:53:53] [AuroraCity.kkwmc.cn] [CMD] /tpahere app
 [2026-07-06 22:54:00] [AuroraCity.kkwmc.cn] [CHAT] 被僵尸偷偷咬了
+[2026-07-06 22:55:16] [AuroraCity.kkwmc.cn] [CHAT] 解锁了吗
+[2026-07-06 22:55:26] [AuroraCity.kkwmc.cn] [CHAT] 魔法装备里
+[2026-07-06 22:55:29] [AuroraCity.kkwmc.cn] [CHAT] 解锁去
