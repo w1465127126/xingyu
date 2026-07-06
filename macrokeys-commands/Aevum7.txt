@@ -1572,3 +1572,6 @@
 [2026-07-06 09:43:46] [x6.sjcmc.cn:34054] [CMD] /tpa LuckyMengYi
 [2026-07-06 09:44:01] [x6.sjcmc.cn:34054] [CMD] /res tp fan
 [2026-07-06 09:44:10] [x6.sjcmc.cn:34054] [CMD] /rtp
+[2026-07-06 09:44:14] [x6.sjcmc.cn:34054] [CMD] /tpahere Fantasyland
+[2026-07-06 09:45:00] [x6.sjcmc.cn:34054] [CMD] /back
+[2026-07-06 09:45:19] [x6.sjcmc.cn:34054] [CMD] /fly
