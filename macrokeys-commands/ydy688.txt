@@ -1285,3 +1285,6 @@
 [2026-07-06 22:28:01] [AuroraCity.kkwmc.cn] [CHAT] 那个留着当纪念吧
 [2026-07-06 22:28:24] [AuroraCity.kkwmc.cn] [CHAT] 加个宝石槽位吗不
 [2026-07-06 22:28:36] [AuroraCity.kkwmc.cn] [CHAT] 盾太弱了
+[2026-07-06 22:28:50] [AuroraCity.kkwmc.cn] [CHAT] 一样随便杀
+[2026-07-06 22:29:01] [AuroraCity.kkwmc.cn] [CHAT] 你搞的那个格挡宝石都没人用
+[2026-07-06 22:29:02] [AuroraCity.kkwmc.cn] [CMD] /home 3
