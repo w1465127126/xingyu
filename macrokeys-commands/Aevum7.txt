@@ -2177,3 +2177,6 @@
 [2026-07-06 16:58:07] [paopaomc.fun] [JOIN] 连接服务器: paopaomc.fun
 [2026-07-06 16:58:14] [paopaomc.fun] [CMD] / w1465127126
 [2026-07-06 16:58:19] [paopaomc.fun] [CMD] /l w1465127126
+[2026-07-06 16:59:09] [paopaomc.fun] [JOIN] 连接服务器: paopaomc.fun
+[2026-07-06 16:59:22] [paopaomc.fun] [CMD] /back
+[2026-07-06 17:09:09] [mcyyy.cc] [JOIN] 连接服务器: mcyyy.cc
