@@ -1348,3 +1348,6 @@
 [2026-07-06 22:51:55] [AuroraCity.kkwmc.cn] [CHAT] 这个一样
 [2026-07-06 22:52:35] [AuroraCity.kkwmc.cn] [CHAT] 1000000000
 [2026-07-06 22:53:24] [AuroraCity.kkwmc.cn] [CHAT] 给我个弩玩玩
+[2026-07-06 22:53:32] [AuroraCity.kkwmc.cn] [CMD] /tpahere app
+[2026-07-06 22:53:53] [AuroraCity.kkwmc.cn] [CMD] /tpahere app
+[2026-07-06 22:54:00] [AuroraCity.kkwmc.cn] [CHAT] 被僵尸偷偷咬了
