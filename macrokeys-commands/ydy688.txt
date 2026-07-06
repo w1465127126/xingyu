@@ -1537,3 +1537,6 @@
 [2026-07-07 00:06:02] [AuroraCity.kkwmc.cn] [CMD] /tpa lpld111161
 [2026-07-07 00:09:30] [AuroraCity.kkwmc.cn] [CHAT] 给我个权限
 [2026-07-07 00:10:23] [AuroraCity.kkwmc.cn] [CHAT] 我开不了箱子
+[2026-07-07 00:11:35] [AuroraCity.kkwmc.cn] [CMD] /home 3
+[2026-07-07 00:11:41] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-07 00:12:43] [AuroraCity.kkwmc.cn] [CHAT] 泪水将我淹没
