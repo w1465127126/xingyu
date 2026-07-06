@@ -801,3 +801,6 @@
 [2026-07-06 01:29:21] [AuroraCity.kkwmc.cn] [CHAT] 有个粘液块好像bug了
 [2026-07-06 01:29:24] [AuroraCity.kkwmc.cn] [CHAT] 打不掉
 [2026-07-06 01:38:13] [AuroraCity.kkwmc.cn] [CMD] /home 3
+[2026-07-06 10:44:36] [AuroraCity.kkwmc.cn] [JOIN] 连接服务器: AuroraCity.kkwmc.cn
+[2026-07-06 10:44:45] [AuroraCity.kkwmc.cn] [CMD] /login xvvcxc
+[2026-07-06 10:45:57] [AuroraCity.kkwmc.cn] [CMD] /warp 鹅斯拉
