@@ -1243,3 +1243,6 @@
 [2026-07-06 22:01:34] [AuroraCity.kkwmc.cn] [CHAT] 还有个bug
 [2026-07-06 22:01:43] [AuroraCity.kkwmc.cn] [CHAT] rpg装备护甲值是假的
 [2026-07-06 22:01:49] [AuroraCity.kkwmc.cn] [CHAT] 根本不加护甲值
+[2026-07-06 22:01:52] [AuroraCity.kkwmc.cn] [CMD] /home 3
+[2026-07-06 22:02:55] [AuroraCity.kkwmc.cn] [CHAT] Aevum7
+[2026-07-06 22:03:01] [AuroraCity.kkwmc.cn] [CHAT] 还有升下届的模板吗
