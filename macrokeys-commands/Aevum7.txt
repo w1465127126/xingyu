@@ -1569,3 +1569,6 @@
 [2026-07-06 09:40:03] [x6.sjcmc.cn:34054] [CMD] /res tp d
 [2026-07-06 09:43:13] [x6.sjcmc.cn:34054] [CMD] /tpa Serrar
 [2026-07-06 09:43:35] [x6.sjcmc.cn:34054] [CMD] /warp 鹅斯拉
+[2026-07-06 09:43:46] [x6.sjcmc.cn:34054] [CMD] /tpa LuckyMengYi
+[2026-07-06 09:44:01] [x6.sjcmc.cn:34054] [CMD] /res tp fan
+[2026-07-06 09:44:10] [x6.sjcmc.cn:34054] [CMD] /rtp
