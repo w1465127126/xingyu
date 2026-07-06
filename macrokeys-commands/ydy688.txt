@@ -1183,3 +1183,6 @@
 [2026-07-06 21:44:23] [AuroraCity.kkwmc.cn] [CHAT] 怪好看的
 [2026-07-06 21:44:31] [AuroraCity.kkwmc.cn] [CHAT] 全身发光
 [2026-07-06 21:44:43] [AuroraCity.kkwmc.cn] [CHAT] 这个护甲是假的吗
+[2026-07-06 21:45:35] [AuroraCity.kkwmc.cn] [CMD] /home 3
+[2026-07-06 21:45:53] [AuroraCity.kkwmc.cn] [CHAT] ？
+[2026-07-06 21:45:54] [AuroraCity.kkwmc.cn] [CMD] /back
