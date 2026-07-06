@@ -1441,3 +1441,6 @@
 [2026-07-06 23:27:42] [AuroraCity.kkwmc.cn] [CHAT] 真是数值膨胀了
 [2026-07-06 23:27:56] [AuroraCity.kkwmc.cn] [CHAT] 比之前的那些氪金武器强太多了
 [2026-07-06 23:28:15] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-06 23:28:17] [AuroraCity.kkwmc.cn] [CMD] /home 3
+[2026-07-06 23:28:24] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-06 23:28:51] [AuroraCity.kkwmc.cn] [CHAT] [i]
