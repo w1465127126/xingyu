@@ -888,3 +888,6 @@
 [2026-07-06 11:20:18] [AuroraCity.kkwmc.cn] [CHAT] 你能带上怒之角吗
 [2026-07-06 11:20:38] [AuroraCity.kkwmc.cn] [CHAT] 昨天我看辅助戴上了
 [2026-07-06 11:20:45] [AuroraCity.kkwmc.cn] [CHAT] 我都给他说完了
+[2026-07-06 11:20:53] [AuroraCity.kkwmc.cn] [CHAT] 帽子我昨天也说过了
+[2026-07-06 11:20:59] [AuroraCity.kkwmc.cn] [CHAT] 咱们也能hat
+[2026-07-06 11:21:57] [AuroraCity.kkwmc.cn] [CMD] /skin
