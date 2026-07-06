@@ -1459,3 +1459,6 @@
 [2026-07-06 23:34:27] [AuroraCity.kkwmc.cn] [CMD] /tpa Jaek
 [2026-07-06 23:34:36] [AuroraCity.kkwmc.cn] [CHAT] app呢
 [2026-07-06 23:34:47] [AuroraCity.kkwmc.cn] [CMD] /home 3
+[2026-07-06 23:34:54] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-06 23:35:36] [AuroraCity.kkwmc.cn] [CHAT] 用这个盾
+[2026-07-06 23:36:27] [AuroraCity.kkwmc.cn] [CHAT] 干山鹅
