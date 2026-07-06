@@ -816,3 +816,6 @@
 [2026-07-06 10:49:30] [AuroraCity.kkwmc.cn] [CHAT] 你身上都没东西了啊
 [2026-07-06 10:50:03] [AuroraCity.kkwmc.cn] [CMD] /tpa Aevum7
 [2026-07-06 10:51:09] [AuroraCity.kkwmc.cn] [CHAT] 你的剑给我
+[2026-07-06 10:51:34] [AuroraCity.kkwmc.cn] [CHAT] 怎么掉的
+[2026-07-06 10:51:40] [AuroraCity.kkwmc.cn] [CHAT] 这玩意可能不会被修
+[2026-07-06 10:52:21] [AuroraCity.kkwmc.cn] [CMD] /back
