@@ -930,3 +930,6 @@
 [2026-07-06 11:29:59] [AuroraCity.kkwmc.cn] [CHAT] 不加护甲值说是
 [2026-07-06 11:30:39] [AuroraCity.kkwmc.cn] [CHAT] 就一百伤害，有护甲值肯定减免
 [2026-07-06 11:31:01] [AuroraCity.kkwmc.cn] [CHAT] 那岂不是说旧版的绝版了
+[2026-07-06 11:31:46] [AuroraCity.kkwmc.cn] [CHAT] 我把护身符拿下来了
+[2026-07-06 11:32:21] [AuroraCity.kkwmc.cn] [CHAT] 停停
+[2026-07-06 11:33:05] [AuroraCity.kkwmc.cn] [CHAT] 加是加，但是后面伤害太高了
