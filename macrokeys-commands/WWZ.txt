@@ -551,3 +551,6 @@
 [2026-07-06 21:18:58] [x6.sjcmc.cn:34054] [CMD] /back
 [2026-07-06 21:20:23] [x6.sjcmc.cn:34054] [CMD] /back
 [2026-07-06 21:21:54] [x6.sjcmc.cn:34054] [CMD] /back
+[2026-07-06 21:21:57] [x6.sjcmc.cn:34054] [CMD] /tpa LuckyMengYi
+[2026-07-06 21:24:17] [x6.sjcmc.cn:34054] [CMD] /back
+[2026-07-06 21:25:35] [x6.sjcmc.cn:34054] [CMD] /back
