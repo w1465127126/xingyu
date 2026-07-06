@@ -2253,3 +2253,6 @@
 [2026-07-07 00:20:18] [mc.lumiomc.top] [CMD] /res tp fm
 [2026-07-07 00:20:21] [mc.lumiomc.top] [CMD] /res tp fumo
 [2026-07-07 00:20:24] [mc.lumiomc.top] [CMD] /res tp fmt
+[2026-07-07 00:20:31] [mc.lumiomc.top] [CMD] /res list add
+[2026-07-07 00:20:33] [mc.lumiomc.top] [CMD] /res list apply
+[2026-07-07 00:20:38] [mc.lumiomc.top] [CMD] /res list set
