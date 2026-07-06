@@ -1534,3 +1534,6 @@
 [2026-07-07 00:00:42] [AuroraCity.kkwmc.cn] [CHAT] 赔钱
 [2026-07-07 00:00:55] [AuroraCity.kkwmc.cn] [CHAT] 666
 [2026-07-07 00:01:48] [AuroraCity.kkwmc.cn] [CMD] /home 3
+[2026-07-07 00:06:02] [AuroraCity.kkwmc.cn] [CMD] /tpa lpld111161
+[2026-07-07 00:09:30] [AuroraCity.kkwmc.cn] [CHAT] 给我个权限
+[2026-07-07 00:10:23] [AuroraCity.kkwmc.cn] [CHAT] 我开不了箱子
