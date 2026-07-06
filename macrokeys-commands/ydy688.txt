@@ -1408,3 +1408,6 @@
 [2026-07-06 23:11:53] [AuroraCity.kkwmc.cn] [CHAT] 我一刀2w3
 [2026-07-06 23:12:47] [AuroraCity.kkwmc.cn] [CHAT] 看你背包
 [2026-07-06 23:12:59] [AuroraCity.kkwmc.cn] [CHAT] ./hat
+[2026-07-06 23:13:15] [AuroraCity.kkwmc.cn] [CMD] /hat
+[2026-07-06 23:13:33] [AuroraCity.kkwmc.cn] [CMD] /hat
+[2026-07-06 23:13:38] [AuroraCity.kkwmc.cn] [CMD] /hat
