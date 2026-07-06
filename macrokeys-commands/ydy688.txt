@@ -963,3 +963,6 @@
 [2026-07-06 11:43:40] [AuroraCity.kkwmc.cn] [CHAT] 脱了效率太慢了
 [2026-07-06 11:43:51] [AuroraCity.kkwmc.cn] [CHAT] 死了那一下不加的
 [2026-07-06 11:43:53] [AuroraCity.kkwmc.cn] [CHAT] 慢死了
+[2026-07-06 11:43:58] [AuroraCity.kkwmc.cn] [CHAT] 三下一下不超过
+[2026-07-06 11:44:02] [AuroraCity.kkwmc.cn] [CHAT] 不成功
+[2026-07-06 11:44:08] [AuroraCity.kkwmc.cn] [CHAT] 你去试脚本去吧
