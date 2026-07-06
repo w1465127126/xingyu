@@ -1069,3 +1069,6 @@
 [2026-07-06 20:58:31] [AuroraCity.kkwmc.cn] [CHAT] 没有耐久？？
 [2026-07-06 20:58:44] [AuroraCity.kkwmc.cn] [CHAT] 这个盾居然是无敌的
 [2026-07-06 20:58:53] [AuroraCity.kkwmc.cn] [CHAT] 无限耐久
+[2026-07-06 20:59:09] [AuroraCity.kkwmc.cn] [CHAT] 来多砍几下
+[2026-07-06 20:59:17] [AuroraCity.kkwmc.cn] [CHAT] 神了
+[2026-07-06 20:59:22] [AuroraCity.kkwmc.cn] [CMD] /back
