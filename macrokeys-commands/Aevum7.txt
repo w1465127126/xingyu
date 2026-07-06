@@ -2259,3 +2259,6 @@
 [2026-07-07 00:20:43] [mc.lumiomc.top] [CMD] /res list
 [2026-07-07 00:20:50] [mc.lumiomc.top] [CMD] /res list ssa
 [2026-07-07 00:20:54] [mc.lumiomc.top] [CMD] /res list ssaku
+[2026-07-07 00:20:58] [mc.lumiomc.top] [CMD] /back
+[2026-07-07 00:21:01] [mc.lumiomc.top] [JOIN] 连接服务器: mc.lumiomc.top
+[2026-07-07 00:21:04] [mc.lumiomc.top] [CMD] /res tp fan
