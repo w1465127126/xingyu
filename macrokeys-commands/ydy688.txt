@@ -1393,3 +1393,6 @@
 [2026-07-06 23:06:17] [AuroraCity.kkwmc.cn] [CHAT] 公告把我名也写上去
 [2026-07-06 23:06:25] [AuroraCity.kkwmc.cn] [CHAT] 然后给我美美发个称号
 [2026-07-06 23:07:12] [AuroraCity.kkwmc.cn] [CHAT] 干嘛呢
+[2026-07-06 23:07:33] [AuroraCity.kkwmc.cn] [CHAT] 死不掉气不气
+[2026-07-06 23:07:41] [AuroraCity.kkwmc.cn] [CHAT] 工会解散了
+[2026-07-06 23:08:44] [AuroraCity.kkwmc.cn] [CMD] /back
