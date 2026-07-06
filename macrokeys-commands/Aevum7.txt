@@ -2219,3 +2219,6 @@
 [2026-07-06 20:24:52] [mc.lumiomc.top] [CMD] /warp
 [2026-07-06 20:24:54] [mc.lumiomc.top] [CMD] /warp 1
 [2026-07-06 20:24:58] [mc.lumiomc.top] [JOIN] 连接服务器: mc.lumiomc.top
+[2026-07-06 20:25:28] [mc.lumiomc.top] [CMD] /spawn
+[2026-07-06 20:26:00] [mc.lumiomc.top] [CMD] /warp 2
+[2026-07-06 20:26:42] [mc.lumiomc.top] [CMD] /spawn
