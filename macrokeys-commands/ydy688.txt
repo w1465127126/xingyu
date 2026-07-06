@@ -1045,3 +1045,6 @@
 [2026-07-06 20:42:03] [AuroraCity.kkwmc.cn] [CHAT] app我枪呢
 [2026-07-06 20:42:56] [AuroraCity.kkwmc.cn] [CHAT] 我枪呢
 [2026-07-06 20:43:45] [AuroraCity.kkwmc.cn] [CHAT] 你看看你背包
+[2026-07-06 20:47:03] [AuroraCity.kkwmc.cn] [CMD] /tpa app
+[2026-07-06 20:48:33] [AuroraCity.kkwmc.cn] [CHAT] 你是哥哥还是妹妹啊
+[2026-07-06 20:48:58] [AuroraCity.kkwmc.cn] [CMD] /warp 鹅斯拉
