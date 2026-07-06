@@ -1231,3 +1231,6 @@
 [2026-07-06 21:57:11] [AuroraCity.kkwmc.cn] [CHAT] [i]
 [2026-07-06 21:57:17] [AuroraCity.kkwmc.cn] [CHAT] 爆不了气不气
 [2026-07-06 21:57:20] [AuroraCity.kkwmc.cn] [CMD] /home 3
+[2026-07-06 21:57:47] [AuroraCity.kkwmc.cn] [CHAT] 自动铁砧试试去
+[2026-07-06 21:57:56] [AuroraCity.kkwmc.cn] [CHAT] 一个800
+[2026-07-06 21:58:36] [AuroraCity.kkwmc.cn] [CHAT] 你自己来打的
