@@ -88,3 +88,6 @@
 [2026-07-06 09:45:13] [x6.sjcmc.cn:34054] [CMD] /home jia
 [2026-07-07 01:11:44] [mc.lumiomc.top:25565] [JOIN] 连接服务器: mc.lumiomc.top:25565
 [2026-07-07 01:11:51] [mc.lumiomc.top:25565] [CMD] /reg wokaoa wokaoa
+[2026-07-07 01:12:41] [mc.lumiomc.top:25565] [CMD] /res tp fan
+[2026-07-07 01:14:25] [mc.lumiomc.top:25565] [JOIN] 连接服务器: mc.lumiomc.top:25565
+[2026-07-07 01:25:55] [112.17.187.19:5921] [JOIN] 连接服务器: 112.17.187.19:5921
