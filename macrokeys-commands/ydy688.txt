@@ -1114,3 +1114,6 @@
 [2026-07-06 21:15:26] [AuroraCity.kkwmc.cn] [CHAT] 砍死我
 [2026-07-06 21:15:30] [AuroraCity.kkwmc.cn] [CMD] /back
 [2026-07-06 21:15:34] [AuroraCity.kkwmc.cn] [CHAT] 给我
+[2026-07-06 21:15:55] [AuroraCity.kkwmc.cn] [CMD] /home 3
+[2026-07-06 21:17:42] [AuroraCity.kkwmc.cn] [CHAT] WallE送我一身天火套
+[2026-07-06 21:18:00] [AuroraCity.kkwmc.cn] [CHAT] 我觉得你需要给我bug称号
