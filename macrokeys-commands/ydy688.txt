@@ -1375,3 +1375,6 @@
 [2026-07-06 23:00:15] [AuroraCity.kkwmc.cn] [CHAT] 不加护甲
 [2026-07-06 23:00:27] [AuroraCity.kkwmc.cn] [CHAT] 不加护甲
 [2026-07-06 23:01:23] [AuroraCity.kkwmc.cn] [CHAT] 怎么打附魔
+[2026-07-06 23:01:27] [AuroraCity.kkwmc.cn] [CHAT] 还是一张纸
+[2026-07-06 23:02:12] [AuroraCity.kkwmc.cn] [CHAT] 减伤是那个保护2吧
+[2026-07-06 23:02:16] [AuroraCity.kkwmc.cn] [CHAT] 护甲值没动啊
