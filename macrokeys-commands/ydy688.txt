@@ -900,3 +900,6 @@
 [2026-07-06 11:23:43] [AuroraCity.kkwmc.cn] [CHAT] 你的rpg衣服给我，你用永青剑打我
 [2026-07-06 11:23:54] [AuroraCity.kkwmc.cn] [CHAT] 挂机去
 [2026-07-06 11:24:10] [AuroraCity.kkwmc.cn] [CHAT] 打死的那一下伤害不算啊
+[2026-07-06 11:24:42] [AuroraCity.kkwmc.cn] [CHAT] 摔死都不加敏捷
+[2026-07-06 11:24:48] [AuroraCity.kkwmc.cn] [CHAT] 摔死都不加敏捷
+[2026-07-06 11:24:54] [AuroraCity.kkwmc.cn] [CHAT] 但是摔残加
