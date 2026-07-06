@@ -1381,3 +1381,6 @@
 [2026-07-06 23:02:35] [AuroraCity.kkwmc.cn] [CHAT] [i]
 [2026-07-06 23:02:47] [AuroraCity.kkwmc.cn] [CHAT] 我用卸魔机卸下来了这个保护2
 [2026-07-06 23:02:50] [AuroraCity.kkwmc.cn] [CHAT] 附不上去
+[2026-07-06 23:02:59] [AuroraCity.kkwmc.cn] [CMD] /hat
+[2026-07-06 23:03:06] [AuroraCity.kkwmc.cn] [CHAT] 神了
+[2026-07-06 23:03:33] [AuroraCity.kkwmc.cn] [CHAT] 不是你编辑公告呢
