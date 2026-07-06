@@ -1357,3 +1357,6 @@
 [2026-07-06 22:55:52] [AuroraCity.kkwmc.cn] [CHAT] ./sf guide
 [2026-07-06 22:55:56] [AuroraCity.kkwmc.cn] [CHAT] 直接获取一本书
 [2026-07-06 22:56:59] [AuroraCity.kkwmc.cn] [CHAT] 你干啥
+[2026-07-06 22:57:11] [AuroraCity.kkwmc.cn] [CHAT] 不是让你解锁帽子吗
+[2026-07-06 22:57:20] [AuroraCity.kkwmc.cn] [CHAT] 魔法防具里
+[2026-07-06 22:57:40] [AuroraCity.kkwmc.cn] [CHAT] 我了八嘎个
