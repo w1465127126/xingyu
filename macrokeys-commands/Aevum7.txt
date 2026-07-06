@@ -2216,3 +2216,6 @@
 [2026-07-06 20:19:01] [mc.lumiomc.top] [JOIN] 连接服务器: mc.lumiomc.top
 [2026-07-06 20:19:09] [mc.lumiomc.top] [CHAT] reg wokaoa wokaoa
 [2026-07-06 20:19:17] [mc.lumiomc.top] [CMD] /reg wokaoa wokaoa
+[2026-07-06 20:24:52] [mc.lumiomc.top] [CMD] /warp
+[2026-07-06 20:24:54] [mc.lumiomc.top] [CMD] /warp 1
+[2026-07-06 20:24:58] [mc.lumiomc.top] [JOIN] 连接服务器: mc.lumiomc.top
