@@ -2174,3 +2174,6 @@
 [2026-07-06 16:57:23] [paopaomc.fun] [JOIN] 连接服务器: paopaomc.fun
 [2026-07-06 16:57:29] [paopaomc.fun] [CMD] /reg wokaoa wokaoa
 [2026-07-06 16:57:36] [paopaomc.fun] [CMD] /reg w1465127126 w1465127126
+[2026-07-06 16:58:07] [paopaomc.fun] [JOIN] 连接服务器: paopaomc.fun
+[2026-07-06 16:58:14] [paopaomc.fun] [CMD] / w1465127126
+[2026-07-06 16:58:19] [paopaomc.fun] [CMD] /l w1465127126
