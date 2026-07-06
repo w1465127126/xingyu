@@ -1513,3 +1513,6 @@
 [2026-07-06 23:56:23] [AuroraCity.kkwmc.cn] [CHAT] 你试试就知道了
 [2026-07-06 23:56:43] [AuroraCity.kkwmc.cn] [CHAT] 你是外国人吗
 [2026-07-06 23:56:58] [AuroraCity.kkwmc.cn] [CMD] /pvpt
+[2026-07-06 23:57:13] [AuroraCity.kkwmc.cn] [CHAT] 啥子辅助
+[2026-07-06 23:57:35] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-06 23:57:46] [AuroraCity.kkwmc.cn] [CMD] /back
