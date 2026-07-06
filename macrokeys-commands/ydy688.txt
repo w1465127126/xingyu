@@ -1303,3 +1303,6 @@
 [2026-07-06 22:33:59] [AuroraCity.kkwmc.cn] [CHAT] 那个头盔啥时候改
 [2026-07-06 22:34:11] [AuroraCity.kkwmc.cn] [CHAT] 我听说你是op才可以/hat
 [2026-07-06 22:34:19] [AuroraCity.kkwmc.cn] [CHAT] 啥都往头上戴
+[2026-07-06 22:34:43] [AuroraCity.kkwmc.cn] [CHAT] 给每个玩家op
+[2026-07-06 22:35:02] [AuroraCity.kkwmc.cn] [CMD] /hat ydy688
+[2026-07-06 22:35:08] [AuroraCity.kkwmc.cn] [CMD] /hat ydy688
