@@ -1013,3 +1013,6 @@
 [2026-07-06 17:22:31] [AuroraCity.kkwmc.cn] [CHAT] 因为地牢里面有人
 [2026-07-06 17:22:51] [AuroraCity.kkwmc.cn] [CHAT] [i]
 [2026-07-06 17:23:06] [AuroraCity.kkwmc.cn] [CHAT] 那你退呗
+[2026-07-06 17:23:28] [AuroraCity.kkwmc.cn] [CHAT] 那就是里面有人
+[2026-07-06 17:24:31] [AuroraCity.kkwmc.cn] [CHAT] 杀手兔
+[2026-07-06 17:24:39] [AuroraCity.kkwmc.cn] [CHAT] 还是两个
