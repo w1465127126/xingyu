@@ -1330,3 +1330,6 @@
 [2026-07-06 22:43:53] [AuroraCity.kkwmc.cn] [CMD] /tpa Jaek
 [2026-07-06 22:43:55] [AuroraCity.kkwmc.cn] [CMD] /tpa app
 [2026-07-06 22:44:27] [AuroraCity.kkwmc.cn] [CHAT] 按shift加+f
+[2026-07-06 22:45:23] [AuroraCity.kkwmc.cn] [CMD] /tpa LuckyMengYi
+[2026-07-06 22:45:50] [AuroraCity.kkwmc.cn] [CHAT] 冲突了
+[2026-07-06 22:46:23] [AuroraCity.kkwmc.cn] [CHAT] 这个宝石有bug
