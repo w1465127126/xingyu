@@ -969,3 +969,6 @@
 [2026-07-06 11:44:25] [AuroraCity.kkwmc.cn] [CHAT] 装备给我
 [2026-07-06 11:44:48] [AuroraCity.kkwmc.cn] [CHAT] ？？？
 [2026-07-06 11:45:28] [AuroraCity.kkwmc.cn] [CMD] /warp 鹅斯拉
+[2026-07-06 11:45:59] [AuroraCity.kkwmc.cn] [CHAT] 没打到
+[2026-07-06 11:46:20] [AuroraCity.kkwmc.cn] [CMD] /home 3
+[2026-07-06 11:46:32] [AuroraCity.kkwmc.cn] [CMD] /warp 冒险者大厅
