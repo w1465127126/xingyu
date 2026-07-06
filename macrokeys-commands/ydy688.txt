@@ -1492,3 +1492,6 @@
 [2026-07-06 23:49:07] [AuroraCity.kkwmc.cn] [CHAT] 哒哒哒哒哒
 [2026-07-06 23:49:19] [AuroraCity.kkwmc.cn] [CHAT] 好想玩原神
 [2026-07-06 23:49:29] [AuroraCity.kkwmc.cn] [CHAT] 2026年7月6日23:49:28
+[2026-07-06 23:50:07] [AuroraCity.kkwmc.cn] [CHAT] 这个游戏可以加语音
+[2026-07-06 23:50:12] [AuroraCity.kkwmc.cn] [CHAT] 群里有mod
+[2026-07-06 23:50:20] [AuroraCity.kkwmc.cn] [CMD] /warp 鹅斯拉
