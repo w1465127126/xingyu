@@ -876,3 +876,6 @@
 [2026-07-06 11:14:04] [AuroraCity.kkwmc.cn] [CMD] /back
 [2026-07-06 11:14:40] [AuroraCity.kkwmc.cn] [CHAT] 人呢
 [2026-07-06 11:15:15] [AuroraCity.kkwmc.cn] [CMD] /tpa Aevum7
+[2026-07-06 11:17:49] [AuroraCity.kkwmc.cn] [CMD] /home 3
+[2026-07-06 11:18:18] [AuroraCity.kkwmc.cn] [CHAT] 修什么
+[2026-07-06 11:18:25] [AuroraCity.kkwmc.cn] [CHAT] 总不能修耐久吧
