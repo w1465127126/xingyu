@@ -81,3 +81,6 @@
 [2026-07-06 07:32:04] [x6.sjcmc.cn:34054] [JOIN] 连接服务器: x6.sjcmc.cn:34054
 [2026-07-06 07:32:07] [x6.sjcmc.cn:34054] [CMD] /l wokaoa
 [2026-07-06 07:38:42] [x6.sjcmc.cn:34054] [CHAT] nba也是哦
+[2026-07-06 08:01:18] [x6.sjcmc.cn:34054] [CMD] /home jia
+[2026-07-06 09:44:17] [x6.sjcmc.cn:34054] [CMD] /tpaccept
+[2026-07-06 09:44:24] [x6.sjcmc.cn:34054] [CMD] /pvp
