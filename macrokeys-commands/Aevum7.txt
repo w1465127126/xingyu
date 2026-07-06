@@ -2186,3 +2186,6 @@
 [2026-07-06 17:17:17] [mcyyy.cc] [CMD] /back
 [2026-07-06 17:21:39] [mcyyy.cc] [JOIN] 连接服务器: mcyyy.cc
 [2026-07-06 17:22:32] [mcyyy.cc] [CMD] /suicide
+[2026-07-06 17:22:46] [mcyyy.cc] [CMD] /rtp
+[2026-07-06 17:26:56] [happycraft.cc] [JOIN] 连接服务器: happycraft.cc
+[2026-07-06 17:27:01] [happycraft.cc] [CMD] /reg wokaoa wokaoa
