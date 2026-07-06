@@ -2170,3 +2170,7 @@
 [2026-07-06 16:54:17] [x6.sjcmc.cn:34054] [CMD] /tpa Serrar
 [2026-07-06 16:54:26] [x6.sjcmc.cn:34054] [CHAT] 哎好无聊= =
 [2026-07-06 16:54:35] [x6.sjcmc.cn:34054] [CHAT] 找个服重开了
+[2026-07-06 16:54:40] [x6.sjcmc.cn:34054] [CHAT] 告辞
+[2026-07-06 16:57:23] [paopaomc.fun] [JOIN] 连接服务器: paopaomc.fun
+[2026-07-06 16:57:29] [paopaomc.fun] [CMD] /reg wokaoa wokaoa
+[2026-07-06 16:57:36] [paopaomc.fun] [CMD] /reg w1465127126 w1465127126
