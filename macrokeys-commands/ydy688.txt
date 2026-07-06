@@ -834,3 +834,6 @@
 [2026-07-06 10:56:50] [AuroraCity.kkwmc.cn] [CHAT] 真的？
 [2026-07-06 10:57:08] [AuroraCity.kkwmc.cn] [CHAT] 铁砧里放点皮革试试呢
 [2026-07-06 10:57:22] [AuroraCity.kkwmc.cn] [CHAT] ？
+[2026-07-06 10:57:43] [AuroraCity.kkwmc.cn] [CHAT] 那你怎么附魔的
+[2026-07-06 10:57:57] [AuroraCity.kkwmc.cn] [CHAT] 你拿什么修的
+[2026-07-06 10:58:13] [AuroraCity.kkwmc.cn] [CHAT] 神了
