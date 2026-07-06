@@ -1342,3 +1342,6 @@
 [2026-07-06 22:49:58] [AuroraCity.kkwmc.cn] [CHAT] 让服主给你个刷怪但、
 [2026-07-06 22:50:16] [AuroraCity.kkwmc.cn] [CMD] /home 3
 [2026-07-06 22:50:33] [AuroraCity.kkwmc.cn] [CHAT] 这个吗
+[2026-07-06 22:50:46] [AuroraCity.kkwmc.cn] [CHAT] 戴不上啊
+[2026-07-06 22:50:59] [AuroraCity.kkwmc.cn] [CHAT] 无法使用此物品作为帽子
+[2026-07-06 22:51:52] [AuroraCity.kkwmc.cn] [CHAT] [i]
