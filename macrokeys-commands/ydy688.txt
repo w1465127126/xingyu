@@ -996,3 +996,6 @@
 [2026-07-06 11:58:46] [AuroraCity.kkwmc.cn] [CMD] /login xvvcxc
 [2026-07-06 11:59:03] [AuroraCity.kkwmc.cn] [CMD] /tpa Dawn
 [2026-07-06 11:59:32] [AuroraCity.kkwmc.cn] [CHAT] 给你两个鸡蛋补补身子
+[2026-07-06 11:59:49] [AuroraCity.kkwmc.cn] [CMD] /home 3
+[2026-07-06 12:00:16] [AuroraCity.kkwmc.cn] [CHAT] shift+f
+[2026-07-06 12:00:22] [AuroraCity.kkwmc.cn] [CHAT] 你加材质包了吗
