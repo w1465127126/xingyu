@@ -2189,3 +2189,6 @@
 [2026-07-06 17:22:46] [mcyyy.cc] [CMD] /rtp
 [2026-07-06 17:26:56] [happycraft.cc] [JOIN] 连接服务器: happycraft.cc
 [2026-07-06 17:27:01] [happycraft.cc] [CMD] /reg wokaoa wokaoa
+[2026-07-06 17:27:06] [happycraft.cc] [CMD] /reg wokaoa wokaoa 544128
+[2026-07-06 17:27:20] [happycraft.cc] [JOIN] 连接服务器: happycraft.cc
+[2026-07-06 17:27:31] [happycraft.cc] [JOIN] 连接服务器: happycraft.cc
