@@ -1288,3 +1288,6 @@
 [2026-07-06 22:28:50] [AuroraCity.kkwmc.cn] [CHAT] 一样随便杀
 [2026-07-06 22:29:01] [AuroraCity.kkwmc.cn] [CHAT] 你搞的那个格挡宝石都没人用
 [2026-07-06 22:29:02] [AuroraCity.kkwmc.cn] [CMD] /home 3
+[2026-07-06 22:29:22] [AuroraCity.kkwmc.cn] [CHAT] [i]
+[2026-07-06 22:29:32] [AuroraCity.kkwmc.cn] [CMD] /bck
+[2026-07-06 22:29:34] [AuroraCity.kkwmc.cn] [CMD] /back
