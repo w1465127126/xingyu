@@ -3029,3 +3029,6 @@
 [2026-07-07 23:05:08] [AuroraCity.kkwmc.cn] [CHAT] 我掉率这么低
 [2026-07-07 23:05:13] [AuroraCity.kkwmc.cn] [CHAT] 好我无敌了
 [2026-07-07 23:05:20] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-07 23:05:21] [AuroraCity.kkwmc.cn] [CHAT] = =
+[2026-07-07 23:05:46] [AuroraCity.kkwmc.cn] [CHAT] 直接刷满
+[2026-07-07 23:05:53] [AuroraCity.kkwmc.cn] [CHAT] 不玩了= =
