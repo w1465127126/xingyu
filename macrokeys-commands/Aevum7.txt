@@ -3207,3 +3207,20 @@
 [2026-07-08 00:08:07] [AuroraCity.kkwmc.cn] [CHAT] 给我整难受了
 [2026-07-08 00:09:31] [AuroraCity.kkwmc.cn] [CHAT] 加个功能就有bug
 [2026-07-08 00:09:33] [AuroraCity.kkwmc.cn] [CHAT] 好烦= =
+[2026-07-08 00:13:12] [AuroraCity.kkwmc.cn] [JOIN] 连接服务器: AuroraCity.kkwmc.cn
+[2026-07-08 00:13:30] [AuroraCity.kkwmc.cn] [CMD] /l wokaoa
+[2026-07-08 00:17:39] [AuroraCity.kkwmc.cn] [JOIN] 连接服务器: AuroraCity.kkwmc.cn
+[2026-07-08 00:17:59] [AuroraCity.kkwmc.cn] [CMD] /l wokaoa
+[2026-07-08 00:24:30] [AuroraCity.kkwmc.cn] [JOIN] 连接服务器: AuroraCity.kkwmc.cn
+[2026-07-08 00:24:44] [AuroraCity.kkwmc.cn] [CMD] /l wokaoa
+[2026-07-08 00:28:00] [AuroraCity.kkwmc.cn] [JOIN] 连接服务器: AuroraCity.kkwmc.cn
+[2026-07-08 00:28:18] [AuroraCity.kkwmc.cn] [CMD] /l wokaoa
+[2026-07-08 00:33:32] [AuroraCity.kkwmc.cn] [JOIN] 连接服务器: AuroraCity.kkwmc.cn
+[2026-07-08 00:33:40] [AuroraCity.kkwmc.cn] [CMD] /l wokaoa
+[2026-07-08 00:53:37] [AuroraCity.kkwmc.cn] [JOIN] 连接服务器: AuroraCity.kkwmc.cn
+[2026-07-08 00:54:04] [AuroraCity.kkwmc.cn] [CMD] /l wokaoa
+[2026-07-08 00:58:35] [AuroraCity.kkwmc.cn] [JOIN] 连接服务器: AuroraCity.kkwmc.cn
+[2026-07-08 00:58:49] [AuroraCity.kkwmc.cn] [CMD] /l wokaoa
+[2026-07-08 01:10:21] [AuroraCity.kkwmc.cn] [JOIN] 连接服务器: AuroraCity.kkwmc.cn
+[2026-07-08 01:10:30] [AuroraCity.kkwmc.cn] [CMD] /l wokaoa
+[2026-07-08 01:12:03] [AuroraCity.kkwmc.cn] [CHAT] 1
