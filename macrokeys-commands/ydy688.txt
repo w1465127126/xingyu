@@ -1674,3 +1674,6 @@
 [2026-07-07 20:10:39] [AuroraCity.kkwmc.cn] [CHAT] 刚下好恋与深空，给个差评去
 [2026-07-07 20:10:48] [AuroraCity.kkwmc.cn] [CHAT] 我为战争而来
 [2026-07-07 20:11:52] [AuroraCity.kkwmc.cn] [CMD] /home 3
+[2026-07-07 20:12:32] [AuroraCity.kkwmc.cn] [CMD] /tpa app
+[2026-07-07 20:12:41] [AuroraCity.kkwmc.cn] [CMD] /hat
+[2026-07-07 20:13:36] [AuroraCity.kkwmc.cn] [CHAT] 去解锁
