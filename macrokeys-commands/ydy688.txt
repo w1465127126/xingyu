@@ -2283,3 +2283,6 @@
 [2026-07-08 00:02:30] [AuroraCity.kkwmc.cn] [CHAT] 这玩意现在不便宜了
 [2026-07-08 00:02:35] [AuroraCity.kkwmc.cn] [CHAT] 一个下届锭50
 [2026-07-08 00:02:40] [AuroraCity.kkwmc.cn] [CHAT] 钻石30
+[2026-07-08 00:02:51] [AuroraCity.kkwmc.cn] [CHAT] 哦找到了
+[2026-07-08 00:02:55] [AuroraCity.kkwmc.cn] [CHAT] 我都卖了回血了哈
+[2026-07-08 00:03:16] [AuroraCity.kkwmc.cn] [CMD] /res tp zhucheng2
