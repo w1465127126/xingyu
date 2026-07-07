@@ -1554,3 +1554,6 @@
 [2026-07-07 15:44:18] [AuroraCity.kkwmc.cn] [CHAT] 你是nba吗
 [2026-07-07 15:44:34] [AuroraCity.kkwmc.cn] [CHAT] ave下了会不动
 [2026-07-07 15:44:40] [AuroraCity.kkwmc.cn] [CHAT] 他放的机器人
+[2026-07-07 15:44:52] [AuroraCity.kkwmc.cn] [CHAT] 机器人里面没有煤炭了
+[2026-07-07 15:45:06] [AuroraCity.kkwmc.cn] [CMD] /home 3
+[2026-07-07 15:46:56] [AuroraCity.kkwmc.cn] [CHAT] 你之前带我去的那个卖附魔书的地方呢
