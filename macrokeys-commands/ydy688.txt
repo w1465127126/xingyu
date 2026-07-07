@@ -1983,3 +1983,6 @@
 [2026-07-07 22:25:21] [AuroraCity.kkwmc.cn] [CHAT] 帮我刷防御啊
 [2026-07-07 22:25:36] [AuroraCity.kkwmc.cn] [CHAT] 有
 [2026-07-07 22:25:45] [AuroraCity.kkwmc.cn] [CMD] /res tp gz
+[2026-07-07 22:25:53] [AuroraCity.kkwmc.cn] [CHAT] 没用过这个
+[2026-07-07 22:26:55] [AuroraCity.kkwmc.cn] [CHAT] 666太饿了
+[2026-07-07 22:26:59] [AuroraCity.kkwmc.cn] [CHAT] 飞都不让飞
