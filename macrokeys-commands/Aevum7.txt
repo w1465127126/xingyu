@@ -2411,3 +2411,6 @@
 [2026-07-07 16:51:30] [AuroraCity.kkwmc.cn] [CHAT] 土匪啊xd
 [2026-07-07 16:51:42] [AuroraCity.kkwmc.cn] [CMD] /back
 [2026-07-07 16:51:50] [AuroraCity.kkwmc.cn] [CHAT] 抗你2下
+[2026-07-07 16:51:59] [AuroraCity.kkwmc.cn] [CMD] /hat
+[2026-07-07 16:52:15] [AuroraCity.kkwmc.cn] [CHAT] 没啊
+[2026-07-07 16:52:26] [AuroraCity.kkwmc.cn] [CHAT] 永清网关
