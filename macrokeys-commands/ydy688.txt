@@ -2073,3 +2073,6 @@
 [2026-07-07 22:52:28] [AuroraCity.kkwmc.cn] [CHAT] 你戴个怒之角
 [2026-07-07 22:52:32] [AuroraCity.kkwmc.cn] [CMD] /pvpt
 [2026-07-07 22:53:08] [AuroraCity.kkwmc.cn] [CHAT] 掉血吗
+[2026-07-07 22:53:15] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-07 22:53:17] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-07 22:53:27] [AuroraCity.kkwmc.cn] [CHAT] 我去趟副本刷新下技能
