@@ -2867,3 +2867,9 @@
 [2026-07-07 22:21:52] [AuroraCity.kkwmc.cn] [CHAT] ?
 [2026-07-07 22:22:07] [AuroraCity.kkwmc.cn] [CHAT] 盾的bug把
 [2026-07-07 22:22:35] [AuroraCity.kkwmc.cn] [CHAT] 你还显示0血呢
+[2026-07-07 22:22:57] [AuroraCity.kkwmc.cn] [CHAT] 我不据盾
+[2026-07-07 22:23:00] [AuroraCity.kkwmc.cn] [CHAT] 不是一下就寄了
+[2026-07-07 22:23:02] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-07 22:23:08] [AuroraCity.kkwmc.cn] [CHAT] 啊
+[2026-07-07 22:23:11] [AuroraCity.kkwmc.cn] [CHAT] wc
+[2026-07-07 22:23:28] [AuroraCity.kkwmc.cn] [CHAT] 现在呢
