@@ -2720,3 +2720,6 @@
 [2026-07-07 21:40:21] [AuroraCity.kkwmc.cn] [CHAT] 好吧
 [2026-07-07 21:40:53] [AuroraCity.kkwmc.cn] [CHAT] 吃我火遁术
 [2026-07-07 21:41:02] [AuroraCity.kkwmc.cn] [CHAT] 我喜欢头上带个碗
+[2026-07-07 21:41:34] [AuroraCity.kkwmc.cn] [CHAT] 完美防御
+[2026-07-07 21:41:47] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-07 21:41:59] [AuroraCity.kkwmc.cn] [CHAT] 这盾害有必要附魔吗
