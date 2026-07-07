@@ -1746,3 +1746,6 @@
 [2026-07-07 20:57:14] [AuroraCity.kkwmc.cn] [CHAT] 666有怪
 [2026-07-07 20:57:27] [AuroraCity.kkwmc.cn] [CHAT] 你和他拼命啊
 [2026-07-07 20:58:42] [AuroraCity.kkwmc.cn] [CHAT] 喝了它有神奇的力量
+[2026-07-07 20:59:02] [AuroraCity.kkwmc.cn] [CHAT] 你不喝我喝
+[2026-07-07 20:59:14] [AuroraCity.kkwmc.cn] [CHAT] 拿来
+[2026-07-07 20:59:31] [AuroraCity.kkwmc.cn] [CMD] /hat
