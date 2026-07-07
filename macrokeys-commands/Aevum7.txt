@@ -2852,3 +2852,6 @@
 [2026-07-07 22:17:57] [AuroraCity.kkwmc.cn] [CMD] /hat
 [2026-07-07 22:18:12] [AuroraCity.kkwmc.cn] [CMD] /hat
 [2026-07-07 22:18:52] [AuroraCity.kkwmc.cn] [CHAT] 6
+[2026-07-07 22:18:59] [AuroraCity.kkwmc.cn] [CHAT] 战利品
+[2026-07-07 22:19:13] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-07 22:19:50] [AuroraCity.kkwmc.cn] [CHAT] 6
