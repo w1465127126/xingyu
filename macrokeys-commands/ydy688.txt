@@ -1938,3 +1938,6 @@
 [2026-07-07 22:09:09] [AuroraCity.kkwmc.cn] [CMD] /back
 [2026-07-07 22:09:25] [AuroraCity.kkwmc.cn] [CMD] /back
 [2026-07-07 22:09:56] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-07 22:10:12] [AuroraCity.kkwmc.cn] [CHAT] 能拼刀
+[2026-07-07 22:10:40] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-07 22:10:52] [AuroraCity.kkwmc.cn] [CMD] /back
