@@ -2561,3 +2561,6 @@
 [2026-07-07 19:45:27] [AuroraCity.kkwmc.cn] [CHAT] 自带复活甲啊
 [2026-07-07 19:45:40] [AuroraCity.kkwmc.cn] [CHAT] 来pvp vsoth
 [2026-07-07 19:45:44] [AuroraCity.kkwmc.cn] [CMD] /tpahere vsoth
+[2026-07-07 19:45:50] [AuroraCity.kkwmc.cn] [CHAT] 不然剑不是白刷了
+[2026-07-07 19:46:01] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-07 19:46:37] [AuroraCity.kkwmc.cn] [CMD] /back
