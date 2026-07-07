@@ -2509,3 +2509,6 @@
 [2026-07-07 19:04:41] [AuroraCity.kkwmc.cn] [JOIN] 连接服务器: AuroraCity.kkwmc.cn
 [2026-07-07 19:04:47] [AuroraCity.kkwmc.cn] [CMD] /l wokaoa
 [2026-07-07 19:06:45] [AuroraCity.kkwmc.cn] [CMD] /addbookoffer enchantment
+[2026-07-07 19:18:59] [AuroraCity.kkwmc.cn] [JOIN] 连接服务器: AuroraCity.kkwmc.cn
+[2026-07-07 19:19:03] [AuroraCity.kkwmc.cn] [CMD] /l wokaoa
+[2026-07-07 19:19:07] [AuroraCity.kkwmc.cn] [CHAT] zal
