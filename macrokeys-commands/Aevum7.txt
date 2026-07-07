@@ -2408,3 +2408,6 @@
 [2026-07-07 16:51:17] [AuroraCity.kkwmc.cn] [CHAT] xd整点吃的
 [2026-07-07 16:51:21] [AuroraCity.kkwmc.cn] [CHAT] 搞得你能抗几下一样
 [2026-07-07 16:51:25] [AuroraCity.kkwmc.cn] [CHAT] 给一个啊
+[2026-07-07 16:51:30] [AuroraCity.kkwmc.cn] [CHAT] 土匪啊xd
+[2026-07-07 16:51:42] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-07 16:51:50] [AuroraCity.kkwmc.cn] [CHAT] 抗你2下
