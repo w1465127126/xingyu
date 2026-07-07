@@ -2278,3 +2278,6 @@
 [2026-07-07 10:48:01] [AuroraCity.kkwmc.cn] [CMD] /hat
 [2026-07-07 10:49:16] [AuroraCity.kkwmc.cn] [CHAT] 我日这套装
 [2026-07-07 10:49:18] [AuroraCity.kkwmc.cn] [CHAT] 丑的发昏
+[2026-07-07 10:49:46] [AuroraCity.kkwmc.cn] [CMD] /hat
+[2026-07-07 10:50:10] [AuroraCity.kkwmc.cn] [CMD] /hat
+[2026-07-07 10:50:19] [AuroraCity.kkwmc.cn] [CMD] /hat
