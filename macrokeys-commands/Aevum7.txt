@@ -3092,3 +3092,6 @@
 [2026-07-07 23:17:51] [AuroraCity.kkwmc.cn] [CHAT] 我会被luck正常打死
 [2026-07-07 23:17:53] [AuroraCity.kkwmc.cn] [CMD] /back
 [2026-07-07 23:18:08] [AuroraCity.kkwmc.cn] [CHAT] = =
+[2026-07-07 23:18:10] [AuroraCity.kkwmc.cn] [CHAT] 动都动不了
+[2026-07-07 23:18:13] [AuroraCity.kkwmc.cn] [CHAT] 又不吃远程
+[2026-07-07 23:18:15] [AuroraCity.kkwmc.cn] [CMD] /back
