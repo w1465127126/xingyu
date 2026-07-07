@@ -2289,3 +2289,6 @@
 [2026-07-08 00:03:26] [AuroraCity.kkwmc.cn] [CHAT] all
 [2026-07-08 00:03:37] [AuroraCity.kkwmc.cn] [CHAT] all
 [2026-07-08 00:03:51] [AuroraCity.kkwmc.cn] [CHAT] 不对
+[2026-07-08 00:04:01] [AuroraCity.kkwmc.cn] [CHAT] 卖给玩家是不是赚的更多
+[2026-07-08 00:04:18] [AuroraCity.kkwmc.cn] [CHAT] 可是没什么人买
+[2026-07-08 00:04:22] [AuroraCity.kkwmc.cn] [CHAT] 也就新手买
