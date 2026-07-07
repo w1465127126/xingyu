@@ -2951,3 +2951,6 @@
 [2026-07-07 22:48:39] [AuroraCity.kkwmc.cn] [CHAT] 你
 [2026-07-07 22:48:41] [AuroraCity.kkwmc.cn] [CHAT] 还大混乱啊
 [2026-07-07 22:48:49] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-07 22:49:13] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-07 22:49:37] [AuroraCity.kkwmc.cn] [CHAT] 6
+[2026-07-07 22:49:40] [AuroraCity.kkwmc.cn] [CHAT] 打下线了
