@@ -2477,3 +2477,6 @@
 [2026-07-07 16:59:42] [AuroraCity.kkwmc.cn] [CHAT] 咋了
 [2026-07-07 17:00:10] [AuroraCity.kkwmc.cn] [CMD] /back
 [2026-07-07 17:00:18] [AuroraCity.kkwmc.cn] [CHAT] no
+[2026-07-07 17:00:45] [AuroraCity.kkwmc.cn] [CHAT] 1
+[2026-07-07 17:00:57] [AuroraCity.kkwmc.cn] [CHAT] 服都砍卡了
+[2026-07-07 17:01:34] [AuroraCity.kkwmc.cn] [CHAT] 咋了
