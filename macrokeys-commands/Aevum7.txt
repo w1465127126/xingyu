@@ -3172,3 +3172,6 @@
 [2026-07-08 00:00:37] [AuroraCity.kkwmc.cn] [CHAT] 666
 [2026-07-08 00:00:47] [AuroraCity.kkwmc.cn] [CHAT] 行
 [2026-07-08 00:00:50] [AuroraCity.kkwmc.cn] [CHAT] 要刷啥附魔么
+[2026-07-08 00:00:52] [AuroraCity.kkwmc.cn] [CHAT] 我一起刷了
+[2026-07-08 00:01:18] [AuroraCity.kkwmc.cn] [CHAT] 赌博赢不了了
+[2026-07-08 00:02:01] [AuroraCity.kkwmc.cn] [CHAT] ？
