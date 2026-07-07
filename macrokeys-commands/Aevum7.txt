@@ -2771,3 +2771,6 @@
 [2026-07-07 21:58:01] [AuroraCity.kkwmc.cn] [CHAT] 除非我把你权限关了
 [2026-07-07 21:58:02] [AuroraCity.kkwmc.cn] [CMD] /res sety
 [2026-07-07 21:58:04] [AuroraCity.kkwmc.cn] [CMD] /res set
+[2026-07-07 21:58:20] [AuroraCity.kkwmc.cn] [CHAT] 你有权限肯定能杀啊
+[2026-07-07 22:00:47] [AuroraCity.kkwmc.cn] [CMD] /tpa ydy688
+[2026-07-07 22:01:10] [AuroraCity.kkwmc.cn] [CMD] /tpa ydy688
