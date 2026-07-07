@@ -1767,3 +1767,6 @@
 [2026-07-07 21:11:49] [AuroraCity.kkwmc.cn] [CHAT] coke
 [2026-07-07 21:12:14] [AuroraCity.kkwmc.cn] [CHAT] 鹅蛋
 [2026-07-07 21:12:21] [AuroraCity.kkwmc.cn] [CHAT] 冒险者大厅
+[2026-07-07 21:12:28] [AuroraCity.kkwmc.cn] [CHAT] 要16个
+[2026-07-07 21:17:42] [AuroraCity.kkwmc.cn] [CMD] /res tp zhuchegn2
+[2026-07-07 21:17:48] [AuroraCity.kkwmc.cn] [CMD] /res tp zhucheng
