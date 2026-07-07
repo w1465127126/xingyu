@@ -2471,3 +2471,6 @@
 [2026-07-07 16:58:16] [AuroraCity.kkwmc.cn] [CHAT] 我死了？
 [2026-07-07 16:58:39] [AuroraCity.kkwmc.cn] [CHAT] 显示我还是满血月啊
 [2026-07-07 16:58:42] [AuroraCity.kkwmc.cn] [CHAT] 满血
+[2026-07-07 16:59:00] [AuroraCity.kkwmc.cn] [CHAT] 弓真废了
+[2026-07-07 16:59:22] [AuroraCity.kkwmc.cn] [CHAT] 我原地复活
+[2026-07-07 16:59:25] [AuroraCity.kkwmc.cn] [CHAT] 和没死有区别嘛
