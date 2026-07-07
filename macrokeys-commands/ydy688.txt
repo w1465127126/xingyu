@@ -2052,3 +2052,6 @@
 [2026-07-07 22:43:24] [AuroraCity.kkwmc.cn] [CMD] /back
 [2026-07-07 22:43:28] [AuroraCity.kkwmc.cn] [CHAT] WallE
 [2026-07-07 22:43:35] [AuroraCity.kkwmc.cn] [CHAT] 别打了
+[2026-07-07 22:43:44] [AuroraCity.kkwmc.cn] [CHAT] WallE你带个怒之角过来
+[2026-07-07 22:43:46] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-07 22:44:50] [AuroraCity.kkwmc.cn] [CHAT] 下蹲减伤还是太超标了
