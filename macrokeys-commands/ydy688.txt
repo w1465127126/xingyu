@@ -1824,3 +1824,6 @@
 [2026-07-07 21:39:38] [AuroraCity.kkwmc.cn] [CMD] /home 1
 [2026-07-07 21:39:52] [AuroraCity.kkwmc.cn] [CMD] /tpa Aevum7
 [2026-07-07 21:40:06] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-07 21:40:15] [AuroraCity.kkwmc.cn] [CHAT] 别看砍我
+[2026-07-07 21:40:21] [AuroraCity.kkwmc.cn] [CHAT] 没加成
+[2026-07-07 21:40:25] [AuroraCity.kkwmc.cn] [CHAT] 但是装备估计有
