@@ -2169,3 +2169,6 @@
 [2026-07-07 23:16:06] [AuroraCity.kkwmc.cn] [CMD] /back
 [2026-07-07 23:17:17] [AuroraCity.kkwmc.cn] [CMD] /back
 [2026-07-07 23:17:43] [AuroraCity.kkwmc.cn] [CHAT] 神了
+[2026-07-07 23:17:45] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-07 23:18:07] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-07 23:18:37] [AuroraCity.kkwmc.cn] [CHAT] 打个混乱太逆天了
