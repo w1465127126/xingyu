@@ -2293,3 +2293,6 @@
 [2026-07-07 10:57:19] [AuroraCity.kkwmc.cn] [JOIN] 连接服务器: AuroraCity.kkwmc.cn
 [2026-07-07 10:57:21] [AuroraCity.kkwmc.cn] [CMD] /l wokaoa
 [2026-07-07 10:57:24] [AuroraCity.kkwmc.cn] [CMD] /spawn
+[2026-07-07 10:58:24] [mc.lumiomc.top:25565] [JOIN] 连接服务器: mc.lumiomc.top:25565
+[2026-07-07 10:58:39] [mc.lumiomc.top:25565] [CMD] /l wokaoa
+[2026-07-07 11:16:19] [mc.lumiomc.top:25565] [CMD] /rtp
