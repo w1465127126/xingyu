@@ -2819,3 +2819,6 @@
 [2026-07-07 22:11:25] [AuroraCity.kkwmc.cn] [CHAT] 网卡跑得快有啥用
 [2026-07-07 22:12:01] [AuroraCity.kkwmc.cn] [CHAT] [i]
 [2026-07-07 22:12:04] [AuroraCity.kkwmc.cn] [CHAT] [i]
+[2026-07-07 22:12:06] [AuroraCity.kkwmc.cn] [CHAT] [i]
+[2026-07-07 22:12:38] [AuroraCity.kkwmc.cn] [CHAT] 弓都废了
+[2026-07-07 22:12:44] [AuroraCity.kkwmc.cn] [CHAT] 咋不回来了
