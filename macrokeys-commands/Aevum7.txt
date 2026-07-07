@@ -2615,3 +2615,6 @@
 [2026-07-07 20:07:47] [AuroraCity.kkwmc.cn] [JOIN] 连接服务器: AuroraCity.kkwmc.cn
 [2026-07-07 20:07:50] [AuroraCity.kkwmc.cn] [CMD] /l wokaoa
 [2026-07-07 20:07:51] [AuroraCity.kkwmc.cn] [CHAT] wc
+[2026-07-07 20:07:54] [AuroraCity.kkwmc.cn] [CHAT] mod终于改好了
+[2026-07-07 20:07:57] [AuroraCity.kkwmc.cn] [CMD] /res tp fan
+[2026-07-07 20:08:03] [AuroraCity.kkwmc.cn] [CHAT] 自动刷村民！
