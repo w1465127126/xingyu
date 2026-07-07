@@ -2272,3 +2272,6 @@
 [2026-07-07 10:46:03] [AuroraCity.kkwmc.cn] [JOIN] 连接服务器: AuroraCity.kkwmc.cn
 [2026-07-07 10:46:08] [AuroraCity.kkwmc.cn] [CMD] /l wokaoa
 [2026-07-07 10:46:13] [AuroraCity.kkwmc.cn] [CMD] /spawn
+[2026-07-07 10:46:41] [AuroraCity.kkwmc.cn] [CMD] /hat
+[2026-07-07 10:47:22] [AuroraCity.kkwmc.cn] [CMD] /hat
+[2026-07-07 10:47:31] [AuroraCity.kkwmc.cn] [CMD] /res tp d
