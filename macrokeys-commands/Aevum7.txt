@@ -2435,3 +2435,6 @@
 [2026-07-07 16:53:55] [AuroraCity.kkwmc.cn] [CMD] /back
 [2026-07-07 16:54:00] [AuroraCity.kkwmc.cn] [CHAT] 我试下头盔
 [2026-07-07 16:54:04] [AuroraCity.kkwmc.cn] [CMD] /hat
+[2026-07-07 16:54:08] [AuroraCity.kkwmc.cn] [CHAT] 50啊
+[2026-07-07 16:54:13] [AuroraCity.kkwmc.cn] [CHAT] ？
+[2026-07-07 16:54:14] [AuroraCity.kkwmc.cn] [CHAT] 一样的
