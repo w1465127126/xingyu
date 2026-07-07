@@ -2585,3 +2585,11 @@
 [2026-07-07 19:49:48] [AuroraCity.kkwmc.cn] [CHAT] 我上次背包放个剑
 [2026-07-07 19:49:50] [AuroraCity.kkwmc.cn] [CHAT] 我丢个东西
 [2026-07-07 19:49:53] [AuroraCity.kkwmc.cn] [CHAT] 触发技能
+[2026-07-07 19:49:58] [AuroraCity.kkwmc.cn] [CHAT] 把我村民砍死了
+[2026-07-07 19:50:00] [AuroraCity.kkwmc.cn] [CHAT] 着你能玩
+[2026-07-07 19:50:12] [AuroraCity.kkwmc.cn] [JOIN] 连接服务器: AuroraCity.kkwmc.cn
+[2026-07-07 19:50:25] [AuroraCity.kkwmc.cn] [JOIN] 连接服务器: AuroraCity.kkwmc.cn
+[2026-07-07 19:50:31] [AuroraCity.kkwmc.cn] [CMD] /l wokaoa
+[2026-07-07 19:53:44] [AuroraCity.kkwmc.cn] [JOIN] 连接服务器: AuroraCity.kkwmc.cn
+[2026-07-07 19:53:51] [AuroraCity.kkwmc.cn] [CMD] /l wokaoa
+[2026-07-07 19:54:50] [AuroraCity.kkwmc.cn] [CMD] /setting load
