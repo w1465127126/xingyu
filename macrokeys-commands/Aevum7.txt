@@ -2732,3 +2732,6 @@
 [2026-07-07 21:44:06] [AuroraCity.kkwmc.cn] [CMD] /back
 [2026-07-07 21:45:13] [AuroraCity.kkwmc.cn] [CHAT] 为什么
 [2026-07-07 21:45:17] [AuroraCity.kkwmc.cn] [CHAT] 我打 ydy688
+[2026-07-07 21:45:20] [AuroraCity.kkwmc.cn] [CHAT] 你盾就挡不住
+[2026-07-07 21:45:21] [AuroraCity.kkwmc.cn] [CHAT] 会死
+[2026-07-07 21:45:34] [AuroraCity.kkwmc.cn] [CHAT] 不是剑
