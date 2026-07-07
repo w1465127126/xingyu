@@ -2262,3 +2262,6 @@
 [2026-07-07 23:59:09] [AuroraCity.kkwmc.cn] [CHAT] 我给你个蛋
 [2026-07-07 23:59:17] [AuroraCity.kkwmc.cn] [CHAT] 你全球市场好几个剑都我买的
 [2026-07-07 23:59:32] [AuroraCity.kkwmc.cn] [CHAT] 那个怒盾本来就是要给你的
+[2026-07-07 23:59:45] [AuroraCity.kkwmc.cn] [CHAT] 你非要报价
+[2026-07-07 23:59:49] [AuroraCity.kkwmc.cn] [CHAT] 笑死我了
+[2026-07-08 00:00:07] [AuroraCity.kkwmc.cn] [CMD] /pay Aevum7 300000
