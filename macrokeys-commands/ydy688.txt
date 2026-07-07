@@ -1830,3 +1830,6 @@
 [2026-07-07 21:40:28] [AuroraCity.kkwmc.cn] [CHAT] 试试
 [2026-07-07 21:40:34] [AuroraCity.kkwmc.cn] [CMD] /hat
 [2026-07-07 21:40:40] [AuroraCity.kkwmc.cn] [CHAT] 装备也没有
+[2026-07-07 21:40:55] [AuroraCity.kkwmc.cn] [CMD] /hat
+[2026-07-07 21:41:22] [AuroraCity.kkwmc.cn] [CHAT] 哪来的炮仗
+[2026-07-07 21:41:29] [AuroraCity.kkwmc.cn] [CMD] /back
