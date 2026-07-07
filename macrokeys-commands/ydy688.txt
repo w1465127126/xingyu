@@ -2031,3 +2031,6 @@
 [2026-07-07 22:38:23] [AuroraCity.kkwmc.cn] [CHAT] 不需要经验
 [2026-07-07 22:38:32] [AuroraCity.kkwmc.cn] [CMD] /back
 [2026-07-07 22:38:38] [AuroraCity.kkwmc.cn] [CHAT] 还以为多肉呢
+[2026-07-07 22:38:51] [AuroraCity.kkwmc.cn] [CHAT] 刚才几刀没出技能
+[2026-07-07 22:38:57] [AuroraCity.kkwmc.cn] [CMD] /res tp gz
+[2026-07-07 22:39:14] [AuroraCity.kkwmc.cn] [CMD] /res tp w
