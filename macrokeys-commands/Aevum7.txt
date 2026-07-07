@@ -3204,3 +3204,6 @@
 [2026-07-08 00:07:39] [AuroraCity.kkwmc.cn] [JOIN] 连接服务器: AuroraCity.kkwmc.cn
 [2026-07-08 00:07:52] [AuroraCity.kkwmc.cn] [CMD] /l wokaoa
 [2026-07-08 00:07:57] [AuroraCity.kkwmc.cn] [CHAT] 更多附魔里都是一样的= =
+[2026-07-08 00:08:07] [AuroraCity.kkwmc.cn] [CHAT] 给我整难受了
+[2026-07-08 00:09:31] [AuroraCity.kkwmc.cn] [CHAT] 加个功能就有bug
+[2026-07-08 00:09:33] [AuroraCity.kkwmc.cn] [CHAT] 好烦= =
