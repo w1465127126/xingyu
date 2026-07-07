@@ -1959,3 +1959,9 @@
 [2026-07-07 22:20:36] [AuroraCity.kkwmc.cn] [CMD] /back
 [2026-07-07 22:20:44] [AuroraCity.kkwmc.cn] [CHAT] 你让我打打
 [2026-07-07 22:20:46] [AuroraCity.kkwmc.cn] [CHAT] 举盾
+[2026-07-07 22:20:48] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-07 22:20:58] [AuroraCity.kkwmc.cn] [CHAT] 不对吧
+[2026-07-07 22:21:00] [AuroraCity.kkwmc.cn] [CMD] /凭什么
+[2026-07-07 22:21:04] [AuroraCity.kkwmc.cn] [CHAT] 我也是满级回血啊
+[2026-07-07 22:21:05] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-07 22:21:15] [AuroraCity.kkwmc.cn] [CMD] /back
