@@ -1794,3 +1794,6 @@
 [2026-07-07 21:31:30] [AuroraCity.kkwmc.cn] [CHAT] 你在干什么
 [2026-07-07 21:33:17] [AuroraCity.kkwmc.cn] [CMD] /tpa LuckyMengYi
 [2026-07-07 21:33:41] [AuroraCity.kkwmc.cn] [CHAT] 你这个太浪费了
+[2026-07-07 21:33:51] [AuroraCity.kkwmc.cn] [CHAT] 搞深色橡木
+[2026-07-07 21:34:01] [AuroraCity.kkwmc.cn] [CHAT] 然后多加几个中继器
+[2026-07-07 21:34:28] [AuroraCity.kkwmc.cn] [CHAT] 先给我把这俩换了
