@@ -2474,3 +2474,6 @@
 [2026-07-07 16:59:00] [AuroraCity.kkwmc.cn] [CHAT] 弓真废了
 [2026-07-07 16:59:22] [AuroraCity.kkwmc.cn] [CHAT] 我原地复活
 [2026-07-07 16:59:25] [AuroraCity.kkwmc.cn] [CHAT] 和没死有区别嘛
+[2026-07-07 16:59:42] [AuroraCity.kkwmc.cn] [CHAT] 咋了
+[2026-07-07 17:00:10] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-07 17:00:18] [AuroraCity.kkwmc.cn] [CHAT] no
