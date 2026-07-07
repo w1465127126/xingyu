@@ -2211,3 +2211,6 @@
 [2026-07-07 23:41:07] [AuroraCity.kkwmc.cn] [CHAT] 昨天有根电线出问题了
 [2026-07-07 23:41:18] [AuroraCity.kkwmc.cn] [CHAT] 今天又怎么回事
 [2026-07-07 23:42:43] [AuroraCity.kkwmc.cn] [CMD] /tpa app
+[2026-07-07 23:43:31] [AuroraCity.kkwmc.cn] [CHAT] ?
+[2026-07-07 23:43:36] [AuroraCity.kkwmc.cn] [CMD] /home 3
+[2026-07-07 23:43:43] [AuroraCity.kkwmc.cn] [CHAT] 你用不了吗
