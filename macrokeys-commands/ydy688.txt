@@ -2034,3 +2034,6 @@
 [2026-07-07 22:38:51] [AuroraCity.kkwmc.cn] [CHAT] 刚才几刀没出技能
 [2026-07-07 22:38:57] [AuroraCity.kkwmc.cn] [CMD] /res tp gz
 [2026-07-07 22:39:14] [AuroraCity.kkwmc.cn] [CMD] /res tp w
+[2026-07-07 22:39:26] [AuroraCity.kkwmc.cn] [CMD] /tpa w
+[2026-07-07 22:39:29] [AuroraCity.kkwmc.cn] [CMD] /tpa WallE
+[2026-07-07 22:39:49] [AuroraCity.kkwmc.cn] [CHAT] 666我一个鸡蛋砸出来四个鸡
