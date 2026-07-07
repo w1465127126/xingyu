@@ -2462,3 +2462,6 @@
 [2026-07-07 16:56:32] [AuroraCity.kkwmc.cn] [CHAT] xd
 [2026-07-07 16:56:38] [AuroraCity.kkwmc.cn] [CHAT] 给我整一个
 [2026-07-07 16:56:39] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-07 16:57:04] [AuroraCity.kkwmc.cn] [CHAT] 我都不知道爆了多少个了
+[2026-07-07 16:57:20] [AuroraCity.kkwmc.cn] [CHAT] 为啥这个盾对我没用
+[2026-07-07 16:57:22] [AuroraCity.kkwmc.cn] [CHAT] 66
