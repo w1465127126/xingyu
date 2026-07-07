@@ -2307,3 +2307,6 @@
 [2026-07-08 00:07:00] [AuroraCity.kkwmc.cn] [CMD] /res tp jiaoyi
 [2026-07-08 00:07:06] [AuroraCity.kkwmc.cn] [CHAT] nbtssm
 [2026-07-08 00:07:27] [AuroraCity.kkwmc.cn] [CHAT] o
+[2026-07-08 00:09:14] [AuroraCity.kkwmc.cn] [CHAT] 这个铁锭剩64个不让卖了
+[2026-07-08 00:16:11] [AuroraCity.kkwmc.cn] [CMD] /home 3
+[2026-07-08 00:20:39] [AuroraCity.kkwmc.cn] [CMD] /hat
