@@ -3089,3 +3089,6 @@
 [2026-07-07 23:17:13] [AuroraCity.kkwmc.cn] [CMD] /back
 [2026-07-07 23:17:39] [AuroraCity.kkwmc.cn] [CHAT] 出事了= =
 [2026-07-07 23:17:41] [AuroraCity.kkwmc.cn] [CHAT] 我看人没伤害了
+[2026-07-07 23:17:51] [AuroraCity.kkwmc.cn] [CHAT] 我会被luck正常打死
+[2026-07-07 23:17:53] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-07 23:18:08] [AuroraCity.kkwmc.cn] [CHAT] = =
