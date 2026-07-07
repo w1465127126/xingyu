@@ -1839,3 +1839,6 @@
 [2026-07-07 21:41:46] [AuroraCity.kkwmc.cn] [CMD] /back
 [2026-07-07 21:41:53] [AuroraCity.kkwmc.cn] [CMD] /hat
 [2026-07-07 21:42:02] [AuroraCity.kkwmc.cn] [CHAT] 就像背了一把剑
+[2026-07-07 21:42:05] [AuroraCity.kkwmc.cn] [CHAT] 还挺帅的
+[2026-07-07 21:42:10] [AuroraCity.kkwmc.cn] [CHAT] 附个反击和反弹
+[2026-07-07 21:42:18] [AuroraCity.kkwmc.cn] [CMD] /pvptt
