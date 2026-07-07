@@ -1851,3 +1851,6 @@
 [2026-07-07 21:43:58] [AuroraCity.kkwmc.cn] [CMD] /warp 冒险者大厅
 [2026-07-07 21:44:51] [AuroraCity.kkwmc.cn] [CHAT] 留一个有耐久的盾吧
 [2026-07-07 21:44:55] [AuroraCity.kkwmc.cn] [CHAT] 就当纪念了
+[2026-07-07 21:44:57] [AuroraCity.kkwmc.cn] [CMD] /home 3
+[2026-07-07 21:45:29] [AuroraCity.kkwmc.cn] [CHAT] 弓吗
+[2026-07-07 21:45:41] [AuroraCity.kkwmc.cn] [CHAT] 剑不是一样打不动我
