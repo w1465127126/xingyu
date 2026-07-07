@@ -2540,3 +2540,6 @@
 [2026-07-07 19:40:35] [AuroraCity.kkwmc.cn] [CMD] /res set pvp-PVP true
 [2026-07-07 19:40:37] [AuroraCity.kkwmc.cn] [CHAT] ok
 [2026-07-07 19:40:49] [AuroraCity.kkwmc.cn] [CHAT] 这么帅
+[2026-07-07 19:40:55] [AuroraCity.kkwmc.cn] [CHAT] 打我
+[2026-07-07 19:41:12] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-07 19:41:16] [AuroraCity.kkwmc.cn] [CHAT] 这伤害也不高啊
