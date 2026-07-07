@@ -2142,3 +2142,6 @@
 [2026-07-07 23:07:06] [AuroraCity.kkwmc.cn] [CMD] /back
 [2026-07-07 23:07:28] [AuroraCity.kkwmc.cn] [CHAT] 我的护身符使工具免于损坏？？
 [2026-07-07 23:07:32] [AuroraCity.kkwmc.cn] [CHAT] 有东西炸了
+[2026-07-07 23:07:45] [AuroraCity.kkwmc.cn] [CHAT] 不知道啊
+[2026-07-07 23:07:47] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-07 23:07:52] [AuroraCity.kkwmc.cn] [CHAT] 来砍我
