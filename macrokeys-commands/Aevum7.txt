@@ -2948,3 +2948,6 @@
 [2026-07-07 22:47:57] [AuroraCity.kkwmc.cn] [CHAT] 你巨盾啊
 [2026-07-07 22:48:19] [AuroraCity.kkwmc.cn] [CMD] /tpa LuckyMengYi
 [2026-07-07 22:48:38] [AuroraCity.kkwmc.cn] [CHAT] cao
+[2026-07-07 22:48:39] [AuroraCity.kkwmc.cn] [CHAT] 你
+[2026-07-07 22:48:41] [AuroraCity.kkwmc.cn] [CHAT] 还大混乱啊
+[2026-07-07 22:48:49] [AuroraCity.kkwmc.cn] [CMD] /back
