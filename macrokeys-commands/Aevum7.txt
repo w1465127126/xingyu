@@ -2831,3 +2831,6 @@
 [2026-07-07 22:14:59] [AuroraCity.kkwmc.cn] [CHAT] 美西螈呢
 [2026-07-07 22:15:20] [AuroraCity.kkwmc.cn] [CMD] /hat
 [2026-07-07 22:15:25] [AuroraCity.kkwmc.cn] [CMD] /hat
+[2026-07-07 22:15:34] [AuroraCity.kkwmc.cn] [CMD] /hat
+[2026-07-07 22:15:36] [AuroraCity.kkwmc.cn] [CMD] /hat
+[2026-07-07 22:15:48] [AuroraCity.kkwmc.cn] [CHAT] 为啥别的剑不能背背上
