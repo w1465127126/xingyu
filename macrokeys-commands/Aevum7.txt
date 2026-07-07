@@ -2676,3 +2676,8 @@
 [2026-07-07 21:14:53] [AuroraCity.kkwmc.cn] [CHAT] vs
 [2026-07-07 21:15:04] [AuroraCity.kkwmc.cn] [CMD] /tpa vsoth
 [2026-07-07 21:15:28] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-07 21:16:30] [AuroraCity.kkwmc.cn] [JOIN] 连接服务器: AuroraCity.kkwmc.cn
+[2026-07-07 21:16:37] [AuroraCity.kkwmc.cn] [CMD] /l wokaoa
+[2026-07-07 21:19:44] [AuroraCity.kkwmc.cn] [JOIN] 连接服务器: AuroraCity.kkwmc.cn
+[2026-07-07 21:19:58] [AuroraCity.kkwmc.cn] [CMD] /l wokaoa
+[2026-07-07 21:34:59] [AuroraCity.kkwmc.cn] [CHAT] ?
