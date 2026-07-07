@@ -1785,3 +1785,6 @@
 [2026-07-07 21:24:51] [AuroraCity.kkwmc.cn] [CHAT] 576
 [2026-07-07 21:24:56] [AuroraCity.kkwmc.cn] [CMD] /home 3
 [2026-07-07 21:25:20] [AuroraCity.kkwmc.cn] [CHAT] 卖钻石，50金币一个
+[2026-07-07 21:25:28] [AuroraCity.kkwmc.cn] [CMD] /ah
+[2026-07-07 21:25:51] [AuroraCity.kkwmc.cn] [CMD] /ah sell 3000 3200
+[2026-07-07 21:26:30] [AuroraCity.kkwmc.cn] [CMD] /tpa WallE
