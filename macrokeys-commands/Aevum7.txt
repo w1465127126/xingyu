@@ -2957,3 +2957,6 @@
 [2026-07-07 22:49:47] [AuroraCity.kkwmc.cn] [CHAT] 这是真恶心啊
 [2026-07-07 22:49:49] [AuroraCity.kkwmc.cn] [CHAT] 这武器
 [2026-07-07 22:49:52] [AuroraCity.kkwmc.cn] [CHAT] 附魔个混乱
+[2026-07-07 22:50:00] [AuroraCity.kkwmc.cn] [CHAT] 打我一下我昏乱几次
+[2026-07-07 22:51:34] [AuroraCity.kkwmc.cn] [CHAT] 哎村民附魔终于可以自动了
+[2026-07-07 22:51:37] [AuroraCity.kkwmc.cn] [CHAT] 无憾了
