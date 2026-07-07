@@ -3008,3 +3008,12 @@
 [2026-07-07 23:01:54] [AuroraCity.kkwmc.cn] [CHAT] 但是可以刷经验
 [2026-07-07 23:02:01] [AuroraCity.kkwmc.cn] [CHAT] xing
 [2026-07-07 23:02:05] [AuroraCity.kkwmc.cn] [CHAT] 可以刷经验awa
+[2026-07-07 23:02:22] [AuroraCity.kkwmc.cn] [CHAT] wc
+[2026-07-07 23:02:30] [AuroraCity.kkwmc.cn] [CHAT] 卡了
+[2026-07-07 23:02:38] [AuroraCity.kkwmc.cn] [CHAT] 这个插件多了也奇怪
+[2026-07-07 23:02:40] [AuroraCity.kkwmc.cn] [CHAT] [i]
+[2026-07-07 23:02:42] [AuroraCity.kkwmc.cn] [CHAT] 已经死了
+[2026-07-07 23:02:44] [AuroraCity.kkwmc.cn] [CHAT] 但又没死
+[2026-07-07 23:02:46] [AuroraCity.kkwmc.cn] [CHAT] 我之前也这样
+[2026-07-07 23:03:00] [AuroraCity.kkwmc.cn] [CMD] /hat
+[2026-07-07 23:03:07] [AuroraCity.kkwmc.cn] [CHAT] 一人一个
