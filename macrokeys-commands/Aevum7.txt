@@ -3047,3 +3047,6 @@
 [2026-07-07 23:07:38] [AuroraCity.kkwmc.cn] [CHAT] 你还能爆啥
 [2026-07-07 23:07:58] [AuroraCity.kkwmc.cn] [CHAT] 这b武器太超标了
 [2026-07-07 23:08:21] [AuroraCity.kkwmc.cn] [CHAT] 根本没掉血好吧= =
+[2026-07-07 23:08:30] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-07 23:08:45] [AuroraCity.kkwmc.cn] [CHAT] 空军不是正常吗
+[2026-07-07 23:08:58] [AuroraCity.kkwmc.cn] [CMD] /back
