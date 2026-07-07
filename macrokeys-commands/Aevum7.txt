@@ -2582,3 +2582,6 @@
 [2026-07-07 19:49:21] [AuroraCity.kkwmc.cn] [CHAT] 你有权限
 [2026-07-07 19:49:40] [AuroraCity.kkwmc.cn] [CHAT] 是这样的
 [2026-07-07 19:49:43] [AuroraCity.kkwmc.cn] [CHAT] 触发很傻逼
+[2026-07-07 19:49:48] [AuroraCity.kkwmc.cn] [CHAT] 我上次背包放个剑
+[2026-07-07 19:49:50] [AuroraCity.kkwmc.cn] [CHAT] 我丢个东西
+[2026-07-07 19:49:53] [AuroraCity.kkwmc.cn] [CHAT] 触发技能
