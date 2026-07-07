@@ -1956,3 +1956,6 @@
 [2026-07-07 22:19:43] [AuroraCity.kkwmc.cn] [CMD] /back
 [2026-07-07 22:19:50] [AuroraCity.kkwmc.cn] [CMD] /hat
 [2026-07-07 22:19:57] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-07 22:20:36] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-07 22:20:44] [AuroraCity.kkwmc.cn] [CHAT] 你让我打打
+[2026-07-07 22:20:46] [AuroraCity.kkwmc.cn] [CHAT] 举盾
