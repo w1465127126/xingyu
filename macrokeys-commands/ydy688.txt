@@ -1659,3 +1659,6 @@
 [2026-07-07 20:05:01] [AuroraCity.kkwmc.cn] [JOIN] 连接服务器: AuroraCity.kkwmc.cn
 [2026-07-07 20:05:09] [AuroraCity.kkwmc.cn] [CMD] /login xvvcxc
 [2026-07-07 20:05:18] [AuroraCity.kkwmc.cn] [CHAT] 怎么两个app
+[2026-07-07 20:05:24] [AuroraCity.kkwmc.cn] [CMD] /tpa app
+[2026-07-07 20:05:39] [AuroraCity.kkwmc.cn] [CMD] /tpa app
+[2026-07-07 20:06:12] [AuroraCity.kkwmc.cn] [CHAT] ？？？
