@@ -2813,3 +2813,6 @@
 [2026-07-07 22:09:37] [AuroraCity.kkwmc.cn] [CHAT] = =
 [2026-07-07 22:09:38] [AuroraCity.kkwmc.cn] [CMD] /back
 [2026-07-07 22:10:03] [AuroraCity.kkwmc.cn] [CHAT] 近战你也不吃啊
+[2026-07-07 22:10:13] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-07 22:10:42] [AuroraCity.kkwmc.cn] [CHAT] 你网卡是把
+[2026-07-07 22:11:04] [AuroraCity.kkwmc.cn] [CMD] /back
