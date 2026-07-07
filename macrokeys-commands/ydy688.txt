@@ -1881,3 +1881,6 @@
 [2026-07-07 21:53:00] [AuroraCity.kkwmc.cn] [CMD] /back
 [2026-07-07 21:54:02] [AuroraCity.kkwmc.cn] [CMD] /back
 [2026-07-07 21:54:32] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-07 21:55:36] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-07 21:56:51] [AuroraCity.kkwmc.cn] [CHAT] Aevum7
+[2026-07-07 21:56:55] [AuroraCity.kkwmc.cn] [CHAT] 还有白值宝石吗
