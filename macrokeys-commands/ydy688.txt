@@ -2136,3 +2136,6 @@
 [2026-07-07 23:05:47] [AuroraCity.kkwmc.cn] [CHAT] 诸神黄昏呢
 [2026-07-07 23:05:49] [AuroraCity.kkwmc.cn] [CMD] /back
 [2026-07-07 23:06:08] [AuroraCity.kkwmc.cn] [CHAT] 所以你这是什么buff
+[2026-07-07 23:06:19] [AuroraCity.kkwmc.cn] [CMD] /res tp gz
+[2026-07-07 23:06:27] [AuroraCity.kkwmc.cn] [CHAT] 都是右键
+[2026-07-07 23:06:58] [AuroraCity.kkwmc.cn] [CHAT] 等下
