@@ -2447,3 +2447,6 @@
 [2026-07-07 16:54:37] [AuroraCity.kkwmc.cn] [CMD] /back
 [2026-07-07 16:54:41] [AuroraCity.kkwmc.cn] [CHAT] 啥情况
 [2026-07-07 16:54:51] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-07 16:55:04] [AuroraCity.kkwmc.cn] [CHAT] ?
+[2026-07-07 16:55:05] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-07 16:55:09] [AuroraCity.kkwmc.cn] [CHAT] 哦
