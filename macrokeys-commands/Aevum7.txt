@@ -2414,3 +2414,6 @@
 [2026-07-07 16:51:59] [AuroraCity.kkwmc.cn] [CMD] /hat
 [2026-07-07 16:52:15] [AuroraCity.kkwmc.cn] [CHAT] 没啊
 [2026-07-07 16:52:26] [AuroraCity.kkwmc.cn] [CHAT] 永清网关
+[2026-07-07 16:52:27] [AuroraCity.kkwmc.cn] [CHAT] 王冠
+[2026-07-07 16:52:29] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-07 16:52:39] [AuroraCity.kkwmc.cn] [CHAT] 没动力
