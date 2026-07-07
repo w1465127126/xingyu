@@ -1680,3 +1680,6 @@
 [2026-07-07 20:13:53] [AuroraCity.kkwmc.cn] [CHAT] 刚才给你的啊
 [2026-07-07 20:15:12] [AuroraCity.kkwmc.cn] [CHAT] 神了
 [2026-07-07 20:15:15] [AuroraCity.kkwmc.cn] [CHAT] 右上角有个搜索
+[2026-07-07 20:16:27] [AuroraCity.kkwmc.cn] [CMD] /home 3
+[2026-07-07 20:16:31] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-07 20:18:04] [AuroraCity.kkwmc.cn] [CHAT] 还没找到吗
