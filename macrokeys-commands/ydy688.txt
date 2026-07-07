@@ -1968,3 +1968,6 @@
 [2026-07-07 22:21:28] [AuroraCity.kkwmc.cn] [CHAT] 其实你早死了吧
 [2026-07-07 22:21:31] [AuroraCity.kkwmc.cn] [CMD] /back
 [2026-07-07 22:21:42] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-07 22:21:49] [AuroraCity.kkwmc.cn] [CHAT] 因为你一直假死啊
+[2026-07-07 22:21:53] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-07 22:22:27] [AuroraCity.kkwmc.cn] [CHAT] 你绝对是死了的
