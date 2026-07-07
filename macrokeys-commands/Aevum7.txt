@@ -2284,3 +2284,6 @@
 [2026-07-07 10:51:00] [AuroraCity.kkwmc.cn] [CHAT] 感觉古森头盔不升级还好看一点= =
 [2026-07-07 10:51:06] [AuroraCity.kkwmc.cn] [CMD] /warp 鹅斯拉
 [2026-07-07 10:51:43] [AuroraCity.kkwmc.cn] [CMD] /spawn
+[2026-07-07 10:51:53] [AuroraCity.kkwmc.cn] [CMD] /fly
+[2026-07-07 10:53:32] [AuroraCity.kkwmc.cn] [CMD] /fly
+[2026-07-07 10:53:33] [AuroraCity.kkwmc.cn] [CMD] /fly
