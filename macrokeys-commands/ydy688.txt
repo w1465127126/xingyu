@@ -1884,3 +1884,6 @@
 [2026-07-07 21:55:36] [AuroraCity.kkwmc.cn] [CMD] /back
 [2026-07-07 21:56:51] [AuroraCity.kkwmc.cn] [CHAT] Aevum7
 [2026-07-07 21:56:55] [AuroraCity.kkwmc.cn] [CHAT] 还有白值宝石吗
+[2026-07-07 21:57:45] [AuroraCity.kkwmc.cn] [CHAT] 你关动物击杀权限
+[2026-07-07 21:57:54] [AuroraCity.kkwmc.cn] [CHAT] 人杀不掉了
+[2026-07-07 21:57:56] [AuroraCity.kkwmc.cn] [CHAT] 有用的
