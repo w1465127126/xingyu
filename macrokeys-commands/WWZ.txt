@@ -858,3 +858,6 @@
 [2026-07-07 19:28:54] [x6.sjcmc.cn:34054] [CMD] /back
 [2026-07-07 19:41:19] [x6.sjcmc.cn:34054] [CMD] /tpa LuckyMengYi
 [2026-07-07 19:41:21] [x6.sjcmc.cn:34054] [CHAT] 打我
+[2026-07-07 19:42:28] [x6.sjcmc.cn:34054] [CMD] /back
+[2026-07-07 19:42:47] [x6.sjcmc.cn:34054] [CMD] /back
+[2026-07-07 19:43:27] [x6.sjcmc.cn:34054] [CMD] /res tp yt
