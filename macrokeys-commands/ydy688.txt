@@ -2184,3 +2184,6 @@
 [2026-07-07 23:24:36] [AuroraCity.kkwmc.cn] [CHAT] 卡了
 [2026-07-07 23:24:51] [AuroraCity.kkwmc.cn] [CHAT] 家里换啊
 [2026-07-07 23:25:12] [AuroraCity.kkwmc.cn] [CHAT] 不是还有线
+[2026-07-07 23:25:23] [AuroraCity.kkwmc.cn] [CHAT] 好卡啊
+[2026-07-07 23:25:36] [AuroraCity.kkwmc.cn] [CHAT] 你刷怪塔啊
+[2026-07-07 23:27:04] [AuroraCity.kkwmc.cn] [CHAT] 有仙人掌吗
