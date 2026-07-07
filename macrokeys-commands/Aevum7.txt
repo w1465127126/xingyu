@@ -2624,3 +2624,6 @@
 [2026-07-07 20:19:38] [AuroraCity.kkwmc.cn] [JOIN] 连接服务器: AuroraCity.kkwmc.cn
 [2026-07-07 20:19:45] [AuroraCity.kkwmc.cn] [CMD] /l wokaoa
 [2026-07-07 20:23:41] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-07 20:24:00] [AuroraCity.kkwmc.cn] [CHAT] 森林树屋
+[2026-07-07 20:24:31] [AuroraCity.kkwmc.cn] [CHAT] 我倒一桶岩浆下来你家会被烧吗
+[2026-07-07 20:25:25] [AuroraCity.kkwmc.cn] [CHAT] 好像会烧箱子
