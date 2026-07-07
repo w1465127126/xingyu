@@ -2226,3 +2226,6 @@
 [2026-07-07 23:47:39] [AuroraCity.kkwmc.cn] [CHAT] 我还以为是前面的那个几率是返还百分比呢
 [2026-07-07 23:49:44] [AuroraCity.kkwmc.cn] [CMD] /tpa app
 [2026-07-07 23:50:07] [AuroraCity.kkwmc.cn] [CHAT] 你没解锁是吧
+[2026-07-07 23:50:20] [AuroraCity.kkwmc.cn] [CHAT] 再来
+[2026-07-07 23:50:34] [AuroraCity.kkwmc.cn] [CHAT] 你输入/back能快速
+[2026-07-07 23:50:56] [AuroraCity.kkwmc.cn] [CHAT] 打我
