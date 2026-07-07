@@ -2750,3 +2750,6 @@
 [2026-07-07 21:49:49] [AuroraCity.kkwmc.cn] [CHAT] 顶不住
 [2026-07-07 21:49:52] [AuroraCity.kkwmc.cn] [CHAT] 刷个反弹
 [2026-07-07 21:49:53] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-07 21:49:57] [AuroraCity.kkwmc.cn] [CMD] /res tp fan
+[2026-07-07 21:50:08] [AuroraCity.kkwmc.cn] [CHAT] 太超标了
+[2026-07-07 21:51:10] [AuroraCity.kkwmc.cn] [CHAT] 我们家有反弹吗
