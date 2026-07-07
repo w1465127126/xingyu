@@ -2912,3 +2912,9 @@
 [2026-07-07 22:37:56] [AuroraCity.kkwmc.cn] [CMD] /fly
 [2026-07-07 22:38:00] [AuroraCity.kkwmc.cn] [CMD] /tpaccept
 [2026-07-07 22:38:03] [AuroraCity.kkwmc.cn] [CMD] /tpahere ydy688
+[2026-07-07 22:38:06] [AuroraCity.kkwmc.cn] [CHAT] 打架
+[2026-07-07 22:38:15] [AuroraCity.kkwmc.cn] [CMD] /tpa ydy688
+[2026-07-07 22:38:23] [AuroraCity.kkwmc.cn] [CHAT] = =
+[2026-07-07 22:38:34] [AuroraCity.kkwmc.cn] [CHAT] 人家都不来末地
+[2026-07-07 22:38:50] [AuroraCity.kkwmc.cn] [CHAT] 去甘蔗
+[2026-07-07 22:38:51] [AuroraCity.kkwmc.cn] [CMD] /res tp gz
