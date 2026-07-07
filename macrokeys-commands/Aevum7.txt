@@ -2789,3 +2789,6 @@
 [2026-07-07 22:02:53] [AuroraCity.kkwmc.cn] [CHAT] 回城的才是弱者
 [2026-07-07 22:03:06] [AuroraCity.kkwmc.cn] [CHAT] haha
 [2026-07-07 22:03:13] [AuroraCity.kkwmc.cn] [CHAT] = =
+[2026-07-07 22:03:14] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-07 22:03:45] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-07 22:04:15] [AuroraCity.kkwmc.cn] [CHAT] 还想复活
