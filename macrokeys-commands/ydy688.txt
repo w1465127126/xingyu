@@ -1818,3 +1818,6 @@
 [2026-07-07 21:38:50] [AuroraCity.kkwmc.cn] [CHAT] ./hat
 [2026-07-07 21:38:55] [AuroraCity.kkwmc.cn] [CHAT] 下发了
 [2026-07-07 21:39:02] [AuroraCity.kkwmc.cn] [CHAT] 现在我们可以hat任何东西
+[2026-07-07 21:39:18] [AuroraCity.kkwmc.cn] [CMD] /hat
+[2026-07-07 21:39:30] [AuroraCity.kkwmc.cn] [CHAT] 你们把鬼新娘hat一下
+[2026-07-07 21:39:35] [AuroraCity.kkwmc.cn] [CHAT] 好像不对劲
