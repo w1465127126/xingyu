@@ -2037,3 +2037,6 @@
 [2026-07-07 22:39:26] [AuroraCity.kkwmc.cn] [CMD] /tpa w
 [2026-07-07 22:39:29] [AuroraCity.kkwmc.cn] [CMD] /tpa WallE
 [2026-07-07 22:39:49] [AuroraCity.kkwmc.cn] [CHAT] 666我一个鸡蛋砸出来四个鸡
+[2026-07-07 22:39:57] [AuroraCity.kkwmc.cn] [CMD] /tpa LuckyMengYi
+[2026-07-07 22:40:16] [AuroraCity.kkwmc.cn] [CHAT] 服主呢
+[2026-07-07 22:40:53] [AuroraCity.kkwmc.cn] [CMD] /back
