@@ -1920,3 +1920,6 @@
 [2026-07-07 22:05:31] [AuroraCity.kkwmc.cn] [CHAT] 这里是谁布置的
 [2026-07-07 22:05:38] [AuroraCity.kkwmc.cn] [CMD] /res tp gz
 [2026-07-07 22:05:54] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-07 22:05:59] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-07 22:06:06] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-07 22:06:33] [AuroraCity.kkwmc.cn] [CHAT] 你用弓打不行吗
