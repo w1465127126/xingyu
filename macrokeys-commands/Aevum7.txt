@@ -2765,3 +2765,6 @@
 [2026-07-07 21:57:07] [AuroraCity.kkwmc.cn] [CHAT] 没
 [2026-07-07 21:57:33] [AuroraCity.kkwmc.cn] [CHAT] n zai gm
 [2026-07-07 21:57:39] [AuroraCity.kkwmc.cn] [CHAT] 6
+[2026-07-07 21:57:47] [AuroraCity.kkwmc.cn] [CMD] /fly
+[2026-07-07 21:57:51] [AuroraCity.kkwmc.cn] [CHAT] 没用
+[2026-07-07 21:57:54] [AuroraCity.kkwmc.cn] [CHAT] 早关了
