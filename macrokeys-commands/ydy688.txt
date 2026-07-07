@@ -1719,3 +1719,6 @@
 [2026-07-07 20:38:52] [AuroraCity.kkwmc.cn] [CHAT] 你帽子还没坏吗
 [2026-07-07 20:40:06] [AuroraCity.kkwmc.cn] [CHAT] 可以用岩浆块加水
 [2026-07-07 20:40:29] [AuroraCity.kkwmc.cn] [CHAT] 你试试就知道了
+[2026-07-07 20:42:03] [AuroraCity.kkwmc.cn] [CHAT] 玩电力
+[2026-07-07 20:42:47] [AuroraCity.kkwmc.cn] [CHAT] 我给你弄点吧
+[2026-07-07 20:43:38] [AuroraCity.kkwmc.cn] [CMD] /tpa app
