@@ -2100,3 +2100,6 @@
 [2026-07-07 22:57:12] [AuroraCity.kkwmc.cn] [CHAT] ？？？
 [2026-07-07 22:57:28] [AuroraCity.kkwmc.cn] [CMD] /back
 [2026-07-07 22:57:43] [AuroraCity.kkwmc.cn] [CHAT] 诶？
+[2026-07-07 22:57:47] [AuroraCity.kkwmc.cn] [CHAT] 这样死的话没经验
+[2026-07-07 22:57:51] [AuroraCity.kkwmc.cn] [CHAT] 但是盾？
+[2026-07-07 22:57:54] [AuroraCity.kkwmc.cn] [CHAT] 你过来试试
