@@ -2019,3 +2019,6 @@
 [2026-07-07 22:36:24] [AuroraCity.kkwmc.cn] [CHAT] 哈哈哈哈
 [2026-07-07 22:36:34] [AuroraCity.kkwmc.cn] [CHAT] 两个怒之角的原因
 [2026-07-07 22:36:41] [AuroraCity.kkwmc.cn] [CHAT] 只有两个人都穿才会这样
+[2026-07-07 22:36:43] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-07 22:36:51] [AuroraCity.kkwmc.cn] [CHAT] 你别举盾
+[2026-07-07 22:37:05] [AuroraCity.kkwmc.cn] [CHAT] 穿上呢
