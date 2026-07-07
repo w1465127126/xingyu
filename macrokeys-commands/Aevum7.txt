@@ -2924,3 +2924,9 @@
 [2026-07-07 22:40:02] [AuroraCity.kkwmc.cn] [CMD] /fly
 [2026-07-07 22:41:24] [AuroraCity.kkwmc.cn] [CHAT] 人呢
 [2026-07-07 22:41:43] [AuroraCity.kkwmc.cn] [CHAT] 什么抗性
+[2026-07-07 22:42:03] [AuroraCity.kkwmc.cn] [CMD] /tpa ydy688
+[2026-07-07 22:42:13] [AuroraCity.kkwmc.cn] [CHAT] 保护32767
+[2026-07-07 22:42:19] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-07 22:42:21] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-07 22:42:35] [AuroraCity.kkwmc.cn] [CHAT] 一刀
+[2026-07-07 22:42:45] [AuroraCity.kkwmc.cn] [CHAT] 还是太超标了
