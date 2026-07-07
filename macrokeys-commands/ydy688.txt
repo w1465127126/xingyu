@@ -1902,3 +1902,6 @@
 [2026-07-07 22:01:52] [AuroraCity.kkwmc.cn] [CMD] /back
 [2026-07-07 22:02:19] [AuroraCity.kkwmc.cn] [CHAT] 你知道你死了几遍吗
 [2026-07-07 22:02:29] [AuroraCity.kkwmc.cn] [CHAT] 五十次以上
+[2026-07-07 22:02:30] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-07 22:02:53] [AuroraCity.kkwmc.cn] [CHAT] 你逗我呢
+[2026-07-07 22:02:58] [AuroraCity.kkwmc.cn] [CMD] /back
