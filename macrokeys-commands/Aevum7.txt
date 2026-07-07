@@ -2996,3 +2996,6 @@
 [2026-07-07 22:59:47] [AuroraCity.kkwmc.cn] [CHAT] 你搁着卡bug呢
 [2026-07-07 23:00:08] [AuroraCity.kkwmc.cn] [CHAT] ？
 [2026-07-07 23:00:31] [AuroraCity.kkwmc.cn] [CHAT] 你看神奇不
+[2026-07-07 23:00:48] [AuroraCity.kkwmc.cn] [CHAT] 没了拉到
+[2026-07-07 23:00:55] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-07 23:01:03] [AuroraCity.kkwmc.cn] [CHAT] 剑技能吧
