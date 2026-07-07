@@ -1755,3 +1755,6 @@
 [2026-07-07 21:02:54] [AuroraCity.kkwmc.cn] [JOIN] 连接服务器: AuroraCity.kkwmc.cn
 [2026-07-07 21:02:59] [AuroraCity.kkwmc.cn] [CMD] /login xvvcxc
 [2026-07-07 21:04:10] [AuroraCity.kkwmc.cn] [CHAT] 海上来人了
+[2026-07-07 21:05:24] [AuroraCity.kkwmc.cn] [CHAT] 水里可以游
+[2026-07-07 21:05:39] [AuroraCity.kkwmc.cn] [CHAT] 双击w
+[2026-07-07 21:06:24] [AuroraCity.kkwmc.cn] [CHAT] 到水里面再双击
