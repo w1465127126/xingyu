@@ -2438,3 +2438,6 @@
 [2026-07-07 16:54:08] [AuroraCity.kkwmc.cn] [CHAT] 50啊
 [2026-07-07 16:54:13] [AuroraCity.kkwmc.cn] [CHAT] ？
 [2026-07-07 16:54:14] [AuroraCity.kkwmc.cn] [CHAT] 一样的
+[2026-07-07 16:54:17] [AuroraCity.kkwmc.cn] [CMD] /bacj
+[2026-07-07 16:54:18] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-07 16:54:24] [AuroraCity.kkwmc.cn] [CHAT] = =
