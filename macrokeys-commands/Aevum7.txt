@@ -2486,3 +2486,6 @@
 [2026-07-07 17:02:16] [AuroraCity.kkwmc.cn] [CHAT] 是的
 [2026-07-07 17:02:22] [AuroraCity.kkwmc.cn] [CMD] /back
 [2026-07-07 17:02:43] [AuroraCity.kkwmc.cn] [CHAT] 你干啥了
+[2026-07-07 17:03:03] [AuroraCity.kkwmc.cn] [CHAT] 突然就打不到了
+[2026-07-07 17:03:18] [AuroraCity.kkwmc.cn] [CMD] /fly
+[2026-07-07 17:03:30] [AuroraCity.kkwmc.cn] [CHAT] 好无聊= =
