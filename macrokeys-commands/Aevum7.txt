@@ -2555,3 +2555,6 @@
 [2026-07-07 19:43:10] [AuroraCity.kkwmc.cn] [CMD] /back
 [2026-07-07 19:43:27] [AuroraCity.kkwmc.cn] [CHAT] 超标了
 [2026-07-07 19:43:31] [AuroraCity.kkwmc.cn] [CHAT] 不吃弓
+[2026-07-07 19:44:21] [AuroraCity.kkwmc.cn] [CHAT] 平民还在研究盾牌的时候
+[2026-07-07 19:44:30] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-07 19:45:22] [AuroraCity.kkwmc.cn] [CHAT] 你咋不死
