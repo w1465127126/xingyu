@@ -1950,3 +1950,6 @@
 [2026-07-07 22:16:11] [AuroraCity.kkwmc.cn] [CHAT] 试试森林剑呢
 [2026-07-07 22:16:23] [AuroraCity.kkwmc.cn] [CMD] /hat
 [2026-07-07 22:16:29] [AuroraCity.kkwmc.cn] [CHAT] 我看看
+[2026-07-07 22:18:26] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-07 22:18:45] [AuroraCity.kkwmc.cn] [CHAT] [i]
+[2026-07-07 22:18:51] [AuroraCity.kkwmc.cn] [CMD] /back
