@@ -2367,3 +2367,8 @@
 [2026-07-07 15:26:32] [112.17.187.19:5921] [CMD] /warp 6
 [2026-07-07 15:27:07] [112.17.187.19:5921] [CMD] /spawn
 [2026-07-07 16:20:45] [AuroraCity.kkwmc.cn] [JOIN] 连接服务器: AuroraCity.kkwmc.cn
+[2026-07-07 16:20:49] [AuroraCity.kkwmc.cn] [CMD] /l wokaoa
+[2026-07-07 16:25:33] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-07 16:32:55] [AuroraCity.kkwmc.cn] [JOIN] 连接服务器: AuroraCity.kkwmc.cn
+[2026-07-07 16:33:03] [AuroraCity.kkwmc.cn] [CMD] /l woklaoa
+[2026-07-07 16:33:05] [AuroraCity.kkwmc.cn] [JOIN] 连接服务器: AuroraCity.kkwmc.cn
