@@ -1890,3 +1890,6 @@
 [2026-07-07 21:58:00] [AuroraCity.kkwmc.cn] [CHAT] 你设置有问题
 [2026-07-07 21:58:06] [AuroraCity.kkwmc.cn] [CHAT] 我弄别人家的就行
 [2026-07-07 21:58:09] [AuroraCity.kkwmc.cn] [CHAT] 哦
+[2026-07-07 21:59:14] [AuroraCity.kkwmc.cn] [CMD] /tpa lpld111161
+[2026-07-07 21:59:19] [AuroraCity.kkwmc.cn] [CMD] /tpa LuckyMengYi
+[2026-07-07 21:59:32] [AuroraCity.kkwmc.cn] [CMD] /back
