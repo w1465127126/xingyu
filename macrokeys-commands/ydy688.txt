@@ -2259,3 +2259,6 @@
 [2026-07-07 23:58:15] [AuroraCity.kkwmc.cn] [CMD] /pay Jaek 10000
 [2026-07-07 23:58:38] [AuroraCity.kkwmc.cn] [CHAT] 在菜单多功能区有个奖励
 [2026-07-07 23:58:46] [AuroraCity.kkwmc.cn] [CHAT] 在线时间就能领
+[2026-07-07 23:59:09] [AuroraCity.kkwmc.cn] [CHAT] 我给你个蛋
+[2026-07-07 23:59:17] [AuroraCity.kkwmc.cn] [CHAT] 你全球市场好几个剑都我买的
+[2026-07-07 23:59:32] [AuroraCity.kkwmc.cn] [CHAT] 那个怒盾本来就是要给你的
