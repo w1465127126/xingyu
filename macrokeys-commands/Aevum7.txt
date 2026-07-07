@@ -2999,3 +2999,6 @@
 [2026-07-07 23:00:48] [AuroraCity.kkwmc.cn] [CHAT] 没了拉到
 [2026-07-07 23:00:55] [AuroraCity.kkwmc.cn] [CMD] /back
 [2026-07-07 23:01:03] [AuroraCity.kkwmc.cn] [CHAT] 剑技能吧
+[2026-07-07 23:01:06] [AuroraCity.kkwmc.cn] [CHAT] [i]
+[2026-07-07 23:01:16] [AuroraCity.kkwmc.cn] [CHAT] 我带了那个技能书
+[2026-07-07 23:01:30] [AuroraCity.kkwmc.cn] [CHAT] = =
