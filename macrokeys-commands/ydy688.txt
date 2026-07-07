@@ -1998,3 +1998,6 @@
 [2026-07-07 22:29:08] [AuroraCity.kkwmc.cn] [CHAT] 有碰撞伤害说是
 [2026-07-07 22:29:21] [AuroraCity.kkwmc.cn] [CHAT] 然后拿剑有攻击加成或者一些法球效果
 [2026-07-07 22:29:24] [AuroraCity.kkwmc.cn] [CHAT] 左脚踩右脚
+[2026-07-07 22:29:27] [AuroraCity.kkwmc.cn] [CHAT] 就升天了
+[2026-07-07 22:29:40] [AuroraCity.kkwmc.cn] [CHAT] 来控制变量试试
+[2026-07-07 22:29:44] [AuroraCity.kkwmc.cn] [CHAT] 过来过来
