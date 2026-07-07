@@ -1707,3 +1707,6 @@
 [2026-07-07 20:27:46] [AuroraCity.kkwmc.cn] [CHAT] 用完还我
 [2026-07-07 20:32:18] [AuroraCity.kkwmc.cn] [CHAT] 666
 [2026-07-07 20:32:22] [AuroraCity.kkwmc.cn] [CHAT] 挖了四个青金石
+[2026-07-07 20:32:25] [AuroraCity.kkwmc.cn] [CHAT] 掉了四组
+[2026-07-07 20:32:58] [AuroraCity.kkwmc.cn] [CHAT] 你不认识青金石吗
+[2026-07-07 20:33:23] [AuroraCity.kkwmc.cn] [CHAT] 附魔呗
