@@ -1953,3 +1953,6 @@
 [2026-07-07 22:18:26] [AuroraCity.kkwmc.cn] [CMD] /back
 [2026-07-07 22:18:45] [AuroraCity.kkwmc.cn] [CHAT] [i]
 [2026-07-07 22:18:51] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-07 22:19:43] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-07 22:19:50] [AuroraCity.kkwmc.cn] [CMD] /hat
+[2026-07-07 22:19:57] [AuroraCity.kkwmc.cn] [CMD] /back
