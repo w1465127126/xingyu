@@ -95,3 +95,6 @@
 [2026-07-07 14:23:01] [mc.lumiomc.top:25565] [JOIN] 连接服务器: mc.lumiomc.top:25565
 [2026-07-07 14:23:17] [mc.lumiomc.top:25565] [CMD] /l wokaoa
 [2026-07-07 14:23:22] [mc.lumiomc.top:25565] [CMD] /tpa Aevum7
+[2026-07-07 14:24:02] [mc.lumiomc.top:25565] [CMD] /res tp fan
+[2026-07-07 14:48:03] [mc.lumiomc.top:25565] [CMD] /tpaccept
+[2026-07-07 14:48:08] [mc.lumiomc.top:25565] [CMD] /sethome gj
