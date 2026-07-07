@@ -2684,3 +2684,6 @@
 [2026-07-07 21:35:17] [AuroraCity.kkwmc.cn] [CHAT] 腐竹之前爆了n个
 [2026-07-07 21:35:19] [AuroraCity.kkwmc.cn] [CHAT] 能发一个么
 [2026-07-07 21:35:26] [AuroraCity.kkwmc.cn] [CMD] /tpaccept
+[2026-07-07 21:35:44] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-07 21:35:47] [AuroraCity.kkwmc.cn] [CHAT] 666
+[2026-07-07 21:35:53] [AuroraCity.kkwmc.cn] [CMD] /back
