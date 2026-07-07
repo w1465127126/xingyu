@@ -1764,3 +1764,6 @@
 [2026-07-07 21:09:30] [AuroraCity.kkwmc.cn] [CHAT] 怎么还不上线
 [2026-07-07 21:10:44] [AuroraCity.kkwmc.cn] [CMD] /home 3
 [2026-07-07 21:11:28] [AuroraCity.kkwmc.cn] [CHAT] 谁有鹅蛋抽个怒之盾看看
+[2026-07-07 21:11:49] [AuroraCity.kkwmc.cn] [CHAT] coke
+[2026-07-07 21:12:14] [AuroraCity.kkwmc.cn] [CHAT] 鹅蛋
+[2026-07-07 21:12:21] [AuroraCity.kkwmc.cn] [CHAT] 冒险者大厅
