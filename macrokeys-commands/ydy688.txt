@@ -2049,3 +2049,6 @@
 [2026-07-07 22:42:31] [AuroraCity.kkwmc.cn] [CHAT] 之前的吧
 [2026-07-07 22:42:44] [AuroraCity.kkwmc.cn] [CHAT] 因为buff被我打掉了
 [2026-07-07 22:42:46] [AuroraCity.kkwmc.cn] [CHAT] 你个乐子
+[2026-07-07 22:43:24] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-07 22:43:28] [AuroraCity.kkwmc.cn] [CHAT] WallE
+[2026-07-07 22:43:35] [AuroraCity.kkwmc.cn] [CHAT] 别打了
