@@ -1977,3 +1977,6 @@
 [2026-07-07 22:23:03] [AuroraCity.kkwmc.cn] [CHAT] 一抬头一什么的
 [2026-07-07 22:23:33] [AuroraCity.kkwmc.cn] [CHAT] 还是这样
 [2026-07-07 22:23:54] [AuroraCity.kkwmc.cn] [CHAT] hl
+[2026-07-07 22:24:10] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-07 22:24:24] [AuroraCity.kkwmc.cn] [CHAT] 太假了吧
+[2026-07-07 22:24:50] [AuroraCity.kkwmc.cn] [CHAT] 666还能抗一下
