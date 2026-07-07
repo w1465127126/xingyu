@@ -3169,3 +3169,6 @@
 [2026-07-08 00:00:19] [AuroraCity.kkwmc.cn] [CHAT] 你哪来这么多钱
 [2026-07-08 00:00:26] [AuroraCity.kkwmc.cn] [CHAT] 怕兄弟过得苦
 [2026-07-08 00:00:29] [AuroraCity.kkwmc.cn] [CHAT] 又怕兄弟开路虎
+[2026-07-08 00:00:37] [AuroraCity.kkwmc.cn] [CHAT] 666
+[2026-07-08 00:00:47] [AuroraCity.kkwmc.cn] [CHAT] 行
+[2026-07-08 00:00:50] [AuroraCity.kkwmc.cn] [CHAT] 要刷啥附魔么
