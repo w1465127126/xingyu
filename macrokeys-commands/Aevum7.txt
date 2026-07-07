@@ -2287,3 +2287,6 @@
 [2026-07-07 10:51:53] [AuroraCity.kkwmc.cn] [CMD] /fly
 [2026-07-07 10:53:32] [AuroraCity.kkwmc.cn] [CMD] /fly
 [2026-07-07 10:53:33] [AuroraCity.kkwmc.cn] [CMD] /fly
+[2026-07-07 10:53:58] [AuroraCity.kkwmc.cn] [CMD] /warp 鹅斯拉
+[2026-07-07 10:54:07] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-07 10:54:10] [AuroraCity.kkwmc.cn] [CMD] /res tp d
