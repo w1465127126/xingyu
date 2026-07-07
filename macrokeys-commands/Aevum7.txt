@@ -3137,3 +3137,6 @@
 [2026-07-07 23:25:18] [AuroraCity.kkwmc.cn] [CHAT] 我都没挂机了
 [2026-07-07 23:25:21] [AuroraCity.kkwmc.cn] [CHAT] 哪还有线
 [2026-07-07 23:25:31] [AuroraCity.kkwmc.cn] [CHAT] 咋这么卡= =
+[2026-07-07 23:26:03] [AuroraCity.kkwmc.cn] [CHAT] 玩到土豆服了
+[2026-07-07 23:26:12] [AuroraCity.kkwmc.cn] [JOIN] 连接服务器: AuroraCity.kkwmc.cn
+[2026-07-07 23:26:20] [AuroraCity.kkwmc.cn] [CMD] /l wokaoa
