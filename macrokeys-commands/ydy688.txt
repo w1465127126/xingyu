@@ -1662,3 +1662,6 @@
 [2026-07-07 20:05:24] [AuroraCity.kkwmc.cn] [CMD] /tpa app
 [2026-07-07 20:05:39] [AuroraCity.kkwmc.cn] [CMD] /tpa app
 [2026-07-07 20:06:12] [AuroraCity.kkwmc.cn] [CHAT] ？？？
+[2026-07-07 20:06:17] [AuroraCity.kkwmc.cn] [CHAT] 我以为你挖的矿洞呢
+[2026-07-07 20:06:35] [AuroraCity.kkwmc.cn] [CHAT] 这下看懂了
+[2026-07-07 20:06:48] [AuroraCity.kkwmc.cn] [CHAT] 没事给你扩大了
