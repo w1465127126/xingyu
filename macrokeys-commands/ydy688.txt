@@ -2022,3 +2022,6 @@
 [2026-07-07 22:36:43] [AuroraCity.kkwmc.cn] [CMD] /back
 [2026-07-07 22:36:51] [AuroraCity.kkwmc.cn] [CHAT] 你别举盾
 [2026-07-07 22:37:05] [AuroraCity.kkwmc.cn] [CHAT] 穿上呢
+[2026-07-07 22:37:22] [AuroraCity.kkwmc.cn] [CMD] /tpa WallE
+[2026-07-07 22:37:26] [AuroraCity.kkwmc.cn] [CHAT] 砍辅助去
+[2026-07-07 22:37:31] [AuroraCity.kkwmc.cn] [CMD] /tpa WallE
