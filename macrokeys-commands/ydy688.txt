@@ -1665,3 +1665,6 @@
 [2026-07-07 20:06:17] [AuroraCity.kkwmc.cn] [CHAT] 我以为你挖的矿洞呢
 [2026-07-07 20:06:35] [AuroraCity.kkwmc.cn] [CHAT] 这下看懂了
 [2026-07-07 20:06:48] [AuroraCity.kkwmc.cn] [CHAT] 没事给你扩大了
+[2026-07-07 20:07:10] [AuroraCity.kkwmc.cn] [CHAT] 昨天我就知道了
+[2026-07-07 20:07:15] [AuroraCity.kkwmc.cn] [CHAT] 给我权限
+[2026-07-07 20:09:26] [AuroraCity.kkwmc.cn] [CHAT] 咋了
