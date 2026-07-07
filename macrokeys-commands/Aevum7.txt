@@ -3035,3 +3035,9 @@
 [2026-07-07 23:05:57] [AuroraCity.kkwmc.cn] [CHAT] 卡服
 [2026-07-07 23:06:12] [AuroraCity.kkwmc.cn] [CMD] /res tp gz
 [2026-07-07 23:06:20] [AuroraCity.kkwmc.cn] [CHAT] 甘蔗地pvp
+[2026-07-07 23:06:24] [AuroraCity.kkwmc.cn] [CHAT] 不掉经验就不卡
+[2026-07-07 23:06:34] [AuroraCity.kkwmc.cn] [CMD] /hat
+[2026-07-07 23:06:45] [AuroraCity.kkwmc.cn] [CHAT] 这个b
+[2026-07-07 23:06:47] [AuroraCity.kkwmc.cn] [CHAT] 打了混乱
+[2026-07-07 23:06:54] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-07 23:07:12] [AuroraCity.kkwmc.cn] [CHAT] 还失明
