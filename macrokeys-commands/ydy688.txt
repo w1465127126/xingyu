@@ -1944,3 +1944,6 @@
 [2026-07-07 22:11:30] [AuroraCity.kkwmc.cn] [CHAT] 凭什么我砍不到你啊
 [2026-07-07 22:11:52] [AuroraCity.kkwmc.cn] [CMD] /back
 [2026-07-07 22:12:20] [AuroraCity.kkwmc.cn] [CHAT] 你砍个辅助的
+[2026-07-07 22:14:09] [AuroraCity.kkwmc.cn] [CMD] /过来
+[2026-07-07 22:14:11] [AuroraCity.kkwmc.cn] [CHAT] 过来
+[2026-07-07 22:16:00] [AuroraCity.kkwmc.cn] [CMD] /hat
