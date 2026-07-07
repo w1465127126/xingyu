@@ -2250,3 +2250,6 @@
 [2026-07-07 23:56:53] [AuroraCity.kkwmc.cn] [CHAT] 2金币一个
 [2026-07-07 23:56:55] [AuroraCity.kkwmc.cn] [CHAT] 石英块
 [2026-07-07 23:57:07] [AuroraCity.kkwmc.cn] [CHAT] ./res tp zhucheng
+[2026-07-07 23:57:15] [AuroraCity.kkwmc.cn] [CHAT] 小黑塔在功能区的坐标里
+[2026-07-07 23:57:28] [AuroraCity.kkwmc.cn] [CHAT] 我不是刚给你一千
+[2026-07-07 23:57:37] [AuroraCity.kkwmc.cn] [CHAT] 买个五六组
