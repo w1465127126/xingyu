@@ -2199,3 +2199,6 @@
 [2026-07-07 23:37:45] [AuroraCity.kkwmc.cn] [CMD] /tpa Jaek
 [2026-07-07 23:38:43] [AuroraCity.kkwmc.cn] [CMD] /pay Jaek 1000
 [2026-07-07 23:38:50] [AuroraCity.kkwmc.cn] [CMD] /pay app 1000
+[2026-07-07 23:39:11] [AuroraCity.kkwmc.cn] [CHAT] 这是哪啊
+[2026-07-07 23:39:23] [AuroraCity.kkwmc.cn] [CHAT] 。。
+[2026-07-07 23:39:28] [AuroraCity.kkwmc.cn] [CHAT] 这个黏土山
