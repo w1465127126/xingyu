@@ -1989,3 +1989,6 @@
 [2026-07-07 22:27:05] [AuroraCity.kkwmc.cn] [CMD] /back
 [2026-07-07 22:27:34] [AuroraCity.kkwmc.cn] [CHAT] 不知道啊
 [2026-07-07 22:27:52] [AuroraCity.kkwmc.cn] [CHAT] 你砍我了吗
+[2026-07-07 22:27:59] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-07 22:28:16] [AuroraCity.kkwmc.cn] [CHAT] 我好像知道了
+[2026-07-07 22:28:18] [AuroraCity.kkwmc.cn] [CHAT] 你别动
