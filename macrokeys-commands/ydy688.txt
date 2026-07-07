@@ -1800,3 +1800,6 @@
 [2026-07-07 21:34:39] [AuroraCity.kkwmc.cn] [CHAT] 怒弓受着
 [2026-07-07 21:34:46] [AuroraCity.kkwmc.cn] [CMD] /tpa
 [2026-07-07 21:34:51] [AuroraCity.kkwmc.cn] [CMD] /tpa WallE
+[2026-07-07 21:34:54] [AuroraCity.kkwmc.cn] [CMD] /tpa WWZ
+[2026-07-07 21:35:14] [AuroraCity.kkwmc.cn] [CHAT] 来试试耐久
+[2026-07-07 21:35:17] [AuroraCity.kkwmc.cn] [CMD] /home 3
