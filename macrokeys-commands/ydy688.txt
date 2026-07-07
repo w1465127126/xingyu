@@ -2223,3 +2223,6 @@
 [2026-07-07 23:45:11] [AuroraCity.kkwmc.cn] [CHAT] 乐魂是什么
 [2026-07-07 23:47:06] [AuroraCity.kkwmc.cn] [CHAT] 荆棘是几率返还部分伤害
 [2026-07-07 23:47:08] [AuroraCity.kkwmc.cn] [CHAT] 神了
+[2026-07-07 23:47:39] [AuroraCity.kkwmc.cn] [CHAT] 我还以为是前面的那个几率是返还百分比呢
+[2026-07-07 23:49:44] [AuroraCity.kkwmc.cn] [CMD] /tpa app
+[2026-07-07 23:50:07] [AuroraCity.kkwmc.cn] [CHAT] 你没解锁是吧
