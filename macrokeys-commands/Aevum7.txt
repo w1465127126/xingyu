@@ -2659,3 +2659,6 @@
 [2026-07-07 20:52:39] [AuroraCity.kkwmc.cn] [CHAT] LuckyMengYi
 [2026-07-07 20:52:41] [AuroraCity.kkwmc.cn] [CHAT] 赔钱
 [2026-07-07 20:52:50] [AuroraCity.kkwmc.cn] [CHAT] 手动刷太不健康了
+[2026-07-07 20:53:03] [AuroraCity.kkwmc.cn] [CMD] /fly
+[2026-07-07 20:53:30] [AuroraCity.kkwmc.cn] [CHAT] 我想做出这个功能
+[2026-07-07 20:53:39] [AuroraCity.kkwmc.cn] [CHAT] 然后再刷我想要的
