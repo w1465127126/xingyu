@@ -2662,3 +2662,14 @@
 [2026-07-07 20:53:03] [AuroraCity.kkwmc.cn] [CMD] /fly
 [2026-07-07 20:53:30] [AuroraCity.kkwmc.cn] [CHAT] 我想做出这个功能
 [2026-07-07 20:53:39] [AuroraCity.kkwmc.cn] [CHAT] 然后再刷我想要的
+[2026-07-07 20:53:52] [AuroraCity.kkwmc.cn] [CHAT] deepseek不太聪明
+[2026-07-07 20:54:00] [AuroraCity.kkwmc.cn] [CHAT] 有设定给他抄抄不明白
+[2026-07-07 20:55:09] [AuroraCity.kkwmc.cn] [JOIN] 连接服务器: AuroraCity.kkwmc.cn
+[2026-07-07 20:55:25] [AuroraCity.kkwmc.cn] [CMD] /l wokaoa
+[2026-07-07 21:02:45] [AuroraCity.kkwmc.cn] [JOIN] 连接服务器: AuroraCity.kkwmc.cn
+[2026-07-07 21:02:56] [AuroraCity.kkwmc.cn] [CMD] /l wokaoa
+[2026-07-07 21:06:25] [AuroraCity.kkwmc.cn] [JOIN] 连接服务器: AuroraCity.kkwmc.cn
+[2026-07-07 21:06:33] [AuroraCity.kkwmc.cn] [CMD] /l wokaoa
+[2026-07-07 21:12:25] [AuroraCity.kkwmc.cn] [JOIN] 连接服务器: AuroraCity.kkwmc.cn
+[2026-07-07 21:12:40] [AuroraCity.kkwmc.cn] [CMD] /l wokaoa
+[2026-07-07 21:14:51] [AuroraCity.kkwmc.cn] [CHAT] 来pvp
