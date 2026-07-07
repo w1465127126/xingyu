@@ -2552,3 +2552,6 @@
 [2026-07-07 19:42:25] [AuroraCity.kkwmc.cn] [CHAT] 有啊
 [2026-07-07 19:42:44] [AuroraCity.kkwmc.cn] [CHAT] 我是不是听到什么爆了
 [2026-07-07 19:43:10] [AuroraCity.kkwmc.cn] [CHAT] 你附魔了么
+[2026-07-07 19:43:10] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-07 19:43:27] [AuroraCity.kkwmc.cn] [CHAT] 超标了
+[2026-07-07 19:43:31] [AuroraCity.kkwmc.cn] [CHAT] 不吃弓
