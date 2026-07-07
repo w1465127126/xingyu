@@ -2858,3 +2858,6 @@
 [2026-07-07 22:20:01] [AuroraCity.kkwmc.cn] [CMD] /hat
 [2026-07-07 22:20:17] [AuroraCity.kkwmc.cn] [CHAT] 2技能
 [2026-07-07 22:20:21] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-07 22:20:34] [AuroraCity.kkwmc.cn] [CHAT] 6
+[2026-07-07 22:20:55] [AuroraCity.kkwmc.cn] [CHAT] = =
+[2026-07-07 22:21:05] [AuroraCity.kkwmc.cn] [CHAT] 我还是反弹2
