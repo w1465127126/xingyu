@@ -2933,3 +2933,6 @@
 [2026-07-07 22:42:47] [AuroraCity.kkwmc.cn] [CHAT] 6
 [2026-07-07 22:42:54] [AuroraCity.kkwmc.cn] [CMD] /back
 [2026-07-07 22:43:15] [AuroraCity.kkwmc.cn] [CHAT] 吃我加特林
+[2026-07-07 22:43:36] [AuroraCity.kkwmc.cn] [CHAT] 有bug
+[2026-07-07 22:43:38] [AuroraCity.kkwmc.cn] [CHAT] 这个角
+[2026-07-07 22:44:42] [AuroraCity.kkwmc.cn] [CMD] /back
