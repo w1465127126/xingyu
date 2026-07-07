@@ -2106,3 +2106,6 @@
 [2026-07-07 22:58:23] [AuroraCity.kkwmc.cn] [CHAT] 不对
 [2026-07-07 22:58:24] [AuroraCity.kkwmc.cn] [CHAT] 是的
 [2026-07-07 22:58:26] [AuroraCity.kkwmc.cn] [CHAT] 是的
+[2026-07-07 22:58:29] [AuroraCity.kkwmc.cn] [CHAT] 你别举盾呢
+[2026-07-07 22:58:57] [AuroraCity.kkwmc.cn] [CHAT] 戴上角不带盾呢
+[2026-07-07 22:59:18] [AuroraCity.kkwmc.cn] [CHAT] 是的
