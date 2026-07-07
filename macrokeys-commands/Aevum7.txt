@@ -2537,3 +2537,6 @@
 [2026-07-07 19:40:32] [AuroraCity.kkwmc.cn] [CHAT] = =
 [2026-07-07 19:40:33] [AuroraCity.kkwmc.cn] [CMD] /res set pvp-PVP true
 [2026-07-07 19:40:34] [AuroraCity.kkwmc.cn] [CMD] /res set pvp-PVP true
+[2026-07-07 19:40:35] [AuroraCity.kkwmc.cn] [CMD] /res set pvp-PVP true
+[2026-07-07 19:40:37] [AuroraCity.kkwmc.cn] [CHAT] ok
+[2026-07-07 19:40:49] [AuroraCity.kkwmc.cn] [CHAT] 这么帅
