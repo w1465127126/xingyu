@@ -1548,3 +1548,6 @@
 [2026-07-07 15:32:12] [AuroraCity.kkwmc.cn] [JOIN] 连接服务器: AuroraCity.kkwmc.cn
 [2026-07-07 15:32:17] [AuroraCity.kkwmc.cn] [CMD] /login xvvcxc
 [2026-07-07 15:35:25] [AuroraCity.kkwmc.cn] [CHAT] __nba__
+[2026-07-07 15:40:59] [AuroraCity.kkwmc.cn] [CMD] /res tp jiaoyi
+[2026-07-07 15:41:50] [AuroraCity.kkwmc.cn] [CHAT] 哪里有反弹卖
+[2026-07-07 15:44:07] [AuroraCity.kkwmc.cn] [CHAT] 我怎么知道
