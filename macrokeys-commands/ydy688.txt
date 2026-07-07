@@ -2061,3 +2061,6 @@
 [2026-07-07 22:46:11] [AuroraCity.kkwmc.cn] [CHAT] 智慧护身符和智慧附魔
 [2026-07-07 22:46:21] [AuroraCity.kkwmc.cn] [CHAT] 对啊
 [2026-07-07 22:46:23] [AuroraCity.kkwmc.cn] [CHAT] 我怎么不死
+[2026-07-07 22:46:53] [AuroraCity.kkwmc.cn] [CHAT] 你把准星放到我身上再右键
+[2026-07-07 22:47:02] [AuroraCity.kkwmc.cn] [CHAT] 还在加
+[2026-07-07 22:47:08] [AuroraCity.kkwmc.cn] [CHAT] 先别拿剑
