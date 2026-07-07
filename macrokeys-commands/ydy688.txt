@@ -1815,3 +1815,6 @@
 [2026-07-07 21:38:17] [AuroraCity.kkwmc.cn] [CHAT] 有一个多余的
 [2026-07-07 21:38:21] [AuroraCity.kkwmc.cn] [CMD] /tpa WallE
 [2026-07-07 21:38:46] [AuroraCity.kkwmc.cn] [CMD] /hat
+[2026-07-07 21:38:50] [AuroraCity.kkwmc.cn] [CHAT] ./hat
+[2026-07-07 21:38:55] [AuroraCity.kkwmc.cn] [CHAT] 下发了
+[2026-07-07 21:39:02] [AuroraCity.kkwmc.cn] [CHAT] 现在我们可以hat任何东西
