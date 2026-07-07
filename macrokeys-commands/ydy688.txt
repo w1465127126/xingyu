@@ -2166,3 +2166,6 @@
 [2026-07-07 23:15:36] [AuroraCity.kkwmc.cn] [CHAT] 把你的法杖给我
 [2026-07-07 23:15:43] [AuroraCity.kkwmc.cn] [CMD] /back
 [2026-07-07 23:15:57] [AuroraCity.kkwmc.cn] [CHAT] 还能换的
+[2026-07-07 23:16:06] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-07 23:17:17] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-07 23:17:43] [AuroraCity.kkwmc.cn] [CHAT] 神了
