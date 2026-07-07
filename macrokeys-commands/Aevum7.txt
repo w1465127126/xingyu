@@ -2738,3 +2738,9 @@
 [2026-07-07 21:45:43] [AuroraCity.kkwmc.cn] [CHAT] 我都被luck连到天上去了
 [2026-07-07 21:45:48] [AuroraCity.kkwmc.cn] [CMD] /tpahere ydy688
 [2026-07-07 21:45:49] [AuroraCity.kkwmc.cn] [CHAT] 来
+[2026-07-07 21:46:06] [AuroraCity.kkwmc.cn] [CHAT] = =
+[2026-07-07 21:46:42] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-07 21:47:22] [AuroraCity.kkwmc.cn] [CHAT] 最恶心的是不吃弹射五
+[2026-07-07 21:47:29] [AuroraCity.kkwmc.cn] [CMD] /fly
+[2026-07-07 21:48:23] [AuroraCity.kkwmc.cn] [CHAT] 下都下不来
+[2026-07-07 21:48:45] [AuroraCity.kkwmc.cn] [CMD] /back
