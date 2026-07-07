@@ -2918,3 +2918,6 @@
 [2026-07-07 22:38:34] [AuroraCity.kkwmc.cn] [CHAT] 人家都不来末地
 [2026-07-07 22:38:50] [AuroraCity.kkwmc.cn] [CHAT] 去甘蔗
 [2026-07-07 22:38:51] [AuroraCity.kkwmc.cn] [CMD] /res tp gz
+[2026-07-07 22:39:01] [AuroraCity.kkwmc.cn] [CMD] /fly
+[2026-07-07 22:39:31] [AuroraCity.kkwmc.cn] [CMD] /tpahere LuckyMengYi
+[2026-07-07 22:39:51] [AuroraCity.kkwmc.cn] [CHAT] 6
