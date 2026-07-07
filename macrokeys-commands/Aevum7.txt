@@ -2744,3 +2744,6 @@
 [2026-07-07 21:47:29] [AuroraCity.kkwmc.cn] [CMD] /fly
 [2026-07-07 21:48:23] [AuroraCity.kkwmc.cn] [CHAT] 下都下不来
 [2026-07-07 21:48:45] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-07 21:49:13] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-07 21:49:19] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-07 21:49:37] [AuroraCity.kkwmc.cn] [CMD] /back
