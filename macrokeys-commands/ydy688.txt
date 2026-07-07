@@ -2076,3 +2076,6 @@
 [2026-07-07 22:53:15] [AuroraCity.kkwmc.cn] [CMD] /back
 [2026-07-07 22:53:17] [AuroraCity.kkwmc.cn] [CMD] /back
 [2026-07-07 22:53:27] [AuroraCity.kkwmc.cn] [CHAT] 我去趟副本刷新下技能
+[2026-07-07 22:53:32] [AuroraCity.kkwmc.cn] [CMD] /warp 冒险者大厅
+[2026-07-07 22:53:42] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-07 22:53:49] [AuroraCity.kkwmc.cn] [CMD] /tpa WallE
