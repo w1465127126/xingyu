@@ -1995,3 +1995,6 @@
 [2026-07-07 22:28:28] [AuroraCity.kkwmc.cn] [CHAT] 回来
 [2026-07-07 22:28:55] [AuroraCity.kkwmc.cn] [CHAT] 哈哈哈哈哈哇靠
 [2026-07-07 22:29:01] [AuroraCity.kkwmc.cn] [CHAT] 不知道是盾还是怒之角
+[2026-07-07 22:29:08] [AuroraCity.kkwmc.cn] [CHAT] 有碰撞伤害说是
+[2026-07-07 22:29:21] [AuroraCity.kkwmc.cn] [CHAT] 然后拿剑有攻击加成或者一些法球效果
+[2026-07-07 22:29:24] [AuroraCity.kkwmc.cn] [CHAT] 左脚踩右脚
