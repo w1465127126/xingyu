@@ -2702,3 +2702,9 @@
 [2026-07-07 21:38:05] [AuroraCity.kkwmc.cn] [CMD] /tpa LuckyMengYi
 [2026-07-07 21:38:18] [AuroraCity.kkwmc.cn] [CHAT] 打我
 [2026-07-07 21:38:27] [AuroraCity.kkwmc.cn] [CHAT] 退钱
+[2026-07-07 21:38:51] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-07 21:38:57] [AuroraCity.kkwmc.cn] [CHAT] haha
+[2026-07-07 21:39:00] [AuroraCity.kkwmc.cn] [CHAT] 你打不动我了
+[2026-07-07 21:39:36] [AuroraCity.kkwmc.cn] [CHAT] ?
+[2026-07-07 21:39:44] [AuroraCity.kkwmc.cn] [CHAT] 直接平a血量爆炸》？
+[2026-07-07 21:39:48] [AuroraCity.kkwmc.cn] [CMD] /back
