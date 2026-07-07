@@ -1791,3 +1791,6 @@
 [2026-07-07 21:27:46] [AuroraCity.kkwmc.cn] [CHAT] WallE
 [2026-07-07 21:28:02] [AuroraCity.kkwmc.cn] [CMD] /tpa WallE
 [2026-07-07 21:31:25] [AuroraCity.kkwmc.cn] [CHAT] WallE
+[2026-07-07 21:31:30] [AuroraCity.kkwmc.cn] [CHAT] 你在干什么
+[2026-07-07 21:33:17] [AuroraCity.kkwmc.cn] [CMD] /tpa LuckyMengYi
+[2026-07-07 21:33:41] [AuroraCity.kkwmc.cn] [CHAT] 你这个太浪费了
