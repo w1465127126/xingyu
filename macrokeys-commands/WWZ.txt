@@ -831,3 +831,6 @@
 [2026-07-07 15:38:03] [x6.sjcmc.cn:34054] [CMD] /home Home
 [2026-07-07 15:50:08] [x6.sjcmc.cn:34054] [CMD] /home 1
 [2026-07-07 15:50:32] [x6.sjcmc.cn:34054] [CMD] /back
+[2026-07-07 16:05:21] [x6.sjcmc.cn:34054] [CMD] /home Home
+[2026-07-07 16:10:27] [x6.sjcmc.cn:34054] [CMD] /res tp yt
+[2026-07-07 16:17:15] [x6.sjcmc.cn:34054] [JOIN] 连接服务器: x6.sjcmc.cn:34054
