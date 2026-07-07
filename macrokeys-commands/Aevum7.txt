@@ -2945,3 +2945,6 @@
 [2026-07-07 22:45:54] [AuroraCity.kkwmc.cn] [CHAT] 越刷越多了
 [2026-07-07 22:46:41] [AuroraCity.kkwmc.cn] [CMD] /back
 [2026-07-07 22:46:52] [AuroraCity.kkwmc.cn] [CHAT] 你多少级了
+[2026-07-07 22:47:57] [AuroraCity.kkwmc.cn] [CHAT] 你巨盾啊
+[2026-07-07 22:48:19] [AuroraCity.kkwmc.cn] [CMD] /tpa LuckyMengYi
+[2026-07-07 22:48:38] [AuroraCity.kkwmc.cn] [CHAT] cao
