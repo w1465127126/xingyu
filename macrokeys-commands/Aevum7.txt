@@ -2681,3 +2681,6 @@
 [2026-07-07 21:19:44] [AuroraCity.kkwmc.cn] [JOIN] 连接服务器: AuroraCity.kkwmc.cn
 [2026-07-07 21:19:58] [AuroraCity.kkwmc.cn] [CMD] /l wokaoa
 [2026-07-07 21:34:59] [AuroraCity.kkwmc.cn] [CHAT] ?
+[2026-07-07 21:35:17] [AuroraCity.kkwmc.cn] [CHAT] 腐竹之前爆了n个
+[2026-07-07 21:35:19] [AuroraCity.kkwmc.cn] [CHAT] 能发一个么
+[2026-07-07 21:35:26] [AuroraCity.kkwmc.cn] [CMD] /tpaccept
