@@ -2653,3 +2653,6 @@
 [2026-07-07 20:51:46] [AuroraCity.kkwmc.cn] [CHAT] token都快跑没了= =
 [2026-07-07 20:51:52] [AuroraCity.kkwmc.cn] [CHAT] md还没搓出这个mod来
 [2026-07-07 20:51:54] [AuroraCity.kkwmc.cn] [CHAT] 好烦
+[2026-07-07 20:52:02] [AuroraCity.kkwmc.cn] [CHAT] 这个插件的附魔书没有nbt
+[2026-07-07 20:52:15] [AuroraCity.kkwmc.cn] [CHAT] 自动刷附魔
+[2026-07-07 20:52:27] [AuroraCity.kkwmc.cn] [CHAT] 刚刚村民呗打死了3只
