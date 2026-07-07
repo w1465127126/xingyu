@@ -2456,3 +2456,6 @@
 [2026-07-07 16:55:36] [AuroraCity.kkwmc.cn] [CHAT] 算了
 [2026-07-07 16:55:39] [AuroraCity.kkwmc.cn] [CHAT] 能抗也不选
 [2026-07-07 16:55:40] [AuroraCity.kkwmc.cn] [CHAT] 太丑了
+[2026-07-07 16:55:42] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-07 16:55:45] [AuroraCity.kkwmc.cn] [CMD] /hat
+[2026-07-07 16:55:51] [AuroraCity.kkwmc.cn] [CMD] /back
