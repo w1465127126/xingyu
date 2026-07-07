@@ -2277,3 +2277,6 @@
 [2026-07-08 00:01:50] [AuroraCity.kkwmc.cn] [CHAT] 我记得家里好几组钻石块
 [2026-07-08 00:01:54] [AuroraCity.kkwmc.cn] [CHAT] 还有下届块
 [2026-07-08 00:01:58] [AuroraCity.kkwmc.cn] [CHAT] 都去哪了
+[2026-07-08 00:02:01] [AuroraCity.kkwmc.cn] [CMD] /home 3
+[2026-07-08 00:02:17] [AuroraCity.kkwmc.cn] [CHAT] 咱俩一块刷的一对
+[2026-07-08 00:02:20] [AuroraCity.kkwmc.cn] [CHAT] 一堆
