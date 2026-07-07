@@ -2954,3 +2954,6 @@
 [2026-07-07 22:49:13] [AuroraCity.kkwmc.cn] [CMD] /back
 [2026-07-07 22:49:37] [AuroraCity.kkwmc.cn] [CHAT] 6
 [2026-07-07 22:49:40] [AuroraCity.kkwmc.cn] [CHAT] 打下线了
+[2026-07-07 22:49:47] [AuroraCity.kkwmc.cn] [CHAT] 这是真恶心啊
+[2026-07-07 22:49:49] [AuroraCity.kkwmc.cn] [CHAT] 这武器
+[2026-07-07 22:49:52] [AuroraCity.kkwmc.cn] [CHAT] 附魔个混乱
