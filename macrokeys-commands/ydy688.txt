@@ -2082,3 +2082,6 @@
 [2026-07-07 22:54:30] [AuroraCity.kkwmc.cn] [CHAT] 什么时候
 [2026-07-07 22:54:43] [AuroraCity.kkwmc.cn] [CHAT] 之前是你死了buff没了啊
 [2026-07-07 22:54:57] [AuroraCity.kkwmc.cn] [CHAT] 在资源世界
+[2026-07-07 22:55:04] [AuroraCity.kkwmc.cn] [CHAT] shift+f
+[2026-07-07 22:55:16] [AuroraCity.kkwmc.cn] [CHAT] 没事你在主世界一样挖
+[2026-07-07 22:55:22] [AuroraCity.kkwmc.cn] [CHAT] 前期挖不了多少的
