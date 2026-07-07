@@ -2633,3 +2633,10 @@
 [2026-07-07 20:28:54] [AuroraCity.kkwmc.cn] [CMD] /excellentcrates help
 [2026-07-07 20:28:57] [AuroraCity.kkwmc.cn] [CMD] /excellentcrates open baoshi
 [2026-07-07 20:29:10] [AuroraCity.kkwmc.cn] [CMD] /excellentcrates
+[2026-07-07 20:29:20] [AuroraCity.kkwmc.cn] [CMD] /exppond
+[2026-07-07 20:29:25] [AuroraCity.kkwmc.cn] [CMD] /excellentcrates:case
+[2026-07-07 20:32:23] [AuroraCity.kkwmc.cn] [JOIN] 连接服务器: AuroraCity.kkwmc.cn
+[2026-07-07 20:32:29] [AuroraCity.kkwmc.cn] [CMD] /l wokaoa
+[2026-07-07 20:35:57] [AuroraCity.kkwmc.cn] [JOIN] 连接服务器: AuroraCity.kkwmc.cn
+[2026-07-07 20:36:02] [AuroraCity.kkwmc.cn] [CMD] /l wokaoa
+[2026-07-07 20:36:04] [AuroraCity.kkwmc.cn] [CMD] /addbookoffer
