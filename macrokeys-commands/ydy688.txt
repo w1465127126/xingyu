@@ -2322,3 +2322,6 @@
 [2026-07-08 00:35:06] [AuroraCity.kkwmc.cn] [CHAT] 给我两万金币送你个神剑
 [2026-07-08 00:35:09] [AuroraCity.kkwmc.cn] [CMD] /home 3
 [2026-07-08 00:35:36] [AuroraCity.kkwmc.cn] [CHAT] 那白白了
+[2026-07-08 00:36:04] [AuroraCity.kkwmc.cn] [CHAT] 你会领奖励吗
+[2026-07-08 00:36:30] [AuroraCity.kkwmc.cn] [CHAT] 菜单，多功能
+[2026-07-08 00:36:58] [AuroraCity.kkwmc.cn] [CHAT] 是的
