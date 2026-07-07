@@ -1965,3 +1965,6 @@
 [2026-07-07 22:21:04] [AuroraCity.kkwmc.cn] [CHAT] 我也是满级回血啊
 [2026-07-07 22:21:05] [AuroraCity.kkwmc.cn] [CMD] /back
 [2026-07-07 22:21:15] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-07 22:21:28] [AuroraCity.kkwmc.cn] [CHAT] 其实你早死了吧
+[2026-07-07 22:21:31] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-07 22:21:42] [AuroraCity.kkwmc.cn] [CMD] /back
