@@ -2280,3 +2280,6 @@
 [2026-07-08 00:02:01] [AuroraCity.kkwmc.cn] [CMD] /home 3
 [2026-07-08 00:02:17] [AuroraCity.kkwmc.cn] [CHAT] 咱俩一块刷的一对
 [2026-07-08 00:02:20] [AuroraCity.kkwmc.cn] [CHAT] 一堆
+[2026-07-08 00:02:30] [AuroraCity.kkwmc.cn] [CHAT] 这玩意现在不便宜了
+[2026-07-08 00:02:35] [AuroraCity.kkwmc.cn] [CHAT] 一个下届锭50
+[2026-07-08 00:02:40] [AuroraCity.kkwmc.cn] [CHAT] 钻石30
