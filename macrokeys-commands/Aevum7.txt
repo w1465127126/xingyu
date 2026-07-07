@@ -2650,3 +2650,6 @@
 [2026-07-07 20:49:31] [AuroraCity.kkwmc.cn] [CMD] /addpin
 [2026-07-07 20:51:13] [AuroraCity.kkwmc.cn] [CHAT] 是这样的
 [2026-07-07 20:51:21] [AuroraCity.kkwmc.cn] [CHAT] 我们萌新都这样
+[2026-07-07 20:51:46] [AuroraCity.kkwmc.cn] [CHAT] token都快跑没了= =
+[2026-07-07 20:51:52] [AuroraCity.kkwmc.cn] [CHAT] md还没搓出这个mod来
+[2026-07-07 20:51:54] [AuroraCity.kkwmc.cn] [CHAT] 好烦
