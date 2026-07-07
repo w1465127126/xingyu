@@ -2564,3 +2564,6 @@
 [2026-07-07 19:45:50] [AuroraCity.kkwmc.cn] [CHAT] 不然剑不是白刷了
 [2026-07-07 19:46:01] [AuroraCity.kkwmc.cn] [CMD] /back
 [2026-07-07 19:46:37] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-07 19:46:42] [AuroraCity.kkwmc.cn] [CHAT] 太夸张了= =
+[2026-07-07 19:47:19] [AuroraCity.kkwmc.cn] [CMD] /warp 鹅斯拉
+[2026-07-07 19:47:23] [AuroraCity.kkwmc.cn] [CMD] /fly
