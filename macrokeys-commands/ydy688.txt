@@ -1872,3 +1872,6 @@
 [2026-07-07 21:51:22] [AuroraCity.kkwmc.cn] [CHAT] 没有
 [2026-07-07 21:51:25] [AuroraCity.kkwmc.cn] [CHAT] 有个地方有
 [2026-07-07 21:51:29] [AuroraCity.kkwmc.cn] [CHAT] 但是我忘记什么名字了
+[2026-07-07 21:51:32] [AuroraCity.kkwmc.cn] [CHAT] 问nba去
+[2026-07-07 21:51:43] [AuroraCity.kkwmc.cn] [CMD] /pvpt
+[2026-07-07 21:51:47] [AuroraCity.kkwmc.cn] [CMD] /pvpt
