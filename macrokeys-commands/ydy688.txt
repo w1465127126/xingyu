@@ -2139,3 +2139,6 @@
 [2026-07-07 23:06:19] [AuroraCity.kkwmc.cn] [CMD] /res tp gz
 [2026-07-07 23:06:27] [AuroraCity.kkwmc.cn] [CHAT] 都是右键
 [2026-07-07 23:06:58] [AuroraCity.kkwmc.cn] [CHAT] 等下
+[2026-07-07 23:07:06] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-07 23:07:28] [AuroraCity.kkwmc.cn] [CHAT] 我的护身符使工具免于损坏？？
+[2026-07-07 23:07:32] [AuroraCity.kkwmc.cn] [CHAT] 有东西炸了
