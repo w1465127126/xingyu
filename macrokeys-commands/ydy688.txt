@@ -1782,3 +1782,6 @@
 [2026-07-07 21:23:56] [AuroraCity.kkwmc.cn] [CMD] /back
 [2026-07-07 21:24:04] [AuroraCity.kkwmc.cn] [CMD] /rs tp zhucheng2
 [2026-07-07 21:24:10] [AuroraCity.kkwmc.cn] [CMD] /res tp zhucheng2
+[2026-07-07 21:24:51] [AuroraCity.kkwmc.cn] [CHAT] 576
+[2026-07-07 21:24:56] [AuroraCity.kkwmc.cn] [CMD] /home 3
+[2026-07-07 21:25:20] [AuroraCity.kkwmc.cn] [CHAT] 卖钻石，50金币一个
