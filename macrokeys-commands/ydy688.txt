@@ -2151,3 +2151,6 @@
 [2026-07-07 23:08:25] [AuroraCity.kkwmc.cn] [CMD] /back
 [2026-07-07 23:08:53] [AuroraCity.kkwmc.cn] [CMD] /back
 [2026-07-07 23:09:04] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-07 23:10:17] [AuroraCity.kkwmc.cn] [CHAT] 66666
+[2026-07-07 23:10:27] [AuroraCity.kkwmc.cn] [CHAT] 这个混乱硬吃铁砧护身符
+[2026-07-07 23:10:38] [AuroraCity.kkwmc.cn] [CHAT] 让铁砧护身符换位置就会吃掉一个
