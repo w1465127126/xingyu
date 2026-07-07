@@ -2834,3 +2834,9 @@
 [2026-07-07 22:15:34] [AuroraCity.kkwmc.cn] [CMD] /hat
 [2026-07-07 22:15:36] [AuroraCity.kkwmc.cn] [CMD] /hat
 [2026-07-07 22:15:48] [AuroraCity.kkwmc.cn] [CHAT] 为啥别的剑不能背背上
+[2026-07-07 22:15:51] [AuroraCity.kkwmc.cn] [CMD] /hat
+[2026-07-07 22:15:52] [AuroraCity.kkwmc.cn] [CMD] /hat
+[2026-07-07 22:15:58] [AuroraCity.kkwmc.cn] [CHAT] 666
+[2026-07-07 22:16:20] [AuroraCity.kkwmc.cn] [CMD] /hat
+[2026-07-07 22:16:22] [AuroraCity.kkwmc.cn] [CHAT] 呗不了
+[2026-07-07 22:16:32] [AuroraCity.kkwmc.cn] [CHAT] 直接被吞噬了
