@@ -2960,3 +2960,6 @@
 [2026-07-07 22:50:00] [AuroraCity.kkwmc.cn] [CHAT] 打我一下我昏乱几次
 [2026-07-07 22:51:34] [AuroraCity.kkwmc.cn] [CHAT] 哎村民附魔终于可以自动了
 [2026-07-07 22:51:37] [AuroraCity.kkwmc.cn] [CHAT] 无憾了
+[2026-07-07 22:51:38] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-07 22:51:39] [AuroraCity.kkwmc.cn] [CMD] /res tp fan
+[2026-07-07 22:55:02] [AuroraCity.kkwmc.cn] [CHAT] ?
