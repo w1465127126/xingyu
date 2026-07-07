@@ -2656,3 +2656,6 @@
 [2026-07-07 20:52:02] [AuroraCity.kkwmc.cn] [CHAT] 这个插件的附魔书没有nbt
 [2026-07-07 20:52:15] [AuroraCity.kkwmc.cn] [CHAT] 自动刷附魔
 [2026-07-07 20:52:27] [AuroraCity.kkwmc.cn] [CHAT] 刚刚村民呗打死了3只
+[2026-07-07 20:52:39] [AuroraCity.kkwmc.cn] [CHAT] LuckyMengYi
+[2026-07-07 20:52:41] [AuroraCity.kkwmc.cn] [CHAT] 赔钱
+[2026-07-07 20:52:50] [AuroraCity.kkwmc.cn] [CHAT] 手动刷太不健康了
