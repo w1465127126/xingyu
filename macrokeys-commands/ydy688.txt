@@ -2004,3 +2004,6 @@
 [2026-07-07 22:29:56] [AuroraCity.kkwmc.cn] [CHAT] 先把帽子摘了
 [2026-07-07 22:30:08] [AuroraCity.kkwmc.cn] [CHAT] 过来啊
 [2026-07-07 22:30:18] [AuroraCity.kkwmc.cn] [CHAT] 66
+[2026-07-07 22:30:33] [AuroraCity.kkwmc.cn] [CMD] /home 1
+[2026-07-07 22:30:59] [AuroraCity.kkwmc.cn] [CMD] /tpa app
+[2026-07-07 22:31:44] [AuroraCity.kkwmc.cn] [CHAT] 你有怒之角吗
