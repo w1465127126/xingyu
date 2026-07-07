@@ -3002,3 +3002,6 @@
 [2026-07-07 23:01:06] [AuroraCity.kkwmc.cn] [CHAT] [i]
 [2026-07-07 23:01:16] [AuroraCity.kkwmc.cn] [CHAT] 我带了那个技能书
 [2026-07-07 23:01:30] [AuroraCity.kkwmc.cn] [CHAT] = =
+[2026-07-07 23:01:32] [AuroraCity.kkwmc.cn] [CHAT] 技能书
+[2026-07-07 23:01:34] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-07 23:01:46] [AuroraCity.kkwmc.cn] [CHAT] 1
