@@ -2570,3 +2570,9 @@
 [2026-07-07 19:47:28] [AuroraCity.kkwmc.cn] [CHAT] 时代变了
 [2026-07-07 19:47:35] [AuroraCity.kkwmc.cn] [CMD] /warp 冒险者大厅
 [2026-07-07 19:47:53] [AuroraCity.kkwmc.cn] [CHAT] 你这啥武器啊= =
+[2026-07-07 19:47:55] [AuroraCity.kkwmc.cn] [CMD] /res tp d
+[2026-07-07 19:48:12] [AuroraCity.kkwmc.cn] [CMD] /res tp fan
+[2026-07-07 19:48:20] [AuroraCity.kkwmc.cn] [CHAT] 算了- -
+[2026-07-07 19:48:29] [AuroraCity.kkwmc.cn] [CHAT] 先还原我的村民
+[2026-07-07 19:49:00] [AuroraCity.kkwmc.cn] [CHAT] 一下砍死我3只
+[2026-07-07 19:49:03] [AuroraCity.kkwmc.cn] [CHAT] 你怎么砍死的
