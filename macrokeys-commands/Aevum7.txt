@@ -2525,3 +2525,6 @@
 [2026-07-07 19:36:09] [AuroraCity.kkwmc.cn] [CHAT] 666
 [2026-07-07 19:36:34] [AuroraCity.kkwmc.cn] [CHAT] 我在家都不敢拿rpg的
 [2026-07-07 19:36:43] [AuroraCity.kkwmc.cn] [CHAT] 死了就死了把
+[2026-07-07 19:39:36] [AuroraCity.kkwmc.cn] [CHAT] 搞mod
+[2026-07-07 19:39:39] [AuroraCity.kkwmc.cn] [CHAT] 搞个自动刷附魔的
+[2026-07-07 19:40:07] [AuroraCity.kkwmc.cn] [CMD] /res setpvp t
