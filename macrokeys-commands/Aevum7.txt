@@ -2963,3 +2963,6 @@
 [2026-07-07 22:51:38] [AuroraCity.kkwmc.cn] [CMD] /back
 [2026-07-07 22:51:39] [AuroraCity.kkwmc.cn] [CMD] /res tp fan
 [2026-07-07 22:55:02] [AuroraCity.kkwmc.cn] [CHAT] ?
+[2026-07-07 22:55:03] [AuroraCity.kkwmc.cn] [CHAT] 兄弟
+[2026-07-07 22:55:05] [AuroraCity.kkwmc.cn] [CHAT] 你没菜单吗
+[2026-07-07 22:55:10] [AuroraCity.kkwmc.cn] [CHAT] 你家怎么在主世界
