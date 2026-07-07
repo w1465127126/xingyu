@@ -2522,3 +2522,6 @@
 [2026-07-07 19:34:52] [AuroraCity.kkwmc.cn] [JOIN] 连接服务器: AuroraCity.kkwmc.cn
 [2026-07-07 19:34:57] [AuroraCity.kkwmc.cn] [CMD] /l wokaoa
 [2026-07-07 19:35:00] [AuroraCity.kkwmc.cn] [CMD] /res tp fan
+[2026-07-07 19:36:09] [AuroraCity.kkwmc.cn] [CHAT] 666
+[2026-07-07 19:36:34] [AuroraCity.kkwmc.cn] [CHAT] 我在家都不敢拿rpg的
+[2026-07-07 19:36:43] [AuroraCity.kkwmc.cn] [CHAT] 死了就死了把
