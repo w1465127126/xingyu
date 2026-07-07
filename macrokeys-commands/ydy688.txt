@@ -1797,3 +1797,6 @@
 [2026-07-07 21:33:51] [AuroraCity.kkwmc.cn] [CHAT] 搞深色橡木
 [2026-07-07 21:34:01] [AuroraCity.kkwmc.cn] [CHAT] 然后多加几个中继器
 [2026-07-07 21:34:28] [AuroraCity.kkwmc.cn] [CHAT] 先给我把这俩换了
+[2026-07-07 21:34:39] [AuroraCity.kkwmc.cn] [CHAT] 怒弓受着
+[2026-07-07 21:34:46] [AuroraCity.kkwmc.cn] [CMD] /tpa
+[2026-07-07 21:34:51] [AuroraCity.kkwmc.cn] [CMD] /tpa WallE
