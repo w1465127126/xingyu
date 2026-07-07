@@ -2612,3 +2612,6 @@
 [2026-07-07 20:06:49] [AuroraCity.kkwmc.cn] [CHAT] 坏菜了 ydy
 [2026-07-07 20:06:59] [AuroraCity.kkwmc.cn] [CHAT] 又看到新武器了
 [2026-07-07 20:07:06] [AuroraCity.kkwmc.cn] [CHAT] 直接把我箭砍掉了
+[2026-07-07 20:07:47] [AuroraCity.kkwmc.cn] [JOIN] 连接服务器: AuroraCity.kkwmc.cn
+[2026-07-07 20:07:50] [AuroraCity.kkwmc.cn] [CMD] /l wokaoa
+[2026-07-07 20:07:51] [AuroraCity.kkwmc.cn] [CHAT] wc
