@@ -2930,3 +2930,6 @@
 [2026-07-07 22:42:21] [AuroraCity.kkwmc.cn] [CMD] /back
 [2026-07-07 22:42:35] [AuroraCity.kkwmc.cn] [CHAT] 一刀
 [2026-07-07 22:42:45] [AuroraCity.kkwmc.cn] [CHAT] 还是太超标了
+[2026-07-07 22:42:47] [AuroraCity.kkwmc.cn] [CHAT] 6
+[2026-07-07 22:42:54] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-07 22:43:15] [AuroraCity.kkwmc.cn] [CHAT] 吃我加特林
