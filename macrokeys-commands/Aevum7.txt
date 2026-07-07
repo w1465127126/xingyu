@@ -3098,3 +3098,9 @@
 [2026-07-07 23:18:27] [AuroraCity.kkwmc.cn] [CHAT] 目前不知道怎么打
 [2026-07-07 23:18:29] [AuroraCity.kkwmc.cn] [CMD] /back
 [2026-07-07 23:18:44] [AuroraCity.kkwmc.cn] [CHAT] 这还是没护甲
+[2026-07-07 23:18:44] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-07 23:19:10] [AuroraCity.kkwmc.cn] [CHAT] 这个技能频率太高了
+[2026-07-07 23:19:23] [AuroraCity.kkwmc.cn] [CHAT] 你百分之多少混乱
+[2026-07-07 23:19:28] [AuroraCity.kkwmc.cn] [CHAT] 我被你打到一下就混乱
+[2026-07-07 23:19:41] [AuroraCity.kkwmc.cn] [CHAT] 没招了
+[2026-07-07 23:19:58] [AuroraCity.kkwmc.cn] [CHAT] 8%
