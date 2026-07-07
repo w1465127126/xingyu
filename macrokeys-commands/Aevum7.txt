@@ -2921,3 +2921,6 @@
 [2026-07-07 22:39:01] [AuroraCity.kkwmc.cn] [CMD] /fly
 [2026-07-07 22:39:31] [AuroraCity.kkwmc.cn] [CMD] /tpahere LuckyMengYi
 [2026-07-07 22:39:51] [AuroraCity.kkwmc.cn] [CHAT] 6
+[2026-07-07 22:40:02] [AuroraCity.kkwmc.cn] [CMD] /fly
+[2026-07-07 22:41:24] [AuroraCity.kkwmc.cn] [CHAT] 人呢
+[2026-07-07 22:41:43] [AuroraCity.kkwmc.cn] [CHAT] 什么抗性
