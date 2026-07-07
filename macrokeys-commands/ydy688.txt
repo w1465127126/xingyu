@@ -2232,3 +2232,6 @@
 [2026-07-07 23:51:05] [AuroraCity.kkwmc.cn] [CHAT] ？、
 [2026-07-07 23:51:33] [AuroraCity.kkwmc.cn] [CHAT] 你的新手盾呢
 [2026-07-07 23:52:11] [AuroraCity.kkwmc.cn] [CHAT] 盾拿出来
+[2026-07-07 23:52:26] [AuroraCity.kkwmc.cn] [CHAT] 先把
+[2026-07-07 23:52:30] [AuroraCity.kkwmc.cn] [CHAT] 行吧
+[2026-07-07 23:52:39] [AuroraCity.kkwmc.cn] [CHAT] 没事
