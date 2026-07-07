@@ -1725,3 +1725,6 @@
 [2026-07-07 20:44:13] [AuroraCity.kkwmc.cn] [CHAT] 天热
 [2026-07-07 20:45:59] [AuroraCity.kkwmc.cn] [CMD] /back
 [2026-07-07 20:47:09] [AuroraCity.kkwmc.cn] [CMD] /tpa Jaek
+[2026-07-07 20:47:27] [AuroraCity.kkwmc.cn] [CHAT] 1
+[2026-07-07 20:50:07] [AuroraCity.kkwmc.cn] [CHAT] 正常
+[2026-07-07 20:50:50] [AuroraCity.kkwmc.cn] [CMD] /back
