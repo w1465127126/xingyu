@@ -2172,3 +2172,6 @@
 [2026-07-07 23:17:45] [AuroraCity.kkwmc.cn] [CMD] /back
 [2026-07-07 23:18:07] [AuroraCity.kkwmc.cn] [CMD] /back
 [2026-07-07 23:18:37] [AuroraCity.kkwmc.cn] [CHAT] 打个混乱太逆天了
+[2026-07-07 23:19:10] [AuroraCity.kkwmc.cn] [CHAT] 盾要是能附别的就行了
+[2026-07-07 23:22:58] [AuroraCity.kkwmc.cn] [CHAT] 给几个末影水晶
+[2026-07-07 23:23:03] [AuroraCity.kkwmc.cn] [CHAT] Aevum7
