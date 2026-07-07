@@ -2576,3 +2576,6 @@
 [2026-07-07 19:48:29] [AuroraCity.kkwmc.cn] [CHAT] 先还原我的村民
 [2026-07-07 19:49:00] [AuroraCity.kkwmc.cn] [CHAT] 一下砍死我3只
 [2026-07-07 19:49:03] [AuroraCity.kkwmc.cn] [CHAT] 你怎么砍死的
+[2026-07-07 19:49:10] [AuroraCity.kkwmc.cn] [CHAT] 领地没保护么
+[2026-07-07 19:49:13] [AuroraCity.kkwmc.cn] [CMD] /res info
+[2026-07-07 19:49:19] [AuroraCity.kkwmc.cn] [CHAT] 行
