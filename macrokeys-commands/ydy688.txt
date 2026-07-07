@@ -2316,3 +2316,6 @@
 [2026-07-08 00:33:51] [AuroraCity.kkwmc.cn] [CMD] /tpa KK_9527
 [2026-07-08 00:33:57] [AuroraCity.kkwmc.cn] [CMD] /hat
 [2026-07-08 00:34:03] [AuroraCity.kkwmc.cn] [CHAT] 我看看这么个事
+[2026-07-08 00:34:08] [AuroraCity.kkwmc.cn] [CMD] /tpa KK_9527
+[2026-07-08 00:34:10] [AuroraCity.kkwmc.cn] [CHAT] 接tp
+[2026-07-08 00:34:15] [AuroraCity.kkwmc.cn] [CHAT] KK_9527
