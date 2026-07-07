@@ -1980,3 +1980,6 @@
 [2026-07-07 22:24:10] [AuroraCity.kkwmc.cn] [CMD] /back
 [2026-07-07 22:24:24] [AuroraCity.kkwmc.cn] [CHAT] 太假了吧
 [2026-07-07 22:24:50] [AuroraCity.kkwmc.cn] [CHAT] 666还能抗一下
+[2026-07-07 22:25:21] [AuroraCity.kkwmc.cn] [CHAT] 帮我刷防御啊
+[2026-07-07 22:25:36] [AuroraCity.kkwmc.cn] [CHAT] 有
+[2026-07-07 22:25:45] [AuroraCity.kkwmc.cn] [CMD] /res tp gz
