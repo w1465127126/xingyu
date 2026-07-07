@@ -3083,3 +3083,6 @@
 [2026-07-07 23:16:12] [AuroraCity.kkwmc.cn] [CMD] /back
 [2026-07-07 23:16:21] [AuroraCity.kkwmc.cn] [CMD] /back
 [2026-07-07 23:16:28] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-07 23:16:41] [AuroraCity.kkwmc.cn] [CHAT] ?
+[2026-07-07 23:16:52] [AuroraCity.kkwmc.cn] [CHAT] 我伤害呢
+[2026-07-07 23:16:57] [AuroraCity.kkwmc.cn] [CMD] /back
