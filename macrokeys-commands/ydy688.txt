@@ -2220,3 +2220,6 @@
 [2026-07-07 23:44:44] [AuroraCity.kkwmc.cn] [CHAT] nba之前以为咱家停电了
 [2026-07-07 23:44:51] [AuroraCity.kkwmc.cn] [CHAT] 其实确实停电了
 [2026-07-07 23:44:59] [AuroraCity.kkwmc.cn] [CHAT] 专门给咱们放了个煤炭发电机
+[2026-07-07 23:45:11] [AuroraCity.kkwmc.cn] [CHAT] 乐魂是什么
+[2026-07-07 23:47:06] [AuroraCity.kkwmc.cn] [CHAT] 荆棘是几率返还部分伤害
+[2026-07-07 23:47:08] [AuroraCity.kkwmc.cn] [CHAT] 神了
