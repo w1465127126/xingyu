@@ -2193,3 +2193,6 @@
 [2026-07-07 23:33:52] [AuroraCity.kkwmc.cn] [JOIN] 连接服务器: AuroraCity.kkwmc.cn
 [2026-07-07 23:33:58] [AuroraCity.kkwmc.cn] [CMD] /login xvvcxc
 [2026-07-07 23:34:23] [AuroraCity.kkwmc.cn] [CHAT] 收12个仙人掌，一个100金币
+[2026-07-07 23:36:29] [AuroraCity.kkwmc.cn] [CMD] /home 3
+[2026-07-07 23:36:42] [AuroraCity.kkwmc.cn] [CHAT] 咋没有沙漠啊
+[2026-07-07 23:36:57] [AuroraCity.kkwmc.cn] [CMD] /back
