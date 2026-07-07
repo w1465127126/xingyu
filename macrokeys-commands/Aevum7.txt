@@ -2777,3 +2777,9 @@
 [2026-07-07 22:01:15] [AuroraCity.kkwmc.cn] [CHAT] 你们在哪打
 [2026-07-07 22:01:18] [AuroraCity.kkwmc.cn] [CHAT] 666
 [2026-07-07 22:01:22] [AuroraCity.kkwmc.cn] [CHAT] biedawo
+[2026-07-07 22:01:25] [AuroraCity.kkwmc.cn] [CHAT] = =
+[2026-07-07 22:01:27] [AuroraCity.kkwmc.cn] [CHAT] 我170级
+[2026-07-07 22:01:28] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-07 22:01:35] [AuroraCity.kkwmc.cn] [CHAT] 算了
+[2026-07-07 22:01:39] [AuroraCity.kkwmc.cn] [CHAT] 反正没啥用
+[2026-07-07 22:02:18] [AuroraCity.kkwmc.cn] [CHAT] 去死吧
