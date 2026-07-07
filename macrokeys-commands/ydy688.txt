@@ -2064,3 +2064,6 @@
 [2026-07-07 22:46:53] [AuroraCity.kkwmc.cn] [CHAT] 你把准星放到我身上再右键
 [2026-07-07 22:47:02] [AuroraCity.kkwmc.cn] [CHAT] 还在加
 [2026-07-07 22:47:08] [AuroraCity.kkwmc.cn] [CHAT] 先别拿剑
+[2026-07-07 22:47:21] [AuroraCity.kkwmc.cn] [CHAT] 到我身上再举盾
+[2026-07-07 22:47:29] [AuroraCity.kkwmc.cn] [CHAT] 快捷键拿剑
+[2026-07-07 22:47:37] [AuroraCity.kkwmc.cn] [CHAT] 不死气不气
