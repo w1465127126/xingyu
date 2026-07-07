@@ -2432,3 +2432,6 @@
 [2026-07-07 16:53:38] [AuroraCity.kkwmc.cn] [CMD] /back
 [2026-07-07 16:53:42] [AuroraCity.kkwmc.cn] [CMD] /hat
 [2026-07-07 16:53:54] [AuroraCity.kkwmc.cn] [CMD] /bacj
+[2026-07-07 16:53:55] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-07 16:54:00] [AuroraCity.kkwmc.cn] [CHAT] 我试下头盔
+[2026-07-07 16:54:04] [AuroraCity.kkwmc.cn] [CMD] /hat
