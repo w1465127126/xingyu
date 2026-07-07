@@ -2157,3 +2157,6 @@
 [2026-07-07 23:12:08] [AuroraCity.kkwmc.cn] [CMD] /back
 [2026-07-07 23:12:31] [AuroraCity.kkwmc.cn] [CMD] /back
 [2026-07-07 23:13:28] [AuroraCity.kkwmc.cn] [CHAT] 有死亡排行榜吗
+[2026-07-07 23:14:11] [AuroraCity.kkwmc.cn] [CHAT] 甚至没附魔没宝石
+[2026-07-07 23:14:29] [AuroraCity.kkwmc.cn] [CHAT] ？？？
+[2026-07-07 23:14:57] [AuroraCity.kkwmc.cn] [CHAT] 看见了
