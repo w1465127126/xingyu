@@ -2846,3 +2846,6 @@
 [2026-07-07 22:16:41] [AuroraCity.kkwmc.cn] [CHAT] = =
 [2026-07-07 22:16:53] [AuroraCity.kkwmc.cn] [CMD] /hat
 [2026-07-07 22:17:14] [AuroraCity.kkwmc.cn] [CHAT] 还是帅的
+[2026-07-07 22:17:18] [AuroraCity.kkwmc.cn] [CMD] /hat
+[2026-07-07 22:17:28] [AuroraCity.kkwmc.cn] [CMD] /hat
+[2026-07-07 22:17:49] [AuroraCity.kkwmc.cn] [CMD] /hat
