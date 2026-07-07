@@ -2145,3 +2145,6 @@
 [2026-07-07 23:07:45] [AuroraCity.kkwmc.cn] [CHAT] 不知道啊
 [2026-07-07 23:07:47] [AuroraCity.kkwmc.cn] [CMD] /back
 [2026-07-07 23:07:52] [AuroraCity.kkwmc.cn] [CHAT] 来砍我
+[2026-07-07 23:08:08] [AuroraCity.kkwmc.cn] [CHAT] 正好服主在，哪个炸了问辅助补
+[2026-07-07 23:08:19] [AuroraCity.kkwmc.cn] [CHAT] 我全身不可炸，结果花我护身符
+[2026-07-07 23:08:21] [AuroraCity.kkwmc.cn] [CMD] /back
