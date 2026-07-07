@@ -3199,3 +3199,8 @@
 [2026-07-08 00:06:29] [AuroraCity.kkwmc.cn] [CHAT] 然后这个更多附魔插件难住我了
 [2026-07-08 00:06:46] [AuroraCity.kkwmc.cn] [CHAT] 本来想靠注册文件直接提
 [2026-07-08 00:06:55] [AuroraCity.kkwmc.cn] [CHAT] 然后这玩意没nbt= =
+[2026-07-08 00:07:03] [AuroraCity.kkwmc.cn] [CHAT] 改视觉花了我一下午
+[2026-07-08 00:07:15] [AuroraCity.kkwmc.cn] [CHAT] f3＋h
+[2026-07-08 00:07:39] [AuroraCity.kkwmc.cn] [JOIN] 连接服务器: AuroraCity.kkwmc.cn
+[2026-07-08 00:07:52] [AuroraCity.kkwmc.cn] [CMD] /l wokaoa
+[2026-07-08 00:07:57] [AuroraCity.kkwmc.cn] [CHAT] 更多附魔里都是一样的= =
