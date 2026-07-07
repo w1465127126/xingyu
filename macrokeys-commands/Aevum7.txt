@@ -2492,3 +2492,6 @@
 [2026-07-07 17:03:39] [AuroraCity.kkwmc.cn] [CMD] /back
 [2026-07-07 17:04:00] [AuroraCity.kkwmc.cn] [CHAT] 不知道
 [2026-07-07 17:04:07] [AuroraCity.kkwmc.cn] [CHAT] 忘记关了
+[2026-07-07 17:04:56] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-07 17:05:07] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-07 17:05:35] [AuroraCity.kkwmc.cn] [CHAT] 恐怖谷是把
