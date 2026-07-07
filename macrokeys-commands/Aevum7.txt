@@ -2378,3 +2378,6 @@
 [2026-07-07 16:35:39] [AuroraCity.kkwmc.cn] [CMD] /hat
 [2026-07-07 16:35:43] [AuroraCity.kkwmc.cn] [CMD] /hat
 [2026-07-07 16:36:13] [AuroraCity.kkwmc.cn] [CMD] /res lsit hui
+[2026-07-07 16:36:20] [AuroraCity.kkwmc.cn] [CMD] /res list huiji
+[2026-07-07 16:36:25] [AuroraCity.kkwmc.cn] [CMD] /res list vsoth
+[2026-07-07 16:36:28] [AuroraCity.kkwmc.cn] [CMD] /res tp hy2
