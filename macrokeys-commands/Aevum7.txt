@@ -2423,3 +2423,9 @@
 [2026-07-07 16:52:53] [AuroraCity.kkwmc.cn] [CHAT] 防御很高
 [2026-07-07 16:53:08] [AuroraCity.kkwmc.cn] [CMD] /hat
 [2026-07-07 16:53:13] [AuroraCity.kkwmc.cn] [CHAT] 主要加血高
+[2026-07-07 16:53:20] [AuroraCity.kkwmc.cn] [CMD] /hat
+[2026-07-07 16:53:23] [AuroraCity.kkwmc.cn] [CMD] /hat
+[2026-07-07 16:53:24] [AuroraCity.kkwmc.cn] [CHAT] ?
+[2026-07-07 16:53:25] [AuroraCity.kkwmc.cn] [CMD] /hat
+[2026-07-07 16:53:28] [AuroraCity.kkwmc.cn] [CHAT] 翅膀也能代
+[2026-07-07 16:53:36] [AuroraCity.kkwmc.cn] [CHAT] 翅膀能代头上
