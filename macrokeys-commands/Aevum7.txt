@@ -3074,3 +3074,6 @@
 [2026-07-07 23:13:26] [AuroraCity.kkwmc.cn] [CMD] /back
 [2026-07-07 23:13:37] [AuroraCity.kkwmc.cn] [CMD] /back
 [2026-07-07 23:13:45] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-07 23:14:25] [AuroraCity.kkwmc.cn] [CHAT] 低尺寸都看不到附魔
+[2026-07-07 23:14:26] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-07 23:15:01] [AuroraCity.kkwmc.cn] [CHAT] 还不吃返家
