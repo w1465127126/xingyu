@@ -2495,3 +2495,6 @@
 [2026-07-07 17:04:56] [AuroraCity.kkwmc.cn] [CMD] /back
 [2026-07-07 17:05:07] [AuroraCity.kkwmc.cn] [CMD] /back
 [2026-07-07 17:05:35] [AuroraCity.kkwmc.cn] [CHAT] 恐怖谷是把
+[2026-07-07 17:06:15] [AuroraCity.kkwmc.cn] [CHAT] 无聊的批爆
+[2026-07-07 17:06:37] [AuroraCity.kkwmc.cn] [CHAT] 我在隔壁服刚弄完刷铁机和村民繁殖季还有刷怪塔= =
+[2026-07-07 17:06:56] [AuroraCity.kkwmc.cn] [CHAT] 结果傻逼rpgboss是限时的
