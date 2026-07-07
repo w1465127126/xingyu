@@ -1544,3 +1544,7 @@
 [2026-07-07 12:13:19] [AuroraCity.kkwmc.cn] [JOIN] 连接服务器: AuroraCity.kkwmc.cn
 [2026-07-07 12:13:26] [AuroraCity.kkwmc.cn] [CMD] /login xvvcxc
 [2026-07-07 12:13:54] [AuroraCity.kkwmc.cn] [CMD] /home 3
+[2026-07-07 12:14:30] [AuroraCity.kkwmc.cn] [CMD] /hat
+[2026-07-07 15:32:12] [AuroraCity.kkwmc.cn] [JOIN] 连接服务器: AuroraCity.kkwmc.cn
+[2026-07-07 15:32:17] [AuroraCity.kkwmc.cn] [CMD] /login xvvcxc
+[2026-07-07 15:35:25] [AuroraCity.kkwmc.cn] [CHAT] __nba__
