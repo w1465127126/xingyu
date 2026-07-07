@@ -1926,3 +1926,6 @@
 [2026-07-07 22:06:35] [AuroraCity.kkwmc.cn] [CMD] /back
 [2026-07-07 22:06:44] [AuroraCity.kkwmc.cn] [CHAT] 太超标了
 [2026-07-07 22:06:51] [AuroraCity.kkwmc.cn] [CHAT] 是我这个甲太脆了吗
+[2026-07-07 22:06:58] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-07 22:07:38] [AuroraCity.kkwmc.cn] [CHAT] back
+[2026-07-07 22:07:41] [AuroraCity.kkwmc.cn] [CMD] /back
