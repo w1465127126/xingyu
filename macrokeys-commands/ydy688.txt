@@ -2085,3 +2085,6 @@
 [2026-07-07 22:55:04] [AuroraCity.kkwmc.cn] [CHAT] shift+f
 [2026-07-07 22:55:16] [AuroraCity.kkwmc.cn] [CHAT] 没事你在主世界一样挖
 [2026-07-07 22:55:22] [AuroraCity.kkwmc.cn] [CHAT] 前期挖不了多少的
+[2026-07-07 22:55:47] [AuroraCity.kkwmc.cn] [CHAT] Aevum7
+[2026-07-07 22:55:52] [AuroraCity.kkwmc.cn] [CHAT] 拿个怒角来
+[2026-07-07 22:55:59] [AuroraCity.kkwmc.cn] [CHAT] 你刚才加抗性提升了吧
