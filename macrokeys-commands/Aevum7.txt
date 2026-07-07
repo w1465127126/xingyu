@@ -2942,3 +2942,6 @@
 [2026-07-07 22:45:39] [AuroraCity.kkwmc.cn] [CHAT] 你咋不死
 [2026-07-07 22:45:48] [AuroraCity.kkwmc.cn] [CHAT] ?
 [2026-07-07 22:45:52] [AuroraCity.kkwmc.cn] [CHAT] 经验怎么
+[2026-07-07 22:45:54] [AuroraCity.kkwmc.cn] [CHAT] 越刷越多了
+[2026-07-07 22:46:41] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-07 22:46:52] [AuroraCity.kkwmc.cn] [CHAT] 你多少级了
