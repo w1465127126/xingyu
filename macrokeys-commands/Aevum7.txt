@@ -2296,3 +2296,6 @@
 [2026-07-07 10:58:24] [mc.lumiomc.top:25565] [JOIN] 连接服务器: mc.lumiomc.top:25565
 [2026-07-07 10:58:39] [mc.lumiomc.top:25565] [CMD] /l wokaoa
 [2026-07-07 11:16:19] [mc.lumiomc.top:25565] [CMD] /rtp
+[2026-07-07 11:16:46] [mc.lumiomc.top:25565] [CMD] /rtp
+[2026-07-07 11:21:03] [mc.lumiomc.top:25565] [CMD] /rtp
+[2026-07-07 11:28:07] [mc.lumiomc.top:25565] [CMD] /res tp fan
