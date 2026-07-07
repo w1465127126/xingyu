@@ -2325,3 +2325,6 @@
 [2026-07-08 00:36:04] [AuroraCity.kkwmc.cn] [CHAT] 你会领奖励吗
 [2026-07-08 00:36:30] [AuroraCity.kkwmc.cn] [CHAT] 菜单，多功能
 [2026-07-08 00:36:58] [AuroraCity.kkwmc.cn] [CHAT] 是的
+[2026-07-08 00:37:56] [AuroraCity.kkwmc.cn] [CMD] /warp 鹅斯拉
+[2026-07-08 00:38:17] [AuroraCity.kkwmc.cn] [CHAT] 鹅呢
+[2026-07-08 00:39:08] [AuroraCity.kkwmc.cn] [CMD] /back
