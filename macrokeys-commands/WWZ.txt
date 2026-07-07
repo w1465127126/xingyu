@@ -855,3 +855,6 @@
 [2026-07-07 18:37:34] [x6.sjcmc.cn:34054] [CHAT] vsoth
 [2026-07-07 18:37:49] [x6.sjcmc.cn:34054] [CHAT] 没人打吗
 [2026-07-07 18:38:13] [x6.sjcmc.cn:34054] [CMD] /res tp yt
+[2026-07-07 19:28:54] [x6.sjcmc.cn:34054] [CMD] /back
+[2026-07-07 19:41:19] [x6.sjcmc.cn:34054] [CMD] /tpa LuckyMengYi
+[2026-07-07 19:41:21] [x6.sjcmc.cn:34054] [CHAT] 打我
