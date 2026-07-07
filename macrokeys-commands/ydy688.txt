@@ -2163,3 +2163,6 @@
 [2026-07-07 23:15:14] [AuroraCity.kkwmc.cn] [CHAT] 给你砍死就不吃了
 [2026-07-07 23:15:27] [AuroraCity.kkwmc.cn] [CHAT] 这是脱手吧
 [2026-07-07 23:15:32] [AuroraCity.kkwmc.cn] [CHAT] LuckyMengYi
+[2026-07-07 23:15:36] [AuroraCity.kkwmc.cn] [CHAT] 把你的法杖给我
+[2026-07-07 23:15:43] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-07 23:15:57] [AuroraCity.kkwmc.cn] [CHAT] 还能换的
