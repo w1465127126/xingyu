@@ -1986,3 +1986,6 @@
 [2026-07-07 22:25:53] [AuroraCity.kkwmc.cn] [CHAT] 没用过这个
 [2026-07-07 22:26:55] [AuroraCity.kkwmc.cn] [CHAT] 666太饿了
 [2026-07-07 22:26:59] [AuroraCity.kkwmc.cn] [CHAT] 飞都不让飞
+[2026-07-07 22:27:05] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-07 22:27:34] [AuroraCity.kkwmc.cn] [CHAT] 不知道啊
+[2026-07-07 22:27:52] [AuroraCity.kkwmc.cn] [CHAT] 你砍我了吗
