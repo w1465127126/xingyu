@@ -2558,3 +2558,6 @@
 [2026-07-07 19:44:21] [AuroraCity.kkwmc.cn] [CHAT] 平民还在研究盾牌的时候
 [2026-07-07 19:44:30] [AuroraCity.kkwmc.cn] [CMD] /back
 [2026-07-07 19:45:22] [AuroraCity.kkwmc.cn] [CHAT] 你咋不死
+[2026-07-07 19:45:27] [AuroraCity.kkwmc.cn] [CHAT] 自带复活甲啊
+[2026-07-07 19:45:40] [AuroraCity.kkwmc.cn] [CHAT] 来pvp vsoth
+[2026-07-07 19:45:44] [AuroraCity.kkwmc.cn] [CMD] /tpahere vsoth
