@@ -2304,3 +2304,6 @@
 [2026-07-08 00:05:39] [AuroraCity.kkwmc.cn] [CHAT] 需要了再找你就是了
 [2026-07-08 00:05:50] [AuroraCity.kkwmc.cn] [CMD] /back
 [2026-07-08 00:05:54] [AuroraCity.kkwmc.cn] [CHAT] 你干什么了
+[2026-07-08 00:07:00] [AuroraCity.kkwmc.cn] [CMD] /res tp jiaoyi
+[2026-07-08 00:07:06] [AuroraCity.kkwmc.cn] [CHAT] nbtssm
+[2026-07-08 00:07:27] [AuroraCity.kkwmc.cn] [CHAT] o
