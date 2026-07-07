@@ -2109,3 +2109,9 @@
 [2026-07-07 22:58:29] [AuroraCity.kkwmc.cn] [CHAT] 你别举盾呢
 [2026-07-07 22:58:57] [AuroraCity.kkwmc.cn] [CHAT] 戴上角不带盾呢
 [2026-07-07 22:59:18] [AuroraCity.kkwmc.cn] [CHAT] 是的
+[2026-07-07 22:59:31] [AuroraCity.kkwmc.cn] [CHAT] 你给服主个盾
+[2026-07-07 22:59:41] [AuroraCity.kkwmc.cn] [CHAT] 你举着别动
+[2026-07-07 22:59:58] [AuroraCity.kkwmc.cn] [CHAT] ？
+[2026-07-07 23:00:00] [AuroraCity.kkwmc.cn] [CHAT] 怎么回事
+[2026-07-07 23:00:10] [AuroraCity.kkwmc.cn] [CHAT] 你给他
+[2026-07-07 23:00:15] [AuroraCity.kkwmc.cn] [CHAT] 你看好
