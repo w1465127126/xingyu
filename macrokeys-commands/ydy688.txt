@@ -2244,3 +2244,6 @@
 [2026-07-07 23:55:46] [AuroraCity.kkwmc.cn] [CHAT] 花眼
 [2026-07-07 23:56:09] [AuroraCity.kkwmc.cn] [CMD] /res tp zhucheng
 [2026-07-07 23:56:17] [AuroraCity.kkwmc.cn] [CMD] /res tp zhuchegn
+[2026-07-07 23:56:21] [AuroraCity.kkwmc.cn] [CMD] /res tp zhucheng
+[2026-07-07 23:56:29] [AuroraCity.kkwmc.cn] [CHAT] 有
+[2026-07-07 23:56:48] [AuroraCity.kkwmc.cn] [CHAT] 2金币一个
