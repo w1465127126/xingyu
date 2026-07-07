@@ -2441,3 +2441,6 @@
 [2026-07-07 16:54:17] [AuroraCity.kkwmc.cn] [CMD] /bacj
 [2026-07-07 16:54:18] [AuroraCity.kkwmc.cn] [CMD] /back
 [2026-07-07 16:54:24] [AuroraCity.kkwmc.cn] [CHAT] = =
+[2026-07-07 16:54:31] [AuroraCity.kkwmc.cn] [CHAT] 还是有区别的
+[2026-07-07 16:54:32] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-07 16:54:34] [AuroraCity.kkwmc.cn] [CMD] /hat
