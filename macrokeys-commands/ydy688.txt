@@ -1848,3 +1848,6 @@
 [2026-07-07 21:42:54] [AuroraCity.kkwmc.cn] [CHAT] 我关pvp了
 [2026-07-07 21:42:57] [AuroraCity.kkwmc.cn] [CHAT] 还能打我
 [2026-07-07 21:43:23] [AuroraCity.kkwmc.cn] [CMD] /pvpt
+[2026-07-07 21:43:58] [AuroraCity.kkwmc.cn] [CMD] /warp 冒险者大厅
+[2026-07-07 21:44:51] [AuroraCity.kkwmc.cn] [CHAT] 留一个有耐久的盾吧
+[2026-07-07 21:44:55] [AuroraCity.kkwmc.cn] [CHAT] 就当纪念了
