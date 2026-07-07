@@ -1971,3 +1971,6 @@
 [2026-07-07 22:21:49] [AuroraCity.kkwmc.cn] [CHAT] 因为你一直假死啊
 [2026-07-07 22:21:53] [AuroraCity.kkwmc.cn] [CMD] /back
 [2026-07-07 22:22:27] [AuroraCity.kkwmc.cn] [CHAT] 你绝对是死了的
+[2026-07-07 22:22:30] [AuroraCity.kkwmc.cn] [CHAT] 秒复活了
+[2026-07-07 22:22:46] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-07 22:22:57] [AuroraCity.kkwmc.cn] [CHAT] 你脚本没关呢
