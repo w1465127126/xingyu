@@ -1860,3 +1860,6 @@
 [2026-07-07 21:46:29] [AuroraCity.kkwmc.cn] [CMD] /back
 [2026-07-07 21:46:34] [AuroraCity.kkwmc.cn] [CMD] /back
 [2026-07-07 21:46:57] [AuroraCity.kkwmc.cn] [CHAT] 这个剑是范围伤害还有击飞
+[2026-07-07 21:47:00] [AuroraCity.kkwmc.cn] [CHAT] 太超标
+[2026-07-07 21:47:14] [AuroraCity.kkwmc.cn] [CMD] /home 3
+[2026-07-07 21:47:55] [AuroraCity.kkwmc.cn] [CMD] /hat
