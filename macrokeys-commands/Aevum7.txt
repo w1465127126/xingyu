@@ -2801,3 +2801,9 @@
 [2026-07-07 22:05:37] [AuroraCity.kkwmc.cn] [CHAT] back
 [2026-07-07 22:05:39] [AuroraCity.kkwmc.cn] [CMD] /back
 [2026-07-07 22:06:20] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-07 22:06:31] [AuroraCity.kkwmc.cn] [CHAT] 年轻人
+[2026-07-07 22:06:40] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-07 22:07:18] [AuroraCity.kkwmc.cn] [CHAT] 菜
+[2026-07-07 22:07:55] [AuroraCity.kkwmc.cn] [CHAT] 这货有护甲害得了
+[2026-07-07 22:07:57] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-07 22:08:05] [AuroraCity.kkwmc.cn] [CMD] /back
