@@ -840,3 +840,6 @@
 [2026-07-07 17:08:54] [x6.sjcmc.cn:34054] [CMD] /back
 [2026-07-07 17:09:54] [x6.sjcmc.cn:34054] [CMD] /res tp zhucheng2
 [2026-07-07 17:10:00] [x6.sjcmc.cn:34054] [CMD] /res tp fan
+[2026-07-07 17:11:48] [x6.sjcmc.cn:34054] [CMD] /back
+[2026-07-07 17:12:36] [x6.sjcmc.cn:34054] [CMD] /back
+[2026-07-07 17:14:31] [x6.sjcmc.cn:34054] [CMD] /back
