@@ -2094,3 +2094,6 @@
 [2026-07-07 22:56:32] [AuroraCity.kkwmc.cn] [CHAT] 一刀正常是七千左右
 [2026-07-07 22:56:38] [AuroraCity.kkwmc.cn] [CHAT] 血量比我越高我打的越多
 [2026-07-07 22:56:48] [AuroraCity.kkwmc.cn] [CHAT] 暴击7000
+[2026-07-07 22:56:56] [AuroraCity.kkwmc.cn] [CHAT] 暴击感觉有两种
+[2026-07-07 22:57:00] [AuroraCity.kkwmc.cn] [CHAT] 没有
+[2026-07-07 22:57:09] [AuroraCity.kkwmc.cn] [CHAT] 跳起来一刀是暴击，rpg的也有暴击
