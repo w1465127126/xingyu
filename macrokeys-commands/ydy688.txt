@@ -2343,3 +2343,6 @@
 [2026-07-08 01:26:38] [AuroraCity.kkwmc.cn] [CMD] /res tp zhucheng
 [2026-07-08 01:28:02] [AuroraCity.kkwmc.cn] [CMD] /back
 [2026-07-08 01:30:34] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-08 01:30:39] [AuroraCity.kkwmc.cn] [CMD] /home 3
+[2026-07-08 01:42:59] [AuroraCity.kkwmc.cn] [CHAT] ?
+[2026-07-08 01:43:10] [AuroraCity.kkwmc.cn] [CHAT] 什么玩意
