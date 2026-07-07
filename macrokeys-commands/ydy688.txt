@@ -1863,3 +1863,6 @@
 [2026-07-07 21:47:00] [AuroraCity.kkwmc.cn] [CHAT] 太超标
 [2026-07-07 21:47:14] [AuroraCity.kkwmc.cn] [CMD] /home 3
 [2026-07-07 21:47:55] [AuroraCity.kkwmc.cn] [CMD] /hat
+[2026-07-07 21:49:00] [AuroraCity.kkwmc.cn] [CHAT] 你衣服没荆棘，
+[2026-07-07 21:49:02] [AuroraCity.kkwmc.cn] [CHAT] 吗
+[2026-07-07 21:50:10] [AuroraCity.kkwmc.cn] [CHAT] 这把苍龙剑必须削
