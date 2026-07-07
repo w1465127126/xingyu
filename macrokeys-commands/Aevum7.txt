@@ -2375,3 +2375,6 @@
 [2026-07-07 16:33:07] [AuroraCity.kkwmc.cn] [CMD] /l wokaoa
 [2026-07-07 16:34:26] [AuroraCity.kkwmc.cn] [CMD] /tpa vsoth
 [2026-07-07 16:35:19] [AuroraCity.kkwmc.cn] [CMD] /warp 鹅斯拉
+[2026-07-07 16:35:39] [AuroraCity.kkwmc.cn] [CMD] /hat
+[2026-07-07 16:35:43] [AuroraCity.kkwmc.cn] [CMD] /hat
+[2026-07-07 16:36:13] [AuroraCity.kkwmc.cn] [CMD] /res lsit hui
