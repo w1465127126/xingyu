@@ -3140,3 +3140,6 @@
 [2026-07-07 23:26:03] [AuroraCity.kkwmc.cn] [CHAT] 玩到土豆服了
 [2026-07-07 23:26:12] [AuroraCity.kkwmc.cn] [JOIN] 连接服务器: AuroraCity.kkwmc.cn
 [2026-07-07 23:26:20] [AuroraCity.kkwmc.cn] [CMD] /l wokaoa
+[2026-07-07 23:27:54] [AuroraCity.kkwmc.cn] [CHAT] 建议全部下线一下awa
+[2026-07-07 23:27:59] [AuroraCity.kkwmc.cn] [CHAT] 看看是谁的问题
+[2026-07-07 23:33:35] [AuroraCity.kkwmc.cn] [JOIN] 连接服务器: AuroraCity.kkwmc.cn
