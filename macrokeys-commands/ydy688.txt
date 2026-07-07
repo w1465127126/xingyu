@@ -1737,3 +1737,6 @@
 [2026-07-07 20:52:45] [AuroraCity.kkwmc.cn] [CHAT] 赔钱
 [2026-07-07 20:53:53] [AuroraCity.kkwmc.cn] [CHAT] 找啥呢
 [2026-07-07 20:54:02] [AuroraCity.kkwmc.cn] [CHAT] 别乱扔
+[2026-07-07 20:54:08] [AuroraCity.kkwmc.cn] [CHAT] 这个要按着shift挖
+[2026-07-07 20:54:16] [AuroraCity.kkwmc.cn] [CHAT] 是的
+[2026-07-07 20:54:20] [AuroraCity.kkwmc.cn] [CHAT] 你试试就知道了
