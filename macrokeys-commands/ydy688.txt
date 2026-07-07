@@ -1788,3 +1788,6 @@
 [2026-07-07 21:25:28] [AuroraCity.kkwmc.cn] [CMD] /ah
 [2026-07-07 21:25:51] [AuroraCity.kkwmc.cn] [CMD] /ah sell 3000 3200
 [2026-07-07 21:26:30] [AuroraCity.kkwmc.cn] [CMD] /tpa WallE
+[2026-07-07 21:27:46] [AuroraCity.kkwmc.cn] [CHAT] WallE
+[2026-07-07 21:28:02] [AuroraCity.kkwmc.cn] [CMD] /tpa WallE
+[2026-07-07 21:31:25] [AuroraCity.kkwmc.cn] [CHAT] WallE
