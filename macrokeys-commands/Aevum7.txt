@@ -2630,3 +2630,6 @@
 [2026-07-07 20:26:03] [AuroraCity.kkwmc.cn] [CHAT] 打劫有吃的吗
 [2026-07-07 20:26:15] [AuroraCity.kkwmc.cn] [CHAT] 不给点吃的把你家全烧了
 [2026-07-07 20:28:51] [AuroraCity.kkwmc.cn] [CMD] /excellentcrates
+[2026-07-07 20:28:54] [AuroraCity.kkwmc.cn] [CMD] /excellentcrates help
+[2026-07-07 20:28:57] [AuroraCity.kkwmc.cn] [CMD] /excellentcrates open baoshi
+[2026-07-07 20:29:10] [AuroraCity.kkwmc.cn] [CMD] /excellentcrates
