@@ -2596,3 +2596,7 @@
 [2026-07-07 19:58:52] [AuroraCity.kkwmc.cn] [JOIN] 连接服务器: AuroraCity.kkwmc.cn
 [2026-07-07 19:58:58] [AuroraCity.kkwmc.cn] [CMD] /l wokaoa
 [2026-07-07 19:59:35] [AuroraCity.kkwmc.cn] [CHAT] 好家伙把我生命偷取vi打死了
+[2026-07-07 19:59:55] [AuroraCity.kkwmc.cn] [CMD] /warp 冒险者大厅
+[2026-07-07 20:01:05] [AuroraCity.kkwmc.cn] [JOIN] 连接服务器: AuroraCity.kkwmc.cn
+[2026-07-07 20:01:10] [AuroraCity.kkwmc.cn] [CMD] /l wokaoa
+[2026-07-07 20:01:10] [AuroraCity.kkwmc.cn] [CMD] /back
