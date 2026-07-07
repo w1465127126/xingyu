@@ -2729,3 +2729,6 @@
 [2026-07-07 21:42:45] [AuroraCity.kkwmc.cn] [CHAT] 台哦超标了
 [2026-07-07 21:43:27] [AuroraCity.kkwmc.cn] [CHAT] 能砍弹射物
 [2026-07-07 21:44:01] [AuroraCity.kkwmc.cn] [CHAT] 在真恶心
+[2026-07-07 21:44:06] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-07 21:45:13] [AuroraCity.kkwmc.cn] [CHAT] 为什么
+[2026-07-07 21:45:17] [AuroraCity.kkwmc.cn] [CHAT] 我打 ydy688
