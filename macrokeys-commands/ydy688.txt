@@ -2516,3 +2516,6 @@
 [2026-07-08 20:55:03] [AuroraCity.kkwmc.cn] [CHAT] 怎么不让我给你圈
 [2026-07-08 20:56:10] [AuroraCity.kkwmc.cn] [CMD] /home 3
 [2026-07-08 21:00:37] [AuroraCity.kkwmc.cn] [CHAT] 干什么
+[2026-07-08 21:00:57] [AuroraCity.kkwmc.cn] [CHAT] 你男的女的
+[2026-07-08 21:01:15] [AuroraCity.kkwmc.cn] [CHAT] 你不许发颜文字了
+[2026-07-08 21:01:39] [AuroraCity.kkwmc.cn] [CMD] /tpa LuckyMengYi
