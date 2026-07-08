@@ -3331,3 +3331,6 @@
 [2026-07-08 18:32:01] [AuroraCity.kkwmc.cn] [CHAT] 装备先去玩粘液啊
 [2026-07-08 18:32:03] [AuroraCity.kkwmc.cn] [CMD] /tpa KK_9527
 [2026-07-08 18:32:35] [AuroraCity.kkwmc.cn] [CHAT] 我之前不是挂了10几把吗
+[2026-07-08 18:32:41] [AuroraCity.kkwmc.cn] [CHAT] 建议先玩粘液
+[2026-07-08 18:32:45] [AuroraCity.kkwmc.cn] [CHAT] 不然你钱不够的
+[2026-07-08 18:33:14] [AuroraCity.kkwmc.cn] [CHAT] 而且不玩粘液= =
