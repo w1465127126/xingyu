@@ -2567,3 +2567,6 @@
 [2026-07-08 21:51:28] [AuroraCity.kkwmc.cn] [CHAT] 等会被挖掉
 [2026-07-08 21:51:44] [AuroraCity.kkwmc.cn] [CHAT] 机器怎么没了
 [2026-07-08 21:51:51] [AuroraCity.kkwmc.cn] [CHAT] 这是这个稿子单独的
+[2026-07-08 21:52:35] [AuroraCity.kkwmc.cn] [CMD] /tpa KK_9527
+[2026-07-08 21:54:08] [AuroraCity.kkwmc.cn] [CMD] /tpa
+[2026-07-08 21:54:10] [AuroraCity.kkwmc.cn] [CMD] /tpa WallE
