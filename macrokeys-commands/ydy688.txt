@@ -2570,3 +2570,6 @@
 [2026-07-08 21:52:35] [AuroraCity.kkwmc.cn] [CMD] /tpa KK_9527
 [2026-07-08 21:54:08] [AuroraCity.kkwmc.cn] [CMD] /tpa
 [2026-07-08 21:54:10] [AuroraCity.kkwmc.cn] [CMD] /tpa WallE
+[2026-07-08 21:54:32] [AuroraCity.kkwmc.cn] [CHAT] 你试试弄个电力呢
+[2026-07-08 21:54:38] [AuroraCity.kkwmc.cn] [CHAT] 把电力弄过去
+[2026-07-08 21:54:48] [AuroraCity.kkwmc.cn] [CHAT] 随便放个机器一直运转
