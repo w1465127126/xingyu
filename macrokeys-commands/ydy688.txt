@@ -2636,3 +2636,6 @@
 [2026-07-08 22:19:13] [AuroraCity.kkwmc.cn] [CHAT] 为什么叫ubuntu
 [2026-07-08 22:19:31] [AuroraCity.kkwmc.cn] [CHAT] 有我自己做的联机小游戏
 [2026-07-08 22:19:46] [AuroraCity.kkwmc.cn] [CHAT] 意义非凡
+[2026-07-08 22:20:03] [AuroraCity.kkwmc.cn] [CHAT] 我用tcl和udp两个协议做了两种联机模式
+[2026-07-08 22:20:32] [AuroraCity.kkwmc.cn] [CHAT] 不用我保存源代码了
+[2026-07-08 22:21:49] [AuroraCity.kkwmc.cn] [CHAT] Aevum7
