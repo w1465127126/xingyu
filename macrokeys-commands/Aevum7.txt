@@ -3467,3 +3467,6 @@
 [2026-07-08 22:41:34] [AuroraCity.kkwmc.cn] [CHAT] 我挖出去了
 [2026-07-08 22:41:49] [AuroraCity.kkwmc.cn] [CMD] /tpahere Fantasyland
 [2026-07-08 22:42:06] [AuroraCity.kkwmc.cn] [CHAT] 可以了
+[2026-07-08 22:42:07] [AuroraCity.kkwmc.cn] [CMD] /res tp dl
+[2026-07-08 22:42:18] [AuroraCity.kkwmc.cn] [CHAT] 你咋传送到你的挂机点的
+[2026-07-08 22:42:48] [AuroraCity.kkwmc.cn] [CMD] /tpa zzzz
