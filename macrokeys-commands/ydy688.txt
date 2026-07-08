@@ -2603,3 +2603,6 @@
 [2026-07-08 22:08:00] [AuroraCity.kkwmc.cn] [CMD] /hat
 [2026-07-08 22:08:36] [AuroraCity.kkwmc.cn] [CMD] /hat
 [2026-07-08 22:08:43] [AuroraCity.kkwmc.cn] [CMD] /hat
+[2026-07-08 22:09:21] [AuroraCity.kkwmc.cn] [CHAT] 我和你
+[2026-07-08 22:09:24] [AuroraCity.kkwmc.cn] [CHAT] 心连心
+[2026-07-08 22:09:51] [AuroraCity.kkwmc.cn] [CHAT] 你们飞的没我快你信不信
