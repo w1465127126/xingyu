@@ -2489,3 +2489,6 @@
 [2026-07-08 20:27:09] [AuroraCity.kkwmc.cn] [CHAT] [i]
 [2026-07-08 20:27:14] [AuroraCity.kkwmc.cn] [CHAT] 这个有什么用
 [2026-07-08 20:29:23] [AuroraCity.kkwmc.cn] [CHAT] [i]
+[2026-07-08 20:29:25] [AuroraCity.kkwmc.cn] [CHAT] ？？？
+[2026-07-08 20:33:36] [AuroraCity.kkwmc.cn] [CMD] /tpa Aevum7
+[2026-07-08 20:33:40] [AuroraCity.kkwmc.cn] [CHAT] Aevum7
