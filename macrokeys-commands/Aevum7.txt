@@ -3413,3 +3413,6 @@
 [2026-07-08 22:15:07] [AuroraCity.kkwmc.cn] [CHAT] 咋了
 [2026-07-08 22:15:18] [AuroraCity.kkwmc.cn] [CMD] /tpa zzzz
 [2026-07-08 22:15:46] [AuroraCity.kkwmc.cn] [CHAT] wc
+[2026-07-08 22:15:50] [AuroraCity.kkwmc.cn] [CMD] /res info
+[2026-07-08 22:16:02] [AuroraCity.kkwmc.cn] [CMD] /fly
+[2026-07-08 22:16:14] [AuroraCity.kkwmc.cn] [CHAT] 1
