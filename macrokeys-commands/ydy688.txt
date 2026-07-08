@@ -2585,3 +2585,6 @@
 [2026-07-08 21:58:17] [AuroraCity.kkwmc.cn] [CHAT] 赌博现在只会赔光
 [2026-07-08 21:59:07] [AuroraCity.kkwmc.cn] [CMD] /hat
 [2026-07-08 22:00:33] [AuroraCity.kkwmc.cn] [CHAT] 666造了个小人机吗
+[2026-07-08 22:01:38] [AuroraCity.kkwmc.cn] [CMD] /tpa Y_H286
+[2026-07-08 22:02:16] [AuroraCity.kkwmc.cn] [CMD] /tpa zzzz
+[2026-07-08 22:02:43] [AuroraCity.kkwmc.cn] [CHAT] 专门发
