@@ -3281,3 +3281,6 @@
 [2026-07-08 15:24:54] [AuroraCity.kkwmc.cn] [JOIN] 连接服务器: AuroraCity.kkwmc.cn
 [2026-07-08 15:25:01] [AuroraCity.kkwmc.cn] [CMD] /l wokaoa
 [2026-07-08 15:26:04] [AuroraCity.kkwmc.cn] [CHAT] ?
+[2026-07-08 15:26:25] [AuroraCity.kkwmc.cn] [CHAT] nb
+[2026-07-08 15:27:15] [AuroraCity.kkwmc.cn] [CHAT] 箱子里
+[2026-07-08 15:28:34] [AuroraCity.kkwmc.cn] [CHAT] 可以
