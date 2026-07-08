@@ -2483,3 +2483,6 @@
 [2026-07-08 20:20:07] [AuroraCity.kkwmc.cn] [CHAT] 一个钻石30
 [2026-07-08 20:20:14] [AuroraCity.kkwmc.cn] [CHAT] 一个下届50
 [2026-07-08 20:21:02] [AuroraCity.kkwmc.cn] [CHAT] 受着
+[2026-07-08 20:23:37] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-08 20:24:42] [AuroraCity.kkwmc.cn] [CHAT] 怎么遇不到坚守着
+[2026-07-08 20:24:59] [AuroraCity.kkwmc.cn] [CMD] /hat
