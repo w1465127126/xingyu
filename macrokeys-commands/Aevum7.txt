@@ -3356,3 +3356,16 @@
 [2026-07-08 18:38:00] [AuroraCity.kkwmc.cn] [CHAT] ?
 [2026-07-08 18:38:09] [AuroraCity.kkwmc.cn] [CHAT] xd这不是rpg啊喂
 [2026-07-08 18:38:14] [AuroraCity.kkwmc.cn] [CHAT] 不是rpg服啊
+[2026-07-08 18:41:07] [AuroraCity.kkwmc.cn] [JOIN] 连接服务器: AuroraCity.kkwmc.cn
+[2026-07-08 18:41:15] [AuroraCity.kkwmc.cn] [CMD] /l wokaoa
+[2026-07-08 18:45:29] [AuroraCity.kkwmc.cn] [JOIN] 连接服务器: AuroraCity.kkwmc.cn
+[2026-07-08 18:45:35] [AuroraCity.kkwmc.cn] [CMD] /l wokaoa
+[2026-07-08 18:47:43] [AuroraCity.kkwmc.cn] [JOIN] 连接服务器: AuroraCity.kkwmc.cn
+[2026-07-08 18:47:51] [AuroraCity.kkwmc.cn] [CMD] /l wokaoa
+[2026-07-08 18:50:50] [AuroraCity.kkwmc.cn] [JOIN] 连接服务器: AuroraCity.kkwmc.cn
+[2026-07-08 18:50:57] [AuroraCity.kkwmc.cn] [CMD] /l wokaoa
+[2026-07-08 18:57:43] [AuroraCity.kkwmc.cn] [JOIN] 连接服务器: AuroraCity.kkwmc.cn
+[2026-07-08 18:57:49] [AuroraCity.kkwmc.cn] [CMD] /l wokaoa
+[2026-07-08 19:01:22] [AuroraCity.kkwmc.cn] [JOIN] 连接服务器: AuroraCity.kkwmc.cn
+[2026-07-08 19:01:28] [AuroraCity.kkwmc.cn] [CMD] /l wokaoa
+[2026-07-08 19:03:46] [AuroraCity.kkwmc.cn] [CMD] /spawn
