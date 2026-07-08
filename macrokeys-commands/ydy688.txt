@@ -2540,3 +2540,6 @@
 [2026-07-08 21:42:15] [AuroraCity.kkwmc.cn] [CHAT] WallE
 [2026-07-08 21:42:23] [AuroraCity.kkwmc.cn] [CHAT] 没东西玩了
 [2026-07-08 21:43:15] [AuroraCity.kkwmc.cn] [CMD] /hat
+[2026-07-08 21:43:50] [AuroraCity.kkwmc.cn] [CMD] /hat
+[2026-07-08 21:43:53] [AuroraCity.kkwmc.cn] [CMD] /hat
+[2026-07-08 21:44:18] [AuroraCity.kkwmc.cn] [CHAT] 有啥用
