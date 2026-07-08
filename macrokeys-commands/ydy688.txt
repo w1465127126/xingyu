@@ -2594,3 +2594,6 @@
 [2026-07-08 22:03:47] [AuroraCity.kkwmc.cn] [CHAT] ./hat
 [2026-07-08 22:04:35] [AuroraCity.kkwmc.cn] [CHAT] 给我个
 [2026-07-08 22:04:58] [AuroraCity.kkwmc.cn] [CHAT] 刷了
+[2026-07-08 22:05:10] [AuroraCity.kkwmc.cn] [CHAT] 就刷了一个
+[2026-07-08 22:05:23] [AuroraCity.kkwmc.cn] [CMD] /hat
+[2026-07-08 22:05:38] [AuroraCity.kkwmc.cn] [CMD] /hat
