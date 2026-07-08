@@ -2477,3 +2477,6 @@
 [2026-07-08 20:18:15] [AuroraCity.kkwmc.cn] [CMD] /home 3
 [2026-07-08 20:19:11] [AuroraCity.kkwmc.cn] [CHAT] 还有三阶段呢
 [2026-07-08 20:19:22] [AuroraCity.kkwmc.cn] [CHAT] 去攒两万金币吧
+[2026-07-08 20:19:31] [AuroraCity.kkwmc.cn] [CHAT] 买不了吃亏买不了上当
+[2026-07-08 20:19:48] [AuroraCity.kkwmc.cn] [CHAT] 你钱干什么了
+[2026-07-08 20:20:02] [AuroraCity.kkwmc.cn] [CHAT] 攒去啊
