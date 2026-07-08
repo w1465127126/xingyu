@@ -3455,3 +3455,6 @@
 [2026-07-08 22:34:36] [AuroraCity.kkwmc.cn] [CMD] /l wokaoa
 [2026-07-08 22:35:43] [AuroraCity.kkwmc.cn] [CHAT] 坏菜了
 [2026-07-08 22:38:24] [AuroraCity.kkwmc.cn] [CHAT] 咋了
+[2026-07-08 22:38:44] [AuroraCity.kkwmc.cn] [CHAT] = =
+[2026-07-08 22:38:49] [AuroraCity.kkwmc.cn] [CHAT] 注册不了
+[2026-07-08 22:38:51] [AuroraCity.kkwmc.cn] [CHAT] 没招了
