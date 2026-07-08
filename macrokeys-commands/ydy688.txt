@@ -2444,3 +2444,6 @@
 [2026-07-08 19:50:14] [AuroraCity.kkwmc.cn] [CHAT] 爆了吧
 [2026-07-08 19:51:04] [AuroraCity.kkwmc.cn] [CHAT] 一辈子
 [2026-07-08 19:52:02] [AuroraCity.kkwmc.cn] [CHAT] 5金币一个卖我
+[2026-07-08 20:00:58] [AuroraCity.kkwmc.cn] [JOIN] 连接服务器: AuroraCity.kkwmc.cn
+[2026-07-08 20:01:03] [AuroraCity.kkwmc.cn] [CMD] /login xvvcxc
+[2026-07-08 20:01:04] [AuroraCity.kkwmc.cn] [CHAT] ？
