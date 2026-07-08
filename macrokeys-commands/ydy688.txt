@@ -2522,3 +2522,6 @@
 [2026-07-08 21:02:08] [AuroraCity.kkwmc.cn] [CMD] /home 3
 [2026-07-08 21:02:17] [AuroraCity.kkwmc.cn] [CMD] /back
 [2026-07-08 21:02:29] [AuroraCity.kkwmc.cn] [CHAT] 让服主加区块加载器
+[2026-07-08 21:02:35] [AuroraCity.kkwmc.cn] [CHAT] 加新附属
+[2026-07-08 21:03:24] [AuroraCity.kkwmc.cn] [CHAT] 你试试用红石投放东西到地狱门
+[2026-07-08 21:03:36] [AuroraCity.kkwmc.cn] [CHAT] 这样地狱门这个区块就加载了
