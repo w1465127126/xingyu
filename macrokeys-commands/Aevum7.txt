@@ -3554,3 +3554,6 @@
 [2026-07-08 23:01:18] [AuroraCity.kkwmc.cn] [CHAT] wc
 [2026-07-08 23:01:21] [AuroraCity.kkwmc.cn] [CHAT] 我那么多村民呢
 [2026-07-08 23:01:36] [AuroraCity.kkwmc.cn] [CHAT] 死的还有俩
+[2026-07-08 23:02:05] [AuroraCity.kkwmc.cn] [CHAT] 写个粘液插件的合成mod
+[2026-07-08 23:02:42] [AuroraCity.kkwmc.cn] [CHAT] 直接打工人
+[2026-07-08 23:06:36] [AuroraCity.kkwmc.cn] [CHAT] = =
