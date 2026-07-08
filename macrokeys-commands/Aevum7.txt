@@ -3434,3 +3434,6 @@
 [2026-07-08 22:19:01] [AuroraCity.kkwmc.cn] [CHAT] 鹅也不完全一样
 [2026-07-08 22:19:05] [AuroraCity.kkwmc.cn] [CHAT] 至少脚本不通用
 [2026-07-08 22:19:08] [AuroraCity.kkwmc.cn] [CHAT] = =
+[2026-07-08 22:19:15] [AuroraCity.kkwmc.cn] [CHAT] 你服务器上有啥东西么
+[2026-07-08 22:19:21] [AuroraCity.kkwmc.cn] [CHAT] 不知道= =
+[2026-07-08 22:19:26] [AuroraCity.kkwmc.cn] [CHAT] 作者叫这名？
