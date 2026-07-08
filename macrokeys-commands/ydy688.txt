@@ -2600,3 +2600,6 @@
 [2026-07-08 22:06:08] [AuroraCity.kkwmc.cn] [CHAT] 砍了五个怎么一个没爆
 [2026-07-08 22:06:18] [AuroraCity.kkwmc.cn] [CHAT] 666
 [2026-07-08 22:06:29] [AuroraCity.kkwmc.cn] [CHAT] 在线一两个小时自动送200
+[2026-07-08 22:08:00] [AuroraCity.kkwmc.cn] [CMD] /hat
+[2026-07-08 22:08:36] [AuroraCity.kkwmc.cn] [CMD] /hat
+[2026-07-08 22:08:43] [AuroraCity.kkwmc.cn] [CMD] /hat
