@@ -993,3 +993,6 @@
 [2026-07-08 18:34:27] [x6.sjcmc.cn:34054] [CHAT] 给盾了
 [2026-07-08 18:34:52] [x6.sjcmc.cn:34054] [CHAT] 之前是有耐久的
 [2026-07-08 18:35:00] [x6.sjcmc.cn:34054] [CHAT] 我还用爆了两个
+[2026-07-08 18:35:31] [x6.sjcmc.cn:34054] [CHAT] you can speak eng
+[2026-07-08 18:35:40] [x6.sjcmc.cn:34054] [CHAT] bro
+[2026-07-08 18:36:04] [x6.sjcmc.cn:34054] [CHAT] sspeak english
