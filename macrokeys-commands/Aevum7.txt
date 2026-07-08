@@ -3488,3 +3488,6 @@
 [2026-07-08 22:47:23] [AuroraCity.kkwmc.cn] [CHAT] 讲究
 [2026-07-08 22:47:32] [AuroraCity.kkwmc.cn] [CHAT] soga
 [2026-07-08 22:47:35] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-08 22:47:52] [AuroraCity.kkwmc.cn] [CHAT] 还在艰难的刷副本
+[2026-07-08 22:48:29] [AuroraCity.kkwmc.cn] [CMD] /tpa coforer
+[2026-07-08 22:48:47] [AuroraCity.kkwmc.cn] [CHAT] 这是啥覅北美
