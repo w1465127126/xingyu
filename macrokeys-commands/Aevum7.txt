@@ -3440,3 +3440,6 @@
 [2026-07-08 22:19:34] [AuroraCity.kkwmc.cn] [CHAT] = =
 [2026-07-08 22:19:40] [AuroraCity.kkwmc.cn] [CHAT] 重要么
 [2026-07-08 22:19:45] [AuroraCity.kkwmc.cn] [CHAT] 不重要切了吧xd
+[2026-07-08 22:19:47] [AuroraCity.kkwmc.cn] [CHAT] 666
+[2026-07-08 22:19:53] [AuroraCity.kkwmc.cn] [CHAT] 拷出来
+[2026-07-08 22:20:09] [AuroraCity.kkwmc.cn] [CHAT] ftp拷出来xd
