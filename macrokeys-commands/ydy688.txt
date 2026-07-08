@@ -2615,3 +2615,6 @@
 [2026-07-08 22:12:22] [AuroraCity.kkwmc.cn] [CHAT] 我不知道
 [2026-07-08 22:13:05] [AuroraCity.kkwmc.cn] [CHAT] 灵魂峡谷是什么
 [2026-07-08 22:13:10] [AuroraCity.kkwmc.cn] [CMD] /tpa zzz
+[2026-07-08 22:13:22] [AuroraCity.kkwmc.cn] [CHAT] 那为什么刷dl
+[2026-07-08 22:13:58] [AuroraCity.kkwmc.cn] [CHAT] 还有这个基岩层又是怎么来的
+[2026-07-08 22:14:32] [AuroraCity.kkwmc.cn] [CHAT] 我的镐子能挖爆这个基岩你信不信
