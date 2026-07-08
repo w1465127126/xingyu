@@ -3337,3 +3337,7 @@
 [2026-07-08 18:33:17] [AuroraCity.kkwmc.cn] [CHAT] 武器也是垃圾
 [2026-07-08 18:33:23] [AuroraCity.kkwmc.cn] [CMD] /back
 [2026-07-08 18:33:28] [AuroraCity.kkwmc.cn] [CMD] /res tp fan
+[2026-07-08 18:33:30] [AuroraCity.kkwmc.cn] [CMD] /res tp d
+[2026-07-08 18:33:40] [AuroraCity.kkwmc.cn] [JOIN] 连接服务器: AuroraCity.kkwmc.cn
+[2026-07-08 18:33:47] [AuroraCity.kkwmc.cn] [CMD] /l wokaoa
+[2026-07-08 18:34:08] [AuroraCity.kkwmc.cn] [CHAT] 我记得我有把枪被ydy顺走了
