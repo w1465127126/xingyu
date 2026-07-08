@@ -3557,3 +3557,9 @@
 [2026-07-08 23:02:05] [AuroraCity.kkwmc.cn] [CHAT] 写个粘液插件的合成mod
 [2026-07-08 23:02:42] [AuroraCity.kkwmc.cn] [CHAT] 直接打工人
 [2026-07-08 23:06:36] [AuroraCity.kkwmc.cn] [CHAT] = =
+[2026-07-08 23:06:43] [AuroraCity.kkwmc.cn] [CHAT] 我是要刷什么附魔来着
+[2026-07-08 23:16:38] [AuroraCity.kkwmc.cn] [JOIN] 连接服务器: AuroraCity.kkwmc.cn
+[2026-07-08 23:16:45] [AuroraCity.kkwmc.cn] [CMD] /l wokaoa
+[2026-07-08 23:18:32] [AuroraCity.kkwmc.cn] [JOIN] 连接服务器: AuroraCity.kkwmc.cn
+[2026-07-08 23:18:43] [AuroraCity.kkwmc.cn] [CMD] /l wokaoa
+[2026-07-08 23:19:40] [AuroraCity.kkwmc.cn] [CMD] /sf cheat
