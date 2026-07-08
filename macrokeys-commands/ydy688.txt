@@ -2438,3 +2438,6 @@
 [2026-07-08 19:45:35] [AuroraCity.kkwmc.cn] [JOIN] 连接服务器: AuroraCity.kkwmc.cn
 [2026-07-08 19:45:41] [AuroraCity.kkwmc.cn] [CMD] /login xvvcxc
 [2026-07-08 19:45:44] [AuroraCity.kkwmc.cn] [CMD] /home 3
+[2026-07-08 19:46:36] [AuroraCity.kkwmc.cn] [CHAT] zzzz
+[2026-07-08 19:49:08] [AuroraCity.kkwmc.cn] [CHAT] 男的自强女的传我
+[2026-07-08 19:49:32] [AuroraCity.kkwmc.cn] [CHAT] 未成年
