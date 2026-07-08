@@ -3251,3 +3251,9 @@
 [2026-07-08 02:20:06] [AuroraCity.kkwmc.cn] [JOIN] 连接服务器: AuroraCity.kkwmc.cn
 [2026-07-08 02:20:15] [AuroraCity.kkwmc.cn] [CMD] /l wokaoa
 [2026-07-08 02:20:24] [AuroraCity.kkwmc.cn] [CMD] /fly
+[2026-07-08 02:22:44] [AuroraCity.kkwmc.cn] [CMD] /spawn
+[2026-07-08 02:22:48] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-08 02:25:52] [AuroraCity.kkwmc.cn] [CMD] /spawn
+[2026-07-08 14:33:39] [AuroraCity.kkwmc.cn] [JOIN] 连接服务器: AuroraCity.kkwmc.cn
+[2026-07-08 14:34:06] [AuroraCity.kkwmc.cn] [CMD] /l wokaoa
+[2026-07-08 14:34:11] [AuroraCity.kkwmc.cn] [CMD] /res tp fan
