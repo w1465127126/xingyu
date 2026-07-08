@@ -1032,3 +1032,6 @@
 [2026-07-08 19:41:05] [x6.sjcmc.cn:34054] [CMD] /tpa coforer
 [2026-07-08 19:41:44] [x6.sjcmc.cn:34054] [CHAT] 我帮你们打
 [2026-07-08 19:41:51] [x6.sjcmc.cn:34054] [CMD] /fly
+[2026-07-08 19:42:04] [x6.sjcmc.cn:34054] [CMD] /tpa coforer
+[2026-07-08 19:43:07] [x6.sjcmc.cn:34054] [CMD] /tpa coforer
+[2026-07-08 19:43:46] [x6.sjcmc.cn:34054] [CHAT] ?
