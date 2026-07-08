@@ -3527,3 +3527,6 @@
 [2026-07-08 22:55:29] [AuroraCity.kkwmc.cn] [CHAT] 试试刀
 [2026-07-08 22:55:46] [AuroraCity.kkwmc.cn] [CHAT] ?
 [2026-07-08 22:55:49] [AuroraCity.kkwmc.cn] [CHAT] 怎么伤害这么低
+[2026-07-08 22:55:54] [AuroraCity.kkwmc.cn] [CHAT] 你多少一刀
+[2026-07-08 22:56:03] [AuroraCity.kkwmc.cn] [CHAT] 不能吸血么
+[2026-07-08 22:56:08] [AuroraCity.kkwmc.cn] [CMD] /ah
