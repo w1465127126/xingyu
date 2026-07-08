@@ -3341,3 +3341,6 @@
 [2026-07-08 18:33:40] [AuroraCity.kkwmc.cn] [JOIN] 连接服务器: AuroraCity.kkwmc.cn
 [2026-07-08 18:33:47] [AuroraCity.kkwmc.cn] [CMD] /l wokaoa
 [2026-07-08 18:34:08] [AuroraCity.kkwmc.cn] [CHAT] 我记得我有把枪被ydy顺走了
+[2026-07-08 18:34:16] [AuroraCity.kkwmc.cn] [CHAT] xd你还有耐久修复么
+[2026-07-08 18:34:29] [AuroraCity.kkwmc.cn] [CHAT] 我耐久修复村民被我手贱打死了
+[2026-07-08 18:34:43] [AuroraCity.kkwmc.cn] [CHAT] 这个盾打耐久的意义是什么
