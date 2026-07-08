@@ -3521,3 +3521,6 @@
 [2026-07-08 22:54:08] [AuroraCity.kkwmc.cn] [CHAT] 我暴击村民呢
 [2026-07-08 22:54:18] [AuroraCity.kkwmc.cn] [CHAT] 给你换个生命偷取
 [2026-07-08 22:54:33] [AuroraCity.kkwmc.cn] [CHAT] 非常适合没甲的你
+[2026-07-08 22:54:59] [AuroraCity.kkwmc.cn] [CMD] /tpa coforer
+[2026-07-08 22:55:08] [AuroraCity.kkwmc.cn] [CHAT] 不用感恩要钱的
+[2026-07-08 22:55:19] [AuroraCity.kkwmc.cn] [CHAT] 记得欠我4k
