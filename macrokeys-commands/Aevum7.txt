@@ -3567,3 +3567,10 @@
 [2026-07-08 23:27:39] [AuroraCity.kkwmc.cn] [JOIN] 连接服务器: AuroraCity.kkwmc.cn
 [2026-07-08 23:27:52] [AuroraCity.kkwmc.cn] [CMD] /l wokaoa
 [2026-07-08 23:28:51] [AuroraCity.kkwmc.cn] [CHAT] 666
+[2026-07-08 23:30:52] [AuroraCity.kkwmc.cn] [JOIN] 连接服务器: AuroraCity.kkwmc.cn
+[2026-07-08 23:31:00] [AuroraCity.kkwmc.cn] [CMD] /l wokaoa
+[2026-07-08 23:35:04] [AuroraCity.kkwmc.cn] [JOIN] 连接服务器: AuroraCity.kkwmc.cn
+[2026-07-08 23:35:09] [AuroraCity.kkwmc.cn] [CMD] /l wokaoa
+[2026-07-08 23:39:25] [AuroraCity.kkwmc.cn] [JOIN] 连接服务器: AuroraCity.kkwmc.cn
+[2026-07-08 23:39:35] [AuroraCity.kkwmc.cn] [CMD] /l wokaoa
+[2026-07-08 23:41:08] [AuroraCity.kkwmc.cn] [CMD] /fly
