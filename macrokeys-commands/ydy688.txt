@@ -2350,3 +2350,6 @@
 [2026-07-08 14:40:36] [AuroraCity.kkwmc.cn] [JOIN] 连接服务器: AuroraCity.kkwmc.cn
 [2026-07-08 14:40:42] [AuroraCity.kkwmc.cn] [CMD] /login xvvcxc
 [2026-07-08 14:41:14] [AuroraCity.kkwmc.cn] [CMD] /home 3
+[2026-07-08 14:50:35] [AuroraCity.kkwmc.cn] [CHAT] ？
+[2026-07-08 14:50:45] [AuroraCity.kkwmc.cn] [CHAT] 66
+[2026-07-08 14:51:03] [AuroraCity.kkwmc.cn] [CHAT] 误触了
