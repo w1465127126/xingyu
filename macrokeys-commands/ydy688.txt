@@ -2507,3 +2507,6 @@
 [2026-07-08 20:45:43] [AuroraCity.kkwmc.cn] [CMD] /res tp zhucheng
 [2026-07-08 20:45:55] [AuroraCity.kkwmc.cn] [CMD] /res tp zhucheng2
 [2026-07-08 20:46:04] [AuroraCity.kkwmc.cn] [CHAT] all
+[2026-07-08 20:46:12] [AuroraCity.kkwmc.cn] [CHAT] all
+[2026-07-08 20:47:47] [AuroraCity.kkwmc.cn] [CHAT] 5000金币出时运5
+[2026-07-08 20:48:50] [AuroraCity.kkwmc.cn] [CHAT] 不了
