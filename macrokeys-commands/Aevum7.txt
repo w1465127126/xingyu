@@ -3464,3 +3464,6 @@
 [2026-07-08 22:40:41] [AuroraCity.kkwmc.cn] [CHAT] 我怎么去外面
 [2026-07-08 22:41:03] [AuroraCity.kkwmc.cn] [CHAT] sd
 [2026-07-08 22:41:13] [AuroraCity.kkwmc.cn] [CHAT] 我出不去啊
+[2026-07-08 22:41:34] [AuroraCity.kkwmc.cn] [CHAT] 我挖出去了
+[2026-07-08 22:41:49] [AuroraCity.kkwmc.cn] [CMD] /tpahere Fantasyland
+[2026-07-08 22:42:06] [AuroraCity.kkwmc.cn] [CHAT] 可以了
