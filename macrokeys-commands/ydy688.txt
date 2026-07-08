@@ -2651,3 +2651,11 @@
 [2026-07-08 22:25:00] [AuroraCity.kkwmc.cn] [CHAT] ？？
 [2026-07-08 22:25:06] [AuroraCity.kkwmc.cn] [CHAT] 这tm不是抓钩吗
 [2026-07-08 22:26:22] [AuroraCity.kkwmc.cn] [CHAT] 不玩了
+[2026-07-08 22:26:27] [AuroraCity.kkwmc.cn] [CHAT] 学习去了
+[2026-07-08 22:26:32] [AuroraCity.kkwmc.cn] [CHAT] 我要好好学习
+[2026-07-08 22:26:37] [AuroraCity.kkwmc.cn] [CMD] /hat
+[2026-07-09 00:32:51] [AuroraCity.kkwmc.cn] [JOIN] 连接服务器: AuroraCity.kkwmc.cn
+[2026-07-09 00:33:00] [AuroraCity.kkwmc.cn] [CMD] /login xvvcxc
+[2026-07-09 01:16:06] [AuroraCity.kkwmc.cn] [JOIN] 连接服务器: AuroraCity.kkwmc.cn
+[2026-07-09 01:17:13] [AuroraCity.kkwmc.cn] [CMD] /login xvvcxc
+[2026-07-09 01:17:39] [AuroraCity.kkwmc.cn] [JOIN] 连接服务器: AuroraCity.kkwmc.cn
