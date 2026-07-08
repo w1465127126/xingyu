@@ -3431,3 +3431,6 @@
 [2026-07-08 22:18:22] [AuroraCity.kkwmc.cn] [CHAT] 不用
 [2026-07-08 22:18:26] [AuroraCity.kkwmc.cn] [CHAT] Ubuntu就行
 [2026-07-08 22:18:39] [AuroraCity.kkwmc.cn] [CHAT] 重新装一个
+[2026-07-08 22:19:01] [AuroraCity.kkwmc.cn] [CHAT] 鹅也不完全一样
+[2026-07-08 22:19:05] [AuroraCity.kkwmc.cn] [CHAT] 至少脚本不通用
+[2026-07-08 22:19:08] [AuroraCity.kkwmc.cn] [CHAT] = =
