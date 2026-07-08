@@ -1098,3 +1098,6 @@
 [2026-07-08 20:02:45] [x6.sjcmc.cn:34054] [CMD] /l 002731
 [2026-07-08 20:02:54] [x6.sjcmc.cn:34054] [CHAT] ./fzzy_config_leave_game
 [2026-07-08 20:03:06] [x6.sjcmc.cn:34054] [CHAT] 试一下这个指令
+[2026-07-08 20:03:10] [x6.sjcmc.cn:34054] [CHAT] ./fzzy_config_leave_game
+[2026-07-08 20:03:27] [x6.sjcmc.cn:34054] [CHAT] 我刚发现的指令
+[2026-07-08 20:03:53] [x6.sjcmc.cn:34054] [CMD] /fly
