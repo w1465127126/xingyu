@@ -2639,3 +2639,6 @@
 [2026-07-08 22:20:03] [AuroraCity.kkwmc.cn] [CHAT] 我用tcl和udp两个协议做了两种联机模式
 [2026-07-08 22:20:32] [AuroraCity.kkwmc.cn] [CHAT] 不用我保存源代码了
 [2026-07-08 22:21:49] [AuroraCity.kkwmc.cn] [CHAT] Aevum7
+[2026-07-08 22:21:53] [AuroraCity.kkwmc.cn] [CHAT] 你不上班吗
+[2026-07-08 22:22:43] [AuroraCity.kkwmc.cn] [CHAT] 就是上班啊
+[2026-07-08 22:22:51] [AuroraCity.kkwmc.cn] [CHAT] 不能
