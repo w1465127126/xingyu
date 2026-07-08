@@ -2534,3 +2534,6 @@
 [2026-07-08 21:37:47] [AuroraCity.kkwmc.cn] [CMD] /login xvvcxc
 [2026-07-08 21:38:41] [AuroraCity.kkwmc.cn] [CMD] /tpa Y_H286
 [2026-07-08 21:39:12] [AuroraCity.kkwmc.cn] [CHAT] 这是谁家
+[2026-07-08 21:39:22] [AuroraCity.kkwmc.cn] [CHAT] 给我权限
+[2026-07-08 21:39:58] [AuroraCity.kkwmc.cn] [CHAT] 谁来和我玩迷你世界
+[2026-07-08 21:42:12] [AuroraCity.kkwmc.cn] [CHAT] 快更新
