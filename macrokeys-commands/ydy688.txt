@@ -2582,3 +2582,6 @@
 [2026-07-08 21:56:20] [AuroraCity.kkwmc.cn] [CHAT] 谁传过去就是免费的人机
 [2026-07-08 21:57:39] [AuroraCity.kkwmc.cn] [CHAT] WallE
 [2026-07-08 21:57:44] [AuroraCity.kkwmc.cn] [CHAT] 我在线七天了吧
+[2026-07-08 21:58:17] [AuroraCity.kkwmc.cn] [CHAT] 赌博现在只会赔光
+[2026-07-08 21:59:07] [AuroraCity.kkwmc.cn] [CMD] /hat
+[2026-07-08 22:00:33] [AuroraCity.kkwmc.cn] [CHAT] 666造了个小人机吗
