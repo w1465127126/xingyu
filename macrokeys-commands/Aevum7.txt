@@ -3428,3 +3428,6 @@
 [2026-07-08 22:18:09] [AuroraCity.kkwmc.cn] [CHAT] 2核2g3m
 [2026-07-08 22:18:11] [AuroraCity.kkwmc.cn] [CHAT] 轻轻松松
 [2026-07-08 22:18:19] [AuroraCity.kkwmc.cn] [CHAT] 你是啥系统
+[2026-07-08 22:18:22] [AuroraCity.kkwmc.cn] [CHAT] 不用
+[2026-07-08 22:18:26] [AuroraCity.kkwmc.cn] [CHAT] Ubuntu就行
+[2026-07-08 22:18:39] [AuroraCity.kkwmc.cn] [CHAT] 重新装一个
