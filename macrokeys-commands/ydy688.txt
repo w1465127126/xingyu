@@ -2474,3 +2474,6 @@
 [2026-07-08 20:17:14] [AuroraCity.kkwmc.cn] [CHAT] 灵魂出窍是什么
 [2026-07-08 20:17:16] [AuroraCity.kkwmc.cn] [CMD] /back
 [2026-07-08 20:18:10] [AuroraCity.kkwmc.cn] [CHAT] 黑曜石是什么
+[2026-07-08 20:18:15] [AuroraCity.kkwmc.cn] [CMD] /home 3
+[2026-07-08 20:19:11] [AuroraCity.kkwmc.cn] [CHAT] 还有三阶段呢
+[2026-07-08 20:19:22] [AuroraCity.kkwmc.cn] [CHAT] 去攒两万金币吧
