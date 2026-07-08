@@ -3404,3 +3404,6 @@
 [2026-07-08 19:53:49] [AuroraCity.kkwmc.cn] [JOIN] 连接服务器: AuroraCity.kkwmc.cn
 [2026-07-08 19:53:55] [AuroraCity.kkwmc.cn] [CMD] /l wokaoa
 [2026-07-08 21:43:06] [AuroraCity.kkwmc.cn] [JOIN] 连接服务器: AuroraCity.kkwmc.cn
+[2026-07-08 21:43:09] [AuroraCity.kkwmc.cn] [CMD] /l wokaoa
+[2026-07-08 22:07:01] [AuroraCity.kkwmc.cn] [CHAT] 这狗吧村民这能刷出2级么
+[2026-07-08 22:14:38] [AuroraCity.kkwmc.cn] [CMD] /tpa ydy688
