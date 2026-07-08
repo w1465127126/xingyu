@@ -2495,3 +2495,6 @@
 [2026-07-08 20:33:47] [AuroraCity.kkwmc.cn] [CMD] /tpa zzzz
 [2026-07-08 20:34:23] [AuroraCity.kkwmc.cn] [CHAT] 死一下就行了
 [2026-07-08 20:34:38] [AuroraCity.kkwmc.cn] [CHAT] 这是是什么
+[2026-07-08 20:39:22] [AuroraCity.kkwmc.cn] [CMD] /tpa Y_H286
+[2026-07-08 20:39:34] [AuroraCity.kkwmc.cn] [CHAT] 这个是老家
+[2026-07-08 20:39:52] [AuroraCity.kkwmc.cn] [CHAT] 这是上一个服的家
