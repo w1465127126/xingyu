@@ -3284,3 +3284,22 @@
 [2026-07-08 15:26:25] [AuroraCity.kkwmc.cn] [CHAT] nb
 [2026-07-08 15:27:15] [AuroraCity.kkwmc.cn] [CHAT] 箱子里
 [2026-07-08 15:28:34] [AuroraCity.kkwmc.cn] [CHAT] 可以
+[2026-07-08 15:30:52] [AuroraCity.kkwmc.cn] [JOIN] 连接服务器: AuroraCity.kkwmc.cn
+[2026-07-08 15:31:00] [AuroraCity.kkwmc.cn] [CMD] /l wokaoa
+[2026-07-08 15:42:25] [AuroraCity.kkwmc.cn] [JOIN] 连接服务器: AuroraCity.kkwmc.cn
+[2026-07-08 15:42:34] [AuroraCity.kkwmc.cn] [CMD] /l wokaoa
+[2026-07-08 15:46:53] [AuroraCity.kkwmc.cn] [JOIN] 连接服务器: AuroraCity.kkwmc.cn
+[2026-07-08 15:46:57] [AuroraCity.kkwmc.cn] [CMD] /l wokaoa
+[2026-07-08 15:57:36] [AuroraCity.kkwmc.cn] [JOIN] 连接服务器: AuroraCity.kkwmc.cn
+[2026-07-08 15:57:42] [AuroraCity.kkwmc.cn] [CMD] /l wokaoa
+[2026-07-08 16:03:19] [AuroraCity.kkwmc.cn] [JOIN] 连接服务器: AuroraCity.kkwmc.cn
+[2026-07-08 16:03:25] [AuroraCity.kkwmc.cn] [CMD] /l wokaoa
+[2026-07-08 16:06:51] [AuroraCity.kkwmc.cn] [JOIN] 连接服务器: AuroraCity.kkwmc.cn
+[2026-07-08 16:06:58] [AuroraCity.kkwmc.cn] [CMD] /l wokaoa
+[2026-07-08 16:15:03] [AuroraCity.kkwmc.cn] [JOIN] 连接服务器: AuroraCity.kkwmc.cn
+[2026-07-08 16:15:09] [AuroraCity.kkwmc.cn] [CMD] /l wokaoa
+[2026-07-08 16:23:13] [AuroraCity.kkwmc.cn] [JOIN] 连接服务器: AuroraCity.kkwmc.cn
+[2026-07-08 16:23:20] [AuroraCity.kkwmc.cn] [CMD] /l wokaoa
+[2026-07-08 16:27:26] [AuroraCity.kkwmc.cn] [JOIN] 连接服务器: AuroraCity.kkwmc.cn
+[2026-07-08 16:27:31] [AuroraCity.kkwmc.cn] [CMD] /l wokaoa
+[2026-07-08 17:39:19] [AuroraCity.kkwmc.cn] [CHAT] 1
