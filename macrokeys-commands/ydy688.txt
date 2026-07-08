@@ -2368,3 +2368,6 @@
 [2026-07-08 15:27:03] [AuroraCity.kkwmc.cn] [CHAT] 你之前不是搞了个吗
 [2026-07-08 15:27:06] [AuroraCity.kkwmc.cn] [CHAT] 放哪了
 [2026-07-08 15:27:19] [AuroraCity.kkwmc.cn] [CHAT] 咱们家现在连铜都缺
+[2026-07-08 15:27:27] [AuroraCity.kkwmc.cn] [CHAT] 估计全被爆没了
+[2026-07-08 15:28:24] [AuroraCity.kkwmc.cn] [CHAT] 这个虚空漏斗能接箱子吗
+[2026-07-08 15:28:29] [AuroraCity.kkwmc.cn] [CMD] /tpa KK_9527
