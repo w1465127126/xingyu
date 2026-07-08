@@ -3494,3 +3494,6 @@
 [2026-07-08 22:48:49] [AuroraCity.kkwmc.cn] [CHAT] 副本
 [2026-07-08 22:49:08] [AuroraCity.kkwmc.cn] [CMD] /hat
 [2026-07-08 22:49:13] [AuroraCity.kkwmc.cn] [CHAT] 甚是陌生
+[2026-07-08 22:49:40] [AuroraCity.kkwmc.cn] [CHAT] 买剑嘛
+[2026-07-08 22:49:41] [AuroraCity.kkwmc.cn] [CMD] /ah
+[2026-07-08 22:49:49] [AuroraCity.kkwmc.cn] [CHAT] [i]
