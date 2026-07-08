@@ -3268,3 +3268,16 @@
 [2026-07-08 14:52:01] [AuroraCity.kkwmc.cn] [CHAT] 哪个jq
 [2026-07-08 14:52:18] [AuroraCity.kkwmc.cn] [CHAT] 6
 [2026-07-08 14:52:25] [AuroraCity.kkwmc.cn] [CHAT] 没办法
+[2026-07-08 14:54:16] [AuroraCity.kkwmc.cn] [CHAT] 6
+[2026-07-08 14:54:24] [AuroraCity.kkwmc.cn] [CHAT] 拿来的羽毛
+[2026-07-08 14:54:50] [AuroraCity.kkwmc.cn] [JOIN] 连接服务器: AuroraCity.kkwmc.cn
+[2026-07-08 14:55:25] [AuroraCity.kkwmc.cn] [CMD] /l wokaoa
+[2026-07-08 15:06:21] [AuroraCity.kkwmc.cn] [JOIN] 连接服务器: AuroraCity.kkwmc.cn
+[2026-07-08 15:06:32] [AuroraCity.kkwmc.cn] [CMD] /l wokaoa
+[2026-07-08 15:11:24] [AuroraCity.kkwmc.cn] [JOIN] 连接服务器: AuroraCity.kkwmc.cn
+[2026-07-08 15:11:29] [AuroraCity.kkwmc.cn] [CMD] /l wokaoa
+[2026-07-08 15:18:56] [AuroraCity.kkwmc.cn] [JOIN] 连接服务器: AuroraCity.kkwmc.cn
+[2026-07-08 15:19:02] [AuroraCity.kkwmc.cn] [CMD] /l wokaoa
+[2026-07-08 15:24:54] [AuroraCity.kkwmc.cn] [JOIN] 连接服务器: AuroraCity.kkwmc.cn
+[2026-07-08 15:25:01] [AuroraCity.kkwmc.cn] [CMD] /l wokaoa
+[2026-07-08 15:26:04] [AuroraCity.kkwmc.cn] [CHAT] ?
