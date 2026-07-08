@@ -3533,3 +3533,6 @@
 [2026-07-08 22:56:30] [AuroraCity.kkwmc.cn] [CHAT] 我咋也有东西
 [2026-07-08 22:56:33] [AuroraCity.kkwmc.cn] [CHAT] 我都没动
 [2026-07-08 22:56:40] [AuroraCity.kkwmc.cn] [CHAT] 腐竹修了?
+[2026-07-08 22:56:45] [AuroraCity.kkwmc.cn] [CMD] /ah
+[2026-07-08 22:56:51] [AuroraCity.kkwmc.cn] [CHAT] 坑壁宝石
+[2026-07-08 22:57:10] [AuroraCity.kkwmc.cn] [CHAT] 我龙还没打awa
