@@ -3416,3 +3416,6 @@
 [2026-07-08 22:15:50] [AuroraCity.kkwmc.cn] [CMD] /res info
 [2026-07-08 22:16:02] [AuroraCity.kkwmc.cn] [CMD] /fly
 [2026-07-08 22:16:14] [AuroraCity.kkwmc.cn] [CHAT] 1
+[2026-07-08 22:16:27] [AuroraCity.kkwmc.cn] [CHAT] 还挂了个小号
+[2026-07-08 22:16:35] [AuroraCity.kkwmc.cn] [CHAT] xd小号挂我服务器上么
+[2026-07-08 22:16:38] [AuroraCity.kkwmc.cn] [CHAT] 咋了
