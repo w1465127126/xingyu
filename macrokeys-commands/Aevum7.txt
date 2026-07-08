@@ -3491,3 +3491,6 @@
 [2026-07-08 22:47:52] [AuroraCity.kkwmc.cn] [CHAT] 还在艰难的刷副本
 [2026-07-08 22:48:29] [AuroraCity.kkwmc.cn] [CMD] /tpa coforer
 [2026-07-08 22:48:47] [AuroraCity.kkwmc.cn] [CHAT] 这是啥覅北美
+[2026-07-08 22:48:49] [AuroraCity.kkwmc.cn] [CHAT] 副本
+[2026-07-08 22:49:08] [AuroraCity.kkwmc.cn] [CMD] /hat
+[2026-07-08 22:49:13] [AuroraCity.kkwmc.cn] [CHAT] 甚是陌生
