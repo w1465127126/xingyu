@@ -2558,3 +2558,6 @@
 [2026-07-08 21:49:06] [AuroraCity.kkwmc.cn] [CHAT] 是的
 [2026-07-08 21:49:12] [AuroraCity.kkwmc.cn] [CHAT] 地下的方块就没了
 [2026-07-08 21:49:18] [AuroraCity.kkwmc.cn] [CHAT] 所以尽量去资源区
+[2026-07-08 21:50:13] [AuroraCity.kkwmc.cn] [CHAT] 反正就是会
+[2026-07-08 21:50:18] [AuroraCity.kkwmc.cn] [CHAT] 第二次就挖不动了
+[2026-07-08 21:50:22] [AuroraCity.kkwmc.cn] [CHAT] 所以要换地方
