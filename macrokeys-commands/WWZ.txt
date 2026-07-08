@@ -1089,3 +1089,6 @@
 [2026-07-08 20:00:22] [x6.sjcmc.cn:34054] [CMD] /fly
 [2026-07-08 20:00:34] [x6.sjcmc.cn:34054] [CHAT] 6
 [2026-07-08 20:00:59] [x6.sjcmc.cn:34054] [JOIN] 连接服务器: x6.sjcmc.cn:34054
+[2026-07-08 20:01:01] [x6.sjcmc.cn:34054] [CMD] /l 002731
+[2026-07-08 20:02:06] [x6.sjcmc.cn:34054] [CMD] /fabric-command-api-v2:client
+[2026-07-08 20:02:15] [x6.sjcmc.cn:34054] [CMD] /flipcard
