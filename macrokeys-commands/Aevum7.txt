@@ -3485,3 +3485,6 @@
 [2026-07-08 22:46:18] [AuroraCity.kkwmc.cn] [CMD] /back
 [2026-07-08 22:46:25] [AuroraCity.kkwmc.cn] [CHAT] ai
 [2026-07-08 22:46:28] [AuroraCity.kkwmc.cn] [CHAT] 我怎么召唤不出来
+[2026-07-08 22:47:23] [AuroraCity.kkwmc.cn] [CHAT] 讲究
+[2026-07-08 22:47:32] [AuroraCity.kkwmc.cn] [CHAT] soga
+[2026-07-08 22:47:35] [AuroraCity.kkwmc.cn] [CMD] /back
