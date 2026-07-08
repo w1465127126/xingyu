@@ -3322,3 +3322,6 @@
 [2026-07-08 18:28:28] [AuroraCity.kkwmc.cn] [JOIN] 连接服务器: AuroraCity.kkwmc.cn
 [2026-07-08 18:28:34] [AuroraCity.kkwmc.cn] [CMD] /l wokaoa
 [2026-07-08 18:30:14] [AuroraCity.kkwmc.cn] [CMD] /tpa KK_9527
+[2026-07-08 18:30:59] [AuroraCity.kkwmc.cn] [CMD] /tpa mao_yao
+[2026-07-08 18:31:10] [AuroraCity.kkwmc.cn] [CMD] /hat
+[2026-07-08 18:31:35] [AuroraCity.kkwmc.cn] [CHAT] ?
