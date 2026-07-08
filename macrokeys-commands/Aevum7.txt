@@ -3470,3 +3470,6 @@
 [2026-07-08 22:42:07] [AuroraCity.kkwmc.cn] [CMD] /res tp dl
 [2026-07-08 22:42:18] [AuroraCity.kkwmc.cn] [CHAT] 你咋传送到你的挂机点的
 [2026-07-08 22:42:48] [AuroraCity.kkwmc.cn] [CMD] /tpa zzzz
+[2026-07-08 22:42:57] [AuroraCity.kkwmc.cn] [CHAT] 咋了
+[2026-07-08 22:43:01] [AuroraCity.kkwmc.cn] [CMD] /tpa Fantasyland
+[2026-07-08 22:43:36] [AuroraCity.kkwmc.cn] [CMD] /tpahere zzzz
