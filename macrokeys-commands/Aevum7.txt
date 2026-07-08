@@ -3536,3 +3536,9 @@
 [2026-07-08 22:56:45] [AuroraCity.kkwmc.cn] [CMD] /ah
 [2026-07-08 22:56:51] [AuroraCity.kkwmc.cn] [CHAT] 坑壁宝石
 [2026-07-08 22:57:10] [AuroraCity.kkwmc.cn] [CHAT] 我龙还没打awa
+[2026-07-08 22:57:11] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-08 22:57:13] [AuroraCity.kkwmc.cn] [CMD] /spawn
+[2026-07-08 22:57:17] [AuroraCity.kkwmc.cn] [CMD] /spawn
+[2026-07-08 22:57:47] [AuroraCity.kkwmc.cn] [CMD] /ah sell 30000 30000 1
+[2026-07-08 22:57:54] [AuroraCity.kkwmc.cn] [CMD] /ah
+[2026-07-08 22:57:58] [AuroraCity.kkwmc.cn] [CMD] /back
