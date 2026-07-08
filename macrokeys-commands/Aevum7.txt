@@ -3551,3 +3551,6 @@
 [2026-07-08 23:00:25] [AuroraCity.kkwmc.cn] [CMD] /tpaccept
 [2026-07-08 23:00:49] [AuroraCity.kkwmc.cn] [CHAT] 我村民挂了= =
 [2026-07-08 23:01:12] [AuroraCity.kkwmc.cn] [CHAT] 后续没饿了
+[2026-07-08 23:01:18] [AuroraCity.kkwmc.cn] [CHAT] wc
+[2026-07-08 23:01:21] [AuroraCity.kkwmc.cn] [CHAT] 我那么多村民呢
+[2026-07-08 23:01:36] [AuroraCity.kkwmc.cn] [CHAT] 死的还有俩
