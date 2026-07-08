@@ -2501,3 +2501,6 @@
 [2026-07-08 20:40:04] [AuroraCity.kkwmc.cn] [CMD] /res tp ss
 [2026-07-08 20:40:53] [AuroraCity.kkwmc.cn] [CHAT] 这里有西瓜
 [2026-07-08 20:42:41] [AuroraCity.kkwmc.cn] [CHAT] 这里东西随便拿
+[2026-07-08 20:43:04] [AuroraCity.kkwmc.cn] [CHAT] 整个服务器的东西都是我的
+[2026-07-08 20:43:26] [AuroraCity.kkwmc.cn] [CHAT] gun
+[2026-07-08 20:44:01] [AuroraCity.kkwmc.cn] [CMD] /hat
