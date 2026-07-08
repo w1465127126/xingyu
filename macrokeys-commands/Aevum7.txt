@@ -3482,3 +3482,6 @@
 [2026-07-08 22:44:52] [AuroraCity.kkwmc.cn] [CMD] /res tp d
 [2026-07-08 22:45:42] [AuroraCity.kkwmc.cn] [CMD] /back
 [2026-07-08 22:46:07] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-08 22:46:18] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-08 22:46:25] [AuroraCity.kkwmc.cn] [CHAT] ai
+[2026-07-08 22:46:28] [AuroraCity.kkwmc.cn] [CHAT] 我怎么召唤不出来
