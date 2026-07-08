@@ -3542,3 +3542,6 @@
 [2026-07-08 22:57:47] [AuroraCity.kkwmc.cn] [CMD] /ah sell 30000 30000 1
 [2026-07-08 22:57:54] [AuroraCity.kkwmc.cn] [CMD] /ah
 [2026-07-08 22:57:58] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-08 22:58:34] [AuroraCity.kkwmc.cn] [CHAT] 哎现在能挂机产附魔书村民了
+[2026-07-08 22:58:36] [AuroraCity.kkwmc.cn] [CHAT] 有点枯燥了
+[2026-07-08 22:59:13] [AuroraCity.kkwmc.cn] [CHAT] [i]
