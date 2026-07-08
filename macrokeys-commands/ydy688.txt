@@ -2588,3 +2588,6 @@
 [2026-07-08 22:01:38] [AuroraCity.kkwmc.cn] [CMD] /tpa Y_H286
 [2026-07-08 22:02:16] [AuroraCity.kkwmc.cn] [CMD] /tpa zzzz
 [2026-07-08 22:02:43] [AuroraCity.kkwmc.cn] [CHAT] 专门发
+[2026-07-08 22:02:45] [AuroraCity.kkwmc.cn] [CHAT] 怎么发
+[2026-07-08 22:03:03] [AuroraCity.kkwmc.cn] [CHAT] 把头摘了
+[2026-07-08 22:03:21] [AuroraCity.kkwmc.cn] [CHAT] 还差六个小时
