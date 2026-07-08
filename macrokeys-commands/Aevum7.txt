@@ -3497,3 +3497,9 @@
 [2026-07-08 22:49:40] [AuroraCity.kkwmc.cn] [CHAT] 买剑嘛
 [2026-07-08 22:49:41] [AuroraCity.kkwmc.cn] [CMD] /ah
 [2026-07-08 22:49:49] [AuroraCity.kkwmc.cn] [CHAT] [i]
+[2026-07-08 22:49:54] [AuroraCity.kkwmc.cn] [CHAT] 给你萌新价
+[2026-07-08 22:49:56] [AuroraCity.kkwmc.cn] [CHAT] 5k
+[2026-07-08 22:50:07] [AuroraCity.kkwmc.cn] [CHAT] 可以报附魔
+[2026-07-08 22:50:16] [AuroraCity.kkwmc.cn] [CHAT] 可以欠着
+[2026-07-08 22:50:18] [AuroraCity.kkwmc.cn] [CMD] /res tp fan
+[2026-07-08 22:50:29] [AuroraCity.kkwmc.cn] [CHAT] 要什么附魔
