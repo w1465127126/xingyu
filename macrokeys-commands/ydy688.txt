@@ -2627,3 +2627,9 @@
 [2026-07-08 22:16:38] [AuroraCity.kkwmc.cn] [CHAT] 那不是他小号
 [2026-07-08 22:17:24] [AuroraCity.kkwmc.cn] [CHAT] 我有个223的服务器能挂吗
 [2026-07-08 22:17:51] [AuroraCity.kkwmc.cn] [CHAT] 配置啊
+[2026-07-08 22:18:06] [AuroraCity.kkwmc.cn] [CHAT] 怎么操作的
+[2026-07-08 22:18:10] [AuroraCity.kkwmc.cn] [CHAT] 怎么搞的
+[2026-07-08 22:18:20] [AuroraCity.kkwmc.cn] [CHAT] 要win系统吗
+[2026-07-08 22:18:32] [AuroraCity.kkwmc.cn] [CHAT] linux
+[2026-07-08 22:18:55] [AuroraCity.kkwmc.cn] [CHAT] ubuntu不就是linux的吗
+[2026-07-08 22:18:59] [AuroraCity.kkwmc.cn] [CHAT] 这个有什么区别
