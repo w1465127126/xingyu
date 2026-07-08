@@ -3325,3 +3325,6 @@
 [2026-07-08 18:30:59] [AuroraCity.kkwmc.cn] [CMD] /tpa mao_yao
 [2026-07-08 18:31:10] [AuroraCity.kkwmc.cn] [CMD] /hat
 [2026-07-08 18:31:35] [AuroraCity.kkwmc.cn] [CHAT] ?
+[2026-07-08 18:31:42] [AuroraCity.kkwmc.cn] [CHAT] [i]
+[2026-07-08 18:31:45] [AuroraCity.kkwmc.cn] [CHAT] 送您了
+[2026-07-08 18:31:47] [AuroraCity.kkwmc.cn] [CHAT] 送你了
