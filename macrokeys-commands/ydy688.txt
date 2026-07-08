@@ -2543,3 +2543,6 @@
 [2026-07-08 21:43:50] [AuroraCity.kkwmc.cn] [CMD] /hat
 [2026-07-08 21:43:53] [AuroraCity.kkwmc.cn] [CMD] /hat
 [2026-07-08 21:44:18] [AuroraCity.kkwmc.cn] [CHAT] 有啥用
+[2026-07-08 21:45:44] [AuroraCity.kkwmc.cn] [CHAT] 你朋友是那个
+[2026-07-08 21:45:46] [AuroraCity.kkwmc.cn] [CHAT] coforer
+[2026-07-08 21:45:56] [AuroraCity.kkwmc.cn] [CHAT] 还没喝完就死了
