@@ -3315,3 +3315,10 @@
 [2026-07-08 17:58:39] [AuroraCity.kkwmc.cn] [CMD] /back
 [2026-07-08 17:58:56] [AuroraCity.kkwmc.cn] [CHAT] 坏菜了我打死村民被看到了
 [2026-07-08 17:58:58] [AuroraCity.kkwmc.cn] [CHAT] 全体涨价
+[2026-07-08 18:19:11] [AuroraCity.kkwmc.cn] [CMD] /res tp d
+[2026-07-08 18:19:45] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-08 18:24:03] [AuroraCity.kkwmc.cn] [JOIN] 连接服务器: AuroraCity.kkwmc.cn
+[2026-07-08 18:24:10] [AuroraCity.kkwmc.cn] [CMD] /l wokaoa
+[2026-07-08 18:28:28] [AuroraCity.kkwmc.cn] [JOIN] 连接服务器: AuroraCity.kkwmc.cn
+[2026-07-08 18:28:34] [AuroraCity.kkwmc.cn] [CMD] /l wokaoa
+[2026-07-08 18:30:14] [AuroraCity.kkwmc.cn] [CMD] /tpa KK_9527
