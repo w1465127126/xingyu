@@ -2555,3 +2555,6 @@
 [2026-07-08 21:48:31] [AuroraCity.kkwmc.cn] [CMD] /tpa WallE
 [2026-07-08 21:48:49] [AuroraCity.kkwmc.cn] [CHAT] WallE
 [2026-07-08 21:48:53] [AuroraCity.kkwmc.cn] [CHAT] 帅不帅
+[2026-07-08 21:49:06] [AuroraCity.kkwmc.cn] [CHAT] 是的
+[2026-07-08 21:49:12] [AuroraCity.kkwmc.cn] [CHAT] 地下的方块就没了
+[2026-07-08 21:49:18] [AuroraCity.kkwmc.cn] [CHAT] 所以尽量去资源区
