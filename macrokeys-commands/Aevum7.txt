@@ -3563,3 +3563,7 @@
 [2026-07-08 23:18:32] [AuroraCity.kkwmc.cn] [JOIN] 连接服务器: AuroraCity.kkwmc.cn
 [2026-07-08 23:18:43] [AuroraCity.kkwmc.cn] [CMD] /l wokaoa
 [2026-07-08 23:19:40] [AuroraCity.kkwmc.cn] [CMD] /sf cheat
+[2026-07-08 23:19:43] [AuroraCity.kkwmc.cn] [CMD] /sf guide
+[2026-07-08 23:27:39] [AuroraCity.kkwmc.cn] [JOIN] 连接服务器: AuroraCity.kkwmc.cn
+[2026-07-08 23:27:52] [AuroraCity.kkwmc.cn] [CMD] /l wokaoa
+[2026-07-08 23:28:51] [AuroraCity.kkwmc.cn] [CHAT] 666
