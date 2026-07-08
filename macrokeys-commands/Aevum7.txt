@@ -3518,3 +3518,6 @@
 [2026-07-08 22:53:10] [AuroraCity.kkwmc.cn] [CHAT] 来pvp
 [2026-07-08 22:53:16] [AuroraCity.kkwmc.cn] [CHAT] 别用这b刀 LuckyMengYi
 [2026-07-08 22:54:06] [AuroraCity.kkwmc.cn] [CHAT] wc
+[2026-07-08 22:54:08] [AuroraCity.kkwmc.cn] [CHAT] 我暴击村民呢
+[2026-07-08 22:54:18] [AuroraCity.kkwmc.cn] [CHAT] 给你换个生命偷取
+[2026-07-08 22:54:33] [AuroraCity.kkwmc.cn] [CHAT] 非常适合没甲的你
