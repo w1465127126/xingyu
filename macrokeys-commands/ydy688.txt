@@ -2353,3 +2353,6 @@
 [2026-07-08 14:50:35] [AuroraCity.kkwmc.cn] [CHAT] ？
 [2026-07-08 14:50:45] [AuroraCity.kkwmc.cn] [CHAT] 66
 [2026-07-08 14:51:03] [AuroraCity.kkwmc.cn] [CHAT] 误触了
+[2026-07-08 14:51:34] [AuroraCity.kkwmc.cn] [CHAT] 机器人老是断
+[2026-07-08 14:51:40] [AuroraCity.kkwmc.cn] [CHAT] 不能直接输出煤炭吗
+[2026-07-08 14:52:07] [AuroraCity.kkwmc.cn] [CHAT] 四个
