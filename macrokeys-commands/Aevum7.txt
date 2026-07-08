@@ -3303,3 +3303,6 @@
 [2026-07-08 16:27:26] [AuroraCity.kkwmc.cn] [JOIN] 连接服务器: AuroraCity.kkwmc.cn
 [2026-07-08 16:27:31] [AuroraCity.kkwmc.cn] [CMD] /l wokaoa
 [2026-07-08 17:39:19] [AuroraCity.kkwmc.cn] [CHAT] 1
+[2026-07-08 17:39:49] [AuroraCity.kkwmc.cn] [CHAT] 不是觉错
+[2026-07-08 17:39:53] [AuroraCity.kkwmc.cn] [CHAT] 就是卡
+[2026-07-08 17:42:28] [AuroraCity.kkwmc.cn] [CHAT] 因为末地死亡掉经验
