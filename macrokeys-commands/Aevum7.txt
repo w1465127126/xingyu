@@ -3909,3 +3909,6 @@
 [2026-07-09 13:24:09] [AuroraCity.kkwmc.cn] [CHAT] 我能自动
 [2026-07-09 13:24:18] [AuroraCity.kkwmc.cn] [CMD] /warp 地狱世界
 [2026-07-09 13:24:24] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-09 13:24:55] [AuroraCity.kkwmc.cn] [CHAT] 是这样的
+[2026-07-09 13:26:24] [AuroraCity.kkwmc.cn] [CHAT] wc
+[2026-07-09 13:26:27] [AuroraCity.kkwmc.cn] [CHAT] 我家有锋利啊
