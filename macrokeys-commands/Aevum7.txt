@@ -3999,3 +3999,6 @@
 [2026-07-09 13:51:06] [AuroraCity.kkwmc.cn] [CHAT] 你还会死
 [2026-07-09 13:51:36] [AuroraCity.kkwmc.cn] [CHAT] 还好
 [2026-07-09 13:51:38] [AuroraCity.kkwmc.cn] [CHAT] haha
+[2026-07-09 13:51:39] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-09 13:51:47] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-09 13:51:54] [AuroraCity.kkwmc.cn] [CMD] /back
