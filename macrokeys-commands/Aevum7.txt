@@ -4248,3 +4248,6 @@
 [2026-07-10 00:41:23] [127.0.0.1:46668] [CHAT] 1
 [2026-07-10 00:41:33] [127.0.0.1:46668] [CMD] /shopkeeper remove
 [2026-07-10 00:42:15] [127.0.0.1:46668] [CMD] /mmoitems give ARMOR 哥布林头盔
+[2026-07-10 00:43:10] [127.0.0.1:46668] [CMD] /mmoitems give ARMOR 永青之森头盔
+[2026-07-10 00:43:29] [AuroraCity.kkwmc.cn] [JOIN] 连接服务器: AuroraCity.kkwmc.cn
+[2026-07-10 00:43:32] [AuroraCity.kkwmc.cn] [CMD] /l wokaoa
