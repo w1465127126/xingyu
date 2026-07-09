@@ -3186,3 +3186,12 @@
 [2026-07-09 21:59:35] [AuroraCity.kkwmc.cn] [CMD] /tpahere app
 [2026-07-09 22:00:37] [AuroraCity.kkwmc.cn] [CMD] /tpahere Jaek
 [2026-07-09 22:02:28] [AuroraCity.kkwmc.cn] [CMD] /tpa app
+[2026-07-09 22:05:42] [AuroraCity.kkwmc.cn] [CMD] /give ydy688 minecraft:jukebox
+[2026-07-09 22:05:43] [AuroraCity.kkwmc.cn] [CMD] /give ydy688 minecraft:jukebox
+[2026-07-09 22:05:43] [AuroraCity.kkwmc.cn] [CMD] /give ydy688 minecraft:jukebox
+[2026-07-09 22:05:43] [AuroraCity.kkwmc.cn] [CMD] /give ydy688 minecraft:jukebox
+[2026-07-09 22:05:43] [AuroraCity.kkwmc.cn] [CMD] /give ydy688 minecraft:jukebox
+[2026-07-09 22:05:45] [AuroraCity.kkwmc.cn] [CMD] /give ydy688 minecraft:jukebox
+[2026-07-09 22:05:45] [AuroraCity.kkwmc.cn] [CMD] /give ydy688 minecraft:jukebox 64
+[2026-07-09 22:05:46] [AuroraCity.kkwmc.cn] [CMD] /give ydy688 minecraft:jukebox
+[2026-07-09 22:05:49] [AuroraCity.kkwmc.cn] [CMD] /give ydy688 minecraft:jukebox
