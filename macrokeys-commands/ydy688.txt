@@ -2992,3 +2992,6 @@
 [2026-07-09 19:06:09] [AuroraCity.kkwmc.cn] [CHAT] all
 [2026-07-09 19:06:26] [AuroraCity.kkwmc.cn] [CHAT] 我能卖你生瓜蛋子？
 [2026-07-09 19:06:41] [AuroraCity.kkwmc.cn] [CMD] /home 3
+[2026-07-09 19:08:43] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-09 19:08:49] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-09 19:08:54] [AuroraCity.kkwmc.cn] [CMD] /back
