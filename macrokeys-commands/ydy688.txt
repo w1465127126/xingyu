@@ -3126,3 +3126,6 @@
 [2026-07-09 21:06:36] [AuroraCity.kkwmc.cn] [JOIN] 连接服务器: AuroraCity.kkwmc.cn
 [2026-07-09 21:06:46] [AuroraCity.kkwmc.cn] [CMD] /login xvvcxc
 [2026-07-09 21:07:27] [AuroraCity.kkwmc.cn] [CHAT] 我怎么听不清了
+[2026-07-09 21:07:36] [AuroraCity.kkwmc.cn] [CHAT] 开自动麦
+[2026-07-09 21:09:26] [AuroraCity.kkwmc.cn] [CHAT] 你好响啊
+[2026-07-09 21:09:38] [AuroraCity.kkwmc.cn] [CHAT] 你的声音就像装在箱子里一样
