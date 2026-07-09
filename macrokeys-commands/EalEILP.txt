@@ -1,0 +1,3 @@
+[2026-07-09 17:15:11] [AuroraCity.kkwmc.cn] [JOIN] 连接服务器: AuroraCity.kkwmc.cn
+[2026-07-09 17:15:17] [AuroraCity.kkwmc.cn] [CMD] /reg wokaoa wokaoa
+[2026-07-09 17:15:28] [AuroraCity.kkwmc.cn] [JOIN] 连接服务器: AuroraCity.kkwmc.cn
