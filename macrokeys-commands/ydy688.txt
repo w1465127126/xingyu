@@ -2694,3 +2694,6 @@
 [2026-07-09 11:12:55] [AuroraCity.kkwmc.cn] [CHAT] 举报了
 [2026-07-09 11:15:34] [AuroraCity.kkwmc.cn] [CMD] /spawn
 [2026-07-09 11:15:48] [AuroraCity.kkwmc.cn] [CMD] /hat
+[2026-07-09 11:15:54] [AuroraCity.kkwmc.cn] [CHAT] 有框你不打？
+[2026-07-09 11:16:06] [AuroraCity.kkwmc.cn] [CMD] /res tp zhucheng2
+[2026-07-09 11:16:19] [AuroraCity.kkwmc.cn] [CHAT] all
