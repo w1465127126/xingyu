@@ -2743,3 +2743,6 @@
 [2026-07-09 17:25:23] [AuroraCity.kkwmc.cn] [CMD] /hat
 [2026-07-09 17:25:31] [AuroraCity.kkwmc.cn] [CHAT] 怎么调伽马值
 [2026-07-09 17:27:31] [AuroraCity.kkwmc.cn] [CHAT] 这个东西无人需要
+[2026-07-09 17:29:11] [AuroraCity.kkwmc.cn] [CHAT] 两万
+[2026-07-09 17:29:39] [AuroraCity.kkwmc.cn] [CMD] /give ydy688 minecraft:podzol
+[2026-07-09 17:30:57] [AuroraCity.kkwmc.cn] [CHAT] Aevum7
