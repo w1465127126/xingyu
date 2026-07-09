@@ -3948,3 +3948,6 @@
 [2026-07-09 13:40:04] [AuroraCity.kkwmc.cn] [CMD] /back
 [2026-07-09 13:40:12] [AuroraCity.kkwmc.cn] [CHAT] __nba__ 兄弟
 [2026-07-09 13:40:17] [AuroraCity.kkwmc.cn] [CHAT] 那个凋零砸去啊
+[2026-07-09 13:40:18] [AuroraCity.kkwmc.cn] [CHAT] 咋去
+[2026-07-09 13:40:25] [AuroraCity.kkwmc.cn] [CMD] /res list LuckyMengYi
+[2026-07-09 13:40:28] [AuroraCity.kkwmc.cn] [CHAT] 我要去白嫖
