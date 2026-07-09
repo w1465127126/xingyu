@@ -3662,3 +3662,6 @@
 [2026-07-09 10:59:55] [AuroraCity.kkwmc.cn] [CHAT] 人呢
 [2026-07-09 11:00:03] [AuroraCity.kkwmc.cn] [CMD] /tpaccept
 [2026-07-09 11:00:13] [AuroraCity.kkwmc.cn] [CHAT] 66
+[2026-07-09 11:00:14] [AuroraCity.kkwmc.cn] [CHAT] c
+[2026-07-09 11:00:19] [AuroraCity.kkwmc.cn] [CHAT] coforer你刷了多久副本
+[2026-07-09 11:00:30] [AuroraCity.kkwmc.cn] [CHAT] 钱来
