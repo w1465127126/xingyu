@@ -4436,3 +4436,6 @@
 [2026-07-10 03:32:15] [AuroraCity.kkwmc.cn] [CMD] /fly
 [2026-07-10 03:32:39] [AuroraCity.kkwmc.cn] [CHAT] 我咋不卡
 [2026-07-10 03:33:00] [AuroraCity.kkwmc.cn] [CMD] /mtps
+[2026-07-10 03:33:08] [AuroraCity.kkwmc.cn] [CMD] /tps
+[2026-07-10 03:33:17] [AuroraCity.kkwmc.cn] [CHAT] 老铁在干啥呢
+[2026-07-10 03:33:20] [AuroraCity.kkwmc.cn] [CMD] /tpa LuckyMengYi
