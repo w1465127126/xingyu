@@ -4014,3 +4014,6 @@
 [2026-07-09 13:53:27] [AuroraCity.kkwmc.cn] [CMD] /back
 [2026-07-09 13:54:07] [AuroraCity.kkwmc.cn] [CMD] /back
 [2026-07-09 13:54:57] [AuroraCity.kkwmc.cn] [CHAT] 这啥附魔
+[2026-07-09 13:55:20] [AuroraCity.kkwmc.cn] [CHAT] 还一直能位移
+[2026-07-09 13:58:54] [AuroraCity.kkwmc.cn] [CHAT] 新能源烟花啊= =
+[2026-07-09 14:00:08] [AuroraCity.kkwmc.cn] [CHAT] wc
