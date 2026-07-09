@@ -3843,3 +3843,6 @@
 [2026-07-09 13:06:31] [AuroraCity.kkwmc.cn] [CHAT] 加附魔吗
 [2026-07-09 13:06:33] [AuroraCity.kkwmc.cn] [CHAT] coforer
 [2026-07-09 13:07:07] [AuroraCity.kkwmc.cn] [CHAT] 啥
+[2026-07-09 13:07:18] [AuroraCity.kkwmc.cn] [CHAT] 没燃料了
+[2026-07-09 13:07:47] [AuroraCity.kkwmc.cn] [CHAT] 我不在线就会停机
+[2026-07-09 13:07:48] [AuroraCity.kkwmc.cn] [CHAT] 很傻逼= =
