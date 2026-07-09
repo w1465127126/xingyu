@@ -4099,3 +4099,6 @@
 [2026-07-09 18:00:23] [AuroraCity.kkwmc.cn] [CMD] /plugins
 [2026-07-09 18:05:48] [AuroraCity.kkwmc.cn] [CMD] /cmi
 [2026-07-09 18:06:05] [AuroraCity.kkwmc.cn] [CMD] /cmi kit
+[2026-07-09 18:06:14] [AuroraCity.kkwmc.cn] [CMD] /cmi kit list
+[2026-07-09 18:06:25] [AuroraCity.kkwmc.cn] [CMD] /cmi heal
+[2026-07-09 18:06:37] [AuroraCity.kkwmc.cn] [CMD] /cmi sethome
