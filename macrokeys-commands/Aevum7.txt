@@ -3617,3 +3617,6 @@
 [2026-07-09 10:51:21] [AuroraCity.kkwmc.cn] [CHAT] 我将启动我几天没用的稿子
 [2026-07-09 10:51:23] [AuroraCity.kkwmc.cn] [CMD] /tpa 114514
 [2026-07-09 10:51:38] [AuroraCity.kkwmc.cn] [CHAT] 孩子要什么矿
+[2026-07-09 10:51:49] [AuroraCity.kkwmc.cn] [CHAT] 你在生存区挖矿啊
+[2026-07-09 10:52:00] [AuroraCity.kkwmc.cn] [CHAT] 快去资源
+[2026-07-09 10:52:16] [AuroraCity.kkwmc.cn] [CHAT] 听说你怕下矿
