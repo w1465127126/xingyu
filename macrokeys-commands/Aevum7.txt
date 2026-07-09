@@ -3939,3 +3939,6 @@
 [2026-07-09 13:38:32] [AuroraCity.kkwmc.cn] [CHAT] 这随机的歌可以的
 [2026-07-09 13:38:37] [AuroraCity.kkwmc.cn] [CHAT] 我说咋这么耳熟
 [2026-07-09 13:38:40] [AuroraCity.kkwmc.cn] [CHAT] 归期
+[2026-07-09 13:38:54] [AuroraCity.kkwmc.cn] [CHAT] 是的
+[2026-07-09 13:38:58] [AuroraCity.kkwmc.cn] [CMD] /res tp dl1
+[2026-07-09 13:38:59] [AuroraCity.kkwmc.cn] [CMD] /res tp dl2
