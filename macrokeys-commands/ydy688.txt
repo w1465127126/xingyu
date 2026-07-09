@@ -2700,3 +2700,6 @@
 [2026-07-09 11:16:40] [AuroraCity.kkwmc.cn] [CHAT] Aevum7
 [2026-07-09 11:16:48] [AuroraCity.kkwmc.cn] [CHAT] [i]
 [2026-07-09 11:16:50] [AuroraCity.kkwmc.cn] [CHAT] 这是什么
+[2026-07-09 16:56:18] [AuroraCity.kkwmc.cn] [JOIN] 连接服务器: AuroraCity.kkwmc.cn
+[2026-07-09 16:56:23] [AuroraCity.kkwmc.cn] [CMD] /login xvvcxc
+[2026-07-09 16:57:14] [AuroraCity.kkwmc.cn] [CMD] /home 3
