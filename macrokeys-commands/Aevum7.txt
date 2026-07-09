@@ -3954,3 +3954,6 @@
 [2026-07-09 13:40:31] [AuroraCity.kkwmc.cn] [CMD] /res tp dlkl
 [2026-07-09 13:40:41] [AuroraCity.kkwmc.cn] [CMD] /res tp sd1
 [2026-07-09 13:40:45] [AuroraCity.kkwmc.cn] [CMD] /res tp sd1
+[2026-07-09 13:40:47] [AuroraCity.kkwmc.cn] [CMD] /res tp sdl
+[2026-07-09 13:41:21] [AuroraCity.kkwmc.cn] [CHAT] 啥
+[2026-07-09 13:41:30] [AuroraCity.kkwmc.cn] [CMD] /tpahere Fantasyland
