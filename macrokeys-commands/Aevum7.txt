@@ -4033,3 +4033,6 @@
 [2026-07-09 16:44:48] [AuroraCity.kkwmc.cn] [CMD] /fly
 [2026-07-09 16:46:11] [AuroraCity.kkwmc.cn] [CHAT] 1
 [2026-07-09 16:46:14] [AuroraCity.kkwmc.cn] [CMD] /qs
+[2026-07-09 16:46:17] [AuroraCity.kkwmc.cn] [CMD] /qs buy
+[2026-07-09 16:47:40] [AuroraCity.kkwmc.cn] [CMD] /qs buy
+[2026-07-09 16:47:43] [AuroraCity.kkwmc.cn] [CMD] /qs
