@@ -3608,3 +3608,6 @@
 [2026-07-09 00:13:21] [AuroraCity.kkwmc.cn] [CHAT] 我人呢
 [2026-07-09 00:13:23] [AuroraCity.kkwmc.cn] [CMD] /res tp d
 [2026-07-09 00:15:37] [AuroraCity.kkwmc.cn] [CHAT] 延迟爆炸
+[2026-07-09 10:47:01] [AuroraCity.kkwmc.cn] [JOIN] 连接服务器: AuroraCity.kkwmc.cn
+[2026-07-09 10:47:09] [AuroraCity.kkwmc.cn] [CMD] /l wokaoa
+[2026-07-09 10:47:11] [AuroraCity.kkwmc.cn] [CMD] /fly
