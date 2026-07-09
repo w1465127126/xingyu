@@ -2678,3 +2678,7 @@
 [2026-07-09 10:06:27] [AuroraCity.kkwmc.cn] [CHAT] 有用没
 [2026-07-09 10:06:32] [AuroraCity.kkwmc.cn] [CHAT] 加不加血
 [2026-07-09 10:06:44] [AuroraCity.kkwmc.cn] [CHAT] 行了
+[2026-07-09 10:06:57] [AuroraCity.kkwmc.cn] [CHAT] 就是出场即爆的耐久
+[2026-07-09 11:04:26] [AuroraCity.kkwmc.cn] [JOIN] 连接服务器: AuroraCity.kkwmc.cn
+[2026-07-09 11:04:31] [AuroraCity.kkwmc.cn] [CMD] /login xvvcxc
+[2026-07-09 11:04:45] [AuroraCity.kkwmc.cn] [CMD] /hat
