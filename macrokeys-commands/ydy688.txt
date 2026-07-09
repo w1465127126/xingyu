@@ -3300,3 +3300,6 @@
 [2026-07-10 00:49:39] [AuroraCity.kkwmc.cn] [CMD] /home 3
 [2026-07-10 00:49:48] [AuroraCity.kkwmc.cn] [CMD] /tpahere j
 [2026-07-10 00:50:01] [AuroraCity.kkwmc.cn] [CHAT] Jaek
+[2026-07-10 00:54:44] [AuroraCity.kkwmc.cn] [CMD] /res tp zhucheng2
+[2026-07-10 00:55:12] [AuroraCity.kkwmc.cn] [CHAT] all
+[2026-07-10 00:55:22] [AuroraCity.kkwmc.cn] [CHAT] all
