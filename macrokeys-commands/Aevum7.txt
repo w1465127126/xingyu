@@ -4096,3 +4096,6 @@
 [2026-07-09 17:59:41] [AuroraCity.kkwmc.cn] [JOIN] 连接服务器: AuroraCity.kkwmc.cn
 [2026-07-09 17:59:53] [AuroraCity.kkwmc.cn] [CMD] /l wokaoa
 [2026-07-09 18:00:00] [AuroraCity.kkwmc.cn] [CHAT] 是我卡么
+[2026-07-09 18:00:23] [AuroraCity.kkwmc.cn] [CMD] /plugins
+[2026-07-09 18:05:48] [AuroraCity.kkwmc.cn] [CMD] /cmi
+[2026-07-09 18:06:05] [AuroraCity.kkwmc.cn] [CMD] /cmi kit
