@@ -3219,3 +3219,6 @@
 [2026-07-09 23:08:25] [AuroraCity.kkwmc.cn] [CMD] /home 3
 [2026-07-09 23:08:32] [AuroraCity.kkwmc.cn] [CMD] /back
 [2026-07-09 23:09:46] [AuroraCity.kkwmc.cn] [CHAT] 1000000
+[2026-07-09 23:10:16] [AuroraCity.kkwmc.cn] [CHAT] 10000000
+[2026-07-09 23:15:10] [AuroraCity.kkwmc.cn] [CHAT] ./pvpt
+[2026-07-09 23:18:13] [AuroraCity.kkwmc.cn] [CMD] /home 3
