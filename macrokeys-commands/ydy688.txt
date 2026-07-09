@@ -2688,3 +2688,6 @@
 [2026-07-09 11:06:20] [AuroraCity.kkwmc.cn] [CHAT] 爆炸镐只能加一格的经验
 [2026-07-09 11:07:06] [AuroraCity.kkwmc.cn] [CMD] /hat
 [2026-07-09 11:07:21] [AuroraCity.kkwmc.cn] [CMD] /hat
+[2026-07-09 11:10:21] [AuroraCity.kkwmc.cn] [CHAT] 新人就是新人
+[2026-07-09 11:10:28] [AuroraCity.kkwmc.cn] [CHAT] 不萌就不要叫萌新了
+[2026-07-09 11:11:21] [AuroraCity.kkwmc.cn] [CHAT] 其实我开了
