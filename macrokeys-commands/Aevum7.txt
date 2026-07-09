@@ -3870,3 +3870,6 @@
 [2026-07-09 13:12:29] [AuroraCity.kkwmc.cn] [CHAT] 666
 [2026-07-09 13:12:33] [AuroraCity.kkwmc.cn] [CHAT] 我第一次看见有人被这个打死
 [2026-07-09 13:12:46] [AuroraCity.kkwmc.cn] [CHAT] 哎没吞
+[2026-07-09 13:12:53] [AuroraCity.kkwmc.cn] [CHAT] 那我再加2个
+[2026-07-09 13:12:55] [AuroraCity.kkwmc.cn] [CMD] /res tp s
+[2026-07-09 13:13:20] [AuroraCity.kkwmc.cn] [CHAT] 我日43的锋利5
