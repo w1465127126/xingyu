@@ -3204,3 +3204,9 @@
 [2026-07-09 22:13:38] [AuroraCity.kkwmc.cn] [CMD] /hat
 [2026-07-09 22:16:31] [AuroraCity.kkwmc.cn] [CMD] /back
 [2026-07-09 22:20:10] [AuroraCity.kkwmc.cn] [CMD] /hat
+[2026-07-09 22:20:12] [AuroraCity.kkwmc.cn] [CMD] /hat
+[2026-07-09 22:20:14] [AuroraCity.kkwmc.cn] [CMD] /hat
+[2026-07-09 22:20:15] [AuroraCity.kkwmc.cn] [CMD] /hat
+[2026-07-09 22:29:27] [AuroraCity.kkwmc.cn] [CMD] /hat
+[2026-07-09 22:30:58] [AuroraCity.kkwmc.cn] [CHAT] .、hat
+[2026-07-09 22:31:03] [AuroraCity.kkwmc.cn] [CHAT] ./hat
