@@ -3174,3 +3174,6 @@
 [2026-07-09 21:49:12] [AuroraCity.kkwmc.cn] [CMD] /tpahere Jaek
 [2026-07-09 21:50:21] [AuroraCity.kkwmc.cn] [CHAT] Jaek
 [2026-07-09 21:50:29] [AuroraCity.kkwmc.cn] [CMD] /tpahere j
+[2026-07-09 21:50:32] [AuroraCity.kkwmc.cn] [CMD] /tpahere app
+[2026-07-09 21:50:35] [AuroraCity.kkwmc.cn] [CMD] /tpahere Jaek
+[2026-07-09 21:51:01] [AuroraCity.kkwmc.cn] [CHAT] shabei
