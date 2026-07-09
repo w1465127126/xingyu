@@ -3797,3 +3797,6 @@
 [2026-07-09 11:30:54] [AuroraCity.kkwmc.cn] [CHAT] 啥
 [2026-07-09 11:32:25] [AuroraCity.kkwmc.cn] [CHAT] 阴暗的老鼠
 [2026-07-09 11:38:41] [AuroraCity.kkwmc.cn] [CMD] /tpaccept
+[2026-07-09 11:38:58] [AuroraCity.kkwmc.cn] [CHAT] 我电脑卡爆了
+[2026-07-09 11:39:14] [AuroraCity.kkwmc.cn] [CHAT] 我再跑comfyi
+[2026-07-09 11:39:42] [AuroraCity.kkwmc.cn] [CHAT] ？
