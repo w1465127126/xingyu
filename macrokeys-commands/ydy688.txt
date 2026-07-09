@@ -3129,3 +3129,6 @@
 [2026-07-09 21:07:36] [AuroraCity.kkwmc.cn] [CHAT] 开自动麦
 [2026-07-09 21:09:26] [AuroraCity.kkwmc.cn] [CHAT] 你好响啊
 [2026-07-09 21:09:38] [AuroraCity.kkwmc.cn] [CHAT] 你的声音就像装在箱子里一样
+[2026-07-09 21:09:52] [AuroraCity.kkwmc.cn] [CHAT] 麦有问题
+[2026-07-09 21:09:56] [AuroraCity.kkwmc.cn] [CHAT] 你用的什么麦
+[2026-07-09 21:10:05] [AuroraCity.kkwmc.cn] [CHAT] 有线耳机就行了
