@@ -3222,3 +3222,6 @@
 [2026-07-09 23:10:16] [AuroraCity.kkwmc.cn] [CHAT] 10000000
 [2026-07-09 23:15:10] [AuroraCity.kkwmc.cn] [CHAT] ./pvpt
 [2026-07-09 23:18:13] [AuroraCity.kkwmc.cn] [CMD] /home 3
+[2026-07-09 23:18:34] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-09 23:19:11] [AuroraCity.kkwmc.cn] [CMD] /tpa Jaek
+[2026-07-09 23:23:05] [AuroraCity.kkwmc.cn] [CMD] /tpahere Jaek
