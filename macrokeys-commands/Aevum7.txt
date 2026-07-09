@@ -3728,3 +3728,6 @@
 [2026-07-09 11:18:49] [AuroraCity.kkwmc.cn] [CHAT] 打龙要这玩意有啥用
 [2026-07-09 11:19:15] [AuroraCity.kkwmc.cn] [CMD] /res tp dl1
 [2026-07-09 11:19:19] [AuroraCity.kkwmc.cn] [CMD] /res tp dl1
+[2026-07-09 11:19:22] [AuroraCity.kkwmc.cn] [CMD] /res list LuckyMengYi
+[2026-07-09 11:19:27] [AuroraCity.kkwmc.cn] [CMD] /res tp dkl
+[2026-07-09 11:19:36] [AuroraCity.kkwmc.cn] [CHAT] 你就是喵喵怪是吧
