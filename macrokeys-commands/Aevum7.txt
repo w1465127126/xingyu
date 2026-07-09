@@ -4430,3 +4430,6 @@
 [2026-07-10 03:31:31] [127.0.0.1:25565] [CMD] /spawn
 [2026-07-10 03:31:54] [AuroraCity.kkwmc.cn] [JOIN] 连接服务器: AuroraCity.kkwmc.cn
 [2026-07-10 03:31:57] [AuroraCity.kkwmc.cn] [CMD] /l wokaoao
+[2026-07-10 03:32:00] [AuroraCity.kkwmc.cn] [JOIN] 连接服务器: AuroraCity.kkwmc.cn
+[2026-07-10 03:32:02] [AuroraCity.kkwmc.cn] [CMD] /l wokaoa
+[2026-07-10 03:32:07] [AuroraCity.kkwmc.cn] [CHAT] LuckyMengYi
