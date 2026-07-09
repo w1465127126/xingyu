@@ -3135,3 +3135,6 @@
 [2026-07-09 21:10:45] [AuroraCity.kkwmc.cn] [CHAT] 水鬼
 [2026-07-09 21:10:57] [AuroraCity.kkwmc.cn] [CHAT] 你们打电话的时候呢
 [2026-07-09 21:11:27] [AuroraCity.kkwmc.cn] [CHAT] 房主有神器
+[2026-07-09 21:12:40] [AuroraCity.kkwmc.cn] [CMD] /hat
+[2026-07-09 21:14:18] [AuroraCity.kkwmc.cn] [CMD] /hat
+[2026-07-09 21:14:24] [AuroraCity.kkwmc.cn] [CMD] /hat
