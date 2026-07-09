@@ -361,3 +361,6 @@
 [2026-07-06 09:16:39] [x6.sjcmc.cn:34054] [CMD] /back
 [2026-07-09 14:04:17] [AuroraCity.kkwmc.cn] [JOIN] 连接服务器: AuroraCity.kkwmc.cn
 [2026-07-09 14:04:20] [AuroraCity.kkwmc.cn] [CMD] /l 123
+[2026-07-09 14:04:22] [AuroraCity.kkwmc.cn] [JOIN] 连接服务器: AuroraCity.kkwmc.cn
+[2026-07-09 14:04:25] [AuroraCity.kkwmc.cn] [CMD] /l chen123
+[2026-07-09 14:04:28] [AuroraCity.kkwmc.cn] [CHAT] 夺舍
