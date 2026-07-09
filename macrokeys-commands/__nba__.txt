@@ -373,3 +373,6 @@
 [2026-07-09 14:07:34] [AuroraCity.kkwmc.cn] [CMD] /back
 [2026-07-09 14:08:19] [AuroraCity.kkwmc.cn] [CMD] /back
 [2026-07-09 14:09:11] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-09 14:09:29] [AuroraCity.kkwmc.cn] [CMD] /fly
+[2026-07-09 14:09:30] [AuroraCity.kkwmc.cn] [CMD] /fly
+[2026-07-09 14:10:10] [AuroraCity.kkwmc.cn] [CHAT] 脚本
