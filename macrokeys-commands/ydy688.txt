@@ -2746,3 +2746,6 @@
 [2026-07-09 17:29:11] [AuroraCity.kkwmc.cn] [CHAT] 两万
 [2026-07-09 17:29:39] [AuroraCity.kkwmc.cn] [CMD] /give ydy688 minecraft:podzol
 [2026-07-09 17:30:57] [AuroraCity.kkwmc.cn] [CHAT] Aevum7
+[2026-07-09 17:31:05] [AuroraCity.kkwmc.cn] [CHAT] 你的mod现在能最小化了吗
+[2026-07-09 17:31:32] [AuroraCity.kkwmc.cn] [CHAT] 弹出esc界面也可以？
+[2026-07-09 17:31:45] [AuroraCity.kkwmc.cn] [CMD] /warp 宝石守护石像
