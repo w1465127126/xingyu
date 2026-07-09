@@ -3075,3 +3075,6 @@
 [2026-07-09 20:43:45] [AuroraCity.kkwmc.cn] [CHAT] 你去快捷键设置
 [2026-07-09 20:43:55] [AuroraCity.kkwmc.cn] [CHAT] 控制-按键绑定
 [2026-07-09 20:44:11] [AuroraCity.kkwmc.cn] [CHAT] 也可能你没加前置
+[2026-07-09 20:44:15] [AuroraCity.kkwmc.cn] [CHAT] 或者版本不对
+[2026-07-09 20:44:26] [AuroraCity.kkwmc.cn] [CHAT] 又或者加载器不对
+[2026-07-09 20:44:32] [AuroraCity.kkwmc.cn] [CHAT] 各种各样的可能
