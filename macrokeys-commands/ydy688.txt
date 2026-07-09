@@ -3105,3 +3105,6 @@
 [2026-07-09 20:55:34] [AuroraCity.kkwmc.cn] [CMD] /hat
 [2026-07-09 20:55:55] [AuroraCity.kkwmc.cn] [CMD] /hat
 [2026-07-09 20:55:56] [AuroraCity.kkwmc.cn] [CMD] /hat
+[2026-07-09 20:56:18] [AuroraCity.kkwmc.cn] [CHAT] 你可以按v去调输出输入设备
+[2026-07-09 20:56:34] [AuroraCity.kkwmc.cn] [CHAT] 现在太卡了你们说话也听不明白
+[2026-07-09 20:58:06] [AuroraCity.kkwmc.cn] [CMD] /hat
