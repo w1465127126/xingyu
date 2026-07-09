@@ -3081,3 +3081,6 @@
 [2026-07-09 20:45:31] [AuroraCity.kkwmc.cn] [CHAT] 我喊服主重启
 [2026-07-09 20:46:09] [AuroraCity.kkwmc.cn] [CMD] /warp 鹅斯拉
 [2026-07-09 20:47:43] [AuroraCity.kkwmc.cn] [CHAT] 你们卡不卡
+[2026-07-09 20:48:07] [AuroraCity.kkwmc.cn] [CHAT] 这边已经卡炸了
+[2026-07-09 20:48:24] [AuroraCity.kkwmc.cn] [CHAT] 神了
+[2026-07-09 20:48:26] [AuroraCity.kkwmc.cn] [CMD] /back
