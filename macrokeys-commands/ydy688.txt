@@ -3102,3 +3102,6 @@
 [2026-07-09 20:54:11] [AuroraCity.kkwmc.cn] [CHAT] 而且还是3d音效
 [2026-07-09 20:54:23] [AuroraCity.kkwmc.cn] [CHAT] 可以建个群组就没有距离限制了
 [2026-07-09 20:55:05] [AuroraCity.kkwmc.cn] [CMD] /hat
+[2026-07-09 20:55:34] [AuroraCity.kkwmc.cn] [CMD] /hat
+[2026-07-09 20:55:55] [AuroraCity.kkwmc.cn] [CMD] /hat
+[2026-07-09 20:55:56] [AuroraCity.kkwmc.cn] [CMD] /hat
