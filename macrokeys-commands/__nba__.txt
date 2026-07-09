@@ -412,3 +412,6 @@
 [2026-07-09 14:27:38] [AuroraCity.kkwmc.cn] [CMD] /res tp d
 [2026-07-09 14:45:03] [AuroraCity.kkwmc.cn] [CMD] /hat
 [2026-07-09 14:46:05] [AuroraCity.kkwmc.cn] [CMD] /warp 鹅斯拉
+[2026-07-09 14:46:10] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-09 14:48:17] [AuroraCity.kkwmc.cn] [CHAT] haha
+[2026-07-09 14:54:59] [AuroraCity.kkwmc.cn] [CMD] /hat
