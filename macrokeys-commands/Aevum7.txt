@@ -3656,3 +3656,6 @@
 [2026-07-09 10:59:00] [AuroraCity.kkwmc.cn] [CHAT] 咋害剩几个
 [2026-07-09 10:59:18] [AuroraCity.kkwmc.cn] [CHAT] ?
 [2026-07-09 10:59:26] [AuroraCity.kkwmc.cn] [CHAT] tp还要钱？
+[2026-07-09 10:59:29] [AuroraCity.kkwmc.cn] [CHAT] 所以建议back
+[2026-07-09 10:59:30] [AuroraCity.kkwmc.cn] [CMD] /tpaccept
+[2026-07-09 10:59:33] [AuroraCity.kkwmc.cn] [CHAT] 死了就back
