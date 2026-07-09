@@ -3830,3 +3830,6 @@
 [2026-07-09 11:51:45] [AuroraCity.kkwmc.cn] [CMD] /tpa LuckyMengYi
 [2026-07-09 11:51:58] [AuroraCity.kkwmc.cn] [CHAT] = =
 [2026-07-09 11:52:04] [AuroraCity.kkwmc.cn] [CHAT] 你拆了不就完了
+[2026-07-09 11:52:15] [AuroraCity.kkwmc.cn] [CHAT] = =
+[2026-07-09 11:52:26] [AuroraCity.kkwmc.cn] [CHAT] 你灵魂沙肯定卡啊
+[2026-07-09 11:52:28] [AuroraCity.kkwmc.cn] [CMD] /back
