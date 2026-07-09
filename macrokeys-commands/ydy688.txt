@@ -3255,3 +3255,12 @@
 [2026-07-10 00:07:36] [AuroraCity.kkwmc.cn] [CMD] /hat
 [2026-07-10 00:08:03] [AuroraCity.kkwmc.cn] [CHAT] [i]
 [2026-07-10 00:08:06] [AuroraCity.kkwmc.cn] [CMD] /at
+[2026-07-10 00:08:08] [AuroraCity.kkwmc.cn] [CMD] /hat
+[2026-07-10 00:08:10] [AuroraCity.kkwmc.cn] [CMD] /hat
+[2026-07-10 00:08:10] [AuroraCity.kkwmc.cn] [CMD] /hat
+[2026-07-10 00:08:10] [AuroraCity.kkwmc.cn] [CMD] /hat
+[2026-07-10 00:08:11] [AuroraCity.kkwmc.cn] [CMD] /hat
+[2026-07-10 00:08:11] [AuroraCity.kkwmc.cn] [CMD] /hat
+[2026-07-10 00:08:12] [AuroraCity.kkwmc.cn] [CMD] /hat
+[2026-07-10 00:14:30] [AuroraCity.kkwmc.cn] [CMD] /home 3
+[2026-07-10 00:14:35] [AuroraCity.kkwmc.cn] [CMD] /tpa Jaek
