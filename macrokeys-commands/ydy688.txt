@@ -3099,3 +3099,6 @@
 [2026-07-09 20:53:55] [AuroraCity.kkwmc.cn] [CMD] /tpa app
 [2026-07-09 20:54:01] [AuroraCity.kkwmc.cn] [CHAT] 这个是有距离限制的
 [2026-07-09 20:54:06] [AuroraCity.kkwmc.cn] [CHAT] 这个语音
+[2026-07-09 20:54:11] [AuroraCity.kkwmc.cn] [CHAT] 而且还是3d音效
+[2026-07-09 20:54:23] [AuroraCity.kkwmc.cn] [CHAT] 可以建个群组就没有距离限制了
+[2026-07-09 20:55:05] [AuroraCity.kkwmc.cn] [CMD] /hat
