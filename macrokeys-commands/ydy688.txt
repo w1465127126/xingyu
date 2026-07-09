@@ -2718,3 +2718,6 @@
 [2026-07-09 17:03:45] [AuroraCity.kkwmc.cn] [CHAT] 很诡异知道吗
 [2026-07-09 17:03:56] [AuroraCity.kkwmc.cn] [CHAT] 我给你录屏
 [2026-07-09 17:04:57] [AuroraCity.kkwmc.cn] [CHAT] 你打我试试
+[2026-07-09 17:05:07] [AuroraCity.kkwmc.cn] [CHAT] 为什么我打你没什么击退
+[2026-07-09 17:05:10] [AuroraCity.kkwmc.cn] [CHAT] 你打我却有
+[2026-07-09 17:06:19] [AuroraCity.kkwmc.cn] [CHAT] 打你你根本不击退的
