@@ -3987,3 +3987,6 @@
 [2026-07-09 13:49:57] [AuroraCity.kkwmc.cn] [CMD] /back
 [2026-07-09 13:50:00] [AuroraCity.kkwmc.cn] [CHAT] 你多久没上线了
 [2026-07-09 13:50:08] [AuroraCity.kkwmc.cn] [CHAT] 时代变了
+[2026-07-09 13:50:12] [AuroraCity.kkwmc.cn] [CHAT] 都是无限耐久
+[2026-07-09 13:50:20] [AuroraCity.kkwmc.cn] [CHAT] 你还在就旧时代= =
+[2026-07-09 13:50:27] [AuroraCity.kkwmc.cn] [CHAT] 都是兄弟
