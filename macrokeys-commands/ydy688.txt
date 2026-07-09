@@ -3123,3 +3123,6 @@
 [2026-07-09 21:03:22] [AuroraCity.kkwmc.cn] [CHAT] 你按v，在设置里，把通话的那个拉倒300%
 [2026-07-09 21:03:55] [AuroraCity.kkwmc.cn] [CHAT] 重启了
 [2026-07-09 21:03:59] [AuroraCity.kkwmc.cn] [CHAT] 等掉
+[2026-07-09 21:06:36] [AuroraCity.kkwmc.cn] [JOIN] 连接服务器: AuroraCity.kkwmc.cn
+[2026-07-09 21:06:46] [AuroraCity.kkwmc.cn] [CMD] /login xvvcxc
+[2026-07-09 21:07:27] [AuroraCity.kkwmc.cn] [CHAT] 我怎么听不清了
