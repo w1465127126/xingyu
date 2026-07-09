@@ -2818,3 +2818,6 @@
 [2026-07-09 18:35:13] [AuroraCity.kkwmc.cn] [CMD] /back
 [2026-07-09 18:35:47] [AuroraCity.kkwmc.cn] [CMD] /红噩梦 2
 [2026-07-09 18:35:49] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-09 18:36:05] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-09 18:36:25] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-09 18:36:51] [AuroraCity.kkwmc.cn] [CMD] /hoem 2
