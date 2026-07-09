@@ -2980,3 +2980,12 @@
 [2026-07-09 19:04:55] [AuroraCity.kkwmc.cn] [CMD] /at
 [2026-07-09 19:05:19] [AuroraCity.kkwmc.cn] [CMD] /hat
 [2026-07-09 19:05:20] [AuroraCity.kkwmc.cn] [CMD] /hat
+[2026-07-09 19:05:20] [AuroraCity.kkwmc.cn] [CMD] /hat
+[2026-07-09 19:05:21] [AuroraCity.kkwmc.cn] [CMD] /hat
+[2026-07-09 19:05:22] [AuroraCity.kkwmc.cn] [CMD] /hat
+[2026-07-09 19:05:22] [AuroraCity.kkwmc.cn] [CMD] /hat
+[2026-07-09 19:05:23] [AuroraCity.kkwmc.cn] [CMD] /hat
+[2026-07-09 19:05:24] [AuroraCity.kkwmc.cn] [CMD] /hat
+[2026-07-09 19:05:24] [AuroraCity.kkwmc.cn] [CMD] /hat
+[2026-07-09 19:05:25] [AuroraCity.kkwmc.cn] [CMD] /hat
+[2026-07-09 19:05:58] [AuroraCity.kkwmc.cn] [CMD] /res tp zhucheng2
