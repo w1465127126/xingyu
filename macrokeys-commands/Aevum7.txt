@@ -3849,3 +3849,6 @@
 [2026-07-09 13:08:13] [AuroraCity.kkwmc.cn] [CMD] /tpaccept
 [2026-07-09 13:08:37] [AuroraCity.kkwmc.cn] [CHAT] 自带附魔书啊
 [2026-07-09 13:08:39] [AuroraCity.kkwmc.cn] [CHAT] 500
+[2026-07-09 13:08:47] [AuroraCity.kkwmc.cn] [CHAT] 手续很复杂的= =
+[2026-07-09 13:08:55] [AuroraCity.kkwmc.cn] [CHAT] 我再送你个
+[2026-07-09 13:09:28] [AuroraCity.kkwmc.cn] [CHAT] 咋了
