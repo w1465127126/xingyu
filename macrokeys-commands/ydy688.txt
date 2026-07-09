@@ -3010,3 +3010,6 @@
 [2026-07-09 19:12:07] [AuroraCity.kkwmc.cn] [CMD] /back
 [2026-07-09 19:12:25] [AuroraCity.kkwmc.cn] [CMD] /home 3
 [2026-07-09 19:12:28] [AuroraCity.kkwmc.cn] [CMD] /home 3
+[2026-07-09 19:16:04] [AuroraCity.kkwmc.cn] [CHAT] 就是卡
+[2026-07-09 19:16:33] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-09 19:16:47] [AuroraCity.kkwmc.cn] [CHAT] all
