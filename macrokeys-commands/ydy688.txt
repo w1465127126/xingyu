@@ -3156,3 +3156,6 @@
 [2026-07-09 21:23:54] [AuroraCity.kkwmc.cn] [CMD] /back
 [2026-07-09 21:23:59] [AuroraCity.kkwmc.cn] [CMD] /tpa app
 [2026-07-09 21:24:59] [AuroraCity.kkwmc.cn] [CHAT] app
+[2026-07-09 21:25:08] [AuroraCity.kkwmc.cn] [CHAT] 你把背包清空下
+[2026-07-09 21:25:28] [AuroraCity.kkwmc.cn] [CHAT] 你怎么死了呀
+[2026-07-09 21:25:46] [AuroraCity.kkwmc.cn] [CHAT] 怎么又死了
