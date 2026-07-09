@@ -2827,3 +2827,6 @@
 [2026-07-09 18:38:39] [AuroraCity.kkwmc.cn] [CMD] /home 2
 [2026-07-09 18:39:09] [AuroraCity.kkwmc.cn] [CMD] /home 3
 [2026-07-09 18:39:57] [AuroraCity.kkwmc.cn] [CHAT] 本服务器将于今日晚上八点停服
+[2026-07-09 18:40:03] [AuroraCity.kkwmc.cn] [CHAT] 谢谢大家的游玩
+[2026-07-09 18:45:27] [AuroraCity.kkwmc.cn] [CMD] /res tp zhucheng2
+[2026-07-09 18:45:41] [AuroraCity.kkwmc.cn] [CHAT] all
