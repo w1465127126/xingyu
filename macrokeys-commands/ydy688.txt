@@ -3033,3 +3033,6 @@
 [2026-07-09 20:30:13] [AuroraCity.kkwmc.cn] [CMD] /hat
 [2026-07-09 20:31:22] [AuroraCity.kkwmc.cn] [CHAT] 我以前玩迷你世界也有地下室
 [2026-07-09 20:32:07] [AuroraCity.kkwmc.cn] [CHAT] 那种斜的矿洞，左边一个房间右边一个，往下还有几个
+[2026-07-09 20:32:20] [AuroraCity.kkwmc.cn] [CHAT] 纯矿洞风格
+[2026-07-09 20:32:25] [AuroraCity.kkwmc.cn] [CHAT] 1
+[2026-07-09 20:32:42] [AuroraCity.kkwmc.cn] [CHAT] 我直接用俩熔炉当门
