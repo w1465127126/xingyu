@@ -4081,3 +4081,6 @@
 [2026-07-09 17:31:19] [AuroraCity.kkwmc.cn] [CHAT] 一直都能
 [2026-07-09 17:31:37] [AuroraCity.kkwmc.cn] [CHAT] 是的
 [2026-07-09 17:34:39] [AuroraCity.kkwmc.cn] [CMD] /sf backpack
+[2026-07-09 17:35:11] [AuroraCity.kkwmc.cn] [JOIN] 连接服务器: AuroraCity.kkwmc.cn
+[2026-07-09 17:35:13] [AuroraCity.kkwmc.cn] [CMD] /l wokaoa
+[2026-07-09 17:35:33] [AuroraCity.kkwmc.cn] [JOIN] 连接服务器: AuroraCity.kkwmc.cn
