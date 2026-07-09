@@ -3159,3 +3159,6 @@
 [2026-07-09 21:25:08] [AuroraCity.kkwmc.cn] [CHAT] 你把背包清空下
 [2026-07-09 21:25:28] [AuroraCity.kkwmc.cn] [CHAT] 你怎么死了呀
 [2026-07-09 21:25:46] [AuroraCity.kkwmc.cn] [CHAT] 怎么又死了
+[2026-07-09 21:34:06] [AuroraCity.kkwmc.cn] [CMD] /hat
+[2026-07-09 21:34:17] [AuroraCity.kkwmc.cn] [CHAT] 你你你
+[2026-07-09 21:34:20] [AuroraCity.kkwmc.cn] [CHAT] 你你你你你
