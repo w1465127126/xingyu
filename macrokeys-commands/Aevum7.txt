@@ -4197,3 +4197,6 @@
 [2026-07-10 00:04:44] [127.0.0.1:46668] [CMD] /md join
 [2026-07-10 00:04:52] [127.0.0.1:46668] [CMD] /md dungeon
 [2026-07-10 00:05:51] [127.0.0.1:46668] [CMD] /mmoitems give SWORD
+[2026-07-10 00:05:54] [127.0.0.1:46668] [CMD] /mmoitems give SWORD OP剑
+[2026-07-10 00:05:56] [127.0.0.1:46668] [CMD] /mmoitems give SWORD THUNDER_RONIN_KATANA
+[2026-07-10 00:06:16] [127.0.0.1:46668] [CMD] /mmoitems give SWORD 苍龙瀚洋剑
