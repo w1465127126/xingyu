@@ -3782,3 +3782,6 @@
 [2026-07-09 11:27:05] [AuroraCity.kkwmc.cn] [CHAT] 兄弟们撤一下
 [2026-07-09 11:27:21] [AuroraCity.kkwmc.cn] [CMD] /res tp fan
 [2026-07-09 11:27:24] [AuroraCity.kkwmc.cn] [CHAT] 谁把我村民全打死了
+[2026-07-09 11:27:40] [AuroraCity.kkwmc.cn] [CMD] /fly
+[2026-07-09 11:27:48] [AuroraCity.kkwmc.cn] [CHAT] 你要什么村民
+[2026-07-09 11:27:52] [AuroraCity.kkwmc.cn] [CMD] /tpahere LuckyMengYi
