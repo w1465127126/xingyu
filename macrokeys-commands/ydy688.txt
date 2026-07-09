@@ -3111,3 +3111,6 @@
 [2026-07-09 20:58:32] [AuroraCity.kkwmc.cn] [CHAT] Niliabukama
 [2026-07-09 20:59:02] [AuroraCity.kkwmc.cn] [CHAT] 他在群组
 [2026-07-09 20:59:06] [AuroraCity.kkwmc.cn] [CHAT] 我能听见
+[2026-07-09 20:59:14] [AuroraCity.kkwmc.cn] [CMD] /hat
+[2026-07-09 20:59:51] [AuroraCity.kkwmc.cn] [CHAT] 密码是1
+[2026-07-09 20:59:59] [AuroraCity.kkwmc.cn] [CHAT] 按v
