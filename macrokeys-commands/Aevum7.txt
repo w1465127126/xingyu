@@ -3647,3 +3647,6 @@
 [2026-07-09 10:57:35] [AuroraCity.kkwmc.cn] [CHAT] 好久没挖矿了
 [2026-07-09 10:57:37] [AuroraCity.kkwmc.cn] [CHAT] 害
 [2026-07-09 10:57:57] [AuroraCity.kkwmc.cn] [CHAT] 怎么说
+[2026-07-09 10:58:20] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-09 10:58:22] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-09 10:58:32] [AuroraCity.kkwmc.cn] [CHAT] 到了冬天就老实了
