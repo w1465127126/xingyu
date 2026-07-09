@@ -3767,3 +3767,6 @@
 [2026-07-09 11:25:13] [AuroraCity.kkwmc.cn] [CHAT] 换了再也不担心耐久了
 [2026-07-09 11:25:43] [AuroraCity.kkwmc.cn] [CMD] /back
 [2026-07-09 11:25:50] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-09 11:26:01] [AuroraCity.kkwmc.cn] [CHAT] 你怎么这么卡
+[2026-07-09 11:26:02] [AuroraCity.kkwmc.cn] [CHAT] wwz
+[2026-07-09 11:26:10] [AuroraCity.kkwmc.cn] [CHAT] 你搞副本
