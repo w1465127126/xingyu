@@ -2989,3 +2989,6 @@
 [2026-07-09 19:05:24] [AuroraCity.kkwmc.cn] [CMD] /hat
 [2026-07-09 19:05:25] [AuroraCity.kkwmc.cn] [CMD] /hat
 [2026-07-09 19:05:58] [AuroraCity.kkwmc.cn] [CMD] /res tp zhucheng2
+[2026-07-09 19:06:09] [AuroraCity.kkwmc.cn] [CHAT] all
+[2026-07-09 19:06:26] [AuroraCity.kkwmc.cn] [CHAT] 我能卖你生瓜蛋子？
+[2026-07-09 19:06:41] [AuroraCity.kkwmc.cn] [CMD] /home 3
