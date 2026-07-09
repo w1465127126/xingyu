@@ -2806,3 +2806,6 @@
 [2026-07-09 18:29:17] [AuroraCity.kkwmc.cn] [CMD] /give ydy688 minecraft:tuff_brick_slab 64
 [2026-07-09 18:29:19] [AuroraCity.kkwmc.cn] [CMD] /give ydy688 minecraft:tuff_bricks
 [2026-07-09 18:29:19] [AuroraCity.kkwmc.cn] [CMD] /give ydy688 minecraft:tuff_bricks
+[2026-07-09 18:29:20] [AuroraCity.kkwmc.cn] [CMD] /give ydy688 minecraft:tuff_bricks
+[2026-07-09 18:30:37] [AuroraCity.kkwmc.cn] [JOIN] 连接服务器: AuroraCity.kkwmc.cn
+[2026-07-09 18:30:42] [AuroraCity.kkwmc.cn] [CMD] /login xvvcxc
