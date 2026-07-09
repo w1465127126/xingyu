@@ -3117,3 +3117,6 @@
 [2026-07-09 21:00:52] [AuroraCity.kkwmc.cn] [CHAT] 你可以把他的音量增益拉大
 [2026-07-09 21:01:23] [AuroraCity.kkwmc.cn] [CHAT] 服主死了吗
 [2026-07-09 21:02:13] [AuroraCity.kkwmc.cn] [CMD] /hat
+[2026-07-09 21:02:25] [AuroraCity.kkwmc.cn] [CHAT] 别急别急
+[2026-07-09 21:02:56] [AuroraCity.kkwmc.cn] [CHAT] 我这边听着还想
+[2026-07-09 21:02:58] [AuroraCity.kkwmc.cn] [CHAT] 还行
