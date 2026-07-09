@@ -3912,3 +3912,6 @@
 [2026-07-09 13:24:55] [AuroraCity.kkwmc.cn] [CHAT] 是这样的
 [2026-07-09 13:26:24] [AuroraCity.kkwmc.cn] [CHAT] wc
 [2026-07-09 13:26:27] [AuroraCity.kkwmc.cn] [CHAT] 我家有锋利啊
+[2026-07-09 13:26:32] [AuroraCity.kkwmc.cn] [CHAT] = =
+[2026-07-09 13:26:39] [AuroraCity.kkwmc.cn] [CHAT] 白白弄死2村民
+[2026-07-09 13:30:12] [AuroraCity.kkwmc.cn] [CMD] /res tp d
