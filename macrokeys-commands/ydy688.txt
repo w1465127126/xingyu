@@ -3231,3 +3231,6 @@
 [2026-07-09 23:27:15] [AuroraCity.kkwmc.cn] [CMD] /tpahere Jaek
 [2026-07-09 23:27:52] [AuroraCity.kkwmc.cn] [CHAT] Aevum7
 [2026-07-09 23:27:55] [AuroraCity.kkwmc.cn] [CHAT] 过来
+[2026-07-09 23:28:38] [AuroraCity.kkwmc.cn] [CMD] /hat
+[2026-07-09 23:28:50] [AuroraCity.kkwmc.cn] [CMD] /hat
+[2026-07-09 23:31:57] [AuroraCity.kkwmc.cn] [CMD] /hat
