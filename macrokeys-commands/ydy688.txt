@@ -3246,3 +3246,6 @@
 [2026-07-09 23:47:27] [AuroraCity.kkwmc.cn] [CMD] /back
 [2026-07-09 23:47:42] [AuroraCity.kkwmc.cn] [CHAT] 鹅加强了？
 [2026-07-09 23:47:51] [AuroraCity.kkwmc.cn] [CMD] /hat
+[2026-07-09 23:47:53] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-09 23:48:14] [AuroraCity.kkwmc.cn] [CMD] /tpa app
+[2026-07-09 23:48:40] [AuroraCity.kkwmc.cn] [CMD] /tpa Jaek
