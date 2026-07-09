@@ -2740,3 +2740,6 @@
 [2026-07-09 17:23:58] [AuroraCity.kkwmc.cn] [CHAT] 你干脆让你那个小号放机器
 [2026-07-09 17:24:30] [AuroraCity.kkwmc.cn] [CHAT] 看这个
 [2026-07-09 17:24:36] [AuroraCity.kkwmc.cn] [CHAT] [i]
+[2026-07-09 17:25:23] [AuroraCity.kkwmc.cn] [CMD] /hat
+[2026-07-09 17:25:31] [AuroraCity.kkwmc.cn] [CHAT] 怎么调伽马值
+[2026-07-09 17:27:31] [AuroraCity.kkwmc.cn] [CHAT] 这个东西无人需要
