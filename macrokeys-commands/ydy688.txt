@@ -3051,3 +3051,6 @@
 [2026-07-09 20:36:14] [AuroraCity.kkwmc.cn] [CHAT] 你可以右键
 [2026-07-09 20:37:07] [AuroraCity.kkwmc.cn] [CHAT] 你拿剑右键啊
 [2026-07-09 20:37:23] [AuroraCity.kkwmc.cn] [CHAT] 不是的
+[2026-07-09 20:37:30] [AuroraCity.kkwmc.cn] [CHAT] 这个剑有技能
+[2026-07-09 20:38:42] [AuroraCity.kkwmc.cn] [CMD] /hat
+[2026-07-09 20:38:47] [AuroraCity.kkwmc.cn] [CMD] /hat
