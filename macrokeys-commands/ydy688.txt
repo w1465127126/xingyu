@@ -3180,3 +3180,6 @@
 [2026-07-09 21:53:49] [AuroraCity.kkwmc.cn] [CMD] /hat
 [2026-07-09 21:57:44] [AuroraCity.kkwmc.cn] [CMD] /hat
 [2026-07-09 21:57:57] [AuroraCity.kkwmc.cn] [CMD] /hat
+[2026-07-09 21:58:26] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-09 21:59:07] [AuroraCity.kkwmc.cn] [CMD] /res tp jiaoyi
+[2026-07-09 21:59:17] [AuroraCity.kkwmc.cn] [CMD] /res tp shuatie
