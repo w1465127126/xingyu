@@ -1356,3 +1356,6 @@
 [2026-07-09 17:45:12] [x6.sjcmc.cn:34054] [CMD] /spawn
 [2026-07-09 17:45:49] [x6.sjcmc.cn:34054] [CHAT] 你卡着点来的？
 [2026-07-09 17:46:31] [x6.sjcmc.cn:34054] [CMD] /res tp yt
+[2026-07-09 17:46:34] [x6.sjcmc.cn:34054] [CMD] /res tp yt
+[2026-07-09 18:33:49] [x6.sjcmc.cn:34054] [CMD] /res tp fan
+[2026-07-09 18:36:43] [x6.sjcmc.cn:34054] [CMD] /res tp ss
