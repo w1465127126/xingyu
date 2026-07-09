@@ -3888,3 +3888,6 @@
 [2026-07-09 13:18:27] [AuroraCity.kkwmc.cn] [CHAT] 30s
 [2026-07-09 13:18:40] [AuroraCity.kkwmc.cn] [CHAT] 这个探险家称号是永久的?
 [2026-07-09 13:18:45] [AuroraCity.kkwmc.cn] [CHAT] 咋还没过期
+[2026-07-09 13:19:45] [AuroraCity.kkwmc.cn] [CHAT] 钱来
+[2026-07-09 13:20:10] [AuroraCity.kkwmc.cn] [CHAT] 换剑了可以来这扒附魔书
+[2026-07-09 13:20:35] [AuroraCity.kkwmc.cn] [CHAT] 是的
