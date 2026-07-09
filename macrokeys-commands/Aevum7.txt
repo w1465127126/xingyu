@@ -3963,3 +3963,6 @@
 [2026-07-09 13:44:18] [AuroraCity.kkwmc.cn] [CHAT] 好家伙
 [2026-07-09 13:44:20] [AuroraCity.kkwmc.cn] [CHAT] 一刀2个头
 [2026-07-09 13:44:29] [AuroraCity.kkwmc.cn] [CHAT] 护符得做啊
+[2026-07-09 13:45:46] [AuroraCity.kkwmc.cn] [CHAT] 有兄弟要mod么
+[2026-07-09 13:46:03] [AuroraCity.kkwmc.cn] [CHAT] 带粘液科技合成配方 可以录制宏 还能自动刷村民附魔书
+[2026-07-09 13:46:28] [AuroraCity.kkwmc.cn] [CHAT] 咋了
