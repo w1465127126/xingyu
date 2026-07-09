@@ -3978,3 +3978,6 @@
 [2026-07-09 13:48:48] [AuroraCity.kkwmc.cn] [CHAT] 208级不整
 [2026-07-09 13:48:53] [AuroraCity.kkwmc.cn] [CHAT] 来甘蔗pvp
 [2026-07-09 13:48:55] [AuroraCity.kkwmc.cn] [CHAT] __nba__
+[2026-07-09 13:49:06] [AuroraCity.kkwmc.cn] [CMD] /res tp gz
+[2026-07-09 13:49:17] [AuroraCity.kkwmc.cn] [CMD] /tpaccept
+[2026-07-09 13:49:25] [AuroraCity.kkwmc.cn] [CMD] /hat
