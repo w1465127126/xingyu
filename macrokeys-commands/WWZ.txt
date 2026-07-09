@@ -1344,3 +1344,6 @@
 [2026-07-09 14:43:13] [x6.sjcmc.cn:34054] [CMD] /fly
 [2026-07-09 14:46:38] [x6.sjcmc.cn:34054] [CMD] /home Home
 [2026-07-09 15:54:11] [x6.sjcmc.cn:34054] [CMD] /res tp yt
+[2026-07-09 15:54:25] [x6.sjcmc.cn:34054] [CMD] /spawn
+[2026-07-09 16:44:35] [x6.sjcmc.cn:34054] [CMD] /home Home
+[2026-07-09 16:44:47] [x6.sjcmc.cn:34054] [CMD] /back
