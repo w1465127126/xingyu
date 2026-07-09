@@ -4482,3 +4482,6 @@
 [2026-07-10 03:52:48] [115.29.150.97:25565] [CMD] /trmenu open Plot_Management_Deny_List
 [2026-07-10 03:52:59] [115.29.150.97:25565] [CMD] /trmenu open 指令菜单
 [2026-07-10 03:53:10] [115.29.150.97:25565] [CMD] /trmenu open 选择传送
+[2026-07-10 03:53:14] [115.29.150.97:25565] [CMD] /trmenu open Plot_List_Page
+[2026-07-10 03:53:18] [115.29.150.97:25565] [CMD] /trmenu open Plot_Management
+[2026-07-10 03:53:21] [115.29.150.97:25565] [CMD] /trmenu open menu4
