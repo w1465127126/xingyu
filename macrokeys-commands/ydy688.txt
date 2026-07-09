@@ -3147,3 +3147,6 @@
 [2026-07-09 21:20:47] [AuroraCity.kkwmc.cn] [CHAT] 什么怎么关
 [2026-07-09 21:20:56] [AuroraCity.kkwmc.cn] [CHAT] 能关啊
 [2026-07-09 21:21:03] [AuroraCity.kkwmc.cn] [CHAT] 给我转2000
+[2026-07-09 21:21:06] [AuroraCity.kkwmc.cn] [CHAT] 我教你关
+[2026-07-09 21:21:28] [AuroraCity.kkwmc.cn] [CHAT] 叽里呱啦说啥呢
+[2026-07-09 21:21:35] [AuroraCity.kkwmc.cn] [CHAT] 66666
