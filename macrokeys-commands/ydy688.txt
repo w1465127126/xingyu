@@ -2721,3 +2721,6 @@
 [2026-07-09 17:05:07] [AuroraCity.kkwmc.cn] [CHAT] 为什么我打你没什么击退
 [2026-07-09 17:05:10] [AuroraCity.kkwmc.cn] [CHAT] 你打我却有
 [2026-07-09 17:06:19] [AuroraCity.kkwmc.cn] [CHAT] 打你你根本不击退的
+[2026-07-09 17:06:40] [AuroraCity.kkwmc.cn] [CHAT] 这血珠收集的也太慢了
+[2026-07-09 17:06:50] [AuroraCity.kkwmc.cn] [CHAT] 不需要金币啊
+[2026-07-09 17:07:04] [AuroraCity.kkwmc.cn] [CHAT] 我帮你弄，给我转500得了
