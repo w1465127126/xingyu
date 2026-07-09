@@ -3252,3 +3252,6 @@
 [2026-07-09 23:50:04] [AuroraCity.kkwmc.cn] [CMD] /tpa Jaek
 [2026-07-09 23:53:56] [AuroraCity.kkwmc.cn] [CMD] /tpa Jaek
 [2026-07-10 00:07:24] [AuroraCity.kkwmc.cn] [CHAT] 2026年7月10日00:07:24
+[2026-07-10 00:07:36] [AuroraCity.kkwmc.cn] [CMD] /hat
+[2026-07-10 00:08:03] [AuroraCity.kkwmc.cn] [CHAT] [i]
+[2026-07-10 00:08:06] [AuroraCity.kkwmc.cn] [CMD] /at
