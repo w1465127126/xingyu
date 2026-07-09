@@ -3873,3 +3873,6 @@
 [2026-07-09 13:12:53] [AuroraCity.kkwmc.cn] [CHAT] 那我再加2个
 [2026-07-09 13:12:55] [AuroraCity.kkwmc.cn] [CMD] /res tp s
 [2026-07-09 13:13:20] [AuroraCity.kkwmc.cn] [CHAT] 我日43的锋利5
+[2026-07-09 13:13:21] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-09 13:13:25] [AuroraCity.kkwmc.cn] [CHAT] 不加了
+[2026-07-09 13:13:33] [AuroraCity.kkwmc.cn] [CHAT] 加一个
