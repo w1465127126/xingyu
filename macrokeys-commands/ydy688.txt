@@ -2833,3 +2833,6 @@
 [2026-07-09 18:45:53] [AuroraCity.kkwmc.cn] [CHAT] all
 [2026-07-09 18:45:59] [AuroraCity.kkwmc.cn] [CHAT] all
 [2026-07-09 18:47:40] [AuroraCity.kkwmc.cn] [CHAT] setblock 16 102 -55 minecraft:prismarine_bricks
+[2026-07-09 18:50:35] [AuroraCity.kkwmc.cn] [CMD] /hat
+[2026-07-09 18:52:08] [AuroraCity.kkwmc.cn] [CMD] /hat
+[2026-07-09 18:52:21] [AuroraCity.kkwmc.cn] [CMD] /ht
