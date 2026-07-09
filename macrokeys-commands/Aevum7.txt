@@ -3764,3 +3764,6 @@
 [2026-07-09 11:24:30] [AuroraCity.kkwmc.cn] [CHAT] 友情价10w
 [2026-07-09 11:24:46] [AuroraCity.kkwmc.cn] [CHAT] 一刀给wwz砍下线了是吧
 [2026-07-09 11:25:01] [AuroraCity.kkwmc.cn] [CHAT] rpg得换啊
+[2026-07-09 11:25:13] [AuroraCity.kkwmc.cn] [CHAT] 换了再也不担心耐久了
+[2026-07-09 11:25:43] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-09 11:25:50] [AuroraCity.kkwmc.cn] [CMD] /back
