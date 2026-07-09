@@ -4212,3 +4212,6 @@
 [2026-07-10 00:08:09] [127.0.0.1:46668] [CMD] /mmoitems open ability
 [2026-07-10 00:08:11] [127.0.0.1:46668] [CMD] /mmoitems open allitems
 [2026-07-10 00:08:13] [127.0.0.1:46668] [CMD] /mmoitems open create
+[2026-07-10 00:08:18] [127.0.0.1:46668] [CMD] /mmoitems open item
+[2026-07-10 00:08:27] [127.0.0.1:46668] [CMD] /mmoitems LIST
+[2026-07-10 00:08:30] [127.0.0.1:46668] [CMD] /mmoitems LIST type
