@@ -4251,3 +4251,6 @@
 [2026-07-10 00:43:10] [127.0.0.1:46668] [CMD] /mmoitems give ARMOR 永青之森头盔
 [2026-07-10 00:43:29] [AuroraCity.kkwmc.cn] [JOIN] 连接服务器: AuroraCity.kkwmc.cn
 [2026-07-10 00:43:32] [AuroraCity.kkwmc.cn] [CMD] /l wokaoa
+[2026-07-10 00:44:13] [AuroraCity.kkwmc.cn] [CHAT] 咋了
+[2026-07-10 00:44:36] [AuroraCity.kkwmc.cn] [CHAT] 我也是闲的= =
+[2026-07-10 00:44:45] [AuroraCity.kkwmc.cn] [CHAT] 在那个服务端把rpg头盔给修了
