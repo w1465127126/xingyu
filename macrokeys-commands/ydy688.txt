@@ -2712,3 +2712,6 @@
 [2026-07-09 17:00:51] [AuroraCity.kkwmc.cn] [CMD] /warp 鹅斯拉
 [2026-07-09 17:01:04] [AuroraCity.kkwmc.cn] [CMD] /home 3
 [2026-07-09 17:01:27] [AuroraCity.kkwmc.cn] [CMD] /hat
+[2026-07-09 17:02:14] [AuroraCity.kkwmc.cn] [CMD] /ah sell 1000 1000
+[2026-07-09 17:03:26] [AuroraCity.kkwmc.cn] [CHAT] 你头怎么回事
+[2026-07-09 17:03:34] [AuroraCity.kkwmc.cn] [CHAT] 依旧不关脚本
