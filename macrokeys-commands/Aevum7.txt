@@ -3800,3 +3800,6 @@
 [2026-07-09 11:38:58] [AuroraCity.kkwmc.cn] [CHAT] 我电脑卡爆了
 [2026-07-09 11:39:14] [AuroraCity.kkwmc.cn] [CHAT] 我再跑comfyi
 [2026-07-09 11:39:42] [AuroraCity.kkwmc.cn] [CHAT] ？
+[2026-07-09 11:39:45] [AuroraCity.kkwmc.cn] [CHAT] 认真的吗
+[2026-07-09 11:39:48] [AuroraCity.kkwmc.cn] [CMD] /tpaccept
+[2026-07-09 11:39:57] [AuroraCity.kkwmc.cn] [CHAT] 我是本地跑哦xd
