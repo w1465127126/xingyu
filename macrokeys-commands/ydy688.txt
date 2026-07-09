@@ -2715,3 +2715,6 @@
 [2026-07-09 17:02:14] [AuroraCity.kkwmc.cn] [CMD] /ah sell 1000 1000
 [2026-07-09 17:03:26] [AuroraCity.kkwmc.cn] [CHAT] 你头怎么回事
 [2026-07-09 17:03:34] [AuroraCity.kkwmc.cn] [CHAT] 依旧不关脚本
+[2026-07-09 17:03:45] [AuroraCity.kkwmc.cn] [CHAT] 很诡异知道吗
+[2026-07-09 17:03:56] [AuroraCity.kkwmc.cn] [CHAT] 我给你录屏
+[2026-07-09 17:04:57] [AuroraCity.kkwmc.cn] [CHAT] 你打我试试
