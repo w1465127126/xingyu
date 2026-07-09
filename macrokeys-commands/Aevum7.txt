@@ -3879,3 +3879,6 @@
 [2026-07-09 13:13:50] [AuroraCity.kkwmc.cn] [CHAT] 送你的
 [2026-07-09 13:14:42] [AuroraCity.kkwmc.cn] [CHAT] 二刺螈是这样的
 [2026-07-09 13:15:53] [AuroraCity.kkwmc.cn] [CHAT] 6
+[2026-07-09 13:16:28] [AuroraCity.kkwmc.cn] [CMD] /res tp d
+[2026-07-09 13:16:30] [AuroraCity.kkwmc.cn] [CMD] /res tp d
+[2026-07-09 13:16:36] [AuroraCity.kkwmc.cn] [CHAT] 好兄弟你在哪我来看看你
