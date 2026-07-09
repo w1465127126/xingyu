@@ -2731,3 +2731,6 @@
 [2026-07-09 17:15:44] [AuroraCity.kkwmc.cn] [JOIN] 连接服务器: AuroraCity.kkwmc.cn
 [2026-07-09 17:15:50] [AuroraCity.kkwmc.cn] [CMD] /login xvvcxc
 [2026-07-09 17:16:17] [AuroraCity.kkwmc.cn] [CHAT] 自己卸魔附魔就行了
+[2026-07-09 17:16:35] [AuroraCity.kkwmc.cn] [CHAT] 你傻吗
+[2026-07-09 17:16:41] [AuroraCity.kkwmc.cn] [CHAT] 给我
+[2026-07-09 17:22:45] [AuroraCity.kkwmc.cn] [CHAT] 虚空漏斗呢
