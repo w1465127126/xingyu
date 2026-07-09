@@ -3309,3 +3309,6 @@
 [2026-07-10 01:05:34] [AuroraCity.kkwmc.cn] [CMD] /hat
 [2026-07-10 01:05:42] [AuroraCity.kkwmc.cn] [CMD] /back
 [2026-07-10 01:06:22] [AuroraCity.kkwmc.cn] [CMD] /hat
+[2026-07-10 01:07:16] [AuroraCity.kkwmc.cn] [CMD] /home 3
+[2026-07-10 01:14:41] [AuroraCity.kkwmc.cn] [CHAT] [o]
+[2026-07-10 01:14:45] [AuroraCity.kkwmc.cn] [CHAT] [i]
