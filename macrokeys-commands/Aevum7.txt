@@ -3707,3 +3707,6 @@
 [2026-07-09 11:15:35] [AuroraCity.kkwmc.cn] [CMD] /warp 鹅斯拉
 [2026-07-09 11:15:38] [AuroraCity.kkwmc.cn] [CMD] /fly
 [2026-07-09 11:15:43] [AuroraCity.kkwmc.cn] [CMD] /fly
+[2026-07-09 11:15:52] [AuroraCity.kkwmc.cn] [CHAT] WWZ你是真没事啊
+[2026-07-09 11:16:01] [AuroraCity.kkwmc.cn] [CHAT] 这boss也是遭罪了
+[2026-07-09 11:16:03] [AuroraCity.kkwmc.cn] [CMD] /back
