@@ -3168,3 +3168,6 @@
 [2026-07-09 21:40:58] [AuroraCity.kkwmc.cn] [CMD] /home 3
 [2026-07-09 21:41:51] [AuroraCity.kkwmc.cn] [CMD] /back
 [2026-07-09 21:46:31] [AuroraCity.kkwmc.cn] [CMD] /hat
+[2026-07-09 21:47:53] [AuroraCity.kkwmc.cn] [CHAT] 进群组
+[2026-07-09 21:48:03] [AuroraCity.kkwmc.cn] [CHAT] 111
+[2026-07-09 21:49:07] [AuroraCity.kkwmc.cn] [CMD] /tpahere app
