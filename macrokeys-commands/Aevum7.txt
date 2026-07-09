@@ -3779,3 +3779,6 @@
 [2026-07-09 11:26:48] [AuroraCity.kkwmc.cn] [CHAT] 是哦
 [2026-07-09 11:26:54] [AuroraCity.kkwmc.cn] [CHAT] 我种民全死了
 [2026-07-09 11:27:00] [AuroraCity.kkwmc.cn] [CHAT] 我得去整一下
+[2026-07-09 11:27:05] [AuroraCity.kkwmc.cn] [CHAT] 兄弟们撤一下
+[2026-07-09 11:27:21] [AuroraCity.kkwmc.cn] [CMD] /res tp fan
+[2026-07-09 11:27:24] [AuroraCity.kkwmc.cn] [CHAT] 谁把我村民全打死了
