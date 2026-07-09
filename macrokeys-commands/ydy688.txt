@@ -2691,3 +2691,6 @@
 [2026-07-09 11:10:21] [AuroraCity.kkwmc.cn] [CHAT] 新人就是新人
 [2026-07-09 11:10:28] [AuroraCity.kkwmc.cn] [CHAT] 不萌就不要叫萌新了
 [2026-07-09 11:11:21] [AuroraCity.kkwmc.cn] [CHAT] 其实我开了
+[2026-07-09 11:12:55] [AuroraCity.kkwmc.cn] [CHAT] 举报了
+[2026-07-09 11:15:34] [AuroraCity.kkwmc.cn] [CMD] /spawn
+[2026-07-09 11:15:48] [AuroraCity.kkwmc.cn] [CMD] /hat
