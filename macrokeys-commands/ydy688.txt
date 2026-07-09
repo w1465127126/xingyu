@@ -3042,3 +3042,6 @@
 [2026-07-09 20:33:33] [AuroraCity.kkwmc.cn] [CMD] /hat
 [2026-07-09 20:33:35] [AuroraCity.kkwmc.cn] [CMD] /hat
 [2026-07-09 20:33:40] [AuroraCity.kkwmc.cn] [CHAT] 你有点菜啊
+[2026-07-09 20:33:53] [AuroraCity.kkwmc.cn] [CHAT] 怎么还是这么卡
+[2026-07-09 20:34:23] [AuroraCity.kkwmc.cn] [CHAT] 你卡吗
+[2026-07-09 20:34:30] [AuroraCity.kkwmc.cn] [CHAT] 我一会一卡的
