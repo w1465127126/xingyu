@@ -3096,3 +3096,6 @@
 [2026-07-09 20:53:01] [AuroraCity.kkwmc.cn] [CHAT] 这个打雷好真实啊
 [2026-07-09 20:53:37] [AuroraCity.kkwmc.cn] [CMD] /home 3
 [2026-07-09 20:53:45] [AuroraCity.kkwmc.cn] [CHAT] 卡住
+[2026-07-09 20:53:55] [AuroraCity.kkwmc.cn] [CMD] /tpa app
+[2026-07-09 20:54:01] [AuroraCity.kkwmc.cn] [CHAT] 这个是有距离限制的
+[2026-07-09 20:54:06] [AuroraCity.kkwmc.cn] [CHAT] 这个语音
