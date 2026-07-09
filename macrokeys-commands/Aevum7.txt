@@ -3710,3 +3710,6 @@
 [2026-07-09 11:15:52] [AuroraCity.kkwmc.cn] [CHAT] WWZ你是真没事啊
 [2026-07-09 11:16:01] [AuroraCity.kkwmc.cn] [CHAT] 这boss也是遭罪了
 [2026-07-09 11:16:03] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-09 11:16:07] [AuroraCity.kkwmc.cn] [CHAT] 守着打
+[2026-07-09 11:16:32] [AuroraCity.kkwmc.cn] [CHAT] tp我pvp
+[2026-07-09 11:16:38] [AuroraCity.kkwmc.cn] [CHAT] 杀戮光环是吧
