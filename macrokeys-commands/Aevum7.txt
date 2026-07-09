@@ -4105,3 +4105,9 @@
 [2026-07-09 18:06:45] [AuroraCity.kkwmc.cn] [CMD] /delhome home
 [2026-07-09 18:07:19] [AuroraCity.kkwmc.cn] [CMD] /spawn
 [2026-07-09 18:09:06] [AuroraCity.kkwmc.cn] [CMD] /pwarp list
+[2026-07-09 18:09:09] [AuroraCity.kkwmc.cn] [CMD] /warp list
+[2026-07-09 18:37:20] [AuroraCity.kkwmc.cn] [JOIN] 连接服务器: AuroraCity.kkwmc.cn
+[2026-07-09 18:37:24] [AuroraCity.kkwmc.cn] [CMD] /l wokaoa
+[2026-07-09 18:45:55] [xczu.top] [JOIN] 连接服务器: xczu.top
+[2026-07-09 18:46:21] [xczu.top] [JOIN] 连接服务器: xczu.top
+[2026-07-09 18:46:26] [xczu.top] [CMD] /reg wokaoa wokaoa
