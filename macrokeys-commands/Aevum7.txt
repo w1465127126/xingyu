@@ -3620,3 +3620,6 @@
 [2026-07-09 10:51:49] [AuroraCity.kkwmc.cn] [CHAT] 你在生存区挖矿啊
 [2026-07-09 10:52:00] [AuroraCity.kkwmc.cn] [CHAT] 快去资源
 [2026-07-09 10:52:16] [AuroraCity.kkwmc.cn] [CHAT] 听说你怕下矿
+[2026-07-09 10:52:37] [AuroraCity.kkwmc.cn] [CHAT] 快去资源区
+[2026-07-09 10:52:39] [AuroraCity.kkwmc.cn] [CMD] /tpaccept
+[2026-07-09 10:52:49] [AuroraCity.kkwmc.cn] [CHAT] 生存区挖矿不能恢复的
