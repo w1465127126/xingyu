@@ -4179,3 +4179,6 @@
 [2026-07-10 00:00:38] [127.0.0.1:46668] [CMD] /mmoitems
 [2026-07-10 00:00:40] [127.0.0.1:46668] [CMD] /mmoitems list
 [2026-07-10 00:00:46] [127.0.0.1:46668] [CMD] /mmoitems list type
+[2026-07-10 00:01:22] [127.0.0.1:46668] [CMD] /mmoitems give SWORD DRAGONIAN
+[2026-07-10 00:02:18] [127.0.0.1:46668] [CMD] /mmoitems give MATERIAL UNCOMMON_WEAPON_ESSENCE
+[2026-07-10 00:02:32] [127.0.0.1:46668] [CMD] /mmoitems give BOW 怒弓3
