@@ -3036,3 +3036,6 @@
 [2026-07-09 20:32:20] [AuroraCity.kkwmc.cn] [CHAT] 纯矿洞风格
 [2026-07-09 20:32:25] [AuroraCity.kkwmc.cn] [CHAT] 1
 [2026-07-09 20:32:42] [AuroraCity.kkwmc.cn] [CHAT] 我直接用俩熔炉当门
+[2026-07-09 20:32:48] [AuroraCity.kkwmc.cn] [CHAT] 潜行能卡进去
+[2026-07-09 20:32:55] [AuroraCity.kkwmc.cn] [CHAT] 但是怪物就进不来
+[2026-07-09 20:33:24] [AuroraCity.kkwmc.cn] [CMD] /hat
