@@ -3836,3 +3836,7 @@
 [2026-07-09 11:53:49] [AuroraCity.kkwmc.cn] [CHAT] 啥
 [2026-07-09 11:53:53] [AuroraCity.kkwmc.cn] [CHAT] 坏菜了
 [2026-07-09 11:54:01] [AuroraCity.kkwmc.cn] [CHAT] 现在怒盾值钱了
+[2026-07-09 11:58:48] [AuroraCity.kkwmc.cn] [CHAT] 6
+[2026-07-09 13:04:42] [AuroraCity.kkwmc.cn] [JOIN] 连接服务器: AuroraCity.kkwmc.cn
+[2026-07-09 13:04:48] [AuroraCity.kkwmc.cn] [CMD] /l wokaoa
+[2026-07-09 13:05:08] [AuroraCity.kkwmc.cn] [CMD] /res tp d
