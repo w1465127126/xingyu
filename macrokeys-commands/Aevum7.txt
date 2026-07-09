@@ -4020,3 +4020,6 @@
 [2026-07-09 14:00:12] [AuroraCity.kkwmc.cn] [CHAT] 啥技能
 [2026-07-09 14:00:24] [AuroraCity.kkwmc.cn] [CHAT] 能砍弹射物
 [2026-07-09 14:02:54] [AuroraCity.kkwmc.cn] [CHAT] ？
+[2026-07-09 14:02:58] [AuroraCity.kkwmc.cn] [CHAT] 你打嫁衣
+[2026-07-09 14:03:05] [AuroraCity.kkwmc.cn] [CHAT] 秒不掉吗
+[2026-07-09 14:03:28] [AuroraCity.kkwmc.cn] [CHAT] 直接用鞘翅飞过去
