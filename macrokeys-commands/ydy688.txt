@@ -3063,3 +3063,6 @@
 [2026-07-09 20:40:23] [AuroraCity.kkwmc.cn] [CHAT] ？
 [2026-07-09 20:40:56] [AuroraCity.kkwmc.cn] [CMD] /hat
 [2026-07-09 20:41:27] [AuroraCity.kkwmc.cn] [CHAT] 按v
+[2026-07-09 20:41:56] [AuroraCity.kkwmc.cn] [CMD] /give ydy688 minecraft:netherite_hoe
+[2026-07-09 20:41:57] [AuroraCity.kkwmc.cn] [CMD] /give ydy688 minecraft:waxed_weathered_cut_copper_slab
+[2026-07-09 20:41:58] [AuroraCity.kkwmc.cn] [CMD] /give ydy688 minecraft:netherite_hoe
