@@ -3183,3 +3183,6 @@
 [2026-07-09 21:58:26] [AuroraCity.kkwmc.cn] [CMD] /back
 [2026-07-09 21:59:07] [AuroraCity.kkwmc.cn] [CMD] /res tp jiaoyi
 [2026-07-09 21:59:17] [AuroraCity.kkwmc.cn] [CMD] /res tp shuatie
+[2026-07-09 21:59:35] [AuroraCity.kkwmc.cn] [CMD] /tpahere app
+[2026-07-09 22:00:37] [AuroraCity.kkwmc.cn] [CMD] /tpahere Jaek
+[2026-07-09 22:02:28] [AuroraCity.kkwmc.cn] [CMD] /tpa app
