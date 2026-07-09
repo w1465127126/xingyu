@@ -3650,3 +3650,6 @@
 [2026-07-09 10:58:20] [AuroraCity.kkwmc.cn] [CMD] /back
 [2026-07-09 10:58:22] [AuroraCity.kkwmc.cn] [CMD] /back
 [2026-07-09 10:58:32] [AuroraCity.kkwmc.cn] [CHAT] 到了冬天就老实了
+[2026-07-09 10:58:40] [AuroraCity.kkwmc.cn] [CHAT] tpa
+[2026-07-09 10:58:42] [AuroraCity.kkwmc.cn] [CHAT] tpa id
+[2026-07-09 10:58:53] [AuroraCity.kkwmc.cn] [CHAT] 这个自动熔炼有bug啊
