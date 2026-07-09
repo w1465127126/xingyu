@@ -3921,3 +3921,6 @@
 [2026-07-09 13:34:03] [AuroraCity.kkwmc.cn] [CMD] /res tp d
 [2026-07-09 13:34:06] [AuroraCity.kkwmc.cn] [CMD] /res tp d
 [2026-07-09 13:34:44] [AuroraCity.kkwmc.cn] [CHAT] 赌这玩意
+[2026-07-09 13:34:46] [AuroraCity.kkwmc.cn] [CHAT] 已经毕业了
+[2026-07-09 13:35:15] [AuroraCity.kkwmc.cn] [CMD] /spawn
+[2026-07-09 13:35:28] [AuroraCity.kkwmc.cn] [CMD] /tpahere coforer
