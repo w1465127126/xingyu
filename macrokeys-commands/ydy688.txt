@@ -3018,3 +3018,6 @@
 [2026-07-09 20:20:41] [AuroraCity.kkwmc.cn] [JOIN] 连接服务器: AuroraCity.kkwmc.cn
 [2026-07-09 20:21:33] [AuroraCity.kkwmc.cn] [CMD] /login xvvcxc
 [2026-07-09 20:22:05] [AuroraCity.kkwmc.cn] [CMD] /tpa app
+[2026-07-09 20:22:53] [AuroraCity.kkwmc.cn] [CHAT] 怎么了
+[2026-07-09 20:23:15] [AuroraCity.kkwmc.cn] [CHAT] 斧子给我
+[2026-07-09 20:23:25] [AuroraCity.kkwmc.cn] [CHAT] 等我一下
