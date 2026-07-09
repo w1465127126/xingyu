@@ -3930,3 +3930,6 @@
 [2026-07-09 13:36:58] [AuroraCity.kkwmc.cn] [CMD] /res list zzzz
 [2026-07-09 13:37:02] [AuroraCity.kkwmc.cn] [CMD] /res list zzzz ? 2
 [2026-07-09 13:37:04] [AuroraCity.kkwmc.cn] [CMD] /res list zzzz 2
+[2026-07-09 13:37:12] [AuroraCity.kkwmc.cn] [CMD] /home dl
+[2026-07-09 13:37:17] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-09 13:37:25] [AuroraCity.kkwmc.cn] [CMD] /res tp dl
