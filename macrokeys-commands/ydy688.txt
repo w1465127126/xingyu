@@ -2785,3 +2785,6 @@
 [2026-07-09 18:23:22] [AuroraCity.kkwmc.cn] [JOIN] 连接服务器: AuroraCity.kkwmc.cn
 [2026-07-09 18:23:26] [AuroraCity.kkwmc.cn] [CMD] /login xvvcxc
 [2026-07-09 18:25:07] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-09 18:26:41] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-09 18:28:18] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-09 18:28:58] [AuroraCity.kkwmc.cn] [CMD] /give ydy688 minecraft:shears
