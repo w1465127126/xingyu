@@ -4051,3 +4051,6 @@
 [2026-07-09 16:53:05] [AuroraCity.kkwmc.cn] [CMD] /res bank
 [2026-07-09 16:53:14] [AuroraCity.kkwmc.cn] [CMD] /res bank withdraw -100
 [2026-07-09 16:53:36] [AuroraCity.kkwmc.cn] [CMD] /res bank deposit 1
+[2026-07-09 16:53:40] [AuroraCity.kkwmc.cn] [CMD] /res bank withdraw 1
+[2026-07-09 16:53:47] [AuroraCity.kkwmc.cn] [CMD] /res bank withdraw fan 1
+[2026-07-09 16:58:36] [AuroraCity.kkwmc.cn] [CMD] /末影箱
