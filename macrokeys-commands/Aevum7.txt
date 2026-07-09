@@ -3981,3 +3981,6 @@
 [2026-07-09 13:49:06] [AuroraCity.kkwmc.cn] [CMD] /res tp gz
 [2026-07-09 13:49:17] [AuroraCity.kkwmc.cn] [CMD] /tpaccept
 [2026-07-09 13:49:25] [AuroraCity.kkwmc.cn] [CMD] /hat
+[2026-07-09 13:49:31] [AuroraCity.kkwmc.cn] [CHAT] 来
+[2026-07-09 13:49:48] [AuroraCity.kkwmc.cn] [CHAT] 觉得没难度tp我来pvp
+[2026-07-09 13:49:53] [AuroraCity.kkwmc.cn] [CHAT] 无限耐久
