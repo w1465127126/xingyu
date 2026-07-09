@@ -3924,3 +3924,9 @@
 [2026-07-09 13:34:46] [AuroraCity.kkwmc.cn] [CHAT] 已经毕业了
 [2026-07-09 13:35:15] [AuroraCity.kkwmc.cn] [CMD] /spawn
 [2026-07-09 13:35:28] [AuroraCity.kkwmc.cn] [CMD] /tpahere coforer
+[2026-07-09 13:35:53] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-09 13:36:28] [AuroraCity.kkwmc.cn] [CHAT] 首富还在挂机呢= =
+[2026-07-09 13:36:56] [AuroraCity.kkwmc.cn] [CMD] /res list zzz
+[2026-07-09 13:36:58] [AuroraCity.kkwmc.cn] [CMD] /res list zzzz
+[2026-07-09 13:37:02] [AuroraCity.kkwmc.cn] [CMD] /res list zzzz ? 2
+[2026-07-09 13:37:04] [AuroraCity.kkwmc.cn] [CMD] /res list zzzz 2
