@@ -3671,3 +3671,6 @@
 [2026-07-09 11:02:00] [AuroraCity.kkwmc.cn] [CHAT] 不是吗
 [2026-07-09 11:02:10] [AuroraCity.kkwmc.cn] [CMD] /fly
 [2026-07-09 11:02:40] [AuroraCity.kkwmc.cn] [CHAT] 不然咋挖矿
+[2026-07-09 11:03:34] [AuroraCity.kkwmc.cn] [CHAT] 你也没说你要啥矿
+[2026-07-09 11:03:50] [AuroraCity.kkwmc.cn] [CHAT] ?
+[2026-07-09 11:04:02] [AuroraCity.kkwmc.cn] [CHAT] 钻石有啥用
