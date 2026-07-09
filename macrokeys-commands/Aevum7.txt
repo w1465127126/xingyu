@@ -4200,3 +4200,6 @@
 [2026-07-10 00:05:54] [127.0.0.1:46668] [CMD] /mmoitems give SWORD OP剑
 [2026-07-10 00:05:56] [127.0.0.1:46668] [CMD] /mmoitems give SWORD THUNDER_RONIN_KATANA
 [2026-07-10 00:06:16] [127.0.0.1:46668] [CMD] /mmoitems give SWORD 苍龙瀚洋剑
+[2026-07-10 00:07:10] [127.0.0.1:46668] [CMD] /mmoitems give
+[2026-07-10 00:07:12] [127.0.0.1:46668] [CMD] /mmoitems help
+[2026-07-10 00:07:15] [127.0.0.1:46668] [CMD] /mmoitems list
