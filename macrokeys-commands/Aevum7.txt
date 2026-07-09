@@ -3846,3 +3846,6 @@
 [2026-07-09 13:07:18] [AuroraCity.kkwmc.cn] [CHAT] 没燃料了
 [2026-07-09 13:07:47] [AuroraCity.kkwmc.cn] [CHAT] 我不在线就会停机
 [2026-07-09 13:07:48] [AuroraCity.kkwmc.cn] [CHAT] 很傻逼= =
+[2026-07-09 13:08:13] [AuroraCity.kkwmc.cn] [CMD] /tpaccept
+[2026-07-09 13:08:37] [AuroraCity.kkwmc.cn] [CHAT] 自带附魔书啊
+[2026-07-09 13:08:39] [AuroraCity.kkwmc.cn] [CHAT] 500
