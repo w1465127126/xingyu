@@ -3731,3 +3731,6 @@
 [2026-07-09 11:19:22] [AuroraCity.kkwmc.cn] [CMD] /res list LuckyMengYi
 [2026-07-09 11:19:27] [AuroraCity.kkwmc.cn] [CMD] /res tp dkl
 [2026-07-09 11:19:36] [AuroraCity.kkwmc.cn] [CHAT] 你就是喵喵怪是吧
+[2026-07-09 11:19:42] [AuroraCity.kkwmc.cn] [CMD] /tpahere coforer
+[2026-07-09 11:19:57] [AuroraCity.kkwmc.cn] [CHAT] 等等换个地方
+[2026-07-09 11:20:02] [AuroraCity.kkwmc.cn] [CMD] /res tp gz
