@@ -4065,3 +4065,6 @@
 [2026-07-09 17:06:34] [AuroraCity.kkwmc.cn] [CHAT] 我网卡
 [2026-07-09 17:15:39] [AuroraCity.kkwmc.cn] [JOIN] 连接服务器: AuroraCity.kkwmc.cn
 [2026-07-09 17:15:41] [AuroraCity.kkwmc.cn] [CMD] /l wokaoa
+[2026-07-09 17:15:49] [AuroraCity.kkwmc.cn] [CMD] /末影箱
+[2026-07-09 17:15:54] [AuroraCity.kkwmc.cn] [CMD] /res tp d
+[2026-07-09 17:15:55] [AuroraCity.kkwmc.cn] [CMD] /fly
