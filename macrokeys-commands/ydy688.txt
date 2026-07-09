@@ -3120,3 +3120,6 @@
 [2026-07-09 21:02:25] [AuroraCity.kkwmc.cn] [CHAT] 别急别急
 [2026-07-09 21:02:56] [AuroraCity.kkwmc.cn] [CHAT] 我这边听着还想
 [2026-07-09 21:02:58] [AuroraCity.kkwmc.cn] [CHAT] 还行
+[2026-07-09 21:03:22] [AuroraCity.kkwmc.cn] [CHAT] 你按v，在设置里，把通话的那个拉倒300%
+[2026-07-09 21:03:55] [AuroraCity.kkwmc.cn] [CHAT] 重启了
+[2026-07-09 21:03:59] [AuroraCity.kkwmc.cn] [CHAT] 等掉
