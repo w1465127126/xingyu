@@ -3686,3 +3686,6 @@
 [2026-07-09 11:08:36] [AuroraCity.kkwmc.cn] [CHAT] xd
 [2026-07-09 11:08:38] [AuroraCity.kkwmc.cn] [CHAT] 看我的
 [2026-07-09 11:09:12] [AuroraCity.kkwmc.cn] [CHAT] [i]
+[2026-07-09 11:09:28] [AuroraCity.kkwmc.cn] [CHAT] 人均一个稿子
+[2026-07-09 11:10:05] [AuroraCity.kkwmc.cn] [CHAT] 萌新呢
+[2026-07-09 11:10:18] [AuroraCity.kkwmc.cn] [CMD] /fly
