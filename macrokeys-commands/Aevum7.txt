@@ -3840,3 +3840,6 @@
 [2026-07-09 13:04:42] [AuroraCity.kkwmc.cn] [JOIN] 连接服务器: AuroraCity.kkwmc.cn
 [2026-07-09 13:04:48] [AuroraCity.kkwmc.cn] [CMD] /l wokaoa
 [2026-07-09 13:05:08] [AuroraCity.kkwmc.cn] [CMD] /res tp d
+[2026-07-09 13:06:31] [AuroraCity.kkwmc.cn] [CHAT] 加附魔吗
+[2026-07-09 13:06:33] [AuroraCity.kkwmc.cn] [CHAT] coforer
+[2026-07-09 13:07:07] [AuroraCity.kkwmc.cn] [CHAT] 啥
