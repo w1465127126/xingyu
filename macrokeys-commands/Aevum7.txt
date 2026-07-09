@@ -3915,3 +3915,6 @@
 [2026-07-09 13:26:32] [AuroraCity.kkwmc.cn] [CHAT] = =
 [2026-07-09 13:26:39] [AuroraCity.kkwmc.cn] [CHAT] 白白弄死2村民
 [2026-07-09 13:30:12] [AuroraCity.kkwmc.cn] [CMD] /res tp d
+[2026-07-09 13:31:23] [AuroraCity.kkwmc.cn] [CMD] /res tp d
+[2026-07-09 13:32:35] [AuroraCity.kkwmc.cn] [CMD] /res tp d
+[2026-07-09 13:34:01] [AuroraCity.kkwmc.cn] [CMD] /back
