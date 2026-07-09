@@ -2675,3 +2675,6 @@
 [2026-07-09 10:01:04] [AuroraCity.kkwmc.cn] [CHAT] 你有那种石头了吗
 [2026-07-09 10:05:46] [AuroraCity.kkwmc.cn] [CMD] /tpa KK_9527
 [2026-07-09 10:06:11] [AuroraCity.kkwmc.cn] [CHAT] 放到装备上
+[2026-07-09 10:06:27] [AuroraCity.kkwmc.cn] [CHAT] 有用没
+[2026-07-09 10:06:32] [AuroraCity.kkwmc.cn] [CHAT] 加不加血
+[2026-07-09 10:06:44] [AuroraCity.kkwmc.cn] [CHAT] 行了
