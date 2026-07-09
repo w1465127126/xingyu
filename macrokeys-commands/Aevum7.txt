@@ -3743,3 +3743,6 @@
 [2026-07-09 11:21:10] [AuroraCity.kkwmc.cn] [CHAT] 坏菜了
 [2026-07-09 11:21:14] [AuroraCity.kkwmc.cn] [CMD] /tpaccept
 [2026-07-09 11:21:19] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-09 11:21:23] [AuroraCity.kkwmc.cn] [CHAT] 这护甲确实有点垃圾
+[2026-07-09 11:21:28] [AuroraCity.kkwmc.cn] [CHAT] 2刀
+[2026-07-09 11:21:39] [AuroraCity.kkwmc.cn] [CHAT] 来pvp
