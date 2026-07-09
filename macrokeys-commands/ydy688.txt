@@ -3285,3 +3285,6 @@
 [2026-07-10 00:24:39] [AuroraCity.kkwmc.cn] [CMD] /sf guide
 [2026-07-10 00:25:32] [AuroraCity.kkwmc.cn] [CMD] /tpahere Jaek
 [2026-07-10 00:27:01] [AuroraCity.kkwmc.cn] [CHAT] ./back
+[2026-07-10 00:33:05] [AuroraCity.kkwmc.cn] [CMD] /hat
+[2026-07-10 00:35:27] [AuroraCity.kkwmc.cn] [CMD] /tpahere Jaek
+[2026-07-10 00:39:07] [AuroraCity.kkwmc.cn] [CMD] /back
