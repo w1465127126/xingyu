@@ -3039,3 +3039,6 @@
 [2026-07-09 20:32:48] [AuroraCity.kkwmc.cn] [CHAT] 潜行能卡进去
 [2026-07-09 20:32:55] [AuroraCity.kkwmc.cn] [CHAT] 但是怪物就进不来
 [2026-07-09 20:33:24] [AuroraCity.kkwmc.cn] [CMD] /hat
+[2026-07-09 20:33:33] [AuroraCity.kkwmc.cn] [CMD] /hat
+[2026-07-09 20:33:35] [AuroraCity.kkwmc.cn] [CMD] /hat
+[2026-07-09 20:33:40] [AuroraCity.kkwmc.cn] [CHAT] 你有点菜啊
