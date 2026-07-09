@@ -403,3 +403,6 @@
 [2026-07-09 14:23:13] [AuroraCity.kkwmc.cn] [CMD] /back
 [2026-07-09 14:23:42] [AuroraCity.kkwmc.cn] [CMD] /back
 [2026-07-09 14:24:28] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-09 14:24:39] [AuroraCity.kkwmc.cn] [CMD] /fly
+[2026-07-09 14:24:40] [AuroraCity.kkwmc.cn] [CMD] /fly
+[2026-07-09 14:25:14] [AuroraCity.kkwmc.cn] [CMD] /back
