@@ -3906,3 +3906,6 @@
 [2026-07-09 13:23:18] [AuroraCity.kkwmc.cn] [CHAT] xd
 [2026-07-09 13:23:24] [AuroraCity.kkwmc.cn] [CHAT] 你玩粘液了？
 [2026-07-09 13:23:32] [AuroraCity.kkwmc.cn] [CHAT] xing
+[2026-07-09 13:24:09] [AuroraCity.kkwmc.cn] [CHAT] 我能自动
+[2026-07-09 13:24:18] [AuroraCity.kkwmc.cn] [CMD] /warp 地狱世界
+[2026-07-09 13:24:24] [AuroraCity.kkwmc.cn] [CMD] /back
