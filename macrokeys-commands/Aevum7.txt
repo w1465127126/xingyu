@@ -4045,3 +4045,9 @@
 [2026-07-09 16:50:34] [AuroraCity.kkwmc.cn] [CHAT] 1
 [2026-07-09 16:52:03] [AuroraCity.kkwmc.cn] [CHAT] 1
 [2026-07-09 16:52:50] [AuroraCity.kkwmc.cn] [CMD] /res ?
+[2026-07-09 16:52:51] [AuroraCity.kkwmc.cn] [CMD] /res ? 2
+[2026-07-09 16:52:52] [AuroraCity.kkwmc.cn] [CMD] /res ? 3
+[2026-07-09 16:52:54] [AuroraCity.kkwmc.cn] [CMD] /res ? 4
+[2026-07-09 16:53:05] [AuroraCity.kkwmc.cn] [CMD] /res bank
+[2026-07-09 16:53:14] [AuroraCity.kkwmc.cn] [CMD] /res bank withdraw -100
+[2026-07-09 16:53:36] [AuroraCity.kkwmc.cn] [CMD] /res bank deposit 1
