@@ -3090,3 +3090,6 @@
 [2026-07-09 20:51:36] [AuroraCity.kkwmc.cn] [CHAT] gamemode 1
 [2026-07-09 20:52:14] [AuroraCity.kkwmc.cn] [CHAT] neng
 [2026-07-09 20:52:28] [AuroraCity.kkwmc.cn] [CHAT] 你们有回音
+[2026-07-09 20:52:32] [AuroraCity.kkwmc.cn] [CHAT] 还卡卡的
+[2026-07-09 20:52:41] [AuroraCity.kkwmc.cn] [CHAT] 太卡了
+[2026-07-09 20:52:45] [AuroraCity.kkwmc.cn] [CHAT] 服务器要炸了
