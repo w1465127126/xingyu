@@ -3138,3 +3138,6 @@
 [2026-07-09 21:12:40] [AuroraCity.kkwmc.cn] [CMD] /hat
 [2026-07-09 21:14:18] [AuroraCity.kkwmc.cn] [CMD] /hat
 [2026-07-09 21:14:24] [AuroraCity.kkwmc.cn] [CMD] /hat
+[2026-07-09 21:18:26] [AuroraCity.kkwmc.cn] [CHAT] 开个门
+[2026-07-09 21:18:39] [AuroraCity.kkwmc.cn] [CHAT] 我每斧子了
+[2026-07-09 21:19:44] [AuroraCity.kkwmc.cn] [CHAT] 完蛋了
