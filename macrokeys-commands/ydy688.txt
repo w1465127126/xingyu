@@ -3171,3 +3171,6 @@
 [2026-07-09 21:47:53] [AuroraCity.kkwmc.cn] [CHAT] 进群组
 [2026-07-09 21:48:03] [AuroraCity.kkwmc.cn] [CHAT] 111
 [2026-07-09 21:49:07] [AuroraCity.kkwmc.cn] [CMD] /tpahere app
+[2026-07-09 21:49:12] [AuroraCity.kkwmc.cn] [CMD] /tpahere Jaek
+[2026-07-09 21:50:21] [AuroraCity.kkwmc.cn] [CHAT] Jaek
+[2026-07-09 21:50:29] [AuroraCity.kkwmc.cn] [CMD] /tpahere j
