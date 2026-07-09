@@ -3698,3 +3698,6 @@
 [2026-07-09 11:13:36] [AuroraCity.kkwmc.cn] [CHAT] 不是挖矿是啥
 [2026-07-09 11:13:56] [AuroraCity.kkwmc.cn] [CHAT] 背包就满了？
 [2026-07-09 11:14:00] [AuroraCity.kkwmc.cn] [CHAT] tp你的领地
+[2026-07-09 11:14:08] [AuroraCity.kkwmc.cn] [CHAT] 然后再back回来
+[2026-07-09 11:14:13] [AuroraCity.kkwmc.cn] [CHAT] 打开/pvp
+[2026-07-09 11:14:19] [AuroraCity.kkwmc.cn] [CHAT] 不然叫你都不方便
