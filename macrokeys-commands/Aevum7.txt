@@ -3638,3 +3638,6 @@
 [2026-07-09 10:54:21] [AuroraCity.kkwmc.cn] [CMD] /tpa 114514
 [2026-07-09 10:54:43] [AuroraCity.kkwmc.cn] [CHAT] 1
 [2026-07-09 10:54:57] [AuroraCity.kkwmc.cn] [CHAT] 要什么kuang
+[2026-07-09 10:55:18] [AuroraCity.kkwmc.cn] [CHAT] 放副手
+[2026-07-09 10:55:37] [AuroraCity.kkwmc.cn] [CHAT] 谁说这玩意有用了
+[2026-07-09 10:55:40] [AuroraCity.kkwmc.cn] [CHAT] 就是好看的
