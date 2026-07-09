@@ -3150,3 +3150,6 @@
 [2026-07-09 21:21:06] [AuroraCity.kkwmc.cn] [CHAT] 我教你关
 [2026-07-09 21:21:28] [AuroraCity.kkwmc.cn] [CHAT] 叽里呱啦说啥呢
 [2026-07-09 21:21:35] [AuroraCity.kkwmc.cn] [CHAT] 66666
+[2026-07-09 21:21:37] [AuroraCity.kkwmc.cn] [CHAT] 笑死我了
+[2026-07-09 21:21:46] [AuroraCity.kkwmc.cn] [CHAT] 豆包是沙子
+[2026-07-09 21:23:38] [AuroraCity.kkwmc.cn] [CMD] /home 3
