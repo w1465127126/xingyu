@@ -3737,3 +3737,6 @@
 [2026-07-09 11:20:13] [AuroraCity.kkwmc.cn] [CMD] /tpahere coforer
 [2026-07-09 11:20:23] [AuroraCity.kkwmc.cn] [CHAT] xd
 [2026-07-09 11:20:29] [AuroraCity.kkwmc.cn] [CHAT] 看下几刀能砍死我
+[2026-07-09 11:20:41] [AuroraCity.kkwmc.cn] [CHAT] 打开pvp
+[2026-07-09 11:20:48] [AuroraCity.kkwmc.cn] [CHAT] 上刀
+[2026-07-09 11:20:59] [AuroraCity.kkwmc.cn] [CHAT] 回点血
