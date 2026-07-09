@@ -3972,3 +3972,6 @@
 [2026-07-09 13:47:37] [AuroraCity.kkwmc.cn] [CHAT] 可以挂宝石boss
 [2026-07-09 13:47:39] [AuroraCity.kkwmc.cn] [CHAT] awa
 [2026-07-09 13:48:13] [AuroraCity.kkwmc.cn] [CHAT] 有的兄弟有的
+[2026-07-09 13:48:17] [AuroraCity.kkwmc.cn] [CHAT] 一键重复自杀
+[2026-07-09 13:48:24] [AuroraCity.kkwmc.cn] [CHAT] 让你点都点不动
+[2026-07-09 13:48:37] [AuroraCity.kkwmc.cn] [CHAT] 直接注入的指令
