@@ -4111,3 +4111,6 @@
 [2026-07-09 18:45:55] [xczu.top] [JOIN] 连接服务器: xczu.top
 [2026-07-09 18:46:21] [xczu.top] [JOIN] 连接服务器: xczu.top
 [2026-07-09 18:46:26] [xczu.top] [CMD] /reg wokaoa wokaoa
+[2026-07-09 18:46:45] [xczu.top] [CMD] /prewards
+[2026-07-09 18:50:59] [xczu.top] [CHAT] 石头
+[2026-07-09 18:50:59] [xczu.top] [CHAT] 石头
