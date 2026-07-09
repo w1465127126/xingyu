@@ -4063,3 +4063,5 @@
 [2026-07-09 17:03:46] [AuroraCity.kkwmc.cn] [CHAT] 我自己都看不到
 [2026-07-09 17:03:53] [AuroraCity.kkwmc.cn] [CHAT] 这个头干嘛了
 [2026-07-09 17:06:34] [AuroraCity.kkwmc.cn] [CHAT] 我网卡
+[2026-07-09 17:15:39] [AuroraCity.kkwmc.cn] [JOIN] 连接服务器: AuroraCity.kkwmc.cn
+[2026-07-09 17:15:41] [AuroraCity.kkwmc.cn] [CMD] /l wokaoa
