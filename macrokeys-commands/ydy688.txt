@@ -3084,3 +3084,6 @@
 [2026-07-09 20:48:07] [AuroraCity.kkwmc.cn] [CHAT] 这边已经卡炸了
 [2026-07-09 20:48:24] [AuroraCity.kkwmc.cn] [CHAT] 神了
 [2026-07-09 20:48:26] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-09 20:48:40] [AuroraCity.kkwmc.cn] [CHAT] 都去喊服主重启
+[2026-07-09 20:49:30] [AuroraCity.kkwmc.cn] [CHAT] 我这个人物还挺修长的
+[2026-07-09 20:51:24] [AuroraCity.kkwmc.cn] [CHAT] 如果人生像mc一样就好了
