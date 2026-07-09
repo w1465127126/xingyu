@@ -3918,3 +3918,6 @@
 [2026-07-09 13:31:23] [AuroraCity.kkwmc.cn] [CMD] /res tp d
 [2026-07-09 13:32:35] [AuroraCity.kkwmc.cn] [CMD] /res tp d
 [2026-07-09 13:34:01] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-09 13:34:03] [AuroraCity.kkwmc.cn] [CMD] /res tp d
+[2026-07-09 13:34:06] [AuroraCity.kkwmc.cn] [CMD] /res tp d
+[2026-07-09 13:34:44] [AuroraCity.kkwmc.cn] [CHAT] 赌这玩意
