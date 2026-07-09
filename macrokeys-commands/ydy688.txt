@@ -3114,3 +3114,6 @@
 [2026-07-09 20:59:14] [AuroraCity.kkwmc.cn] [CMD] /hat
 [2026-07-09 20:59:51] [AuroraCity.kkwmc.cn] [CHAT] 密码是1
 [2026-07-09 20:59:59] [AuroraCity.kkwmc.cn] [CHAT] 按v
+[2026-07-09 21:00:52] [AuroraCity.kkwmc.cn] [CHAT] 你可以把他的音量增益拉大
+[2026-07-09 21:01:23] [AuroraCity.kkwmc.cn] [CHAT] 服主死了吗
+[2026-07-09 21:02:13] [AuroraCity.kkwmc.cn] [CMD] /hat
