@@ -3243,3 +3243,6 @@
 [2026-07-09 23:47:16] [AuroraCity.kkwmc.cn] [CMD] /hssasts
 [2026-07-09 23:47:18] [AuroraCity.kkwmc.cn] [CMD] /at
 [2026-07-09 23:47:20] [AuroraCity.kkwmc.cn] [CMD] /hat
+[2026-07-09 23:47:27] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-09 23:47:42] [AuroraCity.kkwmc.cn] [CHAT] 鹅加强了？
+[2026-07-09 23:47:51] [AuroraCity.kkwmc.cn] [CMD] /hat
