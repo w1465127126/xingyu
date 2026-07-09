@@ -3108,3 +3108,6 @@
 [2026-07-09 20:56:18] [AuroraCity.kkwmc.cn] [CHAT] 你可以按v去调输出输入设备
 [2026-07-09 20:56:34] [AuroraCity.kkwmc.cn] [CHAT] 现在太卡了你们说话也听不明白
 [2026-07-09 20:58:06] [AuroraCity.kkwmc.cn] [CMD] /hat
+[2026-07-09 20:58:32] [AuroraCity.kkwmc.cn] [CHAT] Niliabukama
+[2026-07-09 20:59:02] [AuroraCity.kkwmc.cn] [CHAT] 他在群组
+[2026-07-09 20:59:06] [AuroraCity.kkwmc.cn] [CHAT] 我能听见
