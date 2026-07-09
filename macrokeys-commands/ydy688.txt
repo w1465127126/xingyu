@@ -3093,3 +3093,6 @@
 [2026-07-09 20:52:32] [AuroraCity.kkwmc.cn] [CHAT] 还卡卡的
 [2026-07-09 20:52:41] [AuroraCity.kkwmc.cn] [CHAT] 太卡了
 [2026-07-09 20:52:45] [AuroraCity.kkwmc.cn] [CHAT] 服务器要炸了
+[2026-07-09 20:53:01] [AuroraCity.kkwmc.cn] [CHAT] 这个打雷好真实啊
+[2026-07-09 20:53:37] [AuroraCity.kkwmc.cn] [CMD] /home 3
+[2026-07-09 20:53:45] [AuroraCity.kkwmc.cn] [CHAT] 卡住
