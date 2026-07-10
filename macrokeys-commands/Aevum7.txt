@@ -4495,3 +4495,6 @@
 [2026-07-10 16:44:56] [AuroraCity.kkwmc.cn] [CMD] /spawn
 [2026-07-10 16:46:27] [AuroraCity.kkwmc.cn] [CMD] /spawn
 [2026-07-10 16:46:35] [AuroraCity.kkwmc.cn] [CMD] /sf guide
+[2026-07-10 16:47:05] [AuroraCity.kkwmc.cn] [CHAT] 不是挺好做的么
+[2026-07-10 16:47:07] [AuroraCity.kkwmc.cn] [CMD] /res tp d
+[2026-07-10 16:47:42] [AuroraCity.kkwmc.cn] [CHAT] 行
