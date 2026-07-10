@@ -107,3 +107,8 @@
 [2026-07-10 16:43:36] [AuroraCity.kkwmc.cn] [CMD] /res tp fan
 [2026-07-10 16:50:48] [AuroraCity.kkwmc.cn] [JOIN] 连接服务器: AuroraCity.kkwmc.cn
 [2026-07-10 16:50:53] [AuroraCity.kkwmc.cn] [CMD] /l wokaoa
+[2026-07-10 16:51:32] [AuroraCity.kkwmc.cn] [CHAT] = =
+[2026-07-10 16:51:38] [AuroraCity.kkwmc.cn] [CMD] /sf guide
+[2026-07-10 16:53:22] [AuroraCity.kkwmc.cn] [JOIN] 连接服务器: AuroraCity.kkwmc.cn
+[2026-07-10 16:53:27] [AuroraCity.kkwmc.cn] [CMD] /l wokaoa
+[2026-07-10 16:53:29] [AuroraCity.kkwmc.cn] [CHAT] 我很有钱人
