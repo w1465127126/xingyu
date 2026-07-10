@@ -3772,3 +3772,9 @@
 [2026-07-10 22:06:28] [AuroraCity.kkwmc.cn] [CMD] /give ydy688 minecraft:enchanted_book
 [2026-07-10 22:06:29] [AuroraCity.kkwmc.cn] [CMD] /give ydy688 minecraft:enchanted_book
 [2026-07-10 22:06:29] [AuroraCity.kkwmc.cn] [CMD] /give ydy688 minecraft:raw_copper
+[2026-07-10 22:06:30] [AuroraCity.kkwmc.cn] [CMD] /give ydy688 minecraft:raw_copper
+[2026-07-10 22:06:31] [AuroraCity.kkwmc.cn] [CMD] /give ydy688 minecraft:diamond
+[2026-07-10 22:06:33] [AuroraCity.kkwmc.cn] [CMD] /give ydy688 minecraft:shears
+[2026-07-10 22:06:36] [AuroraCity.kkwmc.cn] [CMD] /give ydy688 minecraft:diamond
+[2026-07-10 22:12:59] [AuroraCity.kkwmc.cn] [CMD] /home 3
+[2026-07-10 22:13:01] [AuroraCity.kkwmc.cn] [CMD] /home 4
