@@ -3553,3 +3553,6 @@
 [2026-07-10 19:00:08] [AuroraCity.kkwmc.cn] [CHAT] 你看看这个机器能用吗
 [2026-07-10 19:00:19] [AuroraCity.kkwmc.cn] [CHAT] 能点开吗
 [2026-07-10 19:00:52] [AuroraCity.kkwmc.cn] [CHAT] 要几个时运5
+[2026-07-10 19:01:12] [AuroraCity.kkwmc.cn] [CHAT] 2000
+[2026-07-10 19:01:23] [AuroraCity.kkwmc.cn] [CMD] /res tp zhucheng2
+[2026-07-10 19:01:29] [AuroraCity.kkwmc.cn] [CHAT] all
