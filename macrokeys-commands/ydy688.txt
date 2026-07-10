@@ -3387,3 +3387,10 @@
 [2026-07-10 14:26:45] [AuroraCity.kkwmc.cn] [JOIN] 连接服务器: AuroraCity.kkwmc.cn
 [2026-07-10 14:26:49] [AuroraCity.kkwmc.cn] [CMD] /login xvvcxc
 [2026-07-10 14:26:53] [AuroraCity.kkwmc.cn] [CMD] /guigames
+[2026-07-10 14:26:56] [AuroraCity.kkwmc.cn] [CMD] /galy
+[2026-07-10 14:26:59] [AuroraCity.kkwmc.cn] [CMD] /globalshop:gs
+[2026-07-10 14:27:08] [AuroraCity.kkwmc.cn] [CMD] /gs
+[2026-07-10 14:27:12] [AuroraCity.kkwmc.cn] [CMD] /guigames
+[2026-07-10 16:36:58] [AuroraCity.kkwmc.cn] [JOIN] 连接服务器: AuroraCity.kkwmc.cn
+[2026-07-10 16:37:06] [AuroraCity.kkwmc.cn] [CMD] /login xvvcxc
+[2026-07-10 16:37:27] [AuroraCity.kkwmc.cn] [CMD] /home 3
