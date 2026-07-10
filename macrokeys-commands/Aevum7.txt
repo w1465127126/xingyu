@@ -2283,3 +2283,6 @@
 [2026-07-10 12:18:59] [xianyu.bbs0.cc] [CMD] /spawnn
 [2026-07-10 12:19:03] [xianyu.bbs0.cc] [CMD] /md join
 [2026-07-10 12:19:06] [xianyu.bbs0.cc] [CMD] /md join a
+[2026-07-10 12:27:42] [xianyu.bbs0.cc] [JOIN] 连接服务器: xianyu.bbs0.cc
+[2026-07-10 12:28:41] [xianyu.bbs0.cc] [CMD] /l wokaoa
+[2026-07-10 12:28:44] [xianyu.bbs0.cc] [CMD] /rtp
