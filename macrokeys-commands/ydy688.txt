@@ -3562,3 +3562,6 @@
 [2026-07-10 19:03:21] [AuroraCity.kkwmc.cn] [CHAT] 400w
 [2026-07-10 19:03:29] [AuroraCity.kkwmc.cn] [CMD] /home 4
 [2026-07-10 19:03:52] [AuroraCity.kkwmc.cn] [CMD] /tpa gggggggguo
+[2026-07-10 19:04:04] [AuroraCity.kkwmc.cn] [CHAT] 行不行
+[2026-07-10 19:04:50] [AuroraCity.kkwmc.cn] [CHAT] 这个好像不能用铁砧
+[2026-07-10 19:04:53] [AuroraCity.kkwmc.cn] [CHAT] 因为是四个附魔
