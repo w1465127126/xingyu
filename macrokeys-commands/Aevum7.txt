@@ -4501,3 +4501,6 @@
 [2026-07-10 16:47:50] [AuroraCity.kkwmc.cn] [CMD] /warp 资源世界
 [2026-07-10 16:48:30] [AuroraCity.kkwmc.cn] [CMD] /res tp d
 [2026-07-10 16:48:50] [AuroraCity.kkwmc.cn] [CHAT] 这些核电啥的都给我小号放是吧
+[2026-07-10 16:49:49] [AuroraCity.kkwmc.cn] [CHAT] 左边燃料后面输出
+[2026-07-10 16:49:57] [AuroraCity.kkwmc.cn] [CHAT] 不要电么
+[2026-07-10 16:50:09] [AuroraCity.kkwmc.cn] [CHAT] 哦
