@@ -4509,3 +4509,4 @@
 [2026-07-10 16:52:11] [AuroraCity.kkwmc.cn] [CMD] /l wokaoa
 [2026-07-10 16:52:23] [AuroraCity.kkwmc.cn] [CHAT] ?
 [2026-07-10 16:52:57] [AuroraCity.kkwmc.cn] [CHAT] 有钱真好
+[2026-07-10 17:04:26] [AuroraCity.kkwmc.cn] [JOIN] 连接服务器: AuroraCity.kkwmc.cn
