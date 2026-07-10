@@ -3345,3 +3345,6 @@
 [2026-07-10 12:34:21] [AuroraCity.kkwmc.cn] [CMD] /hat
 [2026-07-10 12:34:26] [AuroraCity.kkwmc.cn] [CMD] /warp 冒险者大厅
 [2026-07-10 12:37:04] [AuroraCity.kkwmc.cn] [CMD] /home 3
+[2026-07-10 12:39:06] [AuroraCity.kkwmc.cn] [CHAT] 10000000
+[2026-07-10 12:43:19] [AuroraCity.kkwmc.cn] [CHAT] 有没有大佬帮我打个附魔
+[2026-07-10 12:43:49] [AuroraCity.kkwmc.cn] [CMD] /home 3
