@@ -3538,3 +3538,6 @@
 [2026-07-10 18:45:04] [AuroraCity.kkwmc.cn] [CHAT] all
 [2026-07-10 18:45:05] [AuroraCity.kkwmc.cn] [CMD] /back
 [2026-07-10 18:48:38] [AuroraCity.kkwmc.cn] [JOIN] 连接服务器: AuroraCity.kkwmc.cn
+[2026-07-10 18:48:42] [AuroraCity.kkwmc.cn] [CMD] /login xvvcxc
+[2026-07-10 18:50:45] [AuroraCity.kkwmc.cn] [CMD] /warp 冒险者大厅
+[2026-07-10 18:56:48] [AuroraCity.kkwmc.cn] [CMD] /home 3
