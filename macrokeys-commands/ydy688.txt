@@ -3676,3 +3676,9 @@
 [2026-07-10 20:26:43] [AuroraCity.kkwmc.cn] [CMD] /shop
 [2026-07-10 20:26:52] [AuroraCity.kkwmc.cn] [CMD] /skills\
 [2026-07-10 20:26:56] [AuroraCity.kkwmc.cn] [CMD] /skills
+[2026-07-10 20:27:02] [AuroraCity.kkwmc.cn] [CMD] /baltop
+[2026-07-10 20:27:07] [AuroraCity.kkwmc.cn] [CMD] /bal
+[2026-07-10 20:27:11] [AuroraCity.kkwmc.cn] [CMD] /balance
+[2026-07-10 20:27:13] [AuroraCity.kkwmc.cn] [CMD] /baltop
+[2026-07-10 20:29:32] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-10 20:30:32] [AuroraCity.kkwmc.cn] [CMD] /back
