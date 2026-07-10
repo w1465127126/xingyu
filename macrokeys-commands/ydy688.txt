@@ -3384,3 +3384,6 @@
 [2026-07-10 14:05:04] [AuroraCity.kkwmc.cn] [CHAT] 🌿
 [2026-07-10 14:06:12] [AuroraCity.kkwmc.cn] [CHAT] 没有
 [2026-07-10 14:07:11] [AuroraCity.kkwmc.cn] [CMD] /warp 资源世界
+[2026-07-10 14:26:45] [AuroraCity.kkwmc.cn] [JOIN] 连接服务器: AuroraCity.kkwmc.cn
+[2026-07-10 14:26:49] [AuroraCity.kkwmc.cn] [CMD] /login xvvcxc
+[2026-07-10 14:26:53] [AuroraCity.kkwmc.cn] [CMD] /guigames
