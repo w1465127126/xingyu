@@ -3568,3 +3568,6 @@
 [2026-07-10 19:05:02] [AuroraCity.kkwmc.cn] [CHAT] 要卸魔附魔才行
 [2026-07-10 19:05:06] [AuroraCity.kkwmc.cn] [CMD] /back
 [2026-07-10 19:05:24] [AuroraCity.kkwmc.cn] [CHAT] 那个弓不值钱
+[2026-07-10 19:05:26] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-10 19:05:55] [AuroraCity.kkwmc.cn] [CHAT] 这个不是魔化的
+[2026-07-10 19:05:59] [AuroraCity.kkwmc.cn] [CHAT] 这玩意一抽就出来了
