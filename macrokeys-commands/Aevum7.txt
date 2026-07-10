@@ -2235,3 +2235,6 @@
 [2026-07-10 11:23:02] [xianyu.bbs0.cc] [CMD] /rtp
 [2026-07-10 11:23:53] [xianyu.bbs0.cc] [CMD] /back
 [2026-07-10 11:26:05] [xianyu.bbs0.cc] [CMD] /tab reload
+[2026-07-10 11:26:18] [x6.sjcmc.cn:34054] [JOIN] 连接服务器: x6.sjcmc.cn:34054
+[2026-07-10 11:26:28] [xianyu.bbs0.cc] [JOIN] 连接服务器: xianyu.bbs0.cc
+[2026-07-10 11:26:37] [xianyu.bbs0.cc] [CMD] /l wokaoa
