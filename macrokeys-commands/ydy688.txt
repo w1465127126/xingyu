@@ -3625,3 +3625,6 @@
 [2026-07-10 19:57:44] [AuroraCity.kkwmc.cn] [CMD] /tpahere Jaek
 [2026-07-10 19:58:53] [AuroraCity.kkwmc.cn] [CMD] /back
 [2026-07-10 19:59:25] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-10 19:59:36] [AuroraCity.kkwmc.cn] [CHAT] 你多忙
+[2026-07-10 19:59:47] [AuroraCity.kkwmc.cn] [CHAT] 666
+[2026-07-10 20:00:56] [AuroraCity.kkwmc.cn] [CMD] /res tp zhucheng2
