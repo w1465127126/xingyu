@@ -3433,3 +3433,6 @@
 [2026-07-10 17:05:12] [AuroraCity.kkwmc.cn] [CHAT] 之前怎么几组几组的出
 [2026-07-10 17:05:29] [AuroraCity.kkwmc.cn] [CHAT] 66
 [2026-07-10 17:05:39] [AuroraCity.kkwmc.cn] [CHAT] 那边有多少头了
+[2026-07-10 17:05:43] [AuroraCity.kkwmc.cn] [CHAT] 整几组回来
+[2026-07-10 17:06:00] [AuroraCity.kkwmc.cn] [CMD] /tpa Aevum7
+[2026-07-10 17:06:13] [AuroraCity.kkwmc.cn] [CHAT] 你打的时候带我
