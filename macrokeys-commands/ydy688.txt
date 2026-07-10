@@ -3544,3 +3544,6 @@
 [2026-07-10 18:57:06] [AuroraCity.kkwmc.cn] [CMD] /warp 冒险者大厅
 [2026-07-10 18:57:28] [AuroraCity.kkwmc.cn] [CHAT] [i]
 [2026-07-10 18:57:31] [AuroraCity.kkwmc.cn] [CMD] /home 3
+[2026-07-10 18:58:06] [AuroraCity.kkwmc.cn] [CHAT] gggggggguo
+[2026-07-10 18:58:15] [AuroraCity.kkwmc.cn] [CHAT] 我给你镐子你自己卸魔附魔吧
+[2026-07-10 18:58:22] [AuroraCity.kkwmc.cn] [CHAT] 一个15/0l0
