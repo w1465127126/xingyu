@@ -2277,3 +2277,6 @@
 [2026-07-10 11:57:44] [xianyu.bbs0.cc] [CMD] /rtp
 [2026-07-10 11:58:14] [xianyu.bbs0.cc] [CMD] /rtp
 [2026-07-10 11:58:21] [xianyu.bbs0.cc] [CMD] /spawn
+[2026-07-10 12:07:30] [xianyu.bbs0.cc] [CMD] /rtp
+[2026-07-10 12:17:27] [xianyu.bbs0.cc] [CMD] /spawn
+[2026-07-10 12:17:32] [xianyu.bbs0.cc] [CMD] /rtp
