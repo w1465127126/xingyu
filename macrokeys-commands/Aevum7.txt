@@ -2232,3 +2232,6 @@
 [2026-07-10 11:22:41] [xianyu.bbs0.cc] [CMD] /mmoitems give SWORD 万圣斩魂镰 Aevum7
 [2026-07-10 11:22:52] [xianyu.bbs0.cc] [CMD] /tps
 [2026-07-10 11:22:58] [xianyu.bbs0.cc] [CMD] /clear
+[2026-07-10 11:23:02] [xianyu.bbs0.cc] [CMD] /rtp
+[2026-07-10 11:23:53] [xianyu.bbs0.cc] [CMD] /back
+[2026-07-10 11:26:05] [xianyu.bbs0.cc] [CMD] /tab reload
