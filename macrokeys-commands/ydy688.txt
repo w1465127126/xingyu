@@ -3652,3 +3652,6 @@
 [2026-07-10 20:13:38] [AuroraCity.kkwmc.cn] [CMD] /back
 [2026-07-10 20:18:00] [AuroraCity.kkwmc.cn] [CMD] /back
 [2026-07-10 20:18:03] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-10 20:20:54] [AuroraCity.kkwmc.cn] [CMD] /tpa app
+[2026-07-10 20:21:49] [AuroraCity.kkwmc.cn] [CMD] /home 3
+[2026-07-10 20:22:03] [AuroraCity.kkwmc.cn] [CMD] /res tp zhucheng2
