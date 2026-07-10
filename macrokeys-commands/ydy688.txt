@@ -3805,3 +3805,9 @@
 [2026-07-10 23:53:37] [AuroraCity.kkwmc.cn] [CMD] /tpa Jaek
 [2026-07-10 23:53:53] [AuroraCity.kkwmc.cn] [CMD] /tpa app
 [2026-07-10 23:54:23] [AuroraCity.kkwmc.cn] [CMD] /hat
+[2026-07-10 23:54:24] [AuroraCity.kkwmc.cn] [CMD] /hat
+[2026-07-10 23:54:26] [AuroraCity.kkwmc.cn] [CMD] /hat
+[2026-07-10 23:54:33] [AuroraCity.kkwmc.cn] [CMD] /hat
+[2026-07-10 23:55:46] [AuroraCity.kkwmc.cn] [CMD] /tpa Jaek
+[2026-07-10 23:58:43] [AuroraCity.kkwmc.cn] [CMD] /home 3
+[2026-07-10 23:58:54] [AuroraCity.kkwmc.cn] [CMD] /tpahere Jaek
