@@ -3372,3 +3372,6 @@
 [2026-07-10 13:47:12] [AuroraCity.kkwmc.cn] [CMD] /home 3
 [2026-07-10 13:58:19] [AuroraCity.kkwmc.cn] [CMD] /res tp dl
 [2026-07-10 14:00:00] [AuroraCity.kkwmc.cn] [CMD] /home 3
+[2026-07-10 14:01:20] [AuroraCity.kkwmc.cn] [CMD] /tpa mao_yao
+[2026-07-10 14:02:33] [AuroraCity.kkwmc.cn] [CHAT] 打我
+[2026-07-10 14:02:43] [AuroraCity.kkwmc.cn] [CMD] /back
