@@ -3673,3 +3673,6 @@
 [2026-07-10 20:26:29] [AuroraCity.kkwmc.cn] [CHAT] ./sellfish
 [2026-07-10 20:26:32] [AuroraCity.kkwmc.cn] [CMD] /sellfish
 [2026-07-10 20:26:37] [AuroraCity.kkwmc.cn] [CMD] /sf
+[2026-07-10 20:26:43] [AuroraCity.kkwmc.cn] [CMD] /shop
+[2026-07-10 20:26:52] [AuroraCity.kkwmc.cn] [CMD] /skills\
+[2026-07-10 20:26:56] [AuroraCity.kkwmc.cn] [CMD] /skills
