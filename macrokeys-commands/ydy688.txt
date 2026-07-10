@@ -3664,3 +3664,6 @@
 [2026-07-10 20:24:02] [AuroraCity.kkwmc.cn] [CMD] /warp 鹅斯拉
 [2026-07-10 20:24:05] [AuroraCity.kkwmc.cn] [CMD] /warp 鹅斯拉
 [2026-07-10 20:24:08] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-10 20:24:13] [AuroraCity.kkwmc.cn] [CMD] /login xvvcxc
+[2026-07-10 20:25:38] [AuroraCity.kkwmc.cn] [CMD] /res tp zhucheng2
+[2026-07-10 20:25:51] [AuroraCity.kkwmc.cn] [CMD] /sellfish
