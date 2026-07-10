@@ -121,3 +121,6 @@
 [2026-07-10 16:55:16] [AuroraCity.kkwmc.cn] [CHAT] 哎
 [2026-07-10 16:55:24] [AuroraCity.kkwmc.cn] [CHAT] 你吧这2个树挖了
 [2026-07-10 16:55:30] [AuroraCity.kkwmc.cn] [CHAT] 是不是有bug
+[2026-07-10 16:55:41] [AuroraCity.kkwmc.cn] [CHAT] = =
+[2026-07-10 16:55:44] [AuroraCity.kkwmc.cn] [CHAT] 拿一把
+[2026-07-10 16:56:11] [AuroraCity.kkwmc.cn] [CHAT] 我也没开投影啊
