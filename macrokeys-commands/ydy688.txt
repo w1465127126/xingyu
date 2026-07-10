@@ -3514,3 +3514,6 @@
 [2026-07-10 18:30:39] [AuroraCity.kkwmc.cn] [CMD] /back
 [2026-07-10 18:30:44] [AuroraCity.kkwmc.cn] [CMD] /back
 [2026-07-10 18:30:47] [AuroraCity.kkwmc.cn] [CHAT] all
+[2026-07-10 18:30:48] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-10 18:34:04] [AuroraCity.kkwmc.cn] [CMD] /warp 资源世界
+[2026-07-10 18:37:03] [AuroraCity.kkwmc.cn] [CMD] /back
