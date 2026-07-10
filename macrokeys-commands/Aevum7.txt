@@ -2268,3 +2268,6 @@
 [2026-07-10 11:55:03] [xianyu.bbs0.cc] [CMD] /back
 [2026-07-10 11:55:13] [xianyu.bbs0.cc] [CMD] /back
 [2026-07-10 11:55:30] [xianyu.bbs0.cc] [CMD] /bacj
+[2026-07-10 11:55:31] [xianyu.bbs0.cc] [CMD] /back
+[2026-07-10 11:55:34] [xianyu.bbs0.cc] [CMD] /gamemode 1
+[2026-07-10 11:56:10] [xianyu.bbs0.cc] [CMD] /res tp d
