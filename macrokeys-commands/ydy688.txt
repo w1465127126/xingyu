@@ -3327,3 +3327,6 @@
 [2026-07-10 01:33:40] [AuroraCity.kkwmc.cn] [CMD] /hat
 [2026-07-10 01:33:42] [AuroraCity.kkwmc.cn] [CMD] /hat
 [2026-07-10 01:33:43] [AuroraCity.kkwmc.cn] [CMD] /hat
+[2026-07-10 12:24:21] [AuroraCity.kkwmc.cn] [JOIN] 连接服务器: AuroraCity.kkwmc.cn
+[2026-07-10 12:24:26] [AuroraCity.kkwmc.cn] [CMD] /login xvvcxc
+[2026-07-10 12:25:04] [AuroraCity.kkwmc.cn] [CMD] /hat
