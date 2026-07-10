@@ -3685,3 +3685,6 @@
 [2026-07-10 20:31:08] [AuroraCity.kkwmc.cn] [CMD] /back
 [2026-07-10 20:31:50] [AuroraCity.kkwmc.cn] [CMD] /faly
 [2026-07-10 20:31:55] [AuroraCity.kkwmc.cn] [CMD] /flipcard
+[2026-07-10 20:33:02] [AuroraCity.kkwmc.cn] [CMD] /tpahere app
+[2026-07-10 20:33:07] [AuroraCity.kkwmc.cn] [CMD] /tpahere Jaek
+[2026-07-10 20:35:03] [AuroraCity.kkwmc.cn] [CMD] /back
