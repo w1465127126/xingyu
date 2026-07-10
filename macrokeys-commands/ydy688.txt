@@ -3400,3 +3400,6 @@
 [2026-07-10 16:43:22] [AuroraCity.kkwmc.cn] [CMD] /home 3
 [2026-07-10 16:43:56] [AuroraCity.kkwmc.cn] [CMD] /qs price 2000
 [2026-07-10 16:44:03] [AuroraCity.kkwmc.cn] [CMD] /qs price 1800
+[2026-07-10 16:47:17] [AuroraCity.kkwmc.cn] [CHAT] 你去打个墨囊
+[2026-07-10 16:47:30] [AuroraCity.kkwmc.cn] [CHAT] 4个
+[2026-07-10 16:48:56] [AuroraCity.kkwmc.cn] [CHAT] 核电不需要吧
