@@ -4498,3 +4498,6 @@
 [2026-07-10 16:47:05] [AuroraCity.kkwmc.cn] [CHAT] 不是挺好做的么
 [2026-07-10 16:47:07] [AuroraCity.kkwmc.cn] [CMD] /res tp d
 [2026-07-10 16:47:42] [AuroraCity.kkwmc.cn] [CHAT] 行
+[2026-07-10 16:47:50] [AuroraCity.kkwmc.cn] [CMD] /warp 资源世界
+[2026-07-10 16:48:30] [AuroraCity.kkwmc.cn] [CMD] /res tp d
+[2026-07-10 16:48:50] [AuroraCity.kkwmc.cn] [CHAT] 这些核电啥的都给我小号放是吧
