@@ -3769,3 +3769,6 @@
 [2026-07-10 21:55:37] [AuroraCity.kkwmc.cn] [CMD] /hat
 [2026-07-10 21:55:40] [AuroraCity.kkwmc.cn] [CHAT] home
 [2026-07-10 21:55:52] [AuroraCity.kkwmc.cn] [CMD] /hat
+[2026-07-10 22:06:28] [AuroraCity.kkwmc.cn] [CMD] /give ydy688 minecraft:enchanted_book
+[2026-07-10 22:06:29] [AuroraCity.kkwmc.cn] [CMD] /give ydy688 minecraft:enchanted_book
+[2026-07-10 22:06:29] [AuroraCity.kkwmc.cn] [CMD] /give ydy688 minecraft:raw_copper
