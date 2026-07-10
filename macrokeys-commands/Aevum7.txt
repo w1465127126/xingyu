@@ -4489,3 +4489,6 @@
 [2026-07-10 03:53:54] [115.29.150.97:25565] [CMD] /trmenu open 宠物选择
 [2026-07-10 03:54:01] [115.29.150.97:25565] [CMD] /trmenu open 选择传送
 [2026-07-10 16:44:33] [AuroraCity.kkwmc.cn] [JOIN] 连接服务器: AuroraCity.kkwmc.cn
+[2026-07-10 16:44:36] [AuroraCity.kkwmc.cn] [CMD] /l wokaoa
+[2026-07-10 16:44:37] [AuroraCity.kkwmc.cn] [CMD] /res tp fan
+[2026-07-10 16:44:49] [AuroraCity.kkwmc.cn] [CMD] /fly
