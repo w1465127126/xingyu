@@ -3565,3 +3565,6 @@
 [2026-07-10 19:04:04] [AuroraCity.kkwmc.cn] [CHAT] 行不行
 [2026-07-10 19:04:50] [AuroraCity.kkwmc.cn] [CHAT] 这个好像不能用铁砧
 [2026-07-10 19:04:53] [AuroraCity.kkwmc.cn] [CHAT] 因为是四个附魔
+[2026-07-10 19:05:02] [AuroraCity.kkwmc.cn] [CHAT] 要卸魔附魔才行
+[2026-07-10 19:05:06] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-10 19:05:24] [AuroraCity.kkwmc.cn] [CHAT] 那个弓不值钱
