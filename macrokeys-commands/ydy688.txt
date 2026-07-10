@@ -3436,3 +3436,6 @@
 [2026-07-10 17:05:43] [AuroraCity.kkwmc.cn] [CHAT] 整几组回来
 [2026-07-10 17:06:00] [AuroraCity.kkwmc.cn] [CMD] /tpa Aevum7
 [2026-07-10 17:06:13] [AuroraCity.kkwmc.cn] [CHAT] 你打的时候带我
+[2026-07-10 17:06:17] [AuroraCity.kkwmc.cn] [CHAT] 我a一下
+[2026-07-10 17:07:39] [AuroraCity.kkwmc.cn] [CMD] /tpa Aevum7
+[2026-07-10 17:08:17] [AuroraCity.kkwmc.cn] [CHAT] 打到了
