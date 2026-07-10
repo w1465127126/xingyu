@@ -3442,3 +3442,6 @@
 [2026-07-10 17:13:03] [AuroraCity.kkwmc.cn] [CMD] /home 3
 [2026-07-10 17:15:34] [AuroraCity.kkwmc.cn] [CMD] /home 3
 [2026-07-10 17:19:46] [AuroraCity.kkwmc.cn] [CHAT] ？
+[2026-07-10 17:30:25] [AuroraCity.kkwmc.cn] [CHAT] 卖金币，一块钱一万
+[2026-07-10 17:32:27] [AuroraCity.kkwmc.cn] [CHAT] 20000
+[2026-07-10 17:33:54] [AuroraCity.kkwmc.cn] [CHAT] 1000
