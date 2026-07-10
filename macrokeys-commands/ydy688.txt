@@ -3571,3 +3571,6 @@
 [2026-07-10 19:05:26] [AuroraCity.kkwmc.cn] [CMD] /back
 [2026-07-10 19:05:55] [AuroraCity.kkwmc.cn] [CHAT] 这个不是魔化的
 [2026-07-10 19:05:59] [AuroraCity.kkwmc.cn] [CHAT] 这玩意一抽就出来了
+[2026-07-10 19:06:05] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-10 19:06:07] [AuroraCity.kkwmc.cn] [CMD] /warp 冒险者大厅
+[2026-07-10 19:06:11] [AuroraCity.kkwmc.cn] [CMD] /warp 资源世界
