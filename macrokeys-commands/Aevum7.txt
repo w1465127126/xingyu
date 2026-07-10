@@ -2229,3 +2229,6 @@
 [2026-07-10 11:20:09] [xianyu.bbs0.cc] [JOIN] 连接服务器: xianyu.bbs0.cc
 [2026-07-10 11:20:19] [xianyu.bbs0.cc] [CMD] /l wokaoa
 [2026-07-10 11:20:31] [xianyu.bbs0.cc] [CMD] /tps
+[2026-07-10 11:22:41] [xianyu.bbs0.cc] [CMD] /mmoitems give SWORD 万圣斩魂镰 Aevum7
+[2026-07-10 11:22:52] [xianyu.bbs0.cc] [CMD] /tps
+[2026-07-10 11:22:58] [xianyu.bbs0.cc] [CMD] /clear
