@@ -3667,3 +3667,6 @@
 [2026-07-10 20:24:13] [AuroraCity.kkwmc.cn] [CMD] /login xvvcxc
 [2026-07-10 20:25:38] [AuroraCity.kkwmc.cn] [CMD] /res tp zhucheng2
 [2026-07-10 20:25:51] [AuroraCity.kkwmc.cn] [CMD] /sellfish
+[2026-07-10 20:25:57] [AuroraCity.kkwmc.cn] [CMD] /sethome
+[2026-07-10 20:26:16] [AuroraCity.kkwmc.cn] [CMD] /s
+[2026-07-10 20:26:20] [AuroraCity.kkwmc.cn] [CMD] /season
