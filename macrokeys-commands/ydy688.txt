@@ -3583,3 +3583,6 @@
 [2026-07-10 19:10:03] [AuroraCity.kkwmc.cn] [CMD] /home 3
 [2026-07-10 19:10:11] [AuroraCity.kkwmc.cn] [CHAT] 害
 [2026-07-10 19:10:20] [AuroraCity.kkwmc.cn] [CHAT] 还没我挖会矿挣得多
+[2026-07-10 19:10:37] [AuroraCity.kkwmc.cn] [CMD] /hat
+[2026-07-10 19:11:28] [AuroraCity.kkwmc.cn] [CMD] /res tp zhucheng2
+[2026-07-10 19:11:35] [AuroraCity.kkwmc.cn] [CHAT] all
