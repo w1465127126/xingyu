@@ -2253,3 +2253,6 @@
 [2026-07-10 11:34:59] [xianyu.bbs0.cc] [CMD] /spawn
 [2026-07-10 11:35:03] [xianyu.bbs0.cc] [CMD] /res /rtp
 [2026-07-10 11:35:04] [xianyu.bbs0.cc] [CMD] /rtp
+[2026-07-10 11:35:24] [xianyu.bbs0.cc] [CMD] /spawn
+[2026-07-10 11:37:24] [xianyu.bbs0.cc] [CMD] /rtp
+[2026-07-10 11:49:11] [xianyu.bbs0.cc] [JOIN] 连接服务器: xianyu.bbs0.cc
