@@ -4492,3 +4492,6 @@
 [2026-07-10 16:44:36] [AuroraCity.kkwmc.cn] [CMD] /l wokaoa
 [2026-07-10 16:44:37] [AuroraCity.kkwmc.cn] [CMD] /res tp fan
 [2026-07-10 16:44:49] [AuroraCity.kkwmc.cn] [CMD] /fly
+[2026-07-10 16:44:56] [AuroraCity.kkwmc.cn] [CMD] /spawn
+[2026-07-10 16:46:27] [AuroraCity.kkwmc.cn] [CMD] /spawn
+[2026-07-10 16:46:35] [AuroraCity.kkwmc.cn] [CMD] /sf guide
