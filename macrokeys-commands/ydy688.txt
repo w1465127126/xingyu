@@ -3375,3 +3375,9 @@
 [2026-07-10 14:01:20] [AuroraCity.kkwmc.cn] [CMD] /tpa mao_yao
 [2026-07-10 14:02:33] [AuroraCity.kkwmc.cn] [CHAT] 打我
 [2026-07-10 14:02:43] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-10 14:04:10] [AuroraCity.kkwmc.cn] [CHAT] 你捡啊
+[2026-07-10 14:04:44] [AuroraCity.kkwmc.cn] [CHAT] 你刷草药学是v
+[2026-07-10 14:04:48] [AuroraCity.kkwmc.cn] [CHAT] 你刷草药
+[2026-07-10 14:04:55] [AuroraCity.kkwmc.cn] [CHAT] 这不草药吗
+[2026-07-10 14:04:59] [AuroraCity.kkwmc.cn] [CHAT] 草
+[2026-07-10 14:05:01] [AuroraCity.kkwmc.cn] [CHAT] 草方块
