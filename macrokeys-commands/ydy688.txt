@@ -3409,3 +3409,6 @@
 [2026-07-10 16:51:23] [AuroraCity.kkwmc.cn] [CHAT] Fantasyland
 [2026-07-10 16:51:35] [AuroraCity.kkwmc.cn] [CHAT] 先解锁这个
 [2026-07-10 16:51:46] [AuroraCity.kkwmc.cn] [CMD] /sf guide
+[2026-07-10 16:52:06] [AuroraCity.kkwmc.cn] [CHAT] ?
+[2026-07-10 16:52:16] [AuroraCity.kkwmc.cn] [CHAT] 你花一万？
+[2026-07-10 16:54:37] [AuroraCity.kkwmc.cn] [CHAT] 这个吗
