@@ -3721,3 +3721,6 @@
 [2026-07-10 20:58:00] [AuroraCity.kkwmc.cn] [CMD] /back
 [2026-07-10 21:07:22] [AuroraCity.kkwmc.cn] [CMD] /hat
 [2026-07-10 21:08:48] [AuroraCity.kkwmc.cn] [CHAT] 1000
+[2026-07-10 21:09:20] [AuroraCity.kkwmc.cn] [CHAT] 1
+[2026-07-10 21:09:24] [AuroraCity.kkwmc.cn] [CHAT] 1
+[2026-07-10 21:13:17] [AuroraCity.kkwmc.cn] [CMD] /sf guide
