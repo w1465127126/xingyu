@@ -3454,3 +3454,9 @@
 [2026-07-10 17:38:09] [AuroraCity.kkwmc.cn] [CMD] /back
 [2026-07-10 17:42:56] [AuroraCity.kkwmc.cn] [CMD] /give ydy688 minecraft:diamond
 [2026-07-10 17:42:56] [AuroraCity.kkwmc.cn] [CMD] /give ydy688 minecraft:player_head
+[2026-07-10 17:42:57] [AuroraCity.kkwmc.cn] [CMD] /give ydy688 minecraft:gray_stained_glass_pane
+[2026-07-10 17:42:58] [AuroraCity.kkwmc.cn] [CMD] /give ydy688 minecraft:waxed_weathered_cut_copper_slab
+[2026-07-10 17:42:59] [AuroraCity.kkwmc.cn] [CMD] /give ydy688 minecraft:enchanted_book
+[2026-07-10 17:42:59] [AuroraCity.kkwmc.cn] [CMD] /give ydy688 minecraft:shears
+[2026-07-10 17:43:00] [AuroraCity.kkwmc.cn] [CMD] /give ydy688 minecraft:shield
+[2026-07-10 17:46:19] [AuroraCity.kkwmc.cn] [CMD] /WARP
