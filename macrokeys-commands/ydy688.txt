@@ -3724,3 +3724,9 @@
 [2026-07-10 21:09:20] [AuroraCity.kkwmc.cn] [CHAT] 1
 [2026-07-10 21:09:24] [AuroraCity.kkwmc.cn] [CHAT] 1
 [2026-07-10 21:13:17] [AuroraCity.kkwmc.cn] [CMD] /sf guide
+[2026-07-10 21:13:20] [AuroraCity.kkwmc.cn] [CMD] /sf guide
+[2026-07-10 21:13:22] [AuroraCity.kkwmc.cn] [CMD] /sf guide
+[2026-07-10 21:13:31] [AuroraCity.kkwmc.cn] [CMD] /sf guide
+[2026-07-10 21:15:57] [AuroraCity.kkwmc.cn] [CHAT] 近
+[2026-07-10 21:16:51] [AuroraCity.kkwmc.cn] [CMD] /hat
+[2026-07-10 21:16:58] [AuroraCity.kkwmc.cn] [CMD] /hat
