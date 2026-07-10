@@ -3342,3 +3342,6 @@
 [2026-07-10 12:31:32] [AuroraCity.kkwmc.cn] [CHAT] 还出吗
 [2026-07-10 12:33:10] [AuroraCity.kkwmc.cn] [CMD] /home 3
 [2026-07-10 12:34:20] [AuroraCity.kkwmc.cn] [CMD] /hat
+[2026-07-10 12:34:21] [AuroraCity.kkwmc.cn] [CMD] /hat
+[2026-07-10 12:34:26] [AuroraCity.kkwmc.cn] [CMD] /warp 冒险者大厅
+[2026-07-10 12:37:04] [AuroraCity.kkwmc.cn] [CMD] /home 3
