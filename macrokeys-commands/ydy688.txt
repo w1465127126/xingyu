@@ -3787,3 +3787,6 @@
 [2026-07-10 22:20:36] [AuroraCity.kkwmc.cn] [CMD] /back
 [2026-07-10 22:48:35] [AuroraCity.kkwmc.cn] [CHAT] 吃个饭
 [2026-07-10 22:48:44] [AuroraCity.kkwmc.cn] [CHAT] 什么少爷
+[2026-07-10 23:09:12] [AuroraCity.kkwmc.cn] [CMD] /warp 鹅斯拉
+[2026-07-10 23:09:34] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-10 23:10:15] [AuroraCity.kkwmc.cn] [CMD] /home 4
