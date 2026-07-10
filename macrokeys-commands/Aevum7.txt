@@ -4519,3 +4519,6 @@
 [2026-07-10 17:05:50] [AuroraCity.kkwmc.cn] [CHAT] 完成下今日20点券人物
 [2026-07-10 17:05:55] [AuroraCity.kkwmc.cn] [CHAT] 又没人打
 [2026-07-10 17:06:01] [AuroraCity.kkwmc.cn] [CHAT] 我只是放在那边
+[2026-07-10 17:06:04] [AuroraCity.kkwmc.cn] [CMD] /tpaccept
+[2026-07-10 17:06:27] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-10 17:06:30] [AuroraCity.kkwmc.cn] [CMD] /spawn
