@@ -3682,3 +3682,6 @@
 [2026-07-10 20:27:13] [AuroraCity.kkwmc.cn] [CMD] /baltop
 [2026-07-10 20:29:32] [AuroraCity.kkwmc.cn] [CMD] /back
 [2026-07-10 20:30:32] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-10 20:31:08] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-10 20:31:50] [AuroraCity.kkwmc.cn] [CMD] /faly
+[2026-07-10 20:31:55] [AuroraCity.kkwmc.cn] [CMD] /flipcard
