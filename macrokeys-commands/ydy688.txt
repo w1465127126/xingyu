@@ -4029,3 +4029,6 @@
 [2026-07-11 20:11:10] [AuroraCity.kkwmc.cn] [CMD] /tpa lpld111161
 [2026-07-11 20:11:15] [AuroraCity.kkwmc.cn] [CMD] /tpa LuckyMengYi
 [2026-07-11 20:11:26] [AuroraCity.kkwmc.cn] [CMD] /tpa app
+[2026-07-11 20:15:43] [AuroraCity.kkwmc.cn] [CMD] /hat
+[2026-07-11 20:19:51] [AuroraCity.kkwmc.cn] [CMD] /give ydy688 minecraft:exposed_chiseled_copper 64
+[2026-07-11 20:21:54] [AuroraCity.kkwmc.cn] [CHAT] 砍我
