@@ -4152,3 +4152,6 @@
 [2026-07-11 23:27:26] [AuroraCity.kkwmc.cn] [CHAT] 一劳永逸
 [2026-07-11 23:27:32] [AuroraCity.kkwmc.cn] [CHAT] 网上很多教学的
 [2026-07-11 23:38:56] [AuroraCity.kkwmc.cn] [CMD] /hat
+[2026-07-11 23:39:32] [AuroraCity.kkwmc.cn] [CHAT] 我在宿舍不好意思说
+[2026-07-11 23:40:35] [AuroraCity.kkwmc.cn] [CHAT] 主要是我会让我想起一些不好的过往
+[2026-07-11 23:40:46] [AuroraCity.kkwmc.cn] [CHAT] 我练了五十年的童子功
