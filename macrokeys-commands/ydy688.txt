@@ -3888,3 +3888,6 @@
 [2026-07-11 16:19:57] [AuroraCity.kkwmc.cn] [CHAT] 收永森之心，3000一个
 [2026-07-11 16:20:19] [AuroraCity.kkwmc.cn] [CHAT] 给我权限
 [2026-07-11 16:20:21] [AuroraCity.kkwmc.cn] [CHAT] Fantasyland
+[2026-07-11 16:21:16] [AuroraCity.kkwmc.cn] [CHAT] 这个勾八火城
+[2026-07-11 16:23:19] [AuroraCity.kkwmc.cn] [CMD] /tpahere app
+[2026-07-11 16:23:23] [AuroraCity.kkwmc.cn] [CMD] /tpahere Jaek
