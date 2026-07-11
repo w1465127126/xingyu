@@ -4071,3 +4071,6 @@
 [2026-07-11 22:17:23] [AuroraCity.kkwmc.cn] [CHAT] 有音乐吗
 [2026-07-11 22:17:48] [AuroraCity.kkwmc.cn] [CHAT] app
 [2026-07-11 22:17:51] [AuroraCity.kkwmc.cn] [CHAT] 声音很大吗
+[2026-07-11 22:19:20] [AuroraCity.kkwmc.cn] [CMD] /skins
+[2026-07-11 22:22:04] [AuroraCity.kkwmc.cn] [CHAT] 没忙啊
+[2026-07-11 22:24:21] [AuroraCity.kkwmc.cn] [CMD] /tpa Jaek
