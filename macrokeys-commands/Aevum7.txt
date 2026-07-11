@@ -4774,3 +4774,6 @@
 [2026-07-11 23:57:41] [AuroraCity.kkwmc.cn] [CMD] /tpaccept
 [2026-07-11 23:57:56] [AuroraCity.kkwmc.cn] [CHAT] xd
 [2026-07-11 23:58:04] [AuroraCity.kkwmc.cn] [CHAT] 来帮我收集材料来了?
+[2026-07-11 23:58:14] [AuroraCity.kkwmc.cn] [CHAT] 收集点小材料
+[2026-07-11 23:58:24] [AuroraCity.kkwmc.cn] [CHAT] 之前上班上的有点伤
+[2026-07-11 23:58:31] [AuroraCity.kkwmc.cn] [CHAT] 现在在家躺2个月
