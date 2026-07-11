@@ -4017,3 +4017,6 @@
 [2026-07-11 19:52:36] [AuroraCity.kkwmc.cn] [CMD] /sethome 5
 [2026-07-11 19:53:10] [AuroraCity.kkwmc.cn] [CMD] /home 2
 [2026-07-11 19:56:35] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-11 19:56:45] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-11 19:56:49] [AuroraCity.kkwmc.cn] [CMD] /home 5
+[2026-07-11 19:57:49] [AuroraCity.kkwmc.cn] [CMD] /home 5
