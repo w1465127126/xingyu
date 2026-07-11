@@ -3936,3 +3936,6 @@
 [2026-07-11 17:32:11] [AuroraCity.kkwmc.cn] [CMD] /give ydy688 minecraft:netherite_pickaxe
 [2026-07-11 17:50:00] [AuroraCity.kkwmc.cn] [CMD] /home 3
 [2026-07-11 17:55:27] [AuroraCity.kkwmc.cn] [CMD] /home 3
+[2026-07-11 17:57:22] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-11 18:00:17] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-11 18:01:16] [AuroraCity.kkwmc.cn] [CMD] /back
