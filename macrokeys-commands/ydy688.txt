@@ -3909,3 +3909,6 @@
 [2026-07-11 16:34:29] [AuroraCity.kkwmc.cn] [CHAT] 给我做四个
 [2026-07-11 16:35:22] [AuroraCity.kkwmc.cn] [CHAT] 不知道啊
 [2026-07-11 16:36:31] [AuroraCity.kkwmc.cn] [CHAT] 你打啊
+[2026-07-11 16:40:29] [AuroraCity.kkwmc.cn] [CMD] /home 3
+[2026-07-11 16:42:31] [AuroraCity.kkwmc.cn] [CMD] /tpa Jaek
+[2026-07-11 16:50:28] [AuroraCity.kkwmc.cn] [CMD] /res tp zhucheng
