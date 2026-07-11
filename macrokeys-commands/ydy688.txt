@@ -3891,3 +3891,6 @@
 [2026-07-11 16:21:16] [AuroraCity.kkwmc.cn] [CHAT] 这个勾八火城
 [2026-07-11 16:23:19] [AuroraCity.kkwmc.cn] [CMD] /tpahere app
 [2026-07-11 16:23:23] [AuroraCity.kkwmc.cn] [CMD] /tpahere Jaek
+[2026-07-11 16:24:54] [AuroraCity.kkwmc.cn] [CMD] /pay Jaek 3000
+[2026-07-11 16:25:35] [AuroraCity.kkwmc.cn] [CHAT] 我没怎么打
+[2026-07-11 16:25:44] [AuroraCity.kkwmc.cn] [CHAT] 勾八火城十分钟一次
