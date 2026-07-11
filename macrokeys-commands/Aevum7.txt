@@ -4708,3 +4708,18 @@
 [2026-07-11 23:13:25] [AuroraCity.kkwmc.cn] [CMD] /back
 [2026-07-11 23:16:44] [AuroraCity.kkwmc.cn] [CHAT] 6666
 [2026-07-11 23:21:09] [AuroraCity.kkwmc.cn] [JOIN] 连接服务器: AuroraCity.kkwmc.cn
+[2026-07-11 23:21:18] [AuroraCity.kkwmc.cn] [CMD] /l wokaoa
+[2026-07-11 23:24:24] [AuroraCity.kkwmc.cn] [JOIN] 连接服务器: AuroraCity.kkwmc.cn
+[2026-07-11 23:24:26] [AuroraCity.kkwmc.cn] [CMD] /l wokaoa
+[2026-07-11 23:28:16] [AuroraCity.kkwmc.cn] [CHAT] 这是什么怪
+[2026-07-11 23:31:51] [AuroraCity.kkwmc.cn] [CMD] /home jia
+[2026-07-11 23:31:53] [AuroraCity.kkwmc.cn] [CMD] /home j
+[2026-07-11 23:35:46] [AuroraCity.kkwmc.cn] [CMD] /home j
+[2026-07-11 23:39:20] [AuroraCity.kkwmc.cn] [JOIN] 连接服务器: AuroraCity.kkwmc.cn
+[2026-07-11 23:39:23] [AuroraCity.kkwmc.cn] [CMD] /l wokaoa
+[2026-07-11 23:40:07] [AuroraCity.kkwmc.cn] [CMD] /fly
+[2026-07-11 23:40:08] [AuroraCity.kkwmc.cn] [CMD] /fly
+[2026-07-11 23:41:01] [AuroraCity.kkwmc.cn] [JOIN] 连接服务器: AuroraCity.kkwmc.cn
+[2026-07-11 23:41:05] [AuroraCity.kkwmc.cn] [CMD] /l wokaoa
+[2026-07-11 23:41:07] [AuroraCity.kkwmc.cn] [CHAT] ?
+[2026-07-11 23:41:08] [AuroraCity.kkwmc.cn] [CMD] /fly
