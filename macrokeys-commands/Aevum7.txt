@@ -4624,3 +4624,9 @@
 [2026-07-11 22:38:15] [AuroraCity.kkwmc.cn] [CHAT] 是时候有个家了
 [2026-07-11 22:38:17] [AuroraCity.kkwmc.cn] [CMD] /res tp d
 [2026-07-11 22:38:33] [AuroraCity.kkwmc.cn] [CHAT] 3w个石头= =
+[2026-07-11 22:38:40] [AuroraCity.kkwmc.cn] [CHAT] 那个太垃圾了
+[2026-07-11 22:38:42] [AuroraCity.kkwmc.cn] [CHAT] 看不上
+[2026-07-11 22:38:51] [AuroraCity.kkwmc.cn] [CMD] /tpa ydy688
+[2026-07-11 22:39:01] [AuroraCity.kkwmc.cn] [CHAT] 没权限
+[2026-07-11 22:39:07] [AuroraCity.kkwmc.cn] [CHAT] 对啊
+[2026-07-11 22:39:10] [AuroraCity.kkwmc.cn] [CHAT] 烧到什么时候
