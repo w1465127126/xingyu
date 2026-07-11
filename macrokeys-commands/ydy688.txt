@@ -4287,3 +4287,6 @@
 [2026-07-12 00:56:45] [AuroraCity.kkwmc.cn] [CHAT] 别玩了
 [2026-07-12 00:56:48] [AuroraCity.kkwmc.cn] [CHAT] 呜呜呜呜
 [2026-07-12 00:56:57] [AuroraCity.kkwmc.cn] [CHAT] 阿瓦达啃大瓜
+[2026-07-12 00:57:10] [AuroraCity.kkwmc.cn] [CHAT] 卡机有色
+[2026-07-12 00:57:16] [AuroraCity.kkwmc.cn] [CHAT] 移动马桶
+[2026-07-12 01:11:07] [AuroraCity.kkwmc.cn] [CMD] /back
