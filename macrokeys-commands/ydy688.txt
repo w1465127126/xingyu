@@ -3894,3 +3894,6 @@
 [2026-07-11 16:24:54] [AuroraCity.kkwmc.cn] [CMD] /pay Jaek 3000
 [2026-07-11 16:25:35] [AuroraCity.kkwmc.cn] [CHAT] 我没怎么打
 [2026-07-11 16:25:44] [AuroraCity.kkwmc.cn] [CHAT] 勾八火城十分钟一次
+[2026-07-11 16:25:48] [AuroraCity.kkwmc.cn] [CHAT] 抓紧让服主优化
+[2026-07-11 16:26:17] [AuroraCity.kkwmc.cn] [CHAT] 放着玩的啊
+[2026-07-11 16:26:39] [AuroraCity.kkwmc.cn] [CHAT] 做生意不如我挖矿赚得多
