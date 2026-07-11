@@ -4281,3 +4281,6 @@
 [2026-07-12 00:55:42] [AuroraCity.kkwmc.cn] [CMD] /at
 [2026-07-12 00:55:43] [AuroraCity.kkwmc.cn] [CMD] /hat
 [2026-07-12 00:55:47] [AuroraCity.kkwmc.cn] [CMD] /vack
+[2026-07-12 00:55:48] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-12 00:56:37] [AuroraCity.kkwmc.cn] [CHAT] shuijiao
+[2026-07-12 00:56:41] [AuroraCity.kkwmc.cn] [CHAT] 都给我睡觉
