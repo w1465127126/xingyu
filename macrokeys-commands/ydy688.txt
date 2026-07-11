@@ -4119,3 +4119,6 @@
 [2026-07-11 22:43:06] [AuroraCity.kkwmc.cn] [CMD] /at
 [2026-07-11 22:43:07] [AuroraCity.kkwmc.cn] [CMD] /hat
 [2026-07-11 22:46:51] [AuroraCity.kkwmc.cn] [CHAT] 垃圾电脑
+[2026-07-11 22:47:02] [AuroraCity.kkwmc.cn] [CHAT] 抓紧时间买5090
+[2026-07-11 22:47:08] [AuroraCity.kkwmc.cn] [CHAT] 关掉你的光影就行了
+[2026-07-11 22:47:30] [AuroraCity.kkwmc.cn] [CHAT] 把芯片换成9950
