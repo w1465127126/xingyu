@@ -4110,3 +4110,6 @@
 [2026-07-11 22:36:58] [AuroraCity.kkwmc.cn] [CHAT] 都他妈退游吧
 [2026-07-11 22:37:02] [AuroraCity.kkwmc.cn] [CHAT] 别玩了
 [2026-07-11 22:37:04] [AuroraCity.kkwmc.cn] [CHAT] 傻逼服务器
+[2026-07-11 22:38:34] [AuroraCity.kkwmc.cn] [CHAT] 不是给你造好了吗
+[2026-07-11 22:38:49] [AuroraCity.kkwmc.cn] [CHAT] 你过来看看这个
+[2026-07-11 22:38:52] [AuroraCity.kkwmc.cn] [CMD] /tpahere a
