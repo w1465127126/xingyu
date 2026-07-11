@@ -4032,3 +4032,6 @@
 [2026-07-11 20:15:43] [AuroraCity.kkwmc.cn] [CMD] /hat
 [2026-07-11 20:19:51] [AuroraCity.kkwmc.cn] [CMD] /give ydy688 minecraft:exposed_chiseled_copper 64
 [2026-07-11 20:21:54] [AuroraCity.kkwmc.cn] [CHAT] 砍我
+[2026-07-11 20:22:16] [AuroraCity.kkwmc.cn] [CHAT] 拿鬼新娘砍我
+[2026-07-11 20:23:04] [AuroraCity.kkwmc.cn] [CHAT] 不疼啊
+[2026-07-11 20:23:13] [AuroraCity.kkwmc.cn] [CMD] /back
