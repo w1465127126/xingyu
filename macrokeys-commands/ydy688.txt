@@ -3969,3 +3969,6 @@
 [2026-07-11 18:37:43] [AuroraCity.kkwmc.cn] [CMD] /back
 [2026-07-11 18:38:29] [AuroraCity.kkwmc.cn] [CHAT] 你拿你的剑砍我
 [2026-07-11 18:38:34] [AuroraCity.kkwmc.cn] [CHAT] 帮我刷一下防御
+[2026-07-11 18:38:40] [AuroraCity.kkwmc.cn] [CHAT] 搞个连点器
+[2026-07-11 18:38:53] [AuroraCity.kkwmc.cn] [CMD] /res tp gz
+[2026-07-11 18:39:00] [AuroraCity.kkwmc.cn] [CHAT] res gz
