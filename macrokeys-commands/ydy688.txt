@@ -3839,3 +3839,6 @@
 [2026-07-11 12:33:54] [AuroraCity.kkwmc.cn] [CHAT] all
 [2026-07-11 12:33:57] [AuroraCity.kkwmc.cn] [CMD] /back
 [2026-07-11 12:35:43] [AuroraCity.kkwmc.cn] [CMD] /warp 冒险者大厅
+[2026-07-11 12:36:02] [AuroraCity.kkwmc.cn] [CMD] /home 3
+[2026-07-11 12:36:08] [AuroraCity.kkwmc.cn] [CMD] /warp 鹅斯拉
+[2026-07-11 12:36:38] [AuroraCity.kkwmc.cn] [CMD] /home 3
