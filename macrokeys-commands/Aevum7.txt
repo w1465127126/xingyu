@@ -4633,3 +4633,9 @@
 [2026-07-11 22:39:14] [AuroraCity.kkwmc.cn] [CMD] /res tp zhucheng
 [2026-07-11 22:39:18] [AuroraCity.kkwmc.cn] [CHAT] 圈地差这点金币
 [2026-07-11 22:39:33] [AuroraCity.kkwmc.cn] [CHAT] 权限到位整个主城都给他圈起来
+[2026-07-11 22:39:42] [AuroraCity.kkwmc.cn] [CMD] /tpaccept
+[2026-07-11 22:39:58] [AuroraCity.kkwmc.cn] [CHAT] 6
+[2026-07-11 22:40:04] [AuroraCity.kkwmc.cn] [CHAT] 主人app
+[2026-07-11 22:40:28] [AuroraCity.kkwmc.cn] [CMD] /res tp zhucheng
+[2026-07-11 22:42:15] [AuroraCity.kkwmc.cn] [CMD] /res tp d
+[2026-07-11 22:43:44] [AuroraCity.kkwmc.cn] [CMD] /res tp d
