@@ -3833,3 +3833,9 @@
 [2026-07-11 12:32:31] [AuroraCity.kkwmc.cn] [CHAT] 牛逼呀
 [2026-07-11 12:33:19] [AuroraCity.kkwmc.cn] [CMD] /home 3
 [2026-07-11 12:33:36] [AuroraCity.kkwmc.cn] [CMD] /res tp zhucheng2
+[2026-07-11 12:33:44] [AuroraCity.kkwmc.cn] [CHAT] all
+[2026-07-11 12:33:46] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-11 12:33:51] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-11 12:33:54] [AuroraCity.kkwmc.cn] [CHAT] all
+[2026-07-11 12:33:57] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-11 12:35:43] [AuroraCity.kkwmc.cn] [CMD] /warp 冒险者大厅
