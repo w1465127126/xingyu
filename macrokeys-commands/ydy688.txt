@@ -3857,3 +3857,6 @@
 [2026-07-11 12:43:06] [AuroraCity.kkwmc.cn] [CMD] /hat
 [2026-07-11 12:43:49] [AuroraCity.kkwmc.cn] [CMD] /tpa app
 [2026-07-11 12:44:05] [AuroraCity.kkwmc.cn] [CMD] /tpa app
+[2026-07-11 15:46:33] [AuroraCity.kkwmc.cn] [JOIN] 连接服务器: AuroraCity.kkwmc.cn
+[2026-07-11 15:46:39] [AuroraCity.kkwmc.cn] [CMD] /login aaaxvvcxc
+[2026-07-11 15:46:42] [AuroraCity.kkwmc.cn] [JOIN] 连接服务器: AuroraCity.kkwmc.cn
