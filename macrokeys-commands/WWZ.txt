@@ -1549,3 +1549,6 @@
 [2026-07-11 17:07:30] [x6.sjcmc.cn:34054] [CHAT] hi
 [2026-07-11 17:09:02] [x6.sjcmc.cn:34054] [CMD] /home Home
 [2026-07-11 17:09:11] [x6.sjcmc.cn:34054] [CMD] /back
+[2026-07-11 17:09:23] [x6.sjcmc.cn:34054] [CMD] /home Home
+[2026-07-11 17:09:31] [x6.sjcmc.cn:34054] [CMD] /home 1
+[2026-07-11 17:10:24] [x6.sjcmc.cn:34054] [CMD] /res tp yt
