@@ -3978,3 +3978,6 @@
 [2026-07-11 18:39:54] [AuroraCity.kkwmc.cn] [CMD] /back
 [2026-07-11 18:40:12] [AuroraCity.kkwmc.cn] [CMD] /tpa ，
 [2026-07-11 18:40:16] [AuroraCity.kkwmc.cn] [CMD] /tpa mao_yao
+[2026-07-11 18:41:02] [AuroraCity.kkwmc.cn] [CHAT] 可以把领地设置成死掉自动复活
+[2026-07-11 18:41:11] [AuroraCity.kkwmc.cn] [CHAT] 我没权限
+[2026-07-11 18:41:33] [AuroraCity.kkwmc.cn] [CHAT] 拿领地宝石
