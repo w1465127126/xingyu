@@ -3975,3 +3975,6 @@
 [2026-07-11 18:39:30] [AuroraCity.kkwmc.cn] [CHAT] 把你的头拿下来
 [2026-07-11 18:39:34] [AuroraCity.kkwmc.cn] [CMD] /back
 [2026-07-11 18:39:50] [AuroraCity.kkwmc.cn] [CHAT] 我搭个地方吧
+[2026-07-11 18:39:54] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-11 18:40:12] [AuroraCity.kkwmc.cn] [CMD] /tpa ，
+[2026-07-11 18:40:16] [AuroraCity.kkwmc.cn] [CMD] /tpa mao_yao
