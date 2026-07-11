@@ -4242,3 +4242,6 @@
 [2026-07-12 00:21:32] [AuroraCity.kkwmc.cn] [CHAT] 我圈子这么干净的人
 [2026-07-12 00:26:28] [AuroraCity.kkwmc.cn] [CMD] /home 3
 [2026-07-12 00:26:42] [AuroraCity.kkwmc.cn] [CMD] /bck
+[2026-07-12 00:26:44] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-12 00:28:06] [AuroraCity.kkwmc.cn] [CMD] /home 3
+[2026-07-12 00:29:07] [AuroraCity.kkwmc.cn] [CMD] /back
