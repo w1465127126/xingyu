@@ -4005,3 +4005,6 @@
 [2026-07-11 19:39:21] [AuroraCity.kkwmc.cn] [CHAT] mao_yao
 [2026-07-11 19:41:05] [AuroraCity.kkwmc.cn] [CMD] /tpa Jaek
 [2026-07-11 19:42:02] [AuroraCity.kkwmc.cn] [CHAT] 潜影盒
+[2026-07-11 19:43:22] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-11 19:44:11] [AuroraCity.kkwmc.cn] [CHAT] n
+[2026-07-11 19:44:15] [AuroraCity.kkwmc.cn] [CHAT] __nba__
