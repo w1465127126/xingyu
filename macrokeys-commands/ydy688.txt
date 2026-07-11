@@ -3963,3 +3963,6 @@
 [2026-07-11 18:36:34] [AuroraCity.kkwmc.cn] [CMD] /tpa mao_yao
 [2026-07-11 18:36:36] [AuroraCity.kkwmc.cn] [CMD] /back
 [2026-07-11 18:36:53] [AuroraCity.kkwmc.cn] [CMD] /home 3
+[2026-07-11 18:37:03] [AuroraCity.kkwmc.cn] [CMD] /tpahere Jaek
+[2026-07-11 18:37:15] [AuroraCity.kkwmc.cn] [CMD] /tpahere mao_yao
+[2026-07-11 18:37:33] [AuroraCity.kkwmc.cn] [CMD] /back
