@@ -4233,3 +4233,6 @@
 [2026-07-12 00:06:23] [AuroraCity.kkwmc.cn] [CHAT] 圆石我们家有
 [2026-07-12 00:07:09] [AuroraCity.kkwmc.cn] [CMD] /skins
 [2026-07-12 00:07:14] [AuroraCity.kkwmc.cn] [CMD] /hat
+[2026-07-12 00:08:15] [AuroraCity.kkwmc.cn] [CMD] /skins
+[2026-07-12 00:18:17] [AuroraCity.kkwmc.cn] [CMD] /pay Jaek 20
+[2026-07-12 00:19:30] [AuroraCity.kkwmc.cn] [CHAT] 怎么了
