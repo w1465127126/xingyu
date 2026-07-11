@@ -4630,3 +4630,6 @@
 [2026-07-11 22:39:01] [AuroraCity.kkwmc.cn] [CHAT] 没权限
 [2026-07-11 22:39:07] [AuroraCity.kkwmc.cn] [CHAT] 对啊
 [2026-07-11 22:39:10] [AuroraCity.kkwmc.cn] [CHAT] 烧到什么时候
+[2026-07-11 22:39:14] [AuroraCity.kkwmc.cn] [CMD] /res tp zhucheng
+[2026-07-11 22:39:18] [AuroraCity.kkwmc.cn] [CHAT] 圈地差这点金币
+[2026-07-11 22:39:33] [AuroraCity.kkwmc.cn] [CHAT] 权限到位整个主城都给他圈起来
