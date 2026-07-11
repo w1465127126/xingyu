@@ -4792,3 +4792,6 @@
 [2026-07-12 00:00:52] [AuroraCity.kkwmc.cn] [CHAT] 找上海对象
 [2026-07-12 00:01:02] [AuroraCity.kkwmc.cn] [CMD] /pay ydy688 710000
 [2026-07-12 00:01:15] [AuroraCity.kkwmc.cn] [CHAT] 直接要彩礼要男方30%
+[2026-07-12 00:01:22] [AuroraCity.kkwmc.cn] [CHAT] 没钱的就是28.8
+[2026-07-12 00:01:27] [AuroraCity.kkwmc.cn] [CHAT] 有钱直接百分比砍
+[2026-07-12 00:02:05] [AuroraCity.kkwmc.cn] [CHAT] 3w个石头马上铺完了= =
