@@ -3951,3 +3951,6 @@
 [2026-07-11 18:31:21] [AuroraCity.kkwmc.cn] [CMD] /tpahere app Jaek
 [2026-07-11 18:31:26] [AuroraCity.kkwmc.cn] [CMD] /tpahere app
 [2026-07-11 18:31:30] [AuroraCity.kkwmc.cn] [CMD] /tpahere j
+[2026-07-11 18:31:34] [AuroraCity.kkwmc.cn] [CMD] /tpahere Jaek
+[2026-07-11 18:34:04] [AuroraCity.kkwmc.cn] [CMD] /tpa mao_yao
+[2026-07-11 18:34:21] [AuroraCity.kkwmc.cn] [CHAT] kai pvp
