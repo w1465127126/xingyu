@@ -4825,3 +4825,6 @@
 [2026-07-12 00:21:10] [AuroraCity.kkwmc.cn] [JOIN] 连接服务器: AuroraCity.kkwmc.cn
 [2026-07-12 00:21:24] [AuroraCity.kkwmc.cn] [CMD] /l wokaoa
 [2026-07-12 00:21:29] [AuroraCity.kkwmc.cn] [CHAT] 2个铁的事
+[2026-07-12 00:21:40] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-12 00:21:46] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-12 00:25:26] [AuroraCity.kkwmc.cn] [CHAT] ai还是太权威了
