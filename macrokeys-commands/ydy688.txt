@@ -4116,3 +4116,6 @@
 [2026-07-11 22:39:03] [AuroraCity.kkwmc.cn] [CHAT] 建材市场有卖的
 [2026-07-11 22:39:40] [AuroraCity.kkwmc.cn] [CMD] /tpahere Aevum7
 [2026-07-11 22:39:51] [AuroraCity.kkwmc.cn] [CHAT] 欢迎来到我家
+[2026-07-11 22:43:06] [AuroraCity.kkwmc.cn] [CMD] /at
+[2026-07-11 22:43:07] [AuroraCity.kkwmc.cn] [CMD] /hat
+[2026-07-11 22:46:51] [AuroraCity.kkwmc.cn] [CHAT] 垃圾电脑
