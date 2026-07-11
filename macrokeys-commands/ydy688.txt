@@ -3848,3 +3848,6 @@
 [2026-07-11 12:38:54] [AuroraCity.kkwmc.cn] [CMD] /home 3
 [2026-07-11 12:38:56] [AuroraCity.kkwmc.cn] [CMD] /hat
 [2026-07-11 12:39:05] [AuroraCity.kkwmc.cn] [CMD] /hat
+[2026-07-11 12:39:31] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-11 12:39:35] [AuroraCity.kkwmc.cn] [CMD] /warp 冒险者大厅
+[2026-07-11 12:39:42] [AuroraCity.kkwmc.cn] [CMD] /res tp zhucheng2
