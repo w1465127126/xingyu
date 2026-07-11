@@ -4657,3 +4657,9 @@
 [2026-07-11 23:02:55] [AuroraCity.kkwmc.cn] [CMD] /l wokaoa
 [2026-07-11 23:04:05] [AuroraCity.kkwmc.cn] [CMD] /res tp d
 [2026-07-11 23:04:27] [AuroraCity.kkwmc.cn] [CMD] /home j
+[2026-07-11 23:07:08] [AuroraCity.kkwmc.cn] [CMD] /res tp zhucheng
+[2026-07-11 23:07:40] [AuroraCity.kkwmc.cn] [CHAT] 2112
+[2026-07-11 23:07:42] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-11 23:07:53] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-11 23:07:57] [AuroraCity.kkwmc.cn] [CHAT] 2112
+[2026-07-11 23:07:58] [AuroraCity.kkwmc.cn] [CMD] /back
