@@ -4224,3 +4224,6 @@
 [2026-07-12 00:00:44] [AuroraCity.kkwmc.cn] [CHAT] 71w
 [2026-07-12 00:00:54] [AuroraCity.kkwmc.cn] [CHAT] 让我凑个一百万
 [2026-07-12 00:01:02] [AuroraCity.kkwmc.cn] [CHAT] 快给我转
+[2026-07-12 00:01:24] [AuroraCity.kkwmc.cn] [CMD] /pay Jaek 1000000
+[2026-07-12 00:02:29] [AuroraCity.kkwmc.cn] [CMD] /pay app 1000000
+[2026-07-12 00:02:49] [AuroraCity.kkwmc.cn] [CHAT] 没退啊
