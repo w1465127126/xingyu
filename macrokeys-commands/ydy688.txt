@@ -4128,3 +4128,9 @@
 [2026-07-11 23:01:32] [AuroraCity.kkwmc.cn] [CMD] /tpa
 [2026-07-11 23:01:34] [AuroraCity.kkwmc.cn] [CMD] /tpa aaa
 [2026-07-11 23:01:39] [AuroraCity.kkwmc.cn] [CMD] /tpa app
+[2026-07-11 23:08:52] [AuroraCity.kkwmc.cn] [CHAT] app
+[2026-07-11 23:08:54] [AuroraCity.kkwmc.cn] [CHAT] app
+[2026-07-11 23:08:55] [AuroraCity.kkwmc.cn] [CHAT] app
+[2026-07-11 23:16:27] [AuroraCity.kkwmc.cn] [CHAT] 什么东西
+[2026-07-11 23:17:34] [AuroraCity.kkwmc.cn] [CMD] /hat
+[2026-07-11 23:17:47] [AuroraCity.kkwmc.cn] [CMD] /hat
