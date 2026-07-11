@@ -3915,3 +3915,6 @@
 [2026-07-11 16:51:03] [AuroraCity.kkwmc.cn] [CHAT] 300
 [2026-07-11 16:51:53] [AuroraCity.kkwmc.cn] [CHAT] 300
 [2026-07-11 16:53:33] [AuroraCity.kkwmc.cn] [CHAT] 300
+[2026-07-11 16:54:37] [AuroraCity.kkwmc.cn] [CHAT] 给我转十块钱
+[2026-07-11 16:54:56] [AuroraCity.kkwmc.cn] [CHAT] 1
+[2026-07-11 16:55:53] [AuroraCity.kkwmc.cn] [CHAT] ./pay ydy688 2000
