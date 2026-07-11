@@ -4089,3 +4089,6 @@
 [2026-07-11 22:28:13] [AuroraCity.kkwmc.cn] [CHAT] 我不会做啊
 [2026-07-11 22:28:20] [AuroraCity.kkwmc.cn] [CHAT] 我家有货运那是因为
 [2026-07-11 22:28:25] [AuroraCity.kkwmc.cn] [CHAT] 你家没
+[2026-07-11 22:28:35] [AuroraCity.kkwmc.cn] [CHAT] 不能
+[2026-07-11 22:28:42] [AuroraCity.kkwmc.cn] [CHAT] 必须有个管理器
+[2026-07-11 22:28:48] [AuroraCity.kkwmc.cn] [CHAT] Aevum7
