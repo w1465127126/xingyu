@@ -3960,3 +3960,6 @@
 [2026-07-11 18:35:59] [AuroraCity.kkwmc.cn] [CHAT] 拿这个试试
 [2026-07-11 18:36:12] [AuroraCity.kkwmc.cn] [CMD] /warp 鹅斯拉
 [2026-07-11 18:36:30] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-11 18:36:34] [AuroraCity.kkwmc.cn] [CMD] /tpa mao_yao
+[2026-07-11 18:36:36] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-11 18:36:53] [AuroraCity.kkwmc.cn] [CMD] /home 3
