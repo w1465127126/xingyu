@@ -3972,3 +3972,6 @@
 [2026-07-11 18:38:40] [AuroraCity.kkwmc.cn] [CHAT] 搞个连点器
 [2026-07-11 18:38:53] [AuroraCity.kkwmc.cn] [CMD] /res tp gz
 [2026-07-11 18:39:00] [AuroraCity.kkwmc.cn] [CHAT] res gz
+[2026-07-11 18:39:30] [AuroraCity.kkwmc.cn] [CHAT] 把你的头拿下来
+[2026-07-11 18:39:34] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-11 18:39:50] [AuroraCity.kkwmc.cn] [CHAT] 我搭个地方吧
