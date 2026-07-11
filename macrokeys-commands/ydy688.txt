@@ -4239,3 +4239,6 @@
 [2026-07-12 00:19:45] [AuroraCity.kkwmc.cn] [CHAT] 台式是什么
 [2026-07-12 00:20:10] [AuroraCity.kkwmc.cn] [CHAT] 耐久10能附剪刀吗
 [2026-07-12 00:21:08] [AuroraCity.kkwmc.cn] [CHAT] 给剪刀装时运5
+[2026-07-12 00:21:32] [AuroraCity.kkwmc.cn] [CHAT] 我圈子这么干净的人
+[2026-07-12 00:26:28] [AuroraCity.kkwmc.cn] [CMD] /home 3
+[2026-07-12 00:26:42] [AuroraCity.kkwmc.cn] [CMD] /bck
