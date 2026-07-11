@@ -3945,3 +3945,9 @@
 [2026-07-11 18:16:52] [AuroraCity.kkwmc.cn] [CMD] /hat
 [2026-07-11 18:22:55] [AuroraCity.kkwmc.cn] [CMD] /fly
 [2026-07-11 18:23:01] [AuroraCity.kkwmc.cn] [CMD] /fl
+[2026-07-11 18:23:04] [AuroraCity.kkwmc.cn] [CMD] /fly ydy688
+[2026-07-11 18:23:07] [AuroraCity.kkwmc.cn] [CMD] /fly ydy688
+[2026-07-11 18:23:12] [AuroraCity.kkwmc.cn] [CMD] /fly jaek
+[2026-07-11 18:31:21] [AuroraCity.kkwmc.cn] [CMD] /tpahere app Jaek
+[2026-07-11 18:31:26] [AuroraCity.kkwmc.cn] [CMD] /tpahere app
+[2026-07-11 18:31:30] [AuroraCity.kkwmc.cn] [CMD] /tpahere j
