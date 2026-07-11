@@ -4723,3 +4723,6 @@
 [2026-07-11 23:41:05] [AuroraCity.kkwmc.cn] [CMD] /l wokaoa
 [2026-07-11 23:41:07] [AuroraCity.kkwmc.cn] [CHAT] ?
 [2026-07-11 23:41:08] [AuroraCity.kkwmc.cn] [CMD] /fly
+[2026-07-11 23:41:09] [AuroraCity.kkwmc.cn] [CMD] /fly
+[2026-07-11 23:42:15] [AuroraCity.kkwmc.cn] [CHAT] 这家伙在说什么呢
+[2026-07-11 23:43:22] [AuroraCity.kkwmc.cn] [CHAT] 现在年轻人都这么性压抑吗
