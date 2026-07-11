@@ -4035,3 +4035,6 @@
 [2026-07-11 20:22:16] [AuroraCity.kkwmc.cn] [CHAT] 拿鬼新娘砍我
 [2026-07-11 20:23:04] [AuroraCity.kkwmc.cn] [CHAT] 不疼啊
 [2026-07-11 20:23:13] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-11 20:23:51] [AuroraCity.kkwmc.cn] [CHAT] 我的盾咋没了
+[2026-07-11 20:24:07] [AuroraCity.kkwmc.cn] [CHAT] 砍死我
+[2026-07-11 20:25:29] [AuroraCity.kkwmc.cn] [CHAT] 你是小馋猫
