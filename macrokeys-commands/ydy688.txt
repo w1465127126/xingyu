@@ -4092,3 +4092,9 @@
 [2026-07-11 22:28:35] [AuroraCity.kkwmc.cn] [CHAT] 不能
 [2026-07-11 22:28:42] [AuroraCity.kkwmc.cn] [CHAT] 必须有个管理器
 [2026-07-11 22:28:48] [AuroraCity.kkwmc.cn] [CHAT] Aevum7
+[2026-07-11 22:28:55] [AuroraCity.kkwmc.cn] [CHAT] 你过来给他做一个
+[2026-07-11 22:28:58] [AuroraCity.kkwmc.cn] [CHAT] 原始版的
+[2026-07-11 22:29:01] [AuroraCity.kkwmc.cn] [CMD] /fly
+[2026-07-11 22:29:20] [AuroraCity.kkwmc.cn] [CHAT] 自己做去
+[2026-07-11 22:29:36] [AuroraCity.kkwmc.cn] [CHAT] 你个傻福
+[2026-07-11 22:30:37] [AuroraCity.kkwmc.cn] [CMD] /tpa Jaek
