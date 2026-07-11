@@ -1534,3 +1534,6 @@
 [2026-07-11 11:48:30] [x6.sjcmc.cn:34054] [CHAT] nb
 [2026-07-11 11:48:38] [x6.sjcmc.cn:34054] [CMD] /tpa Fantasyland
 [2026-07-11 11:48:46] [x6.sjcmc.cn:34054] [CMD] /tpa qingbie
+[2026-07-11 11:49:32] [x6.sjcmc.cn:34054] [CMD] /tpa Aevum7
+[2026-07-11 11:50:34] [x6.sjcmc.cn:34054] [CMD] /spawn
+[2026-07-11 11:50:53] [x6.sjcmc.cn:34054] [CMD] /tpa vsoth
