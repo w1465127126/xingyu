@@ -4648,3 +4648,12 @@
 [2026-07-11 22:47:39] [AuroraCity.kkwmc.cn] [CHAT] 我是intel平台= =
 [2026-07-11 22:57:26] [AuroraCity.kkwmc.cn] [CMD] /res tp d
 [2026-07-11 22:57:57] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-11 22:58:02] [AuroraCity.kkwmc.cn] [CMD] /sethome j
+[2026-07-11 23:00:51] [AuroraCity.kkwmc.cn] [CMD] /spawn
+[2026-07-11 23:00:53] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-11 23:02:39] [AuroraCity.kkwmc.cn] [CMD] /spawn
+[2026-07-11 23:02:41] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-11 23:02:51] [AuroraCity.kkwmc.cn] [JOIN] 连接服务器: AuroraCity.kkwmc.cn
+[2026-07-11 23:02:55] [AuroraCity.kkwmc.cn] [CMD] /l wokaoa
+[2026-07-11 23:04:05] [AuroraCity.kkwmc.cn] [CMD] /res tp d
+[2026-07-11 23:04:27] [AuroraCity.kkwmc.cn] [CMD] /home j
