@@ -4074,3 +4074,6 @@
 [2026-07-11 22:19:20] [AuroraCity.kkwmc.cn] [CMD] /skins
 [2026-07-11 22:22:04] [AuroraCity.kkwmc.cn] [CHAT] 没忙啊
 [2026-07-11 22:24:21] [AuroraCity.kkwmc.cn] [CMD] /tpa Jaek
+[2026-07-11 22:25:15] [AuroraCity.kkwmc.cn] [CHAT] 宝石都进我口袋了、
+[2026-07-11 22:25:22] [AuroraCity.kkwmc.cn] [CHAT] 其他的都扔掉了
+[2026-07-11 22:25:44] [AuroraCity.kkwmc.cn] [CHAT] 这不是吗
