@@ -3818,3 +3818,6 @@
 [2026-07-11 12:21:19] [AuroraCity.kkwmc.cn] [JOIN] 连接服务器: AuroraCity.kkwmc.cn
 [2026-07-11 12:21:32] [AuroraCity.kkwmc.cn] [CMD] /login xvvcxc
 [2026-07-11 12:21:49] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-11 12:22:40] [AuroraCity.kkwmc.cn] [CMD] /skins
+[2026-07-11 12:22:50] [AuroraCity.kkwmc.cn] [JOIN] 连接服务器: AuroraCity.kkwmc.cn
+[2026-07-11 12:22:53] [AuroraCity.kkwmc.cn] [CMD] /login xvvcxc
