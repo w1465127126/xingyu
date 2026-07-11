@@ -4257,3 +4257,9 @@
 [2026-07-12 00:35:25] [AuroraCity.kkwmc.cn] [CMD] /back
 [2026-07-12 00:35:29] [AuroraCity.kkwmc.cn] [CHAT] 还有人活着吗
 [2026-07-12 00:35:49] [AuroraCity.kkwmc.cn] [CHAT] 在线的扣个1
+[2026-07-12 00:39:48] [AuroraCity.kkwmc.cn] [CHAT] 本服务器即将关闭
+[2026-07-12 00:39:52] [AuroraCity.kkwmc.cn] [CHAT] 谢谢大家的游玩
+[2026-07-12 00:39:58] [AuroraCity.kkwmc.cn] [CHAT] 倒计时五秒
+[2026-07-12 00:39:59] [AuroraCity.kkwmc.cn] [CHAT] 5
+[2026-07-12 00:40:01] [AuroraCity.kkwmc.cn] [CHAT] 4
+[2026-07-12 00:40:02] [AuroraCity.kkwmc.cn] [CHAT] 3
