@@ -4230,3 +4230,6 @@
 [2026-07-12 00:02:52] [AuroraCity.kkwmc.cn] [CHAT] 优化了吧
 [2026-07-12 00:06:02] [AuroraCity.kkwmc.cn] [CHAT] 刚才服主说
 [2026-07-12 00:06:10] [AuroraCity.kkwmc.cn] [CHAT] 后天就停服了
+[2026-07-12 00:06:23] [AuroraCity.kkwmc.cn] [CHAT] 圆石我们家有
+[2026-07-12 00:07:09] [AuroraCity.kkwmc.cn] [CMD] /skins
+[2026-07-12 00:07:14] [AuroraCity.kkwmc.cn] [CMD] /hat
