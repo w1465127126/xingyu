@@ -4284,3 +4284,6 @@
 [2026-07-12 00:55:48] [AuroraCity.kkwmc.cn] [CMD] /back
 [2026-07-12 00:56:37] [AuroraCity.kkwmc.cn] [CHAT] shuijiao
 [2026-07-12 00:56:41] [AuroraCity.kkwmc.cn] [CHAT] 都给我睡觉
+[2026-07-12 00:56:45] [AuroraCity.kkwmc.cn] [CHAT] 别玩了
+[2026-07-12 00:56:48] [AuroraCity.kkwmc.cn] [CHAT] 呜呜呜呜
+[2026-07-12 00:56:57] [AuroraCity.kkwmc.cn] [CHAT] 阿瓦达啃大瓜
