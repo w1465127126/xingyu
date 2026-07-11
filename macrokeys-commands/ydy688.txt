@@ -4038,3 +4038,6 @@
 [2026-07-11 20:23:51] [AuroraCity.kkwmc.cn] [CHAT] 我的盾咋没了
 [2026-07-11 20:24:07] [AuroraCity.kkwmc.cn] [CHAT] 砍死我
 [2026-07-11 20:25:29] [AuroraCity.kkwmc.cn] [CHAT] 你是小馋猫
+[2026-07-11 20:26:54] [AuroraCity.kkwmc.cn] [CHAT] 全都是
+[2026-07-11 20:27:00] [AuroraCity.kkwmc.cn] [CHAT] [i]
+[2026-07-11 20:27:06] [AuroraCity.kkwmc.cn] [CMD] /hat
