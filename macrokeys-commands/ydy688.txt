@@ -3990,3 +3990,6 @@
 [2026-07-11 18:52:17] [AuroraCity.kkwmc.cn] [CHAT] 直接死不加
 [2026-07-11 18:53:15] [AuroraCity.kkwmc.cn] [CHAT] 你有吸血吗
 [2026-07-11 18:53:49] [AuroraCity.kkwmc.cn] [CHAT] 吃饭了
+[2026-07-11 18:53:58] [AuroraCity.kkwmc.cn] [CHAT] 慢慢刷吧
+[2026-07-11 18:54:08] [AuroraCity.kkwmc.cn] [CHAT] 你们别搞
+[2026-07-11 18:55:10] [AuroraCity.kkwmc.cn] [CMD] /fly
