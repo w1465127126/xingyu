@@ -3824,3 +3824,6 @@
 [2026-07-11 12:23:16] [AuroraCity.kkwmc.cn] [CMD] /home 3
 [2026-07-11 12:24:19] [AuroraCity.kkwmc.cn] [CMD] /warp 鹅斯拉
 [2026-07-11 12:24:33] [AuroraCity.kkwmc.cn] [CMD] /home 3
+[2026-07-11 12:25:22] [AuroraCity.kkwmc.cn] [CMD] /warp 冒险者大厅
+[2026-07-11 12:25:44] [AuroraCity.kkwmc.cn] [CMD] /tpa app
+[2026-07-11 12:26:39] [AuroraCity.kkwmc.cn] [CMD] /warp 冒险者大厅
