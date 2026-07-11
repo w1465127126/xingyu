@@ -3993,3 +3993,6 @@
 [2026-07-11 18:53:58] [AuroraCity.kkwmc.cn] [CHAT] 慢慢刷吧
 [2026-07-11 18:54:08] [AuroraCity.kkwmc.cn] [CHAT] 你们别搞
 [2026-07-11 18:55:10] [AuroraCity.kkwmc.cn] [CMD] /fly
+[2026-07-11 18:56:14] [AuroraCity.kkwmc.cn] [CHAT] 封个顶
+[2026-07-11 18:56:21] [AuroraCity.kkwmc.cn] [CHAT] 你出去设别的重生点去
+[2026-07-11 19:33:36] [AuroraCity.kkwmc.cn] [CMD] /home 2
