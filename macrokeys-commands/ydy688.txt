@@ -4254,3 +4254,6 @@
 [2026-07-12 00:33:57] [AuroraCity.kkwmc.cn] [CMD] /tpahere Jaek
 [2026-07-12 00:34:24] [AuroraCity.kkwmc.cn] [CHAT] ./pvpt
 [2026-07-12 00:35:06] [AuroraCity.kkwmc.cn] [CMD] /hat
+[2026-07-12 00:35:25] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-12 00:35:29] [AuroraCity.kkwmc.cn] [CHAT] 还有人活着吗
+[2026-07-12 00:35:49] [AuroraCity.kkwmc.cn] [CHAT] 在线的扣个1
