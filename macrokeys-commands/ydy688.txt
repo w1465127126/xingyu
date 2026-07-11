@@ -3966,3 +3966,6 @@
 [2026-07-11 18:37:03] [AuroraCity.kkwmc.cn] [CMD] /tpahere Jaek
 [2026-07-11 18:37:15] [AuroraCity.kkwmc.cn] [CMD] /tpahere mao_yao
 [2026-07-11 18:37:33] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-11 18:37:43] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-11 18:38:29] [AuroraCity.kkwmc.cn] [CHAT] 你拿你的剑砍我
+[2026-07-11 18:38:34] [AuroraCity.kkwmc.cn] [CHAT] 帮我刷一下防御
