@@ -4528,3 +4528,63 @@
 [2026-07-10 17:07:30] [AuroraCity.kkwmc.cn] [CHAT] 来
 [2026-07-10 17:07:41] [AuroraCity.kkwmc.cn] [CMD] /tpaccept
 [2026-07-10 17:07:50] [AuroraCity.kkwmc.cn] [CHAT] 你进服多久了
+[2026-07-10 17:07:56] [AuroraCity.kkwmc.cn] [CHAT] 还没嫖到会员
+[2026-07-10 17:08:21] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-10 17:08:25] [AuroraCity.kkwmc.cn] [CHAT] ok
+[2026-07-10 17:08:32] [AuroraCity.kkwmc.cn] [CHAT] 下机
+[2026-07-10 17:08:38] [AuroraCity.kkwmc.cn] [JOIN] 连接服务器: AuroraCity.kkwmc.cn
+[2026-07-10 17:08:46] [AuroraCity.kkwmc.cn] [CMD] /l wokaoa
+[2026-07-10 17:08:49] [AuroraCity.kkwmc.cn] [CHAT] 去个挂机池
+[2026-07-10 17:08:59] [AuroraCity.kkwmc.cn] [CHAT] 这才是我的家
+[2026-07-11 16:19:24] [AuroraCity.kkwmc.cn] [JOIN] 连接服务器: AuroraCity.kkwmc.cn
+[2026-07-11 16:19:32] [AuroraCity.kkwmc.cn] [CMD] /l wokaoa
+[2026-07-11 16:19:34] [AuroraCity.kkwmc.cn] [CHAT] 咋了
+[2026-07-11 16:19:59] [AuroraCity.kkwmc.cn] [CHAT] ok
+[2026-07-11 16:24:16] [AuroraCity.kkwmc.cn] [JOIN] 连接服务器: AuroraCity.kkwmc.cn
+[2026-07-11 16:24:19] [AuroraCity.kkwmc.cn] [CMD] /l wokaoa
+[2026-07-11 16:24:59] [AuroraCity.kkwmc.cn] [CMD] /res tp d
+[2026-07-11 16:25:30] [AuroraCity.kkwmc.cn] [CHAT] 你这天天打副本刷到啥好东西了不
+[2026-07-11 16:25:54] [AuroraCity.kkwmc.cn] [CHAT] 怪太慢了= =
+[2026-07-11 16:26:14] [AuroraCity.kkwmc.cn] [CHAT] 你这排武器商店是干啥的
+[2026-07-11 16:26:32] [AuroraCity.kkwmc.cn] [CHAT] hxd顺个鹅蛋
+[2026-07-11 16:26:35] [AuroraCity.kkwmc.cn] [CMD] /warp 鹅斯拉
+[2026-07-11 16:26:40] [AuroraCity.kkwmc.cn] [CHAT] 抽到好东西给你
+[2026-07-11 16:26:49] [AuroraCity.kkwmc.cn] [CMD] /ah
+[2026-07-11 16:26:57] [AuroraCity.kkwmc.cn] [CHAT] 可以的
+[2026-07-11 16:27:08] [AuroraCity.kkwmc.cn] [CHAT] 这几天服务器没啥人打副本么
+[2026-07-11 16:27:15] [AuroraCity.kkwmc.cn] [CHAT] 这么稳定
+[2026-07-11 16:27:20] [AuroraCity.kkwmc.cn] [CHAT] 我居然没掉线
+[2026-07-11 16:27:30] [AuroraCity.kkwmc.cn] [CMD] /warp 冒险者大厅
+[2026-07-11 16:27:35] [AuroraCity.kkwmc.cn] [CHAT] 可以的
+[2026-07-11 16:27:41] [AuroraCity.kkwmc.cn] [CHAT] 鹅蛋我顺走了
+[2026-07-11 16:28:19] [AuroraCity.kkwmc.cn] [CHAT] 依旧垃圾开会
+[2026-07-11 16:28:21] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-11 16:28:28] [AuroraCity.kkwmc.cn] [CMD] /res tp d
+[2026-07-11 16:30:13] [AuroraCity.kkwmc.cn] [CMD] /warp 地狱世界
+[2026-07-11 16:31:40] [AuroraCity.kkwmc.cn] [CMD] /res tp d
+[2026-07-11 16:32:01] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-11 16:32:50] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-11 16:33:05] [AuroraCity.kkwmc.cn] [CHAT] 你龙打了?
+[2026-07-11 16:34:48] [AuroraCity.kkwmc.cn] [CMD] /warp 末地世界
+[2026-07-11 16:35:00] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-11 16:35:05] [AuroraCity.kkwmc.cn] [CMD] /warp 末地世界
+[2026-07-11 16:35:10] [AuroraCity.kkwmc.cn] [CHAT] 这傻逼小黑
+[2026-07-11 16:35:18] [AuroraCity.kkwmc.cn] [CHAT] ?
+[2026-07-11 16:35:20] [AuroraCity.kkwmc.cn] [CHAT] 谁在打我
+[2026-07-11 16:35:21] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-11 16:35:25] [AuroraCity.kkwmc.cn] [CMD] /warp 末地世界
+[2026-07-11 16:36:04] [AuroraCity.kkwmc.cn] [CMD] /fly\
+[2026-07-11 16:36:06] [AuroraCity.kkwmc.cn] [CMD] /fly
+[2026-07-11 16:36:44] [AuroraCity.kkwmc.cn] [CMD] /fly
+[2026-07-11 16:36:47] [AuroraCity.kkwmc.cn] [CMD] /fly
+[2026-07-11 16:36:51] [AuroraCity.kkwmc.cn] [CMD] /fly
+[2026-07-11 16:36:51] [AuroraCity.kkwmc.cn] [CMD] /fly
+[2026-07-11 16:36:52] [AuroraCity.kkwmc.cn] [CMD] /fly
+[2026-07-11 16:37:23] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-11 16:37:25] [AuroraCity.kkwmc.cn] [CMD] /spawn
+[2026-07-11 16:37:51] [AuroraCity.kkwmc.cn] [CHAT] 马上就能换ikun称号了
+[2026-07-11 16:39:02] [AuroraCity.kkwmc.cn] [CHAT] z
+[2026-07-11 16:39:51] [AuroraCity.kkwmc.cn] [CHAT] 告辞
+[2026-07-11 22:25:40] [AuroraCity.kkwmc.cn] [JOIN] 连接服务器: AuroraCity.kkwmc.cn
+[2026-07-11 22:25:52] [AuroraCity.kkwmc.cn] [CMD] /l wokaoa
+[2026-07-11 22:25:53] [AuroraCity.kkwmc.cn] [CMD] /res tp d
