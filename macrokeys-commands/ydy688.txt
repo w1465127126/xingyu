@@ -4227,3 +4227,6 @@
 [2026-07-12 00:01:24] [AuroraCity.kkwmc.cn] [CMD] /pay Jaek 1000000
 [2026-07-12 00:02:29] [AuroraCity.kkwmc.cn] [CMD] /pay app 1000000
 [2026-07-12 00:02:49] [AuroraCity.kkwmc.cn] [CHAT] 没退啊
+[2026-07-12 00:02:52] [AuroraCity.kkwmc.cn] [CHAT] 优化了吧
+[2026-07-12 00:06:02] [AuroraCity.kkwmc.cn] [CHAT] 刚才服主说
+[2026-07-12 00:06:10] [AuroraCity.kkwmc.cn] [CHAT] 后天就停服了
