@@ -4795,3 +4795,6 @@
 [2026-07-12 00:01:22] [AuroraCity.kkwmc.cn] [CHAT] 没钱的就是28.8
 [2026-07-12 00:01:27] [AuroraCity.kkwmc.cn] [CHAT] 有钱直接百分比砍
 [2026-07-12 00:02:05] [AuroraCity.kkwmc.cn] [CHAT] 3w个石头马上铺完了= =
+[2026-07-12 00:02:09] [AuroraCity.kkwmc.cn] [JOIN] 连接服务器: AuroraCity.kkwmc.cn
+[2026-07-12 00:02:12] [AuroraCity.kkwmc.cn] [CMD] /l wokaoa
+[2026-07-12 00:02:20] [AuroraCity.kkwmc.cn] [JOIN] 连接服务器: AuroraCity.kkwmc.cn
