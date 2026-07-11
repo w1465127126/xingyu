@@ -4639,3 +4639,9 @@
 [2026-07-11 22:40:28] [AuroraCity.kkwmc.cn] [CMD] /res tp zhucheng
 [2026-07-11 22:42:15] [AuroraCity.kkwmc.cn] [CMD] /res tp d
 [2026-07-11 22:43:44] [AuroraCity.kkwmc.cn] [CMD] /res tp d
+[2026-07-11 22:45:15] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-11 22:46:35] [AuroraCity.kkwmc.cn] [CHAT] wc
+[2026-07-11 22:46:39] [AuroraCity.kkwmc.cn] [CHAT] 我电脑带不动这投影
+[2026-07-11 22:46:40] [AuroraCity.kkwmc.cn] [CHAT] 卡死我了
+[2026-07-11 22:47:12] [AuroraCity.kkwmc.cn] [CHAT] 关了一样卡
+[2026-07-11 22:47:16] [AuroraCity.kkwmc.cn] [CHAT] cpu不行
