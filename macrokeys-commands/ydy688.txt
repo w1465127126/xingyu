@@ -3984,3 +3984,6 @@
 [2026-07-11 18:42:16] [AuroraCity.kkwmc.cn] [CMD] /fly
 [2026-07-11 18:42:32] [AuroraCity.kkwmc.cn] [CMD] /flipcard
 [2026-07-11 18:43:41] [AuroraCity.kkwmc.cn] [CHAT] 我站在这了
+[2026-07-11 18:43:48] [AuroraCity.kkwmc.cn] [CHAT] 拿个外卖
+[2026-07-11 18:51:45] [AuroraCity.kkwmc.cn] [CHAT] 。。。
+[2026-07-11 18:51:50] [AuroraCity.kkwmc.cn] [CHAT] 扩大地方
