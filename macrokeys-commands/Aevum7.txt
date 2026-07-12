@@ -5090,3 +5090,6 @@
 [2026-07-12 21:01:50] [AuroraCity.kkwmc.cn] [CHAT] 去哪
 [2026-07-12 21:01:57] [AuroraCity.kkwmc.cn] [CMD] /back
 [2026-07-12 21:02:01] [AuroraCity.kkwmc.cn] [CHAT] 能回去啊
+[2026-07-12 21:02:16] [AuroraCity.kkwmc.cn] [CHAT] 我不是说没了么
+[2026-07-12 21:03:00] [AuroraCity.kkwmc.cn] [CHAT] 超级刷怪笼= =
+[2026-07-12 21:03:12] [AuroraCity.kkwmc.cn] [CHAT] 全尼玛是怪
