@@ -4958,3 +4958,6 @@
 [2026-07-12 18:56:40] [AuroraCity.kkwmc.cn] [CHAT] 秒啊
 [2026-07-12 18:56:59] [AuroraCity.kkwmc.cn] [CHAT] 挂了
 [2026-07-12 18:57:10] [AuroraCity.kkwmc.cn] [CHAT] 老老实实多加点吧
+[2026-07-12 18:57:18] [AuroraCity.kkwmc.cn] [CHAT] 现在拆肯定是没得拆了
+[2026-07-12 18:57:46] [AuroraCity.kkwmc.cn] [CHAT] 哎
+[2026-07-12 18:57:48] [AuroraCity.kkwmc.cn] [CMD] /back
