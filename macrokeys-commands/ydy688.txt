@@ -4644,3 +4644,6 @@
 [2026-07-12 22:47:01] [AuroraCity.kkwmc.cn] [CHAT] luren
 [2026-07-12 22:48:34] [AuroraCity.kkwmc.cn] [CHAT] ./res tp shuatie
 [2026-07-12 22:52:46] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-12 22:53:27] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-12 22:53:42] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-12 22:53:51] [AuroraCity.kkwmc.cn] [CHAT] 这个唱片也太难听了吧
