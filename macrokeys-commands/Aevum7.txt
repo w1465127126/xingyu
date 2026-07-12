@@ -4895,3 +4895,6 @@
 [2026-07-12 18:28:18] [AuroraCity.kkwmc.cn] [CMD] /cmi ? 4
 [2026-07-12 18:29:58] [AuroraCity.kkwmc.cn] [CMD] /cmi sell
 [2026-07-12 18:30:30] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-12 18:30:33] [AuroraCity.kkwmc.cn] [CMD] /fly
+[2026-07-12 18:38:26] [AuroraCity.kkwmc.cn] [CMD] /res tp zhucheng
+[2026-07-12 18:38:58] [AuroraCity.kkwmc.cn] [CHAT] all
