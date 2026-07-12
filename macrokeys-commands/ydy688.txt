@@ -4614,3 +4614,6 @@
 [2026-07-12 22:32:25] [AuroraCity.kkwmc.cn] [CHAT] sf guide
 [2026-07-12 22:32:56] [AuroraCity.kkwmc.cn] [CMD] /tpa red12138
 [2026-07-12 22:33:57] [AuroraCity.kkwmc.cn] [CHAT] 怎么又有一个xiaoheita
+[2026-07-12 22:34:28] [AuroraCity.kkwmc.cn] [CHAT] sf guide
+[2026-07-12 22:34:31] [AuroraCity.kkwmc.cn] [CMD] /hom2
+[2026-07-12 22:34:35] [AuroraCity.kkwmc.cn] [CMD] /home 2
