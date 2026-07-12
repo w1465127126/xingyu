@@ -4368,3 +4368,6 @@
 [2026-07-12 16:02:47] [AuroraCity.kkwmc.cn] [CHAT] 对的
 [2026-07-12 16:02:55] [AuroraCity.kkwmc.cn] [CHAT] 我们服务器穷光蛋不许玩
 [2026-07-12 16:03:22] [AuroraCity.kkwmc.cn] [CHAT] 输入这个指令就能开创造了
+[2026-07-12 16:04:13] [AuroraCity.kkwmc.cn] [CMD] /tpa Jaek
+[2026-07-12 16:05:07] [AuroraCity.kkwmc.cn] [CHAT] 你也没给我钱啊
+[2026-07-12 16:05:09] [AuroraCity.kkwmc.cn] [CMD] /back
