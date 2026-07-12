@@ -4503,3 +4503,6 @@
 [2026-07-12 21:45:38] [AuroraCity.kkwmc.cn] [CHAT] 一万五出
 [2026-07-12 21:46:57] [AuroraCity.kkwmc.cn] [CHAT] 掉经验
 [2026-07-12 21:49:33] [AuroraCity.kkwmc.cn] [CHAT] 2000你都要剥削？
+[2026-07-12 21:49:41] [AuroraCity.kkwmc.cn] [CMD] /hat
+[2026-07-12 21:50:41] [AuroraCity.kkwmc.cn] [CHAT] 一毛钱卖不了
+[2026-07-12 21:50:49] [AuroraCity.kkwmc.cn] [CMD] /res tp shuatie
