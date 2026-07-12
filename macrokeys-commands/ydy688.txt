@@ -4386,3 +4386,8 @@
 [2026-07-12 16:14:15] [AuroraCity.kkwmc.cn] [CHAT] all
 [2026-07-12 16:14:18] [AuroraCity.kkwmc.cn] [CMD] /back
 [2026-07-12 16:15:09] [AuroraCity.kkwmc.cn] [CMD] /hat
+[2026-07-12 16:15:20] [AuroraCity.kkwmc.cn] [CMD] /tpa app
+[2026-07-12 16:15:28] [AuroraCity.kkwmc.cn] [CHAT] @
+[2026-07-12 19:40:24] [AuroraCity.kkwmc.cn] [JOIN] 连接服务器: AuroraCity.kkwmc.cn
+[2026-07-12 19:40:35] [AuroraCity.kkwmc.cn] [CMD] /login xvvcxc
+[2026-07-12 19:40:44] [AuroraCity.kkwmc.cn] [CMD] /home 3
