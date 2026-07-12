@@ -4470,3 +4470,6 @@
 [2026-07-12 21:10:45] [AuroraCity.kkwmc.cn] [CMD] /tpa luren
 [2026-07-12 21:11:03] [AuroraCity.kkwmc.cn] [CHAT] luren
 [2026-07-12 21:11:20] [AuroraCity.kkwmc.cn] [CMD] /tpa Jaek
+[2026-07-12 21:11:34] [AuroraCity.kkwmc.cn] [CMD] /hat
+[2026-07-12 21:11:43] [AuroraCity.kkwmc.cn] [CMD] /home 3
+[2026-07-12 21:12:06] [AuroraCity.kkwmc.cn] [CMD] /tpa
