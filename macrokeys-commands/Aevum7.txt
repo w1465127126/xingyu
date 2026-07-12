@@ -4889,3 +4889,6 @@
 [2026-07-12 18:21:18] [AuroraCity.kkwmc.cn] [CHAT] 好无聊= =
 [2026-07-12 18:27:49] [AuroraCity.kkwmc.cn] [CMD] /cmi
 [2026-07-12 18:27:59] [AuroraCity.kkwmc.cn] [CMD] /cmi ?
+[2026-07-12 18:28:00] [AuroraCity.kkwmc.cn] [CMD] /cmi ? 2
+[2026-07-12 18:28:08] [AuroraCity.kkwmc.cn] [CMD] /cmi ? 3
+[2026-07-12 18:28:13] [AuroraCity.kkwmc.cn] [CMD] /cmi ? 5
