@@ -5027,3 +5027,6 @@
 [2026-07-12 20:32:25] [AuroraCity.kkwmc.cn] [CMD] /back
 [2026-07-12 20:32:27] [AuroraCity.kkwmc.cn] [CHAT] all
 [2026-07-12 20:32:28] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-12 20:34:13] [AuroraCity.kkwmc.cn] [CHAT] 啥机器
+[2026-07-12 20:34:37] [AuroraCity.kkwmc.cn] [CHAT] 怪事
+[2026-07-12 20:34:48] [AuroraCity.kkwmc.cn] [CHAT] 不动就不动呗
