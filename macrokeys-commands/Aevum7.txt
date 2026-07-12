@@ -4997,3 +4997,6 @@
 [2026-07-12 19:12:38] [AuroraCity.kkwmc.cn] [CHAT] 隔壁怎么燃起来了
 [2026-07-12 19:13:02] [AuroraCity.kkwmc.cn] [CHAT] 我家还是这么干净
 [2026-07-12 19:13:18] [AuroraCity.kkwmc.cn] [CHAT] 我和 gggggggguo是邻居awa
+[2026-07-12 19:13:34] [AuroraCity.kkwmc.cn] [CMD] /fly
+[2026-07-12 19:13:35] [AuroraCity.kkwmc.cn] [CHAT] 这个
+[2026-07-12 19:13:36] [AuroraCity.kkwmc.cn] [CHAT] 这个
