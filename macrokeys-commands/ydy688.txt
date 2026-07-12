@@ -4326,3 +4326,6 @@
 [2026-07-12 14:53:58] [AuroraCity.kkwmc.cn] [CMD] /res tp zhucheng2
 [2026-07-12 14:54:05] [AuroraCity.kkwmc.cn] [CHAT] al
 [2026-07-12 14:54:07] [AuroraCity.kkwmc.cn] [CHAT] all
+[2026-07-12 14:54:10] [AuroraCity.kkwmc.cn] [CHAT] all
+[2026-07-12 14:54:15] [AuroraCity.kkwmc.cn] [CMD] /home 3
+[2026-07-12 14:54:51] [AuroraCity.kkwmc.cn] [CMD] /hat
