@@ -4371,3 +4371,6 @@
 [2026-07-12 16:04:13] [AuroraCity.kkwmc.cn] [CMD] /tpa Jaek
 [2026-07-12 16:05:07] [AuroraCity.kkwmc.cn] [CHAT] 你也没给我钱啊
 [2026-07-12 16:05:09] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-12 16:05:23] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-12 16:05:26] [AuroraCity.kkwmc.cn] [CMD] /home 3
+[2026-07-12 16:07:25] [AuroraCity.kkwmc.cn] [CMD] /tpahere app
