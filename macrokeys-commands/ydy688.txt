@@ -4518,3 +4518,6 @@
 [2026-07-12 21:57:33] [AuroraCity.kkwmc.cn] [CHAT] 谁家啊
 [2026-07-12 21:57:36] [AuroraCity.kkwmc.cn] [CHAT] 怎么烧起来了
 [2026-07-12 21:57:45] [AuroraCity.kkwmc.cn] [CHAT] aaa
+[2026-07-12 21:58:35] [AuroraCity.kkwmc.cn] [CMD] /home 3
+[2026-07-12 21:58:45] [AuroraCity.kkwmc.cn] [CHAT] 你换个角度想想
+[2026-07-12 21:58:53] [AuroraCity.kkwmc.cn] [CHAT] 两万买随意飞
