@@ -4919,3 +4919,6 @@
 [2026-07-12 18:48:43] [AuroraCity.kkwmc.cn] [CHAT] 是这样的
 [2026-07-12 18:48:50] [AuroraCity.kkwmc.cn] [CHAT] 上面挂机一个下面再挂机就废了
 [2026-07-12 18:49:03] [AuroraCity.kkwmc.cn] [CMD] /tpa mao_yao
+[2026-07-12 18:49:05] [AuroraCity.kkwmc.cn] [CHAT] 看下
+[2026-07-12 18:49:15] [AuroraCity.kkwmc.cn] [CHAT] = =
+[2026-07-12 18:49:23] [AuroraCity.kkwmc.cn] [CHAT] 这个服务器用不了红石钟
