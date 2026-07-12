@@ -4302,3 +4302,6 @@
 [2026-07-12 12:21:08] [AuroraCity.kkwmc.cn] [CHAT] gansha
 [2026-07-12 12:22:04] [AuroraCity.kkwmc.cn] [CHAT] what are u doing
 [2026-07-12 12:22:33] [AuroraCity.kkwmc.cn] [CHAT] 我给你发个
+[2026-07-12 14:22:21] [AuroraCity.kkwmc.cn] [JOIN] 连接服务器: AuroraCity.kkwmc.cn
+[2026-07-12 14:22:42] [AuroraCity.kkwmc.cn] [CMD] /login xvvcxc
+[2026-07-12 14:23:21] [AuroraCity.kkwmc.cn] [CMD] /tpa app
