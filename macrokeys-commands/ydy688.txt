@@ -4671,3 +4671,6 @@
 [2026-07-12 23:28:03] [AuroraCity.kkwmc.cn] [CMD] /res tp shuatie
 [2026-07-12 23:28:15] [AuroraCity.kkwmc.cn] [CMD] /back
 [2026-07-12 23:29:01] [AuroraCity.kkwmc.cn] [CHAT] 叫我挂哥
+[2026-07-12 23:29:41] [AuroraCity.kkwmc.cn] [CHAT] [i]
+[2026-07-12 23:30:05] [AuroraCity.kkwmc.cn] [CHAT] 这个服务器已经被外挂入侵看
+[2026-07-12 23:30:07] [AuroraCity.kkwmc.cn] [CHAT] 了
