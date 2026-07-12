@@ -5000,3 +5000,6 @@
 [2026-07-12 19:13:34] [AuroraCity.kkwmc.cn] [CMD] /fly
 [2026-07-12 19:13:35] [AuroraCity.kkwmc.cn] [CHAT] 这个
 [2026-07-12 19:13:36] [AuroraCity.kkwmc.cn] [CHAT] 这个
+[2026-07-12 19:13:38] [AuroraCity.kkwmc.cn] [CMD] /fly
+[2026-07-12 19:13:48] [AuroraCity.kkwmc.cn] [CHAT] 是的
+[2026-07-12 19:14:04] [AuroraCity.kkwmc.cn] [CHAT] 这不是种了竹子么
