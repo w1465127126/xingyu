@@ -4668,3 +4668,6 @@
 [2026-07-12 23:25:01] [AuroraCity.kkwmc.cn] [CMD] /tpa ad_x
 [2026-07-12 23:27:00] [AuroraCity.kkwmc.cn] [CHAT] 把身上的铀给我
 [2026-07-12 23:27:19] [AuroraCity.kkwmc.cn] [CHAT] 核武器
+[2026-07-12 23:28:03] [AuroraCity.kkwmc.cn] [CMD] /res tp shuatie
+[2026-07-12 23:28:15] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-12 23:29:01] [AuroraCity.kkwmc.cn] [CHAT] 叫我挂哥
