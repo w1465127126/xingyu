@@ -5048,3 +5048,6 @@
 [2026-07-12 20:52:24] [AuroraCity.kkwmc.cn] [CHAT] 卡就把音乐关了awa
 [2026-07-12 20:52:36] [AuroraCity.kkwmc.cn] [CHAT] 你是不是关的所有人的哦
 [2026-07-12 20:52:39] [AuroraCity.kkwmc.cn] [CHAT] res set没用
+[2026-07-12 20:53:13] [AuroraCity.kkwmc.cn] [CHAT] 你关他权限干嘛0.0
+[2026-07-12 20:54:24] [AuroraCity.kkwmc.cn] [CHAT] res set里有没有设置过use权限哦
+[2026-07-12 20:54:35] [AuroraCity.kkwmc.cn] [CHAT] 等下所有人都能开就好玩了
