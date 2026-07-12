@@ -1762,3 +1762,6 @@
 [2026-07-12 20:59:44] [x6.sjcmc.cn:34054] [CMD] /res tp yt
 [2026-07-12 21:00:23] [x6.sjcmc.cn:34054] [CMD] /home Home
 [2026-07-12 21:02:22] [x6.sjcmc.cn:34054] [CMD] /home Home
+[2026-07-12 21:03:17] [x6.sjcmc.cn:34054] [CMD] /back
+[2026-07-12 21:06:29] [x6.sjcmc.cn:34054] [CMD] /ah sell 200000 200000 1
+[2026-07-12 21:08:04] [x6.sjcmc.cn:34054] [CMD] /home Home
