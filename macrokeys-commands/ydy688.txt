@@ -4539,3 +4539,6 @@
 [2026-07-12 22:05:44] [AuroraCity.kkwmc.cn] [CHAT] 试试
 [2026-07-12 22:05:57] [AuroraCity.kkwmc.cn] [CHAT] 这个工作台呢
 [2026-07-12 22:06:44] [AuroraCity.kkwmc.cn] [CMD] /res padd gggggggguo table
+[2026-07-12 22:07:05] [AuroraCity.kkwmc.cn] [CMD] /res help
+[2026-07-12 22:07:44] [AuroraCity.kkwmc.cn] [CMD] /res pset gggggggguo enderpearl-末影珍珠传送
+[2026-07-12 22:07:56] [AuroraCity.kkwmc.cn] [CHAT] shift右键
