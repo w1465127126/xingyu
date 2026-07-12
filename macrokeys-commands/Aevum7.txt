@@ -4907,3 +4907,6 @@
 [2026-07-12 18:39:35] [AuroraCity.kkwmc.cn] [CMD] /back
 [2026-07-12 18:40:25] [AuroraCity.kkwmc.cn] [CMD] /res tp d
 [2026-07-12 18:40:40] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-12 18:45:44] [AuroraCity.kkwmc.cn] [CMD] /tpaccept
+[2026-07-12 18:45:45] [AuroraCity.kkwmc.cn] [CHAT] 咋了
+[2026-07-12 18:46:11] [AuroraCity.kkwmc.cn] [CHAT] 有人挂机就稳定
