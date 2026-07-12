@@ -4988,3 +4988,6 @@
 [2026-07-12 19:04:11] [AuroraCity.kkwmc.cn] [CHAT] 卖吗
 [2026-07-12 19:04:33] [AuroraCity.kkwmc.cn] [CHAT] 还好我ai搓了个宏
 [2026-07-12 19:04:40] [AuroraCity.kkwmc.cn] [CHAT] 直接上脚本
+[2026-07-12 19:11:31] [AuroraCity.kkwmc.cn] [CMD] /tpa gggggggguo
+[2026-07-12 19:11:44] [AuroraCity.kkwmc.cn] [CHAT] 好家伙
+[2026-07-12 19:11:53] [AuroraCity.kkwmc.cn] [CHAT] 这全换成黑曜石的不得起飞
