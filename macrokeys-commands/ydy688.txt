@@ -4542,3 +4542,6 @@
 [2026-07-12 22:07:05] [AuroraCity.kkwmc.cn] [CMD] /res help
 [2026-07-12 22:07:44] [AuroraCity.kkwmc.cn] [CMD] /res pset gggggggguo enderpearl-末影珍珠传送
 [2026-07-12 22:07:56] [AuroraCity.kkwmc.cn] [CHAT] shift右键
+[2026-07-12 22:08:04] [AuroraCity.kkwmc.cn] [CHAT] 切换到风可以起飞
+[2026-07-12 22:08:17] [AuroraCity.kkwmc.cn] [CHAT] 再右键
+[2026-07-12 22:08:30] [AuroraCity.kkwmc.cn] [CHAT] 再试试呢
