@@ -4308,3 +4308,6 @@
 [2026-07-12 14:23:33] [AuroraCity.kkwmc.cn] [CMD] /fly
 [2026-07-12 14:23:36] [AuroraCity.kkwmc.cn] [CMD] /fly
 [2026-07-12 14:24:25] [AuroraCity.kkwmc.cn] [CMD] /hat
+[2026-07-12 14:24:33] [AuroraCity.kkwmc.cn] [CHAT] 你找什么呢
+[2026-07-12 14:25:31] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-12 14:25:56] [AuroraCity.kkwmc.cn] [CMD] /home 3
