@@ -4536,3 +4536,6 @@
 [2026-07-12 22:04:30] [AuroraCity.kkwmc.cn] [CHAT] 怎么给来的
 [2026-07-12 22:05:02] [AuroraCity.kkwmc.cn] [CHAT] gggggggguo
 [2026-07-12 22:05:29] [AuroraCity.kkwmc.cn] [CMD] /res pdel gggggggguo
+[2026-07-12 22:05:44] [AuroraCity.kkwmc.cn] [CHAT] 试试
+[2026-07-12 22:05:57] [AuroraCity.kkwmc.cn] [CHAT] 这个工作台呢
+[2026-07-12 22:06:44] [AuroraCity.kkwmc.cn] [CMD] /res padd gggggggguo table
