@@ -4443,3 +4443,6 @@
 [2026-07-12 20:57:00] [AuroraCity.kkwmc.cn] [CMD] /res pdel __nba__
 [2026-07-12 20:57:09] [AuroraCity.kkwmc.cn] [CMD] /res pdel Aevum7
 [2026-07-12 20:57:11] [AuroraCity.kkwmc.cn] [CMD] /warp 鹅斯拉
+[2026-07-12 20:57:25] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-12 20:57:44] [AuroraCity.kkwmc.cn] [CHAT] 你不会给mod开个去鹅的指令吗
+[2026-07-12 20:57:50] [AuroraCity.kkwmc.cn] [CHAT] Aevum7
