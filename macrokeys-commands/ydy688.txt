@@ -4506,3 +4506,6 @@
 [2026-07-12 21:49:41] [AuroraCity.kkwmc.cn] [CMD] /hat
 [2026-07-12 21:50:41] [AuroraCity.kkwmc.cn] [CHAT] 一毛钱卖不了
 [2026-07-12 21:50:49] [AuroraCity.kkwmc.cn] [CMD] /res tp shuatie
+[2026-07-12 21:52:39] [AuroraCity.kkwmc.cn] [CHAT] 我送你一组强化合金锭
+[2026-07-12 21:55:33] [AuroraCity.kkwmc.cn] [CHAT] 谁用鞘翅啊
+[2026-07-12 21:55:37] [AuroraCity.kkwmc.cn] [CMD] /tpa red12138
