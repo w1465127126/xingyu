@@ -4638,3 +4638,9 @@
 [2026-07-12 22:44:15] [AuroraCity.kkwmc.cn] [CHAT] 不重复
 [2026-07-12 22:45:11] [AuroraCity.kkwmc.cn] [CHAT] ？
 [2026-07-12 22:46:09] [AuroraCity.kkwmc.cn] [CHAT] 一个方块1块钱
+[2026-07-12 22:46:15] [AuroraCity.kkwmc.cn] [CMD] /hoem 3
+[2026-07-12 22:46:16] [AuroraCity.kkwmc.cn] [CMD] /home 3
+[2026-07-12 22:46:25] [AuroraCity.kkwmc.cn] [CHAT] 挂全球就行
+[2026-07-12 22:47:01] [AuroraCity.kkwmc.cn] [CHAT] luren
+[2026-07-12 22:48:34] [AuroraCity.kkwmc.cn] [CHAT] ./res tp shuatie
+[2026-07-12 22:52:46] [AuroraCity.kkwmc.cn] [CMD] /home 2
