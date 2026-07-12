@@ -4391,3 +4391,6 @@
 [2026-07-12 19:40:24] [AuroraCity.kkwmc.cn] [JOIN] 连接服务器: AuroraCity.kkwmc.cn
 [2026-07-12 19:40:35] [AuroraCity.kkwmc.cn] [CMD] /login xvvcxc
 [2026-07-12 19:40:44] [AuroraCity.kkwmc.cn] [CMD] /home 3
+[2026-07-12 19:41:34] [AuroraCity.kkwmc.cn] [CMD] /res tp zhucheng2
+[2026-07-12 19:41:42] [AuroraCity.kkwmc.cn] [CHAT] all
+[2026-07-12 19:41:44] [AuroraCity.kkwmc.cn] [CMD] /back
