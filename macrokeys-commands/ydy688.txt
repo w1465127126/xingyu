@@ -4431,3 +4431,6 @@
 [2026-07-12 20:54:14] [AuroraCity.kkwmc.cn] [CHAT] 还他妈能开
 [2026-07-12 20:54:35] [AuroraCity.kkwmc.cn] [CMD] /res set
 [2026-07-12 20:54:44] [AuroraCity.kkwmc.cn] [CMD] /res set
+[2026-07-12 20:55:09] [AuroraCity.kkwmc.cn] [CHAT] Aevum7
+[2026-07-12 20:55:14] [AuroraCity.kkwmc.cn] [CHAT] 你回来拿点东西
+[2026-07-12 20:55:17] [AuroraCity.kkwmc.cn] [CHAT] 看看能不能快
