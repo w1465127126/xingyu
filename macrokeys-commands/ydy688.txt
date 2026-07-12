@@ -4692,3 +4692,6 @@
 [2026-07-12 23:44:47] [AuroraCity.kkwmc.cn] [CMD] /tpahere l
 [2026-07-12 23:44:50] [AuroraCity.kkwmc.cn] [CMD] /tpahere luren
 [2026-07-12 23:45:07] [AuroraCity.kkwmc.cn] [CHAT] 2026年7月12日23:45:06
+[2026-07-12 23:54:38] [AuroraCity.kkwmc.cn] [CMD] /hat
+[2026-07-12 23:56:27] [AuroraCity.kkwmc.cn] [CMD] /fly
+[2026-07-12 23:58:36] [AuroraCity.kkwmc.cn] [CMD] /pay Jaek 5000
