@@ -4437,3 +4437,6 @@
 [2026-07-12 20:55:34] [AuroraCity.kkwmc.cn] [CHAT] 是不是开的权限不能关？
 [2026-07-12 20:55:53] [AuroraCity.kkwmc.cn] [CHAT] 因为删掉成员的话没显示把他们的权限关掉
 [2026-07-12 20:55:56] [AuroraCity.kkwmc.cn] [CHAT] 没有
+[2026-07-12 20:56:11] [AuroraCity.kkwmc.cn] [CHAT] 我就是删人的啊
+[2026-07-12 20:56:22] [AuroraCity.kkwmc.cn] [CMD] /res remove __nba__
+[2026-07-12 20:56:38] [AuroraCity.kkwmc.cn] [CHAT] ??这个指令不是删领地吗
