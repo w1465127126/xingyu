@@ -5063,3 +5063,6 @@
 [2026-07-12 20:56:04] [AuroraCity.kkwmc.cn] [CHAT] 权限不都还在么
 [2026-07-12 20:56:08] [AuroraCity.kkwmc.cn] [CMD] /res remove __nba__
 [2026-07-12 20:56:12] [AuroraCity.kkwmc.cn] [CHAT] res remove
+[2026-07-12 20:56:17] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-12 20:56:42] [AuroraCity.kkwmc.cn] [CHAT] 是吗
+[2026-07-12 20:56:46] [AuroraCity.kkwmc.cn] [CHAT] 我忘了
