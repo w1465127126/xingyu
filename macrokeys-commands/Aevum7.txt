@@ -4892,3 +4892,6 @@
 [2026-07-12 18:28:00] [AuroraCity.kkwmc.cn] [CMD] /cmi ? 2
 [2026-07-12 18:28:08] [AuroraCity.kkwmc.cn] [CMD] /cmi ? 3
 [2026-07-12 18:28:13] [AuroraCity.kkwmc.cn] [CMD] /cmi ? 5
+[2026-07-12 18:28:18] [AuroraCity.kkwmc.cn] [CMD] /cmi ? 4
+[2026-07-12 18:29:58] [AuroraCity.kkwmc.cn] [CMD] /cmi sell
+[2026-07-12 18:30:30] [AuroraCity.kkwmc.cn] [CMD] /back
