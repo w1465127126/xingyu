@@ -4695,3 +4695,6 @@
 [2026-07-12 23:54:38] [AuroraCity.kkwmc.cn] [CMD] /hat
 [2026-07-12 23:56:27] [AuroraCity.kkwmc.cn] [CMD] /fly
 [2026-07-12 23:58:36] [AuroraCity.kkwmc.cn] [CMD] /pay Jaek 5000
+[2026-07-12 23:58:47] [AuroraCity.kkwmc.cn] [CMD] /home 3
+[2026-07-12 23:59:03] [AuroraCity.kkwmc.cn] [CMD] /fly
+[2026-07-12 23:59:09] [AuroraCity.kkwmc.cn] [CHAT] 什么意思
