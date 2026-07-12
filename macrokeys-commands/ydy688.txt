@@ -4593,3 +4593,6 @@
 [2026-07-12 22:27:08] [AuroraCity.kkwmc.cn] [CHAT] 这不就是pvp 的哪个地方
 [2026-07-12 22:27:16] [AuroraCity.kkwmc.cn] [CHAT] 服主从哪搬来的
 [2026-07-12 22:28:27] [AuroraCity.kkwmc.cn] [CHAT] 我了感受动能
+[2026-07-12 22:29:03] [AuroraCity.kkwmc.cn] [CHAT] 你可以做一个魔法防具的史莱姆靴子
+[2026-07-12 22:29:07] [AuroraCity.kkwmc.cn] [CHAT] 这样能免疫掉落伤害
+[2026-07-12 22:29:13] [AuroraCity.kkwmc.cn] [CHAT] 鞘翅都不需要了
