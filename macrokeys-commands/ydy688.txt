@@ -4632,3 +4632,6 @@
 [2026-07-12 22:39:53] [AuroraCity.kkwmc.cn] [CHAT] 给你开工资
 [2026-07-12 22:40:14] [AuroraCity.kkwmc.cn] [CHAT] ./res tp zhucheng2
 [2026-07-12 22:40:31] [AuroraCity.kkwmc.cn] [CMD] /tpa Jaek
+[2026-07-12 22:41:23] [AuroraCity.kkwmc.cn] [CHAT] 你玩的一瞬间其实就选择来当了
+[2026-07-12 22:44:09] [AuroraCity.kkwmc.cn] [CHAT] 收唱片
+[2026-07-12 22:44:12] [AuroraCity.kkwmc.cn] [CHAT] 五千一张
