@@ -4976,3 +4976,6 @@
 [2026-07-12 19:01:41] [AuroraCity.kkwmc.cn] [CHAT] 顶不住了xd mao_yao
 [2026-07-12 19:01:50] [AuroraCity.kkwmc.cn] [CHAT] 不知道几天能完工
 [2026-07-12 19:01:52] [AuroraCity.kkwmc.cn] [CMD] /tpahere mao_yao
+[2026-07-12 19:02:13] [AuroraCity.kkwmc.cn] [CHAT] 现在连框架都还没搭完= =
+[2026-07-12 19:02:22] [AuroraCity.kkwmc.cn] [CHAT] 说是有投影哦
+[2026-07-12 19:02:26] [AuroraCity.kkwmc.cn] [CHAT] 材料多的一笔
