@@ -4925,3 +4925,6 @@
 [2026-07-12 18:49:35] [AuroraCity.kkwmc.cn] [CHAT] 老老实实低频吧
 [2026-07-12 18:49:48] [AuroraCity.kkwmc.cn] [CHAT] 多加几个循环
 [2026-07-12 18:50:19] [AuroraCity.kkwmc.cn] [CHAT] 你把中间的竖着放
+[2026-07-12 18:50:25] [AuroraCity.kkwmc.cn] [CHAT] 多加些中继器试一下
+[2026-07-12 18:50:31] [AuroraCity.kkwmc.cn] [CHAT] 把频率调低一点
+[2026-07-12 18:50:35] [AuroraCity.kkwmc.cn] [CHAT] 看下不会被卡么
