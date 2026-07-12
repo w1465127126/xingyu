@@ -4599,3 +4599,9 @@
 [2026-07-12 22:29:26] [AuroraCity.kkwmc.cn] [CHAT] 出粘液球一千一个
 [2026-07-12 22:29:30] [AuroraCity.kkwmc.cn] [CMD] /fly
 [2026-07-12 22:29:45] [AuroraCity.kkwmc.cn] [CMD] /tpa luren
+[2026-07-12 22:29:51] [AuroraCity.kkwmc.cn] [CMD] /hat
+[2026-07-12 22:29:59] [AuroraCity.kkwmc.cn] [CHAT] luren
+[2026-07-12 22:30:02] [AuroraCity.kkwmc.cn] [CHAT] 接我的tp
+[2026-07-12 22:30:04] [AuroraCity.kkwmc.cn] [CHAT] l
+[2026-07-12 22:30:07] [AuroraCity.kkwmc.cn] [CHAT] luren
+[2026-07-12 22:30:08] [AuroraCity.kkwmc.cn] [CHAT] luren
