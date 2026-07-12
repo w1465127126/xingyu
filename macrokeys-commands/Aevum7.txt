@@ -4949,3 +4949,6 @@
 [2026-07-12 18:54:58] [AuroraCity.kkwmc.cn] [CHAT] 现在不是挺好的么
 [2026-07-12 18:55:07] [AuroraCity.kkwmc.cn] [CHAT] 这个服务器好像有漏斗和红石块
 [2026-07-12 18:55:11] [AuroraCity.kkwmc.cn] [CHAT] 红石就挂
+[2026-07-12 18:55:29] [AuroraCity.kkwmc.cn] [CHAT] 我之前也被折磨了
+[2026-07-12 18:55:40] [AuroraCity.kkwmc.cn] [CHAT] 本来就没红石
+[2026-07-12 18:55:44] [AuroraCity.kkwmc.cn] [CHAT] 本来就没骨头
