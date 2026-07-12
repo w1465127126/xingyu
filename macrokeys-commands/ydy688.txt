@@ -4323,3 +4323,6 @@
 [2026-07-12 14:50:50] [AuroraCity.kkwmc.cn] [CMD] /home
 [2026-07-12 14:53:17] [AuroraCity.kkwmc.cn] [CMD] /tpa
 [2026-07-12 14:53:19] [AuroraCity.kkwmc.cn] [CMD] /tpa app
+[2026-07-12 14:53:58] [AuroraCity.kkwmc.cn] [CMD] /res tp zhucheng2
+[2026-07-12 14:54:05] [AuroraCity.kkwmc.cn] [CHAT] al
+[2026-07-12 14:54:07] [AuroraCity.kkwmc.cn] [CHAT] all
