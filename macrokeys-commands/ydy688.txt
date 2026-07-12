@@ -4401,3 +4401,6 @@
 [2026-07-12 20:43:57] [AuroraCity.kkwmc.cn] [JOIN] 连接服务器: AuroraCity.kkwmc.cn
 [2026-07-12 20:44:01] [AuroraCity.kkwmc.cn] [CMD] /login xvvcxc
 [2026-07-12 20:44:06] [AuroraCity.kkwmc.cn] [CMD] /tpa Jaek
+[2026-07-12 20:44:33] [AuroraCity.kkwmc.cn] [CMD] /fly
+[2026-07-12 20:44:38] [AuroraCity.kkwmc.cn] [CMD] /fly
+[2026-07-12 20:45:39] [AuroraCity.kkwmc.cn] [CMD] /home 3
