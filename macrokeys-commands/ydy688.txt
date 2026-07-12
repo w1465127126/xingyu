@@ -4293,3 +4293,6 @@
 [2026-07-12 12:16:10] [AuroraCity.kkwmc.cn] [JOIN] 连接服务器: AuroraCity.kkwmc.cn
 [2026-07-12 12:16:14] [AuroraCity.kkwmc.cn] [CMD] /login xvvcxc
 [2026-07-12 12:16:32] [AuroraCity.kkwmc.cn] [CMD] /f
+[2026-07-12 12:16:34] [AuroraCity.kkwmc.cn] [CMD] /fly
+[2026-07-12 12:19:23] [AuroraCity.kkwmc.cn] [CMD] /at
+[2026-07-12 12:19:24] [AuroraCity.kkwmc.cn] [CMD] /hat
