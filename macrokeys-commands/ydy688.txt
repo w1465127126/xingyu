@@ -4434,3 +4434,6 @@
 [2026-07-12 20:55:09] [AuroraCity.kkwmc.cn] [CHAT] Aevum7
 [2026-07-12 20:55:14] [AuroraCity.kkwmc.cn] [CHAT] 你回来拿点东西
 [2026-07-12 20:55:17] [AuroraCity.kkwmc.cn] [CHAT] 看看能不能快
+[2026-07-12 20:55:34] [AuroraCity.kkwmc.cn] [CHAT] 是不是开的权限不能关？
+[2026-07-12 20:55:53] [AuroraCity.kkwmc.cn] [CHAT] 因为删掉成员的话没显示把他们的权限关掉
+[2026-07-12 20:55:56] [AuroraCity.kkwmc.cn] [CHAT] 没有
