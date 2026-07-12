@@ -4374,3 +4374,6 @@
 [2026-07-12 16:05:23] [AuroraCity.kkwmc.cn] [CMD] /back
 [2026-07-12 16:05:26] [AuroraCity.kkwmc.cn] [CMD] /home 3
 [2026-07-12 16:07:25] [AuroraCity.kkwmc.cn] [CMD] /tpahere app
+[2026-07-12 16:07:29] [AuroraCity.kkwmc.cn] [CMD] /tpahere Jaek
+[2026-07-12 16:10:18] [AuroraCity.kkwmc.cn] [CMD] /fly
+[2026-07-12 16:10:24] [AuroraCity.kkwmc.cn] [CMD] /fy
