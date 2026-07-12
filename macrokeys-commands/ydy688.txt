@@ -4689,3 +4689,6 @@
 [2026-07-12 23:42:02] [AuroraCity.kkwmc.cn] [CMD] /tpahere l
 [2026-07-12 23:42:05] [AuroraCity.kkwmc.cn] [CMD] /tpahere luren
 [2026-07-12 23:43:31] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-12 23:44:47] [AuroraCity.kkwmc.cn] [CMD] /tpahere l
+[2026-07-12 23:44:50] [AuroraCity.kkwmc.cn] [CMD] /tpahere luren
+[2026-07-12 23:45:07] [AuroraCity.kkwmc.cn] [CHAT] 2026年7月12日23:45:06
