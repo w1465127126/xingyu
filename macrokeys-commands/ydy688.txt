@@ -4317,3 +4317,6 @@
 [2026-07-12 14:38:25] [AuroraCity.kkwmc.cn] [CHAT] 领地宝石给我
 [2026-07-12 14:38:52] [AuroraCity.kkwmc.cn] [CHAT] 给我找来
 [2026-07-12 14:42:52] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-12 14:43:18] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-12 14:48:54] [AuroraCity.kkwmc.cn] [CHAT] 还能性交？
+[2026-07-12 14:50:46] [AuroraCity.kkwmc.cn] [CMD] /delhome
