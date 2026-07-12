@@ -4299,3 +4299,6 @@
 [2026-07-12 12:19:29] [AuroraCity.kkwmc.cn] [CMD] /warp 鹅斯拉
 [2026-07-12 12:20:36] [AuroraCity.kkwmc.cn] [CMD] /home 1
 [2026-07-12 12:20:41] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-12 12:21:08] [AuroraCity.kkwmc.cn] [CHAT] gansha
+[2026-07-12 12:22:04] [AuroraCity.kkwmc.cn] [CHAT] what are u doing
+[2026-07-12 12:22:33] [AuroraCity.kkwmc.cn] [CHAT] 我给你发个
