@@ -4452,3 +4452,6 @@
 [2026-07-12 20:59:00] [AuroraCity.kkwmc.cn] [CHAT] Aevum7
 [2026-07-12 20:59:02] [AuroraCity.kkwmc.cn] [CHAT] 回来
 [2026-07-12 20:59:20] [AuroraCity.kkwmc.cn] [CHAT] 开箱子试试
+[2026-07-12 20:59:44] [AuroraCity.kkwmc.cn] [CMD] /res pdel all
+[2026-07-12 21:00:14] [AuroraCity.kkwmc.cn] [CMD] /res pdel WWZ
+[2026-07-12 21:00:23] [AuroraCity.kkwmc.cn] [CMD] /res pdel gggggggguo
