@@ -4913,3 +4913,6 @@
 [2026-07-12 18:46:36] [AuroraCity.kkwmc.cn] [CHAT] 因为下面有人或者红石卡了= =
 [2026-07-12 18:46:54] [AuroraCity.kkwmc.cn] [CHAT] 不知道
 [2026-07-12 18:47:00] [AuroraCity.kkwmc.cn] [CHAT] 这个服务器的问题
+[2026-07-12 18:47:37] [AuroraCity.kkwmc.cn] [CHAT] 是这样的= =
+[2026-07-12 18:47:44] [AuroraCity.kkwmc.cn] [CHAT] 下面还不能有人挂机
+[2026-07-12 18:48:20] [AuroraCity.kkwmc.cn] [CHAT] 也不好说= =
