@@ -5054,3 +5054,6 @@
 [2026-07-12 20:55:13] [AuroraCity.kkwmc.cn] [CHAT] ?
 [2026-07-12 20:55:21] [AuroraCity.kkwmc.cn] [CMD] /res tp d
 [2026-07-12 20:55:30] [AuroraCity.kkwmc.cn] [CHAT] 可以啊
+[2026-07-12 20:55:33] [AuroraCity.kkwmc.cn] [CHAT] 你不会设置么= =
+[2026-07-12 20:55:43] [AuroraCity.kkwmc.cn] [CHAT] 有个菜单哦xd
+[2026-07-12 20:55:51] [AuroraCity.kkwmc.cn] [CHAT] 你应该是打开了所有人？
