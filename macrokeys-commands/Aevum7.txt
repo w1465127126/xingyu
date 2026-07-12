@@ -5051,3 +5051,6 @@
 [2026-07-12 20:53:13] [AuroraCity.kkwmc.cn] [CHAT] 你关他权限干嘛0.0
 [2026-07-12 20:54:24] [AuroraCity.kkwmc.cn] [CHAT] res set里有没有设置过use权限哦
 [2026-07-12 20:54:35] [AuroraCity.kkwmc.cn] [CHAT] 等下所有人都能开就好玩了
+[2026-07-12 20:55:13] [AuroraCity.kkwmc.cn] [CHAT] ?
+[2026-07-12 20:55:21] [AuroraCity.kkwmc.cn] [CMD] /res tp d
+[2026-07-12 20:55:30] [AuroraCity.kkwmc.cn] [CHAT] 可以啊
