@@ -4647,3 +4647,6 @@
 [2026-07-12 22:53:27] [AuroraCity.kkwmc.cn] [CMD] /back
 [2026-07-12 22:53:42] [AuroraCity.kkwmc.cn] [CMD] /back
 [2026-07-12 22:53:51] [AuroraCity.kkwmc.cn] [CHAT] 这个唱片也太难听了吧
+[2026-07-12 22:53:56] [AuroraCity.kkwmc.cn] [CHAT] 有没有好听的啊
+[2026-07-12 22:57:01] [AuroraCity.kkwmc.cn] [CMD] /res tp yt
+[2026-07-12 22:59:31] [AuroraCity.kkwmc.cn] [CMD] /tpa Jaek
