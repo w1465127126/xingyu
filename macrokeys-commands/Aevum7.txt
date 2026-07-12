@@ -4916,3 +4916,6 @@
 [2026-07-12 18:47:37] [AuroraCity.kkwmc.cn] [CHAT] 是这样的= =
 [2026-07-12 18:47:44] [AuroraCity.kkwmc.cn] [CHAT] 下面还不能有人挂机
 [2026-07-12 18:48:20] [AuroraCity.kkwmc.cn] [CHAT] 也不好说= =
+[2026-07-12 18:48:43] [AuroraCity.kkwmc.cn] [CHAT] 是这样的
+[2026-07-12 18:48:50] [AuroraCity.kkwmc.cn] [CHAT] 上面挂机一个下面再挂机就废了
+[2026-07-12 18:49:03] [AuroraCity.kkwmc.cn] [CMD] /tpa mao_yao
