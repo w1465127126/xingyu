@@ -4356,3 +4356,6 @@
 [2026-07-12 15:54:27] [AuroraCity.kkwmc.cn] [CMD] /tpa app
 [2026-07-12 15:59:05] [AuroraCity.kkwmc.cn] [CHAT] 我是樱花盗墓
 [2026-07-12 15:59:55] [AuroraCity.kkwmc.cn] [CHAT] 大家好我是埃德斯塔福特
+[2026-07-12 16:00:18] [AuroraCity.kkwmc.cn] [CMD] /tpa AstralLunar
+[2026-07-12 16:00:53] [AuroraCity.kkwmc.cn] [CMD] /hat
+[2026-07-12 16:00:55] [AuroraCity.kkwmc.cn] [CMD] /hat
