@@ -4545,3 +4545,6 @@
 [2026-07-12 22:08:04] [AuroraCity.kkwmc.cn] [CHAT] 切换到风可以起飞
 [2026-07-12 22:08:17] [AuroraCity.kkwmc.cn] [CHAT] 再右键
 [2026-07-12 22:08:30] [AuroraCity.kkwmc.cn] [CHAT] 再试试呢
+[2026-07-12 22:09:03] [AuroraCity.kkwmc.cn] [CHAT] 好了
+[2026-07-12 22:09:05] [AuroraCity.kkwmc.cn] [CHAT] ？
+[2026-07-12 22:09:19] [AuroraCity.kkwmc.cn] [CHAT] 草这是容器的权限
