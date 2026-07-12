@@ -4928,3 +4928,6 @@
 [2026-07-12 18:50:25] [AuroraCity.kkwmc.cn] [CHAT] 多加些中继器试一下
 [2026-07-12 18:50:31] [AuroraCity.kkwmc.cn] [CHAT] 把频率调低一点
 [2026-07-12 18:50:35] [AuroraCity.kkwmc.cn] [CHAT] 看下不会被卡么
+[2026-07-12 18:51:16] [AuroraCity.kkwmc.cn] [CHAT] 再多放点呗
+[2026-07-12 18:51:57] [AuroraCity.kkwmc.cn] [CHAT] 直接超低频awa
+[2026-07-12 18:52:07] [AuroraCity.kkwmc.cn] [CHAT] 感觉多了点
