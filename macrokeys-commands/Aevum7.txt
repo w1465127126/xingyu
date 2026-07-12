@@ -5084,3 +5084,9 @@
 [2026-07-12 20:59:14] [AuroraCity.kkwmc.cn] [CHAT] 搞什么
 [2026-07-12 20:59:21] [AuroraCity.kkwmc.cn] [CHAT] 没了
 [2026-07-12 20:59:23] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-12 20:59:35] [AuroraCity.kkwmc.cn] [CHAT] 2个
+[2026-07-12 20:59:41] [AuroraCity.kkwmc.cn] [CHAT] 用不完
+[2026-07-12 21:01:48] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-12 21:01:50] [AuroraCity.kkwmc.cn] [CHAT] 去哪
+[2026-07-12 21:01:57] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-12 21:02:01] [AuroraCity.kkwmc.cn] [CHAT] 能回去啊
