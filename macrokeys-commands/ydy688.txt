@@ -4359,3 +4359,6 @@
 [2026-07-12 16:00:18] [AuroraCity.kkwmc.cn] [CMD] /tpa AstralLunar
 [2026-07-12 16:00:53] [AuroraCity.kkwmc.cn] [CMD] /hat
 [2026-07-12 16:00:55] [AuroraCity.kkwmc.cn] [CMD] /hat
+[2026-07-12 16:01:05] [AuroraCity.kkwmc.cn] [CHAT] 实力？
+[2026-07-12 16:01:25] [AuroraCity.kkwmc.cn] [CHAT] 给我转五十块钱
+[2026-07-12 16:01:29] [AuroraCity.kkwmc.cn] [CHAT] 让你制霸服务器
