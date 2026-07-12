@@ -4533,3 +4533,6 @@
 [2026-07-12 22:03:28] [AuroraCity.kkwmc.cn] [CMD] /tpahere gggggggguo
 [2026-07-12 22:03:49] [AuroraCity.kkwmc.cn] [CHAT] 能打开吗
 [2026-07-12 22:04:05] [AuroraCity.kkwmc.cn] [CHAT] 等一下
+[2026-07-12 22:04:30] [AuroraCity.kkwmc.cn] [CHAT] 怎么给来的
+[2026-07-12 22:05:02] [AuroraCity.kkwmc.cn] [CHAT] gggggggguo
+[2026-07-12 22:05:29] [AuroraCity.kkwmc.cn] [CMD] /res pdel gggggggguo
