@@ -5078,3 +5078,9 @@
 [2026-07-12 20:58:05] [AuroraCity.kkwmc.cn] [CHAT] 都不知道什么时候刷新
 [2026-07-12 20:58:53] [AuroraCity.kkwmc.cn] [CHAT] 哈哈
 [2026-07-12 20:58:56] [AuroraCity.kkwmc.cn] [CHAT] 依旧赤石
+[2026-07-12 20:59:05] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-12 20:59:07] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-12 20:59:12] [AuroraCity.kkwmc.cn] [CMD] /res tp d
+[2026-07-12 20:59:14] [AuroraCity.kkwmc.cn] [CHAT] 搞什么
+[2026-07-12 20:59:21] [AuroraCity.kkwmc.cn] [CHAT] 没了
+[2026-07-12 20:59:23] [AuroraCity.kkwmc.cn] [CMD] /back
