@@ -5111,3 +5111,6 @@
 [2026-07-12 21:20:38] [AuroraCity.kkwmc.cn] [CHAT] 没权限
 [2026-07-12 21:20:43] [AuroraCity.kkwmc.cn] [CMD] /res info
 [2026-07-12 21:20:45] [AuroraCity.kkwmc.cn] [CMD] /tpaccept
+[2026-07-12 21:20:59] [AuroraCity.kkwmc.cn] [CHAT] 爱哦
+[2026-07-12 21:21:00] [AuroraCity.kkwmc.cn] [CHAT] 哎
+[2026-07-12 21:21:01] [AuroraCity.kkwmc.cn] [CHAT] wc
