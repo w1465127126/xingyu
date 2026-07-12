@@ -4422,3 +4422,6 @@
 [2026-07-12 20:52:11] [AuroraCity.kkwmc.cn] [CHAT] nba你还能开箱子为什么
 [2026-07-12 20:52:25] [AuroraCity.kkwmc.cn] [CHAT] 我刚给你权限关了
 [2026-07-12 20:52:49] [AuroraCity.kkwmc.cn] [CHAT] 我用领地宝石给他关了
+[2026-07-12 20:52:52] [AuroraCity.kkwmc.cn] [CHAT] 成员管理
+[2026-07-12 20:53:01] [AuroraCity.kkwmc.cn] [CHAT] 还有头上这个箱子哪来的
+[2026-07-12 20:53:35] [AuroraCity.kkwmc.cn] [CHAT] 我都删了
