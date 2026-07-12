@@ -4314,3 +4314,6 @@
 [2026-07-12 14:31:45] [AuroraCity.kkwmc.cn] [CMD] /res tp yt
 [2026-07-12 14:32:25] [AuroraCity.kkwmc.cn] [CMD] /back
 [2026-07-12 14:38:22] [AuroraCity.kkwmc.cn] [CHAT] app
+[2026-07-12 14:38:25] [AuroraCity.kkwmc.cn] [CHAT] 领地宝石给我
+[2026-07-12 14:38:52] [AuroraCity.kkwmc.cn] [CHAT] 给我找来
+[2026-07-12 14:42:52] [AuroraCity.kkwmc.cn] [CMD] /home 2
