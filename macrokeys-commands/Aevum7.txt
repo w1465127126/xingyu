@@ -4970,3 +4970,6 @@
 [2026-07-12 19:00:02] [AuroraCity.kkwmc.cn] [CMD] /res tp d
 [2026-07-12 19:00:10] [AuroraCity.kkwmc.cn] [CMD] /FLY
 [2026-07-12 19:00:31] [AuroraCity.kkwmc.cn] [CMD] /BACK
+[2026-07-12 19:00:37] [AuroraCity.kkwmc.cn] [CHAT] 有xd来pvp么
+[2026-07-12 19:01:26] [AuroraCity.kkwmc.cn] [CMD] /home j
+[2026-07-12 19:01:37] [AuroraCity.kkwmc.cn] [CHAT] 感觉这个家造大了
