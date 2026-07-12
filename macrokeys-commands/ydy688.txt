@@ -4500,3 +4500,6 @@
 [2026-07-12 21:44:34] [AuroraCity.kkwmc.cn] [CMD] /tpa luren
 [2026-07-12 21:45:26] [AuroraCity.kkwmc.cn] [CMD] /home 3
 [2026-07-12 21:45:36] [AuroraCity.kkwmc.cn] [CHAT] 现在有国补
+[2026-07-12 21:45:38] [AuroraCity.kkwmc.cn] [CHAT] 一万五出
+[2026-07-12 21:46:57] [AuroraCity.kkwmc.cn] [CHAT] 掉经验
+[2026-07-12 21:49:33] [AuroraCity.kkwmc.cn] [CHAT] 2000你都要剥削？
