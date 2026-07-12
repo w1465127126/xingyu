@@ -4575,3 +4575,9 @@
 [2026-07-12 22:15:11] [AuroraCity.kkwmc.cn] [CHAT] 显示的什么
 [2026-07-12 22:15:30] [AuroraCity.kkwmc.cn] [CHAT] 现在呢
 [2026-07-12 22:17:19] [AuroraCity.kkwmc.cn] [CMD] /tpa luren
+[2026-07-12 22:17:33] [AuroraCity.kkwmc.cn] [CHAT] luren
+[2026-07-12 22:17:57] [AuroraCity.kkwmc.cn] [CMD] /hat
+[2026-07-12 22:18:34] [AuroraCity.kkwmc.cn] [CHAT] 是不是有子领地设置
+[2026-07-12 22:18:51] [AuroraCity.kkwmc.cn] [CHAT] 回头做个公共的机器设施
+[2026-07-12 22:18:57] [AuroraCity.kkwmc.cn] [CHAT] 五万使用费
+[2026-07-12 22:20:26] [AuroraCity.kkwmc.cn] [CHAT] ？
