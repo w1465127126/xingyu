@@ -5114,3 +5114,6 @@
 [2026-07-12 21:20:59] [AuroraCity.kkwmc.cn] [CHAT] 爱哦
 [2026-07-12 21:21:00] [AuroraCity.kkwmc.cn] [CHAT] 哎
 [2026-07-12 21:21:01] [AuroraCity.kkwmc.cn] [CHAT] wc
+[2026-07-12 21:21:06] [AuroraCity.kkwmc.cn] [CHAT] 我没精准么
+[2026-07-12 21:21:28] [AuroraCity.kkwmc.cn] [CHAT] 原来是白桦树才有
+[2026-07-12 21:21:32] [AuroraCity.kkwmc.cn] [CMD] /fly
