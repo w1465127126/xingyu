@@ -4440,3 +4440,6 @@
 [2026-07-12 20:56:11] [AuroraCity.kkwmc.cn] [CHAT] 我就是删人的啊
 [2026-07-12 20:56:22] [AuroraCity.kkwmc.cn] [CMD] /res remove __nba__
 [2026-07-12 20:56:38] [AuroraCity.kkwmc.cn] [CHAT] ??这个指令不是删领地吗
+[2026-07-12 20:57:00] [AuroraCity.kkwmc.cn] [CMD] /res pdel __nba__
+[2026-07-12 20:57:09] [AuroraCity.kkwmc.cn] [CMD] /res pdel Aevum7
+[2026-07-12 20:57:11] [AuroraCity.kkwmc.cn] [CMD] /warp 鹅斯拉
