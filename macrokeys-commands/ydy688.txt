@@ -4479,3 +4479,6 @@
 [2026-07-12 21:16:35] [AuroraCity.kkwmc.cn] [CMD] /res tp shuatie
 [2026-07-12 21:16:50] [AuroraCity.kkwmc.cn] [CMD] /back
 [2026-07-12 21:18:21] [AuroraCity.kkwmc.cn] [CHAT] ./pvpt
+[2026-07-12 21:19:06] [AuroraCity.kkwmc.cn] [CHAT] ./back
+[2026-07-12 21:19:57] [AuroraCity.kkwmc.cn] [CHAT] 我找到一个
+[2026-07-12 21:20:00] [AuroraCity.kkwmc.cn] [CMD] /home 2
