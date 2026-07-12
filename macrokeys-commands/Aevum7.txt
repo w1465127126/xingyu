@@ -5036,3 +5036,6 @@
 [2026-07-12 20:35:19] [AuroraCity.kkwmc.cn] [CMD] /warp 末地世界
 [2026-07-12 20:36:27] [AuroraCity.kkwmc.cn] [CMD] /spawn
 [2026-07-12 20:36:46] [AuroraCity.kkwmc.cn] [CMD] /home j
+[2026-07-12 20:37:03] [AuroraCity.kkwmc.cn] [CHAT] 吃饭吃饭
+[2026-07-12 20:49:35] [AuroraCity.kkwmc.cn] [CHAT] hjh
+[2026-07-12 20:49:45] [AuroraCity.kkwmc.cn] [CHAT] 鱼塔的货源算是找到了
