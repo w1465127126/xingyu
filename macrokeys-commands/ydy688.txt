@@ -4569,3 +4569,9 @@
 [2026-07-12 22:14:20] [AuroraCity.kkwmc.cn] [CHAT] 空手打开
 [2026-07-12 22:14:36] [AuroraCity.kkwmc.cn] [CHAT] 对啊
 [2026-07-12 22:14:48] [AuroraCity.kkwmc.cn] [CHAT] ？？
+[2026-07-12 22:14:53] [AuroraCity.kkwmc.cn] [CHAT] 附魔台嗯
+[2026-07-12 22:14:56] [AuroraCity.kkwmc.cn] [CHAT] 呢
+[2026-07-12 22:15:08] [AuroraCity.kkwmc.cn] [CHAT] 这个没有？
+[2026-07-12 22:15:11] [AuroraCity.kkwmc.cn] [CHAT] 显示的什么
+[2026-07-12 22:15:30] [AuroraCity.kkwmc.cn] [CHAT] 现在呢
+[2026-07-12 22:17:19] [AuroraCity.kkwmc.cn] [CMD] /tpa luren
