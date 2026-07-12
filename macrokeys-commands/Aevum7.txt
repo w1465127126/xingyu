@@ -4955,3 +4955,6 @@
 [2026-07-12 18:55:48] [AuroraCity.kkwmc.cn] [CHAT] 刷怪塔还老死
 [2026-07-12 18:56:21] [AuroraCity.kkwmc.cn] [CHAT] 讲究啊
 [2026-07-12 18:56:38] [AuroraCity.kkwmc.cn] [CHAT] 侦测石墙
+[2026-07-12 18:56:40] [AuroraCity.kkwmc.cn] [CHAT] 秒啊
+[2026-07-12 18:56:59] [AuroraCity.kkwmc.cn] [CHAT] 挂了
+[2026-07-12 18:57:10] [AuroraCity.kkwmc.cn] [CHAT] 老老实实多加点吧
