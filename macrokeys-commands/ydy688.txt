@@ -4698,3 +4698,6 @@
 [2026-07-12 23:58:47] [AuroraCity.kkwmc.cn] [CMD] /home 3
 [2026-07-12 23:59:03] [AuroraCity.kkwmc.cn] [CMD] /fly
 [2026-07-12 23:59:09] [AuroraCity.kkwmc.cn] [CHAT] 什么意思
+[2026-07-12 23:59:17] [AuroraCity.kkwmc.cn] [CHAT] 我建的大豪宅呢
+[2026-07-13 00:00:24] [AuroraCity.kkwmc.cn] [CHAT] 你拆的吧
+[2026-07-13 00:00:31] [AuroraCity.kkwmc.cn] [CHAT] 太可恶了
