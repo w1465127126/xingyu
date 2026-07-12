@@ -4365,3 +4365,6 @@
 [2026-07-12 16:01:49] [AuroraCity.kkwmc.cn] [CHAT] 教你怎么开创造
 [2026-07-12 16:02:04] [AuroraCity.kkwmc.cn] [CHAT] 没有钱玩什么服务器
 [2026-07-12 16:02:42] [AuroraCity.kkwmc.cn] [CHAT] ./pay ydy688 2000
+[2026-07-12 16:02:47] [AuroraCity.kkwmc.cn] [CHAT] 对的
+[2026-07-12 16:02:55] [AuroraCity.kkwmc.cn] [CHAT] 我们服务器穷光蛋不许玩
+[2026-07-12 16:03:22] [AuroraCity.kkwmc.cn] [CHAT] 输入这个指令就能开创造了
