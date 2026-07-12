@@ -4527,3 +4527,9 @@
 [2026-07-12 22:00:24] [AuroraCity.kkwmc.cn] [CHAT] 我这里有火药
 [2026-07-12 22:01:20] [AuroraCity.kkwmc.cn] [CHAT] 转我十万
 [2026-07-12 22:02:13] [AuroraCity.kkwmc.cn] [CHAT] 去你的
+[2026-07-12 22:02:18] [AuroraCity.kkwmc.cn] [CHAT] 五万不还价
+[2026-07-12 22:02:31] [AuroraCity.kkwmc.cn] [CHAT] 对
+[2026-07-12 22:02:49] [AuroraCity.kkwmc.cn] [CHAT] 那一共给我七万
+[2026-07-12 22:03:28] [AuroraCity.kkwmc.cn] [CMD] /tpahere gggggggguo
+[2026-07-12 22:03:49] [AuroraCity.kkwmc.cn] [CHAT] 能打开吗
+[2026-07-12 22:04:05] [AuroraCity.kkwmc.cn] [CHAT] 等一下
