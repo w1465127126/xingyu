@@ -5066,3 +5066,9 @@
 [2026-07-12 20:56:17] [AuroraCity.kkwmc.cn] [CMD] /back
 [2026-07-12 20:56:42] [AuroraCity.kkwmc.cn] [CHAT] 是吗
 [2026-07-12 20:56:46] [AuroraCity.kkwmc.cn] [CHAT] 我忘了
+[2026-07-12 20:56:48] [AuroraCity.kkwmc.cn] [CMD] /res help
+[2026-07-12 20:56:49] [AuroraCity.kkwmc.cn] [CHAT] res help
+[2026-07-12 20:56:52] [AuroraCity.kkwmc.cn] [CHAT] res pdel
+[2026-07-12 20:57:12] [AuroraCity.kkwmc.cn] [CMD] /warp 鹅斯拉
+[2026-07-12 20:57:18] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-12 20:57:21] [AuroraCity.kkwmc.cn] [CHAT] 我日
