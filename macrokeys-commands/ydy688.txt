@@ -4341,3 +4341,6 @@
 [2026-07-12 15:08:33] [AuroraCity.kkwmc.cn] [CMD] /back
 [2026-07-12 15:08:51] [AuroraCity.kkwmc.cn] [CMD] /back
 [2026-07-12 15:09:45] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-12 15:10:10] [AuroraCity.kkwmc.cn] [CMD] /res tp zhucheng2
+[2026-07-12 15:10:16] [AuroraCity.kkwmc.cn] [CHAT] all
+[2026-07-12 15:10:18] [AuroraCity.kkwmc.cn] [CMD] /back
