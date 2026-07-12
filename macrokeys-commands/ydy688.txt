@@ -4617,3 +4617,6 @@
 [2026-07-12 22:34:28] [AuroraCity.kkwmc.cn] [CHAT] sf guide
 [2026-07-12 22:34:31] [AuroraCity.kkwmc.cn] [CMD] /hom2
 [2026-07-12 22:34:35] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-12 22:36:43] [AuroraCity.kkwmc.cn] [CHAT] 当年都这么过来的
+[2026-07-12 22:36:59] [AuroraCity.kkwmc.cn] [CHAT] 2w
+[2026-07-12 22:37:01] [AuroraCity.kkwmc.cn] [CHAT] 我卖你
