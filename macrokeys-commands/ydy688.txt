@@ -4296,3 +4296,6 @@
 [2026-07-12 12:16:34] [AuroraCity.kkwmc.cn] [CMD] /fly
 [2026-07-12 12:19:23] [AuroraCity.kkwmc.cn] [CMD] /at
 [2026-07-12 12:19:24] [AuroraCity.kkwmc.cn] [CMD] /hat
+[2026-07-12 12:19:29] [AuroraCity.kkwmc.cn] [CMD] /warp 鹅斯拉
+[2026-07-12 12:20:36] [AuroraCity.kkwmc.cn] [CMD] /home 1
+[2026-07-12 12:20:41] [AuroraCity.kkwmc.cn] [CMD] /home 2
