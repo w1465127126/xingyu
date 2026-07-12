@@ -4656,3 +4656,6 @@
 [2026-07-12 23:09:20] [AuroraCity.kkwmc.cn] [CMD] /pay Jaek 20
 [2026-07-12 23:11:34] [AuroraCity.kkwmc.cn] [CMD] /hat
 [2026-07-12 23:15:23] [AuroraCity.kkwmc.cn] [CHAT] ./sf guide
+[2026-07-12 23:17:59] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-12 23:20:14] [AuroraCity.kkwmc.cn] [CMD] /home 3
+[2026-07-12 23:20:37] [AuroraCity.kkwmc.cn] [CHAT] 书没了记得补一下
