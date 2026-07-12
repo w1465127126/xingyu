@@ -4455,3 +4455,6 @@
 [2026-07-12 20:59:44] [AuroraCity.kkwmc.cn] [CMD] /res pdel all
 [2026-07-12 21:00:14] [AuroraCity.kkwmc.cn] [CMD] /res pdel WWZ
 [2026-07-12 21:00:23] [AuroraCity.kkwmc.cn] [CMD] /res pdel gggggggguo
+[2026-07-12 21:00:43] [AuroraCity.kkwmc.cn] [CMD] /res pdel Jaek
+[2026-07-12 21:00:48] [AuroraCity.kkwmc.cn] [CMD] /tpahere Jaek
+[2026-07-12 21:01:05] [AuroraCity.kkwmc.cn] [CMD] /tpahere app
