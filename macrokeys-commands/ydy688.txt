@@ -4485,3 +4485,6 @@
 [2026-07-12 21:20:43] [AuroraCity.kkwmc.cn] [CMD] /tpahere Aevum7
 [2026-07-12 21:21:12] [AuroraCity.kkwmc.cn] [CHAT] shabi
 [2026-07-12 21:21:14] [AuroraCity.kkwmc.cn] [CHAT] 这里还有一个
+[2026-07-12 21:21:47] [AuroraCity.kkwmc.cn] [CMD] /tpa j
+[2026-07-12 21:21:51] [AuroraCity.kkwmc.cn] [CMD] /tpa Jaeke
+[2026-07-12 21:21:53] [AuroraCity.kkwmc.cn] [CMD] /tpa Jaek
