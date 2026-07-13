@@ -4932,3 +4932,6 @@
 [2026-07-13 15:53:24] [AuroraCity.kkwmc.cn] [CHAT] 要毛的首付
 [2026-07-13 15:53:32] [AuroraCity.kkwmc.cn] [CHAT] 爱勾八住不住
 [2026-07-13 15:53:53] [AuroraCity.kkwmc.cn] [CHAT] 首付是我
+[2026-07-13 15:53:58] [AuroraCity.kkwmc.cn] [CHAT] 我就是首付
+[2026-07-13 15:56:30] [AuroraCity.kkwmc.cn] [CHAT] 茫茫人海中遇见了你
+[2026-07-13 15:56:38] [AuroraCity.kkwmc.cn] [CMD] /tell Pyranone
