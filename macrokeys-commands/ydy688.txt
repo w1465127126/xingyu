@@ -4791,3 +4791,6 @@
 [2026-07-13 14:05:37] [AuroraCity.kkwmc.cn] [CHAT] 就这个工作台
 [2026-07-13 14:06:24] [AuroraCity.kkwmc.cn] [CMD] /res pset AstralLunar table-工作台
 [2026-07-13 14:06:36] [AuroraCity.kkwmc.cn] [CHAT] 能打开这个工作台吗
+[2026-07-13 14:06:44] [AuroraCity.kkwmc.cn] [CHAT] 空手
+[2026-07-13 14:06:50] [AuroraCity.kkwmc.cn] [CHAT] 不要在我家使用武器
+[2026-07-13 14:08:06] [AuroraCity.kkwmc.cn] [CHAT] 附魔台呢
