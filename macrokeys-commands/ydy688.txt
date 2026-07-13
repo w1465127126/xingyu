@@ -5148,3 +5148,6 @@
 [2026-07-13 19:09:33] [AuroraCity.kkwmc.cn] [CMD] /fly
 [2026-07-13 19:37:36] [AuroraCity.kkwmc.cn] [CMD] /home 2
 [2026-07-13 19:37:48] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-13 19:38:30] [AuroraCity.kkwmc.cn] [CMD] /tpa app
+[2026-07-13 19:40:34] [AuroraCity.kkwmc.cn] [CMD] /home 3
+[2026-07-13 19:40:54] [AuroraCity.kkwmc.cn] [CMD] /res tp shuatie
