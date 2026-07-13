@@ -4887,3 +4887,6 @@
 [2026-07-13 15:27:47] [AuroraCity.kkwmc.cn] [CHAT] 来商店
 [2026-07-13 15:27:50] [AuroraCity.kkwmc.cn] [CMD] /home 3
 [2026-07-13 15:28:08] [AuroraCity.kkwmc.cn] [CHAT] 打这个很慢，杀完一波怪不出下一波
+[2026-07-13 15:28:13] [AuroraCity.kkwmc.cn] [CHAT] 要等一两分钟
+[2026-07-13 15:28:36] [AuroraCity.kkwmc.cn] [CHAT] 角的话输入/hat
+[2026-07-13 15:28:54] [AuroraCity.kkwmc.cn] [CHAT] 翻牌子全翻了，我给你报销
