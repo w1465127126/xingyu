@@ -5037,3 +5037,6 @@
 [2026-07-13 17:37:16] [AuroraCity.kkwmc.cn] [CHAT] 你知道我这一百万赚的多难吗
 [2026-07-13 17:37:29] [AuroraCity.kkwmc.cn] [CHAT] 神了
 [2026-07-13 17:37:35] [AuroraCity.kkwmc.cn] [CHAT] 你知道我这一百万赚的多难吗
+[2026-07-13 17:38:13] [AuroraCity.kkwmc.cn] [CMD] /res tp shuatie
+[2026-07-13 17:39:52] [AuroraCity.kkwmc.cn] [CMD] /home 3
+[2026-07-13 17:40:29] [AuroraCity.kkwmc.cn] [CMD] /hat
