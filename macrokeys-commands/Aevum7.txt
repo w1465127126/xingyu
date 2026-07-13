@@ -5200,3 +5200,6 @@
 [2026-07-13 19:50:43] [AuroraCity.kkwmc.cn] [CMD] /dback
 [2026-07-13 19:50:49] [AuroraCity.kkwmc.cn] [CMD] /back
 [2026-07-13 19:54:48] [AuroraCity.kkwmc.cn] [CHAT] ?
+[2026-07-13 19:54:51] [AuroraCity.kkwmc.cn] [CHAT] 666
+[2026-07-13 19:55:03] [AuroraCity.kkwmc.cn] [CHAT] 这是sad下线了是把
+[2026-07-13 19:59:12] [AuroraCity.kkwmc.cn] [CHAT] 6
