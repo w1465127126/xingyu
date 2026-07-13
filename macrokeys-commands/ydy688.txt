@@ -4854,3 +4854,6 @@
 [2026-07-13 14:44:38] [AuroraCity.kkwmc.cn] [CHAT] 放进去
 [2026-07-13 14:45:38] [AuroraCity.kkwmc.cn] [CHAT] OK
 [2026-07-13 14:45:41] [AuroraCity.kkwmc.cn] [CHAT] 打钱
+[2026-07-13 14:46:08] [AuroraCity.kkwmc.cn] [CHAT] 给我五万干什么
+[2026-07-13 14:46:24] [AuroraCity.kkwmc.cn] [CHAT] 66
+[2026-07-13 14:46:42] [AuroraCity.kkwmc.cn] [CHAT] 你有剑了吗
