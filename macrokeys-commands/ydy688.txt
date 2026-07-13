@@ -5034,3 +5034,6 @@
 [2026-07-13 17:35:57] [AuroraCity.kkwmc.cn] [CHAT] 我现在就要把商店的东西涨价百分之二十
 [2026-07-13 17:36:38] [AuroraCity.kkwmc.cn] [CMD] /qs price 2000
 [2026-07-13 17:37:05] [AuroraCity.kkwmc.cn] [CMD] /qs price 1800
+[2026-07-13 17:37:16] [AuroraCity.kkwmc.cn] [CHAT] 你知道我这一百万赚的多难吗
+[2026-07-13 17:37:29] [AuroraCity.kkwmc.cn] [CHAT] 神了
+[2026-07-13 17:37:35] [AuroraCity.kkwmc.cn] [CHAT] 你知道我这一百万赚的多难吗
