@@ -5281,3 +5281,6 @@
 [2026-07-13 20:30:43] [AuroraCity.kkwmc.cn] [CHAT] 我挖矿都不掉耐久
 [2026-07-13 20:31:01] [AuroraCity.kkwmc.cn] [CHAT] 又是谁的小号
 [2026-07-13 20:32:00] [AuroraCity.kkwmc.cn] [CHAT] 等会就ban了awa
+[2026-07-13 20:32:17] [AuroraCity.kkwmc.cn] [CHAT] 挖矿不影响
+[2026-07-13 20:32:32] [AuroraCity.kkwmc.cn] [CMD] /home j
+[2026-07-13 20:33:01] [AuroraCity.kkwmc.cn] [CMD] /back
