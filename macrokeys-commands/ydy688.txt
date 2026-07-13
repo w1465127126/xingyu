@@ -5013,3 +5013,6 @@
 [2026-07-13 17:29:27] [AuroraCity.kkwmc.cn] [CMD] /home 3
 [2026-07-13 17:30:23] [AuroraCity.kkwmc.cn] [CHAT] AstralLunar
 [2026-07-13 17:30:25] [AuroraCity.kkwmc.cn] [CHAT] ?
+[2026-07-13 17:30:29] [AuroraCity.kkwmc.cn] [CHAT] 你还有一百万？
+[2026-07-13 17:30:38] [AuroraCity.kkwmc.cn] [CHAT] 我以为你只有十几万了呢
+[2026-07-13 17:31:11] [AuroraCity.kkwmc.cn] [CHAT] 我当时想玩还玩不上呢
