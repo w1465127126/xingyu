@@ -5304,3 +5304,6 @@
 [2026-07-13 21:32:02] [AuroraCity.kkwmc.cn] [CHAT] 2026年7月13日21:32:02
 [2026-07-13 21:32:08] [AuroraCity.kkwmc.cn] [CMD] /fly
 [2026-07-13 21:33:27] [AuroraCity.kkwmc.cn] [CHAT] 开门
+[2026-07-13 21:33:30] [AuroraCity.kkwmc.cn] [CHAT] 让我进去看看
+[2026-07-13 21:33:41] [AuroraCity.kkwmc.cn] [CHAT] gggggggguo
+[2026-07-13 21:34:02] [AuroraCity.kkwmc.cn] [CHAT] 是的
