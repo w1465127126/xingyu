@@ -4965,3 +4965,6 @@
 [2026-07-13 16:05:03] [AuroraCity.kkwmc.cn] [CHAT] 我家把分类换成货运，再造一个核电站就不发展了
 [2026-07-13 16:05:11] [AuroraCity.kkwmc.cn] [CMD] /home 3
 [2026-07-13 16:05:21] [AuroraCity.kkwmc.cn] [CHAT] 一个核电站不够我家开产线的了现在
+[2026-07-13 16:05:45] [AuroraCity.kkwmc.cn] [CHAT] 反正zz不上线，我改天把他的核电站挖过来
+[2026-07-13 16:05:55] [AuroraCity.kkwmc.cn] [CMD] /res tp ss
+[2026-07-13 16:06:26] [AuroraCity.kkwmc.cn] [CHAT] 他家已经不进铀
