@@ -5019,3 +5019,6 @@
 [2026-07-13 17:31:16] [AuroraCity.kkwmc.cn] [CHAT] 点啥都是错误
 [2026-07-13 17:31:24] [AuroraCity.kkwmc.cn] [CHAT] 光吞我筹码了
 [2026-07-13 17:32:54] [AuroraCity.kkwmc.cn] [CHAT] 当时就想搞个脚本
+[2026-07-13 17:33:02] [AuroraCity.kkwmc.cn] [CHAT] 一直失败没找到到底怎么成功的
+[2026-07-13 17:33:07] [AuroraCity.kkwmc.cn] [CHAT] 唉
+[2026-07-13 17:33:38] [AuroraCity.kkwmc.cn] [CMD] /home 3
