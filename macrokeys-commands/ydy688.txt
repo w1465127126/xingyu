@@ -4902,3 +4902,6 @@
 [2026-07-13 15:34:39] [AuroraCity.kkwmc.cn] [CMD] /tpa lpld111161
 [2026-07-13 15:34:55] [AuroraCity.kkwmc.cn] [CHAT] 矿是在哪挖的
 [2026-07-13 15:35:17] [AuroraCity.kkwmc.cn] [CHAT] 我想要这个房子，卖吗
+[2026-07-13 15:35:22] [AuroraCity.kkwmc.cn] [CHAT] lpld111161
+[2026-07-13 15:35:47] [AuroraCity.kkwmc.cn] [CHAT] 开个价
+[2026-07-13 15:36:26] [AuroraCity.kkwmc.cn] [CHAT] 一百万
