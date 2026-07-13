@@ -5286,3 +5286,6 @@
 [2026-07-13 21:01:28] [AuroraCity.kkwmc.cn] [CHAT] 卖啥
 [2026-07-13 21:02:17] [AuroraCity.kkwmc.cn] [CHAT] 粗金也可以卖我
 [2026-07-13 21:04:31] [AuroraCity.kkwmc.cn] [CHAT] 你看这个机器
+[2026-07-13 21:04:38] [AuroraCity.kkwmc.cn] [CHAT] 是不是读秒慢
+[2026-07-13 21:05:03] [AuroraCity.kkwmc.cn] [CHAT] 666
+[2026-07-13 21:05:10] [AuroraCity.kkwmc.cn] [CHAT] 让服主重启
