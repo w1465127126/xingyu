@@ -5007,3 +5007,6 @@
 [2026-07-13 17:24:27] [AuroraCity.kkwmc.cn] [CHAT] 菜单-商店-道聚城-会员
 [2026-07-13 17:28:00] [AuroraCity.kkwmc.cn] [CMD] /tpa AstralLunar
 [2026-07-13 17:28:24] [AuroraCity.kkwmc.cn] [CHAT] 在
+[2026-07-13 17:28:58] [AuroraCity.kkwmc.cn] [CMD] /tpa aaa
+[2026-07-13 17:29:01] [AuroraCity.kkwmc.cn] [CMD] /tpa AstralLunar
+[2026-07-13 17:29:19] [AuroraCity.kkwmc.cn] [CMD] /home 3
