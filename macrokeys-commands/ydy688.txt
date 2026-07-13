@@ -5322,3 +5322,6 @@
 [2026-07-13 21:40:55] [AuroraCity.kkwmc.cn] [CHAT] 2026年7月13日21:40:54
 [2026-07-13 21:44:22] [AuroraCity.kkwmc.cn] [CMD] /tpa zzzz
 [2026-07-13 21:45:11] [AuroraCity.kkwmc.cn] [CMD] /fly
+[2026-07-13 21:47:03] [AuroraCity.kkwmc.cn] [CHAT] 2026年7月13日21:47:02
+[2026-07-13 21:48:30] [AuroraCity.kkwmc.cn] [CHAT] Fantasyland
+[2026-07-13 21:51:23] [AuroraCity.kkwmc.cn] [CHAT] 要铜干什么
