@@ -5151,3 +5151,6 @@
 [2026-07-13 19:38:30] [AuroraCity.kkwmc.cn] [CMD] /tpa app
 [2026-07-13 19:40:34] [AuroraCity.kkwmc.cn] [CMD] /home 3
 [2026-07-13 19:40:54] [AuroraCity.kkwmc.cn] [CMD] /res tp shuatie
+[2026-07-13 19:41:28] [AuroraCity.kkwmc.cn] [CMD] /home 2
+[2026-07-13 19:43:48] [AuroraCity.kkwmc.cn] [CHAT] wa
+[2026-07-13 19:43:50] [AuroraCity.kkwmc.cn] [CHAT] WallE
