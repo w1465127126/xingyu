@@ -5079,3 +5079,9 @@
 [2026-07-13 18:09:14] [AuroraCity.kkwmc.cn] [CMD] /back
 [2026-07-13 18:10:53] [AuroraCity.kkwmc.cn] [CMD] /back
 [2026-07-13 18:21:18] [AuroraCity.kkwmc.cn] [CMD] /home 6
+[2026-07-13 18:21:20] [AuroraCity.kkwmc.cn] [CHAT] all
+[2026-07-13 18:21:22] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-13 18:21:27] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-13 18:21:29] [AuroraCity.kkwmc.cn] [CHAT] all
+[2026-07-13 18:21:31] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-13 18:23:03] [AuroraCity.kkwmc.cn] [CHAT] 无限收粗铜，比系统商店高，欢迎大家来
