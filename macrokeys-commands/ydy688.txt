@@ -5250,3 +5250,6 @@
 [2026-07-13 20:27:44] [AuroraCity.kkwmc.cn] [CHAT] 商店收税
 [2026-07-13 20:27:48] [AuroraCity.kkwmc.cn] [CHAT] 你直接转吧
 [2026-07-13 20:28:55] [AuroraCity.kkwmc.cn] [CHAT] 千万别挖爆了，及时去小黑塔修
+[2026-07-13 20:29:27] [AuroraCity.kkwmc.cn] [CHAT] 耐久修复慢死了
+[2026-07-13 20:29:54] [AuroraCity.kkwmc.cn] [CHAT] 我能一下把这个稿子挖没耐久
+[2026-07-13 20:29:58] [AuroraCity.kkwmc.cn] [CHAT] 那是你们不挖矿吧
