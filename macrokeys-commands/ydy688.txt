@@ -4788,3 +4788,6 @@
 [2026-07-13 14:04:53] [AuroraCity.kkwmc.cn] [CHAT] 谁用
 [2026-07-13 14:05:24] [AuroraCity.kkwmc.cn] [CHAT] 这个是要充电的哈
 [2026-07-13 14:05:31] [AuroraCity.kkwmc.cn] [CHAT] 可以免费来我这充
+[2026-07-13 14:05:37] [AuroraCity.kkwmc.cn] [CHAT] 就这个工作台
+[2026-07-13 14:06:24] [AuroraCity.kkwmc.cn] [CMD] /res pset AstralLunar table-工作台
+[2026-07-13 14:06:36] [AuroraCity.kkwmc.cn] [CHAT] 能打开这个工作台吗
