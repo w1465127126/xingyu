@@ -4881,3 +4881,6 @@
 [2026-07-13 15:25:56] [AuroraCity.kkwmc.cn] [CMD] /back
 [2026-07-13 15:26:26] [AuroraCity.kkwmc.cn] [CHAT] 谁代打火城，一次两千
 [2026-07-13 15:26:32] [AuroraCity.kkwmc.cn] [CHAT] 提供装备
+[2026-07-13 15:26:39] [AuroraCity.kkwmc.cn] [CHAT] [i]
+[2026-07-13 15:27:06] [AuroraCity.kkwmc.cn] [CHAT] 我要材料的
+[2026-07-13 15:27:18] [AuroraCity.kkwmc.cn] [CHAT] 那你不是白打吗
