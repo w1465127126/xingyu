@@ -5341,3 +5341,6 @@
 [2026-07-13 23:12:03] [AuroraCity.kkwmc.cn] [CMD] /tpa Jaek
 [2026-07-13 23:13:48] [AuroraCity.kkwmc.cn] [CMD] /tpa MUXU0099
 [2026-07-13 23:14:27] [AuroraCity.kkwmc.cn] [CHAT] 给我权限
+[2026-07-13 23:16:18] [AuroraCity.kkwmc.cn] [CHAT] 还挺不错 的
+[2026-07-13 23:16:23] [AuroraCity.kkwmc.cn] [CHAT] 就是比我的大豪宅差点
+[2026-07-13 23:18:20] [AuroraCity.kkwmc.cn] [CMD] /tpa Jaek
