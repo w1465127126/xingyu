@@ -5353,3 +5353,6 @@
 [2026-07-13 22:01:43] [AuroraCity.kkwmc.cn] [CHAT] 小白刷怪塔= =
 [2026-07-13 22:01:55] [AuroraCity.kkwmc.cn] [CHAT] 好兄弟use权限卖么
 [2026-07-13 22:02:03] [AuroraCity.kkwmc.cn] [CHAT] 我来头骨头
+[2026-07-13 22:02:05] [AuroraCity.kkwmc.cn] [CHAT] 偷
+[2026-07-13 22:02:14] [AuroraCity.kkwmc.cn] [CHAT] 这不是纯手砍么
+[2026-07-13 22:02:15] [AuroraCity.kkwmc.cn] [CMD] /tpaccept
