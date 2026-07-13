@@ -5209,3 +5209,6 @@
 [2026-07-13 20:01:11] [AuroraCity.kkwmc.cn] [CMD] /back
 [2026-07-13 20:01:22] [AuroraCity.kkwmc.cn] [CHAT] 500
 [2026-07-13 20:01:23] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-13 20:07:25] [AuroraCity.kkwmc.cn] [CHAT] 你门没开
+[2026-07-13 20:07:27] [AuroraCity.kkwmc.cn] [CHAT] 能打开么
+[2026-07-13 20:08:53] [AuroraCity.kkwmc.cn] [CHAT] 鹅都没人打了 = =
