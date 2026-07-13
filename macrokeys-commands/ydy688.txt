@@ -5262,3 +5262,6 @@
 [2026-07-13 20:30:53] [AuroraCity.kkwmc.cn] [CHAT] 干啥
 [2026-07-13 20:31:10] [AuroraCity.kkwmc.cn] [CHAT] 过来
 [2026-07-13 20:31:46] [AuroraCity.kkwmc.cn] [CHAT] [i]
+[2026-07-13 20:32:00] [AuroraCity.kkwmc.cn] [CHAT] 你去干啥
+[2026-07-13 20:32:14] [AuroraCity.kkwmc.cn] [CHAT] ban了退游
+[2026-07-13 20:32:26] [AuroraCity.kkwmc.cn] [CHAT] 我们一点不卡
