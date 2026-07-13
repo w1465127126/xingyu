@@ -4977,3 +4977,6 @@
 [2026-07-13 16:08:24] [AuroraCity.kkwmc.cn] [CHAT] 谁的爆炸镐
 [2026-07-13 16:08:27] [AuroraCity.kkwmc.cn] [CHAT] 你自己的吗
 [2026-07-13 16:08:57] [AuroraCity.kkwmc.cn] [CHAT] 那就打经验修补去
+[2026-07-13 16:55:18] [AuroraCity.kkwmc.cn] [JOIN] 连接服务器: AuroraCity.kkwmc.cn
+[2026-07-13 16:55:21] [AuroraCity.kkwmc.cn] [CMD] /login xvvcxc
+[2026-07-13 16:55:26] [AuroraCity.kkwmc.cn] [CHAT] 神了
