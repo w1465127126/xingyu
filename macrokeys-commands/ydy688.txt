@@ -5163,3 +5163,9 @@
 [2026-07-13 19:46:27] [AuroraCity.kkwmc.cn] [CMD] /tpa app
 [2026-07-13 19:48:39] [AuroraCity.kkwmc.cn] [CMD] /tpa app
 [2026-07-13 19:48:50] [AuroraCity.kkwmc.cn] [CMD] /tpa app
+[2026-07-13 19:50:22] [AuroraCity.kkwmc.cn] [CMD] /dback
+[2026-07-13 19:50:31] [AuroraCity.kkwmc.cn] [CHAT] ./dback
+[2026-07-13 19:51:35] [AuroraCity.kkwmc.cn] [CMD] /tpa app
+[2026-07-13 19:53:33] [AuroraCity.kkwmc.cn] [CMD] /dback
+[2026-07-13 19:57:58] [AuroraCity.kkwmc.cn] [CMD] /tpa
+[2026-07-13 19:58:08] [AuroraCity.kkwmc.cn] [CMD] /tpa WallE
