@@ -5298,3 +5298,6 @@
 [2026-07-13 21:26:50] [AuroraCity.kkwmc.cn] [CMD] /fly
 [2026-07-13 21:27:25] [AuroraCity.kkwmc.cn] [CMD] /fly
 [2026-07-13 21:27:53] [AuroraCity.kkwmc.cn] [CHAT] 你自己出去学学
+[2026-07-13 21:29:02] [AuroraCity.kkwmc.cn] [CMD] /home 3
+[2026-07-13 21:29:24] [AuroraCity.kkwmc.cn] [CMD] /tpa zzzz
+[2026-07-13 21:29:49] [AuroraCity.kkwmc.cn] [CMD] /back
