@@ -5094,3 +5094,6 @@
 [2026-07-13 18:29:45] [AuroraCity.kkwmc.cn] [CHAT] 出售强化合金锭，无限收购粗铜
 [2026-07-13 18:30:22] [AuroraCity.kkwmc.cn] [CMD] /home 6
 [2026-07-13 18:30:25] [AuroraCity.kkwmc.cn] [CHAT] all
+[2026-07-13 18:30:49] [AuroraCity.kkwmc.cn] [CMD] /home 3
+[2026-07-13 18:31:52] [AuroraCity.kkwmc.cn] [CHAT] 我感觉
+[2026-07-13 18:31:59] [AuroraCity.kkwmc.cn] [CHAT] 这个精英怪太多
