@@ -4734,3 +4734,6 @@
 [2026-07-13 12:03:08] [AuroraCity.kkwmc.cn] [CMD] /tpahere 114514
 [2026-07-13 12:03:51] [AuroraCity.kkwmc.cn] [CHAT] 你给我不就行了
 [2026-07-13 12:05:48] [AuroraCity.kkwmc.cn] [CHAT] 你要什么指令
+[2026-07-13 12:06:48] [AuroraCity.kkwmc.cn] [CHAT] 箱子可以直接买
+[2026-07-13 12:06:53] [AuroraCity.kkwmc.cn] [CHAT] 左键一下就行
+[2026-07-13 12:07:23] [AuroraCity.kkwmc.cn] [CHAT] 怎么还有税
