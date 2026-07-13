@@ -5149,3 +5149,6 @@
 [2026-07-13 18:33:21] [AuroraCity.kkwmc.cn] [CHAT] 好家伙没树苗了
 [2026-07-13 18:33:25] [AuroraCity.kkwmc.cn] [CHAT] 识别
 [2026-07-13 18:33:27] [AuroraCity.kkwmc.cn] [CHAT] 但是打不过
+[2026-07-13 18:33:36] [AuroraCity.kkwmc.cn] [CHAT] 一个木头都没了
+[2026-07-13 18:33:37] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-13 18:33:43] [AuroraCity.kkwmc.cn] [CHAT] 64
