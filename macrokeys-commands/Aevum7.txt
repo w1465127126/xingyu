@@ -5305,3 +5305,9 @@
 [2026-07-13 21:02:25] [AuroraCity.kkwmc.cn] [CHAT] 500
 [2026-07-13 21:02:26] [AuroraCity.kkwmc.cn] [CMD] /back
 [2026-07-13 21:13:19] [AuroraCity.kkwmc.cn] [CHAT] 卡吗
+[2026-07-13 21:26:33] [AuroraCity.kkwmc.cn] [CMD] /warp 资源世界
+[2026-07-13 21:26:37] [AuroraCity.kkwmc.cn] [CMD] /rtp
+[2026-07-13 21:26:41] [AuroraCity.kkwmc.cn] [CMD] /rtp
+[2026-07-13 21:26:44] [AuroraCity.kkwmc.cn] [CMD] /rtp
+[2026-07-13 21:26:53] [AuroraCity.kkwmc.cn] [CMD] /rtp
+[2026-07-13 21:26:59] [AuroraCity.kkwmc.cn] [CMD] /rtp
