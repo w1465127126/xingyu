@@ -5187,3 +5187,9 @@
 [2026-07-13 20:05:23] [AuroraCity.kkwmc.cn] [CHAT] 要不要
 [2026-07-13 20:06:36] [AuroraCity.kkwmc.cn] [CMD] /tpahere red12138
 [2026-07-13 20:07:11] [AuroraCity.kkwmc.cn] [CHAT] 后续添加附魔需要去粘液科技的附魔台弄
+[2026-07-13 20:07:18] [AuroraCity.kkwmc.cn] [CHAT] 不卖太麻烦
+[2026-07-13 20:07:21] [AuroraCity.kkwmc.cn] [CHAT] 下面有村民自己换
+[2026-07-13 20:07:44] [AuroraCity.kkwmc.cn] [CHAT] 能从边上摸到的
+[2026-07-13 20:09:58] [AuroraCity.kkwmc.cn] [CMD] /home 6
+[2026-07-13 20:10:01] [AuroraCity.kkwmc.cn] [CHAT] all
+[2026-07-13 20:10:03] [AuroraCity.kkwmc.cn] [CMD] /back
