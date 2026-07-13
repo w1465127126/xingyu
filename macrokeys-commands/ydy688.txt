@@ -4824,3 +4824,6 @@
 [2026-07-13 14:23:21] [AuroraCity.kkwmc.cn] [CMD] /res shop createboard
 [2026-07-13 14:25:36] [AuroraCity.kkwmc.cn] [CMD] /res subzone d 粘液科技店
 [2026-07-13 14:25:51] [AuroraCity.kkwmc.cn] [CMD] /res subzone d nykj
+[2026-07-13 14:26:25] [AuroraCity.kkwmc.cn] [CMD] /res tp nykj
+[2026-07-13 14:27:07] [AuroraCity.kkwmc.cn] [CHAT] AstralLunar
+[2026-07-13 14:27:11] [AuroraCity.kkwmc.cn] [CHAT] 坐标传过来试试
