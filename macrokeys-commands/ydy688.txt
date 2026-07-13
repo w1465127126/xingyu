@@ -4731,3 +4731,6 @@
 [2026-07-13 11:55:35] [AuroraCity.kkwmc.cn] [CMD] /hat
 [2026-07-13 12:01:36] [AuroraCity.kkwmc.cn] [CHAT] 出强化合金锭。一个800
 [2026-07-13 12:03:00] [AuroraCity.kkwmc.cn] [CHAT] 这里
+[2026-07-13 12:03:08] [AuroraCity.kkwmc.cn] [CMD] /tpahere 114514
+[2026-07-13 12:03:51] [AuroraCity.kkwmc.cn] [CHAT] 你给我不就行了
+[2026-07-13 12:05:48] [AuroraCity.kkwmc.cn] [CHAT] 你要什么指令
