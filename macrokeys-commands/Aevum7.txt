@@ -5176,3 +5176,6 @@
 [2026-07-13 18:48:11] [AuroraCity.kkwmc.cn] [CHAT] 开了?
 [2026-07-13 18:49:19] [AuroraCity.kkwmc.cn] [CMD] /fly
 [2026-07-13 18:50:18] [AuroraCity.kkwmc.cn] [CHAT] 我？
+[2026-07-13 18:50:38] [AuroraCity.kkwmc.cn] [CMD] /res tp d
+[2026-07-13 18:51:47] [AuroraCity.kkwmc.cn] [CMD] /rtp
+[2026-07-13 18:55:47] [AuroraCity.kkwmc.cn] [CMD] /back
