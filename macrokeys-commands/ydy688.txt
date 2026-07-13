@@ -4851,3 +4851,6 @@
 [2026-07-13 14:44:17] [AuroraCity.kkwmc.cn] [CHAT] shift 右键切换模式
 [2026-07-13 14:44:20] [AuroraCity.kkwmc.cn] [CHAT] 换成风
 [2026-07-13 14:44:27] [AuroraCity.kkwmc.cn] [CHAT] 先充电
+[2026-07-13 14:44:38] [AuroraCity.kkwmc.cn] [CHAT] 放进去
+[2026-07-13 14:45:38] [AuroraCity.kkwmc.cn] [CHAT] OK
+[2026-07-13 14:45:41] [AuroraCity.kkwmc.cn] [CHAT] 打钱
