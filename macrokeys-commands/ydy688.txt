@@ -5220,3 +5220,9 @@
 [2026-07-13 20:18:44] [AuroraCity.kkwmc.cn] [CHAT] 你有一百二十万
 [2026-07-13 20:18:49] [AuroraCity.kkwmc.cn] [CHAT] 你要这钱干什么
 [2026-07-13 20:18:58] [AuroraCity.kkwmc.cn] [CHAT] 不如花掉
+[2026-07-13 20:19:25] [AuroraCity.kkwmc.cn] [CHAT] 我有收集癖
+[2026-07-13 20:19:30] [AuroraCity.kkwmc.cn] [CHAT] 我就是有钱
+[2026-07-13 20:19:48] [AuroraCity.kkwmc.cn] [CMD] /home 6
+[2026-07-13 20:19:52] [AuroraCity.kkwmc.cn] [CHAT] all
+[2026-07-13 20:19:56] [AuroraCity.kkwmc.cn] [CMD] /home 6
+[2026-07-13 20:20:06] [AuroraCity.kkwmc.cn] [CHAT] 一分不能少
