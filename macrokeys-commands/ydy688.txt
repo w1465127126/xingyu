@@ -4941,3 +4941,6 @@
 [2026-07-13 15:57:13] [AuroraCity.kkwmc.cn] [CHAT] 开拓者
 [2026-07-13 15:57:29] [AuroraCity.kkwmc.cn] [CHAT] 星穹列车
 [2026-07-13 15:57:41] [AuroraCity.kkwmc.cn] [CMD] /tpa Pyranone
+[2026-07-13 15:57:52] [AuroraCity.kkwmc.cn] [CMD] /tpa gggggggguo
+[2026-07-13 15:58:34] [AuroraCity.kkwmc.cn] [CMD] /fly
+[2026-07-13 15:58:51] [AuroraCity.kkwmc.cn] [CHAT] 这炉子好用吗
