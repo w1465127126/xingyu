@@ -5197,3 +5197,6 @@
 [2026-07-13 19:43:49] [AuroraCity.kkwmc.cn] [CMD] /home j
 [2026-07-13 19:44:07] [AuroraCity.kkwmc.cn] [CHAT] 肝帝
 [2026-07-13 19:47:16] [AuroraCity.kkwmc.cn] [CHAT] awa
+[2026-07-13 19:50:43] [AuroraCity.kkwmc.cn] [CMD] /dback
+[2026-07-13 19:50:49] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-13 19:54:48] [AuroraCity.kkwmc.cn] [CHAT] ?
