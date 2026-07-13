@@ -1976,3 +1976,6 @@
 [2026-07-13 18:57:45] [x6.sjcmc.cn:34054] [CMD] /tpa Jack
 [2026-07-13 18:57:50] [x6.sjcmc.cn:34054] [CHAT] jack
 [2026-07-13 18:57:55] [x6.sjcmc.cn:34054] [CHAT] i am lucy
+[2026-07-13 18:58:05] [x6.sjcmc.cn:34054] [CHAT] you jump,i jump
+[2026-07-13 18:58:16] [x6.sjcmc.cn:34054] [CMD] /tpa ydy688
+[2026-07-13 18:59:37] [x6.sjcmc.cn:34054] [CMD] /fly
