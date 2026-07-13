@@ -5001,3 +5001,6 @@
 [2026-07-13 17:12:37] [AuroraCity.kkwmc.cn] [CHAT] Old_Cun_Zhang_
 [2026-07-13 17:19:07] [AuroraCity.kkwmc.cn] [CMD] /tpa Old_Cun_Zhang_
 [2026-07-13 17:22:17] [AuroraCity.kkwmc.cn] [CHAT] ?
+[2026-07-13 17:22:42] [AuroraCity.kkwmc.cn] [CHAT] 你都买过了
+[2026-07-13 17:22:46] [AuroraCity.kkwmc.cn] [CHAT] 你不知道？
+[2026-07-13 17:23:30] [AuroraCity.kkwmc.cn] [CHAT] 这会员是服主给你补的？
