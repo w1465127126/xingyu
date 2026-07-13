@@ -5233,3 +5233,6 @@
 [2026-07-13 20:15:59] [AuroraCity.kkwmc.cn] [CHAT] 经典仇富
 [2026-07-13 20:20:43] [AuroraCity.kkwmc.cn] [CHAT] 我去
 [2026-07-13 20:20:52] [AuroraCity.kkwmc.cn] [CHAT] 正常
+[2026-07-13 20:20:53] [AuroraCity.kkwmc.cn] [CHAT] 我的也掉
+[2026-07-13 20:21:03] [AuroraCity.kkwmc.cn] [CHAT] 掉没了不脱就行
+[2026-07-13 20:21:11] [AuroraCity.kkwmc.cn] [CHAT] 传不上去就石头修一下
