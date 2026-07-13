@@ -5338,3 +5338,6 @@
 [2026-07-13 23:11:37] [AuroraCity.kkwmc.cn] [JOIN] 连接服务器: AuroraCity.kkwmc.cn
 [2026-07-13 23:11:43] [AuroraCity.kkwmc.cn] [CMD] /login xvvcxc
 [2026-07-13 23:11:57] [AuroraCity.kkwmc.cn] [CMD] /pay Jaek 10000
+[2026-07-13 23:12:03] [AuroraCity.kkwmc.cn] [CMD] /tpa Jaek
+[2026-07-13 23:13:48] [AuroraCity.kkwmc.cn] [CMD] /tpa MUXU0099
+[2026-07-13 23:14:27] [AuroraCity.kkwmc.cn] [CHAT] 给我权限
