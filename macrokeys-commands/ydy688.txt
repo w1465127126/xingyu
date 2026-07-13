@@ -4746,3 +4746,6 @@
 [2026-07-13 12:44:16] [AuroraCity.kkwmc.cn] [CHAT] 666
 [2026-07-13 12:44:23] [AuroraCity.kkwmc.cn] [CHAT] 还有为民服务环节
 [2026-07-13 12:45:19] [AuroraCity.kkwmc.cn] [CHAT] 当然知道
+[2026-07-13 12:45:29] [AuroraCity.kkwmc.cn] [CMD] /res tp sdl
+[2026-07-13 12:45:44] [AuroraCity.kkwmc.cn] [CHAT] ./res tp zhucheng
+[2026-07-13 12:45:54] [AuroraCity.kkwmc.cn] [CMD] /res tp zhucheng
