@@ -4800,3 +4800,6 @@
 [2026-07-13 14:09:03] [AuroraCity.kkwmc.cn] [CHAT] 是不是你没解锁
 [2026-07-13 14:09:10] [AuroraCity.kkwmc.cn] [CHAT] 显示的什么
 [2026-07-13 14:09:16] [AuroraCity.kkwmc.cn] [CHAT] 发群里我看看
+[2026-07-13 14:09:44] [AuroraCity.kkwmc.cn] [CHAT] 这玩意怎么是容器啊
+[2026-07-13 14:09:46] [AuroraCity.kkwmc.cn] [CHAT] 服了
+[2026-07-13 14:10:17] [AuroraCity.kkwmc.cn] [CMD] /pay AstralLunar 20000
