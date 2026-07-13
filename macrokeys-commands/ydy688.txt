@@ -4752,3 +4752,6 @@
 [2026-07-13 12:46:07] [AuroraCity.kkwmc.cn] [CHAT] 射不出来
 [2026-07-13 12:46:53] [AuroraCity.kkwmc.cn] [CHAT] 怎么可能
 [2026-07-13 12:46:59] [AuroraCity.kkwmc.cn] [CMD] /res tp zhucheng2
+[2026-07-13 12:47:26] [AuroraCity.kkwmc.cn] [CHAT] 你再玩几天试试吧
+[2026-07-13 12:47:35] [AuroraCity.kkwmc.cn] [CMD] /tpahere AstralLunar
+[2026-07-13 12:47:39] [AuroraCity.kkwmc.cn] [CHAT] 前面的区域以后再来塔索吧
