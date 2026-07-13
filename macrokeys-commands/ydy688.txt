@@ -5313,3 +5313,9 @@
 [2026-07-13 21:37:35] [AuroraCity.kkwmc.cn] [CHAT] 怎么了
 [2026-07-13 21:37:38] [AuroraCity.kkwmc.cn] [CMD] /tpa LuckyMengYi
 [2026-07-13 21:37:45] [AuroraCity.kkwmc.cn] [CHAT] 可以卖给我
+[2026-07-13 21:37:54] [AuroraCity.kkwmc.cn] [CHAT] 哦这个啊
+[2026-07-13 21:37:58] [AuroraCity.kkwmc.cn] [CHAT] 铜矿矿脉
+[2026-07-13 21:38:01] [AuroraCity.kkwmc.cn] [CHAT] 挖到好几次了
+[2026-07-13 21:38:43] [AuroraCity.kkwmc.cn] [CMD] /home 3
+[2026-07-13 21:39:16] [AuroraCity.kkwmc.cn] [CHAT] 提醒，都别用粘液科技的附魔台了
+[2026-07-13 21:39:20] [AuroraCity.kkwmc.cn] [CHAT] 待会重启可能被吞
