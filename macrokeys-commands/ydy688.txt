@@ -5169,3 +5169,6 @@
 [2026-07-13 19:53:33] [AuroraCity.kkwmc.cn] [CMD] /dback
 [2026-07-13 19:57:58] [AuroraCity.kkwmc.cn] [CMD] /tpa
 [2026-07-13 19:58:08] [AuroraCity.kkwmc.cn] [CMD] /tpa WallE
+[2026-07-13 19:58:40] [AuroraCity.kkwmc.cn] [CHAT] 时运几
+[2026-07-13 19:58:53] [AuroraCity.kkwmc.cn] [CHAT] 5要不要
+[2026-07-13 19:59:05] [AuroraCity.kkwmc.cn] [CHAT] 收你一万
