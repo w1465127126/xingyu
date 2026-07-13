@@ -5319,3 +5319,6 @@
 [2026-07-13 21:38:43] [AuroraCity.kkwmc.cn] [CMD] /home 3
 [2026-07-13 21:39:16] [AuroraCity.kkwmc.cn] [CHAT] 提醒，都别用粘液科技的附魔台了
 [2026-07-13 21:39:20] [AuroraCity.kkwmc.cn] [CHAT] 待会重启可能被吞
+[2026-07-13 21:40:55] [AuroraCity.kkwmc.cn] [CHAT] 2026年7月13日21:40:54
+[2026-07-13 21:44:22] [AuroraCity.kkwmc.cn] [CMD] /tpa zzzz
+[2026-07-13 21:45:11] [AuroraCity.kkwmc.cn] [CMD] /fly
