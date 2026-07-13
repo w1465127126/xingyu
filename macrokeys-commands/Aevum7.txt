@@ -5317,3 +5317,6 @@
 [2026-07-13 21:28:09] [AuroraCity.kkwmc.cn] [CMD] /tpaccept
 [2026-07-13 21:29:53] [AuroraCity.kkwmc.cn] [CMD] /res tp d
 [2026-07-13 21:31:34] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-13 21:33:09] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-13 21:36:48] [AuroraCity.kkwmc.cn] [CMD] /res create shy
+[2026-07-13 21:37:38] [AuroraCity.kkwmc.cn] [CMD] /res tpset
