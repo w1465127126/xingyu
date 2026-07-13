@@ -5133,3 +5133,6 @@
 [2026-07-13 18:42:32] [AuroraCity.kkwmc.cn] [CHAT] 谁能一刀砍死我奖励两万金币
 [2026-07-13 18:42:59] [AuroraCity.kkwmc.cn] [CMD] /tpahere vsoth
 [2026-07-13 18:43:50] [AuroraCity.kkwmc.cn] [CHAT] 三刀了熬
+[2026-07-13 18:44:24] [AuroraCity.kkwmc.cn] [CMD] /fly
+[2026-07-13 18:47:47] [AuroraCity.kkwmc.cn] [CHAT] 你看
+[2026-07-13 18:48:14] [AuroraCity.kkwmc.cn] [CHAT] 这就是机制的爆炸
