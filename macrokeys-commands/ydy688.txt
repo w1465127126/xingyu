@@ -4785,3 +4785,6 @@
 [2026-07-13 14:04:41] [AuroraCity.kkwmc.cn] [CHAT] 我不卖鞘翅
 [2026-07-13 14:04:45] [AuroraCity.kkwmc.cn] [CHAT] 我家没有
 [2026-07-13 14:04:50] [AuroraCity.kkwmc.cn] [CHAT] 使用鞘翅啊
+[2026-07-13 14:04:53] [AuroraCity.kkwmc.cn] [CHAT] 谁用
+[2026-07-13 14:05:24] [AuroraCity.kkwmc.cn] [CHAT] 这个是要充电的哈
+[2026-07-13 14:05:31] [AuroraCity.kkwmc.cn] [CHAT] 可以免费来我这充
