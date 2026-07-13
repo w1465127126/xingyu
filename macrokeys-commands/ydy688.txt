@@ -5085,3 +5085,6 @@
 [2026-07-13 18:21:29] [AuroraCity.kkwmc.cn] [CHAT] all
 [2026-07-13 18:21:31] [AuroraCity.kkwmc.cn] [CMD] /back
 [2026-07-13 18:23:03] [AuroraCity.kkwmc.cn] [CHAT] 无限收粗铜，比系统商店高，欢迎大家来
+[2026-07-13 18:23:29] [AuroraCity.kkwmc.cn] [CHAT] 妈的上次不是有袭击吗
+[2026-07-13 18:23:34] [AuroraCity.kkwmc.cn] [CHAT] 他妈的死了个终结
+[2026-07-13 18:23:48] [AuroraCity.kkwmc.cn] [CHAT] 没有我不会用那玩意
