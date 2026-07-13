@@ -5290,3 +5290,6 @@
 [2026-07-13 20:34:47] [AuroraCity.kkwmc.cn] [CMD] /back
 [2026-07-13 20:38:04] [AuroraCity.kkwmc.cn] [CHAT] 我勒个23个人
 [2026-07-13 20:38:25] [AuroraCity.kkwmc.cn] [CHAT] 兄弟进语言聊天啊
+[2026-07-13 20:38:29] [AuroraCity.kkwmc.cn] [CHAT] 打字多累
+[2026-07-13 20:39:46] [AuroraCity.kkwmc.cn] [CMD] /res tp fan
+[2026-07-13 20:40:45] [AuroraCity.kkwmc.cn] [CHAT] 兄弟进语音 123
