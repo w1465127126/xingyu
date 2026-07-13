@@ -4818,3 +4818,6 @@
 [2026-07-13 14:21:47] [AuroraCity.kkwmc.cn] [CHAT] 呢
 [2026-07-13 14:22:05] [AuroraCity.kkwmc.cn] [CHAT] 商店坐标还能吗
 [2026-07-13 14:22:20] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-13 14:22:40] [AuroraCity.kkwmc.cn] [CMD] /res help
+[2026-07-13 14:23:08] [AuroraCity.kkwmc.cn] [CMD] /res shop
+[2026-07-13 14:23:14] [AuroraCity.kkwmc.cn] [CMD] /res shop list
