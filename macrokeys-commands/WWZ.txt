@@ -1802,3 +1802,6 @@
 [2026-07-13 12:46:49] [x6.sjcmc.cn:34054] [CMD] /res tp zhucheng2
 [2026-07-13 12:47:22] [x6.sjcmc.cn:34054] [CMD] /tpahere AstralLunar
 [2026-07-13 12:48:11] [x6.sjcmc.cn:34054] [CHAT] 你的盾
+[2026-07-13 12:48:17] [x6.sjcmc.cn:34054] [CHAT] 买的？
+[2026-07-13 12:48:20] [x6.sjcmc.cn:34054] [CHAT] 20完
+[2026-07-13 12:48:23] [x6.sjcmc.cn:34054] [CHAT] 万
