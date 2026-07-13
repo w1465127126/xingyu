@@ -5025,3 +5025,9 @@
 [2026-07-13 17:33:49] [AuroraCity.kkwmc.cn] [CMD] /res tp zhucheng2
 [2026-07-13 17:33:51] [AuroraCity.kkwmc.cn] [CMD] /res tp zhucheng2
 [2026-07-13 17:33:57] [AuroraCity.kkwmc.cn] [CHAT] all
+[2026-07-13 17:33:59] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-13 17:34:05] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-13 17:34:07] [AuroraCity.kkwmc.cn] [CHAT] all
+[2026-07-13 17:34:09] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-13 17:34:50] [AuroraCity.kkwmc.cn] [CHAT] 以后卖你东西翻十倍
+[2026-07-13 17:35:33] [AuroraCity.kkwmc.cn] [CHAT] 我的劳务费罢了
