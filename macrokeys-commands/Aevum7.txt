@@ -5284,3 +5284,6 @@
 [2026-07-13 20:32:17] [AuroraCity.kkwmc.cn] [CHAT] 挖矿不影响
 [2026-07-13 20:32:32] [AuroraCity.kkwmc.cn] [CMD] /home j
 [2026-07-13 20:33:01] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-13 20:33:25] [AuroraCity.kkwmc.cn] [CHAT] 仇富
+[2026-07-13 20:33:49] [AuroraCity.kkwmc.cn] [CHAT] 腐竹建材商城能出个灯笼不awa
+[2026-07-13 20:34:46] [AuroraCity.kkwmc.cn] [CHAT] 钱不是万能的
