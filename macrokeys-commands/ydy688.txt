@@ -5271,3 +5271,6 @@
 [2026-07-13 20:35:58] [AuroraCity.kkwmc.cn] [CHAT] 坐标里的商店
 [2026-07-13 20:40:34] [AuroraCity.kkwmc.cn] [CMD] /tpahere Jaek
 [2026-07-13 20:41:30] [AuroraCity.kkwmc.cn] [CHAT] 2026年7月13日20:41:30
+[2026-07-13 20:45:49] [AuroraCity.kkwmc.cn] [CHAT] 附魔机变满了
+[2026-07-13 20:45:52] [AuroraCity.kkwmc.cn] [CHAT] 慢了
+[2026-07-13 20:45:54] [AuroraCity.kkwmc.cn] [CHAT] 咋回事
