@@ -5241,3 +5241,6 @@
 [2026-07-13 20:24:49] [AuroraCity.kkwmc.cn] [CHAT] 这个shift挖可以原版挖
 [2026-07-13 20:25:27] [AuroraCity.kkwmc.cn] [CHAT] 转钱
 [2026-07-13 20:25:30] [AuroraCity.kkwmc.cn] [CHAT] 直接交易
+[2026-07-13 20:25:34] [AuroraCity.kkwmc.cn] [CMD] /home 3
+[2026-07-13 20:25:59] [AuroraCity.kkwmc.cn] [CHAT] 神了
+[2026-07-13 20:26:05] [AuroraCity.kkwmc.cn] [CHAT] 行
