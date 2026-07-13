@@ -5124,3 +5124,6 @@
 [2026-07-13 18:37:37] [AuroraCity.kkwmc.cn] [CMD] /home 6
 [2026-07-13 18:37:40] [AuroraCity.kkwmc.cn] [CHAT] all
 [2026-07-13 18:37:42] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-13 18:38:31] [AuroraCity.kkwmc.cn] [CHAT] 21个号了
+[2026-07-13 18:40:26] [AuroraCity.kkwmc.cn] [CHAT] 泡岩浆不掉血
+[2026-07-13 18:40:30] [AuroraCity.kkwmc.cn] [CMD] /tpahere aaa
