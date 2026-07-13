@@ -5244,3 +5244,6 @@
 [2026-07-13 20:25:34] [AuroraCity.kkwmc.cn] [CMD] /home 3
 [2026-07-13 20:25:59] [AuroraCity.kkwmc.cn] [CHAT] 神了
 [2026-07-13 20:26:05] [AuroraCity.kkwmc.cn] [CHAT] 行
+[2026-07-13 20:26:16] [AuroraCity.kkwmc.cn] [CHAT] 你给抵五千
+[2026-07-13 20:26:25] [AuroraCity.kkwmc.cn] [CHAT] 给我转钱
+[2026-07-13 20:27:03] [AuroraCity.kkwmc.cn] [CHAT] 无所谓给你抵五千
