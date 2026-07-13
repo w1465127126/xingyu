@@ -4815,3 +4815,6 @@
 [2026-07-13 14:21:06] [AuroraCity.kkwmc.cn] [CMD] /tpahere AstralLunar
 [2026-07-13 14:21:28] [AuroraCity.kkwmc.cn] [CHAT] 过得来吗
 [2026-07-13 14:21:45] [AuroraCity.kkwmc.cn] [CHAT] 商店嗯
+[2026-07-13 14:21:47] [AuroraCity.kkwmc.cn] [CHAT] 呢
+[2026-07-13 14:22:05] [AuroraCity.kkwmc.cn] [CHAT] 商店坐标还能吗
+[2026-07-13 14:22:20] [AuroraCity.kkwmc.cn] [CMD] /back
