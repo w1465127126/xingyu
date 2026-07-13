@@ -5221,3 +5221,6 @@
 [2026-07-13 20:12:48] [AuroraCity.kkwmc.cn] [CMD] /spawn
 [2026-07-13 20:13:13] [AuroraCity.kkwmc.cn] [CMD] /warp 末地世界
 [2026-07-13 20:13:39] [AuroraCity.kkwmc.cn] [CHAT] 建议自己肝
+[2026-07-13 20:13:41] [AuroraCity.kkwmc.cn] [CHAT] 不然容易退游
+[2026-07-13 20:13:48] [AuroraCity.kkwmc.cn] [CHAT] awa
+[2026-07-13 20:14:00] [AuroraCity.kkwmc.cn] [CHAT] 666
