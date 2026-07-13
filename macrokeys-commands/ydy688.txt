@@ -5088,3 +5088,6 @@
 [2026-07-13 18:23:29] [AuroraCity.kkwmc.cn] [CHAT] 妈的上次不是有袭击吗
 [2026-07-13 18:23:34] [AuroraCity.kkwmc.cn] [CHAT] 他妈的死了个终结
 [2026-07-13 18:23:48] [AuroraCity.kkwmc.cn] [CHAT] 没有我不会用那玩意
+[2026-07-13 18:27:38] [AuroraCity.kkwmc.cn] [CMD] /home 6
+[2026-07-13 18:27:41] [AuroraCity.kkwmc.cn] [CHAT] all
+[2026-07-13 18:27:53] [AuroraCity.kkwmc.cn] [CMD] /back
