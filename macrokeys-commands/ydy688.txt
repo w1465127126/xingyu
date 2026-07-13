@@ -5022,3 +5022,6 @@
 [2026-07-13 17:33:02] [AuroraCity.kkwmc.cn] [CHAT] 一直失败没找到到底怎么成功的
 [2026-07-13 17:33:07] [AuroraCity.kkwmc.cn] [CHAT] 唉
 [2026-07-13 17:33:38] [AuroraCity.kkwmc.cn] [CMD] /home 3
+[2026-07-13 17:33:49] [AuroraCity.kkwmc.cn] [CMD] /res tp zhucheng2
+[2026-07-13 17:33:51] [AuroraCity.kkwmc.cn] [CMD] /res tp zhucheng2
+[2026-07-13 17:33:57] [AuroraCity.kkwmc.cn] [CHAT] all
