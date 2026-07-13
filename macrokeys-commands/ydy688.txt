@@ -5184,3 +5184,6 @@
 [2026-07-13 20:04:54] [AuroraCity.kkwmc.cn] [CMD] /home 3
 [2026-07-13 20:05:01] [AuroraCity.kkwmc.cn] [CMD] /back
 [2026-07-13 20:05:21] [AuroraCity.kkwmc.cn] [CHAT] [i]
+[2026-07-13 20:05:23] [AuroraCity.kkwmc.cn] [CHAT] 要不要
+[2026-07-13 20:06:36] [AuroraCity.kkwmc.cn] [CMD] /tpahere red12138
+[2026-07-13 20:07:11] [AuroraCity.kkwmc.cn] [CHAT] 后续添加附魔需要去粘液科技的附魔台弄
