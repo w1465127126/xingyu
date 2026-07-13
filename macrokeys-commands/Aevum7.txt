@@ -5236,3 +5236,6 @@
 [2026-07-13 20:20:53] [AuroraCity.kkwmc.cn] [CHAT] 我的也掉
 [2026-07-13 20:21:03] [AuroraCity.kkwmc.cn] [CHAT] 掉没了不脱就行
 [2026-07-13 20:21:11] [AuroraCity.kkwmc.cn] [CHAT] 传不上去就石头修一下
+[2026-07-13 20:21:24] [AuroraCity.kkwmc.cn] [CHAT] 是的
+[2026-07-13 20:21:27] [AuroraCity.kkwmc.cn] [CHAT] 只有附魔效果
+[2026-07-13 20:21:42] [AuroraCity.kkwmc.cn] [CHAT] mei
