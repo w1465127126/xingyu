@@ -5301,3 +5301,6 @@
 [2026-07-13 21:29:02] [AuroraCity.kkwmc.cn] [CMD] /home 3
 [2026-07-13 21:29:24] [AuroraCity.kkwmc.cn] [CMD] /tpa zzzz
 [2026-07-13 21:29:49] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-13 21:32:02] [AuroraCity.kkwmc.cn] [CHAT] 2026年7月13日21:32:02
+[2026-07-13 21:32:08] [AuroraCity.kkwmc.cn] [CMD] /fly
+[2026-07-13 21:33:27] [AuroraCity.kkwmc.cn] [CHAT] 开门
