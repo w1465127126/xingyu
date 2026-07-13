@@ -5136,3 +5136,6 @@
 [2026-07-13 18:44:24] [AuroraCity.kkwmc.cn] [CMD] /fly
 [2026-07-13 18:47:47] [AuroraCity.kkwmc.cn] [CHAT] 你看
 [2026-07-13 18:48:14] [AuroraCity.kkwmc.cn] [CHAT] 这就是机制的爆炸
+[2026-07-13 18:48:27] [AuroraCity.kkwmc.cn] [CHAT] 打什么都会爆掉周围的方块
+[2026-07-13 18:49:57] [AuroraCity.kkwmc.cn] [CHAT] 你防御多少级了
+[2026-07-13 18:55:19] [AuroraCity.kkwmc.cn] [CHAT] cpdd
