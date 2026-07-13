@@ -5251,3 +5251,6 @@
 [2026-07-13 20:22:42] [AuroraCity.kkwmc.cn] [CHAT] awa
 [2026-07-13 20:22:47] [AuroraCity.kkwmc.cn] [CHAT] 你愿意修的话
 [2026-07-13 20:23:02] [AuroraCity.kkwmc.cn] [CHAT] 可以加啊
+[2026-07-13 20:23:06] [AuroraCity.kkwmc.cn] [CHAT] 反正岩石又没用
+[2026-07-13 20:23:15] [AuroraCity.kkwmc.cn] [CHAT] 我有脚本要吗
+[2026-07-13 20:23:23] [AuroraCity.kkwmc.cn] [CHAT] 是的
