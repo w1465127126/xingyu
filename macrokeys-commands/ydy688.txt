@@ -4923,3 +4923,6 @@
 [2026-07-13 15:47:20] [AuroraCity.kkwmc.cn] [CHAT] 哈哈哈
 [2026-07-13 15:47:32] [AuroraCity.kkwmc.cn] [CHAT] 把装备放回来吧
 [2026-07-13 15:47:36] [AuroraCity.kkwmc.cn] [CMD] /home 3
+[2026-07-13 15:47:53] [AuroraCity.kkwmc.cn] [CHAT] 哪里有烂尾楼
+[2026-07-13 15:48:21] [AuroraCity.kkwmc.cn] [CHAT] 兄弟你建个宫殿准备给我分哪个房间
+[2026-07-13 15:48:51] [AuroraCity.kkwmc.cn] [CMD] /hat
