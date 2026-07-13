@@ -4842,3 +4842,6 @@
 [2026-07-13 14:39:37] [AuroraCity.kkwmc.cn] [CHAT] AstralLunar
 [2026-07-13 14:39:39] [AuroraCity.kkwmc.cn] [CHAT] 来
 [2026-07-13 14:40:38] [AuroraCity.kkwmc.cn] [CHAT] 能打开吗
+[2026-07-13 14:41:02] [AuroraCity.kkwmc.cn] [CMD] /res pdel AstralLunar
+[2026-07-13 14:41:06] [AuroraCity.kkwmc.cn] [CHAT] 现在呢
+[2026-07-13 14:41:18] [AuroraCity.kkwmc.cn] [CHAT] 开门试试
