@@ -5127,3 +5127,6 @@
 [2026-07-13 18:38:31] [AuroraCity.kkwmc.cn] [CHAT] 21个号了
 [2026-07-13 18:40:26] [AuroraCity.kkwmc.cn] [CHAT] 泡岩浆不掉血
 [2026-07-13 18:40:30] [AuroraCity.kkwmc.cn] [CMD] /tpahere aaa
+[2026-07-13 18:40:33] [AuroraCity.kkwmc.cn] [CMD] /tpahere Aevum7
+[2026-07-13 18:41:09] [AuroraCity.kkwmc.cn] [CMD] /hat
+[2026-07-13 18:41:21] [AuroraCity.kkwmc.cn] [CMD] /home 3
