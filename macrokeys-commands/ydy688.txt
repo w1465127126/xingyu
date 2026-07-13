@@ -4809,3 +4809,6 @@
 [2026-07-13 14:13:22] [AuroraCity.kkwmc.cn] [CHAT] ?
 [2026-07-13 14:14:16] [AuroraCity.kkwmc.cn] [CHAT] 你先别急
 [2026-07-13 14:15:04] [AuroraCity.kkwmc.cn] [CHAT] 我知道
+[2026-07-13 14:15:09] [AuroraCity.kkwmc.cn] [CHAT] 先别租
+[2026-07-13 14:15:16] [AuroraCity.kkwmc.cn] [CMD] /res placeholders
+[2026-07-13 14:15:31] [AuroraCity.kkwmc.cn] [CMD] /res info
