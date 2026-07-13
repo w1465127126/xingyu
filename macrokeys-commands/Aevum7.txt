@@ -5368,3 +5368,33 @@
 [2026-07-13 22:03:44] [AuroraCity.kkwmc.cn] [CHAT] 666
 [2026-07-13 22:03:45] [AuroraCity.kkwmc.cn] [CHAT] 老6啊
 [2026-07-13 22:03:56] [AuroraCity.kkwmc.cn] [CMD] /tpaccept
+[2026-07-13 22:04:04] [AuroraCity.kkwmc.cn] [CHAT] 得下mod
+[2026-07-13 22:04:15] [AuroraCity.kkwmc.cn] [CHAT] ?
+[2026-07-13 22:04:23] [AuroraCity.kkwmc.cn] [CHAT] 咳咳
+[2026-07-13 22:04:27] [AuroraCity.kkwmc.cn] [CHAT] 别人的小镇
+[2026-07-13 22:04:32] [AuroraCity.kkwmc.cn] [CHAT] 蹭挂机
+[2026-07-13 22:04:39] [AuroraCity.kkwmc.cn] [CHAT] 那个龙偷
+[2026-07-13 22:04:45] [AuroraCity.kkwmc.cn] [CHAT] 那个粉色的龙
+[2026-07-13 22:05:04] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-13 22:05:08] [AuroraCity.kkwmc.cn] [CMD] /home j
+[2026-07-13 22:05:37] [AuroraCity.kkwmc.cn] [CHAT] 滴滴代找
+[2026-07-13 22:05:49] [AuroraCity.kkwmc.cn] [CHAT] 蹭挂机说是
+[2026-07-13 22:05:59] [AuroraCity.kkwmc.cn] [CHAT] mao_yao 会用么
+[2026-07-13 22:06:17] [AuroraCity.kkwmc.cn] [CHAT] awa
+[2026-07-13 22:06:23] [AuroraCity.kkwmc.cn] [CMD] /tpaccept
+[2026-07-13 22:06:32] [AuroraCity.kkwmc.cn] [CHAT] 6
+[2026-07-13 22:06:36] [AuroraCity.kkwmc.cn] [CHAT] a
+[2026-07-13 22:06:43] [AuroraCity.kkwmc.cn] [CMD] /res pset tp t
+[2026-07-13 22:06:45] [AuroraCity.kkwmc.cn] [CHAT] 可以了
+[2026-07-13 22:06:47] [AuroraCity.kkwmc.cn] [CMD] /tpaccept
+[2026-07-13 22:06:56] [AuroraCity.kkwmc.cn] [CHAT] 可以偷强化合金锭吗
+[2026-07-13 22:06:59] [AuroraCity.kkwmc.cn] [CHAT] 啊
+[2026-07-13 22:07:01] [AuroraCity.kkwmc.cn] [CMD] /res set
+[2026-07-13 22:07:35] [AuroraCity.kkwmc.cn] [CHAT] 我设置一下
+[2026-07-13 22:07:47] [AuroraCity.kkwmc.cn] [CMD] /res set
+[2026-07-13 22:08:48] [AuroraCity.kkwmc.cn] [CMD] /tpahere mao_yao
+[2026-07-13 22:08:53] [AuroraCity.kkwmc.cn] [CHAT] 确实是毕业了= =
+[2026-07-13 22:08:59] [AuroraCity.kkwmc.cn] [CHAT] 这武器恶心的一笔
+[2026-07-13 22:09:19] [AuroraCity.kkwmc.cn] [CHAT] 你那个刷村民的没试一下啊
+[2026-07-13 22:09:27] [AuroraCity.kkwmc.cn] [CHAT] 没招了
+[2026-07-13 22:09:47] [AuroraCity.kkwmc.cn] [CHAT] 有bug说一下awa
