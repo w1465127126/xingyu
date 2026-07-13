@@ -5302,3 +5302,6 @@
 [2026-07-13 21:01:00] [AuroraCity.kkwmc.cn] [CHAT] 因为没有
 [2026-07-13 21:01:17] [AuroraCity.kkwmc.cn] [CMD] /home j
 [2026-07-13 21:01:56] [AuroraCity.kkwmc.cn] [CMD] /res tp zhucheng
+[2026-07-13 21:02:25] [AuroraCity.kkwmc.cn] [CHAT] 500
+[2026-07-13 21:02:26] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-13 21:13:19] [AuroraCity.kkwmc.cn] [CHAT] 卡吗
