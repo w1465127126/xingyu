@@ -4992,3 +4992,6 @@
 [2026-07-13 17:05:35] [AuroraCity.kkwmc.cn] [CMD] /dback
 [2026-07-13 17:05:40] [AuroraCity.kkwmc.cn] [CMD] /back
 [2026-07-13 17:07:50] [AuroraCity.kkwmc.cn] [CMD] /res tp zhucheng2
+[2026-07-13 17:07:54] [AuroraCity.kkwmc.cn] [CHAT] 干啥呢这是
+[2026-07-13 17:07:57] [AuroraCity.kkwmc.cn] [CHAT] all
+[2026-07-13 17:08:34] [AuroraCity.kkwmc.cn] [CMD] /warp 鹅斯拉
