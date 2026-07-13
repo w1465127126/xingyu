@@ -4716,3 +4716,6 @@
 [2026-07-13 11:39:36] [AuroraCity.kkwmc.cn] [CMD] /skins
 [2026-07-13 11:40:35] [AuroraCity.kkwmc.cn] [CHAT] 武器是附魔堆出来的
 [2026-07-13 11:40:41] [AuroraCity.kkwmc.cn] [CHAT] 太花时间了
+[2026-07-13 11:41:07] [AuroraCity.kkwmc.cn] [CHAT] 你去打那个剧情副本可以
+[2026-07-13 11:41:11] [AuroraCity.kkwmc.cn] [CHAT] 鬼新娘的那个
+[2026-07-13 11:41:15] [AuroraCity.kkwmc.cn] [CHAT] 那个剑是目前最强的
