@@ -4821,3 +4821,6 @@
 [2026-07-13 14:22:40] [AuroraCity.kkwmc.cn] [CMD] /res help
 [2026-07-13 14:23:08] [AuroraCity.kkwmc.cn] [CMD] /res shop
 [2026-07-13 14:23:14] [AuroraCity.kkwmc.cn] [CMD] /res shop list
+[2026-07-13 14:23:21] [AuroraCity.kkwmc.cn] [CMD] /res shop createboard
+[2026-07-13 14:25:36] [AuroraCity.kkwmc.cn] [CMD] /res subzone d 粘液科技店
+[2026-07-13 14:25:51] [AuroraCity.kkwmc.cn] [CMD] /res subzone d nykj
