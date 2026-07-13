@@ -4845,3 +4845,9 @@
 [2026-07-13 14:41:02] [AuroraCity.kkwmc.cn] [CMD] /res pdel AstralLunar
 [2026-07-13 14:41:06] [AuroraCity.kkwmc.cn] [CHAT] 现在呢
 [2026-07-13 14:41:18] [AuroraCity.kkwmc.cn] [CHAT] 开门试试
+[2026-07-13 14:41:27] [AuroraCity.kkwmc.cn] [CHAT] OK了
+[2026-07-13 14:41:38] [AuroraCity.kkwmc.cn] [CHAT] 等我给你做飞行器
+[2026-07-13 14:41:43] [AuroraCity.kkwmc.cn] [CHAT] 给我一万五就行
+[2026-07-13 14:44:17] [AuroraCity.kkwmc.cn] [CHAT] shift 右键切换模式
+[2026-07-13 14:44:20] [AuroraCity.kkwmc.cn] [CHAT] 换成风
+[2026-07-13 14:44:27] [AuroraCity.kkwmc.cn] [CHAT] 先充电
