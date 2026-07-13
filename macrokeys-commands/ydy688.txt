@@ -4833,3 +4833,6 @@
 [2026-07-13 14:29:19] [AuroraCity.kkwmc.cn] [CHAT] 好了
 [2026-07-13 14:29:20] [AuroraCity.kkwmc.cn] [CHAT] 来
 [2026-07-13 14:29:29] [AuroraCity.kkwmc.cn] [CHAT] 试试
+[2026-07-13 14:30:01] [AuroraCity.kkwmc.cn] [CHAT] 等一下
+[2026-07-13 14:31:40] [AuroraCity.kkwmc.cn] [CHAT] 你能按吗
+[2026-07-13 14:32:46] [AuroraCity.kkwmc.cn] [CMD] /res pset AstralLunar button-使用按钮
