@@ -5293,3 +5293,6 @@
 [2026-07-13 20:38:29] [AuroraCity.kkwmc.cn] [CHAT] 打字多累
 [2026-07-13 20:39:46] [AuroraCity.kkwmc.cn] [CMD] /res tp fan
 [2026-07-13 20:40:45] [AuroraCity.kkwmc.cn] [CHAT] 兄弟进语音 123
+[2026-07-13 20:55:43] [AuroraCity.kkwmc.cn] [CHAT] 等下
+[2026-07-13 20:58:04] [AuroraCity.kkwmc.cn] [CHAT] md找不到了
+[2026-07-13 20:58:20] [AuroraCity.kkwmc.cn] [CHAT] 40个石砖的位置
