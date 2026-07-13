@@ -5170,3 +5170,6 @@
 [2026-07-13 18:37:36] [AuroraCity.kkwmc.cn] [CMD] /res tp d
 [2026-07-13 18:40:38] [AuroraCity.kkwmc.cn] [CHAT] 咋了
 [2026-07-13 18:41:52] [AuroraCity.kkwmc.cn] [CHAT] 不对劲
+[2026-07-13 18:47:34] [AuroraCity.kkwmc.cn] [CHAT] 你还能强制tp
+[2026-07-13 18:47:39] [AuroraCity.kkwmc.cn] [CMD] /fly
+[2026-07-13 18:47:59] [AuroraCity.kkwmc.cn] [CHAT] 6
