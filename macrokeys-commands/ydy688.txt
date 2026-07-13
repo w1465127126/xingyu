@@ -5226,3 +5226,9 @@
 [2026-07-13 20:19:52] [AuroraCity.kkwmc.cn] [CHAT] all
 [2026-07-13 20:19:56] [AuroraCity.kkwmc.cn] [CMD] /home 6
 [2026-07-13 20:20:06] [AuroraCity.kkwmc.cn] [CHAT] 一分不能少
+[2026-07-13 20:20:14] [AuroraCity.kkwmc.cn] [CHAT] 你花完二十万也还有一百万
+[2026-07-13 20:20:16] [AuroraCity.kkwmc.cn] [CHAT] 够用了
+[2026-07-13 20:20:22] [AuroraCity.kkwmc.cn] [CHAT] 全服没有第二个一百万了
+[2026-07-13 20:20:33] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-13 20:20:43] [AuroraCity.kkwmc.cn] [CHAT] 谁闲的给你搓一起
+[2026-07-13 20:20:53] [AuroraCity.kkwmc.cn] [CHAT] 17w
