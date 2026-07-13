@@ -5253,3 +5253,6 @@
 [2026-07-13 20:29:27] [AuroraCity.kkwmc.cn] [CHAT] 耐久修复慢死了
 [2026-07-13 20:29:54] [AuroraCity.kkwmc.cn] [CHAT] 我能一下把这个稿子挖没耐久
 [2026-07-13 20:29:58] [AuroraCity.kkwmc.cn] [CHAT] 那是你们不挖矿吧
+[2026-07-13 20:30:18] [AuroraCity.kkwmc.cn] [CMD] /home 6
+[2026-07-13 20:30:21] [AuroraCity.kkwmc.cn] [CHAT] all
+[2026-07-13 20:30:24] [AuroraCity.kkwmc.cn] [CMD] /back
