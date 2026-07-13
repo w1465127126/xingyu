@@ -4890,3 +4890,6 @@
 [2026-07-13 15:28:13] [AuroraCity.kkwmc.cn] [CHAT] 要等一两分钟
 [2026-07-13 15:28:36] [AuroraCity.kkwmc.cn] [CHAT] 角的话输入/hat
 [2026-07-13 15:28:54] [AuroraCity.kkwmc.cn] [CHAT] 翻牌子全翻了，我给你报销
+[2026-07-13 15:29:16] [AuroraCity.kkwmc.cn] [CMD] /pay AstralLunar 25000
+[2026-07-13 15:29:36] [AuroraCity.kkwmc.cn] [CHAT] 好了
+[2026-07-13 15:29:40] [AuroraCity.kkwmc.cn] [CHAT] 别脱下来了、
