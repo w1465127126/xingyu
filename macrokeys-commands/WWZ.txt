@@ -2072,3 +2072,6 @@
 [2026-07-13 23:57:24] [x6.sjcmc.cn:34054] [CMD] /spawn
 [2026-07-13 23:58:08] [x6.sjcmc.cn:34054] [CMD] /res tp yt
 [2026-07-14 02:05:51] [x6.sjcmc.cn:34054] [CHAT] .
+[2026-07-14 02:07:23] [x6.sjcmc.cn:34054] [CMD] /spawn
+[2026-07-14 02:08:32] [x6.sjcmc.cn:34054] [CMD] /res ttp yt
+[2026-07-14 02:08:44] [x6.sjcmc.cn:34054] [CMD] /res tp yt
