@@ -5401,3 +5401,21 @@
 [2026-07-13 22:09:55] [AuroraCity.kkwmc.cn] [CHAT] 反正现在是支持后台的
 [2026-07-13 22:10:14] [AuroraCity.kkwmc.cn] [CHAT] 这投影md
 [2026-07-13 22:10:21] [AuroraCity.kkwmc.cn] [CHAT] 还有交给玻璃在哪啊
+[2026-07-13 22:10:27] [AuroraCity.kkwmc.cn] [CHAT] 还有玻璃找不到了
+[2026-07-13 22:10:31] [AuroraCity.kkwmc.cn] [CHAT] 不知道在哪
+[2026-07-13 22:10:46] [AuroraCity.kkwmc.cn] [CHAT] 我用投影造房子啊
+[2026-07-13 22:11:00] [AuroraCity.kkwmc.cn] [CHAT] 是啊
+[2026-07-13 22:11:05] [AuroraCity.kkwmc.cn] [CHAT] 找不到玻璃位置awa
+[2026-07-13 22:11:10] [AuroraCity.kkwmc.cn] [CHAT] 还剩几十个
+[2026-07-13 22:11:28] [AuroraCity.kkwmc.cn] [CHAT] 没招了
+[2026-07-13 22:11:52] [AuroraCity.kkwmc.cn] [CHAT] 很杂乱
+[2026-07-13 22:12:09] [AuroraCity.kkwmc.cn] [CHAT] 我日
+[2026-07-13 22:12:13] [AuroraCity.kkwmc.cn] [CHAT] 还差900个
+[2026-07-13 22:13:33] [AuroraCity.kkwmc.cn] [CHAT] 没招了
+[2026-07-13 22:13:57] [AuroraCity.kkwmc.cn] [CHAT] 上班都没这么努力
+[2026-07-13 22:14:22] [AuroraCity.kkwmc.cn] [CHAT] 放弃了
+[2026-07-13 22:14:24] [AuroraCity.kkwmc.cn] [CHAT] 明日再战
+[2026-07-13 22:14:42] [AuroraCity.kkwmc.cn] [CMD] /res set
+[2026-07-14 11:39:16] [AuroraCity.kkwmc.cn] [JOIN] 连接服务器: AuroraCity.kkwmc.cn
+[2026-07-14 11:39:27] [AuroraCity.kkwmc.cn] [CMD] /l wokaoa
+[2026-07-14 11:39:30] [AuroraCity.kkwmc.cn] [CMD] /res tp shangdian
