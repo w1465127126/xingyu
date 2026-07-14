@@ -5740,3 +5740,6 @@
 [2026-07-14 22:39:22] [AuroraCity.kkwmc.cn] [CHAT] 我抽了6发
 [2026-07-14 22:39:24] [AuroraCity.kkwmc.cn] [CHAT] 都没播报
 [2026-07-14 22:39:44] [AuroraCity.kkwmc.cn] [CHAT] 每日的么
+[2026-07-14 22:39:52] [AuroraCity.kkwmc.cn] [CHAT] 老6啊
+[2026-07-14 22:40:01] [AuroraCity.kkwmc.cn] [CHAT] 我说见鬼了
+[2026-07-14 22:40:07] [AuroraCity.kkwmc.cn] [CHAT] 我怎么点一下就多个东西
