@@ -5746,3 +5746,6 @@
 [2026-07-14 22:40:11] [AuroraCity.kkwmc.cn] [CHAT] 你还分批丢
 [2026-07-14 22:40:40] [AuroraCity.kkwmc.cn] [CHAT] 没招了
 [2026-07-14 22:40:43] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-14 22:40:55] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-14 22:41:08] [AuroraCity.kkwmc.cn] [CMD] /ah
+[2026-07-14 22:41:13] [AuroraCity.kkwmc.cn] [CHAT] 10w
