@@ -5370,3 +5370,6 @@
 [2026-07-14 22:36:42] [AuroraCity.kkwmc.cn] [CMD] /tpa Aevum7
 [2026-07-14 22:37:27] [AuroraCity.kkwmc.cn] [CHAT] 这是什么
 [2026-07-14 22:38:45] [AuroraCity.kkwmc.cn] [CHAT] 我咋没有
+[2026-07-14 22:38:59] [AuroraCity.kkwmc.cn] [CHAT] 怎么弄
+[2026-07-14 22:39:34] [AuroraCity.kkwmc.cn] [CHAT] 怎么弄的
+[2026-07-14 22:40:48] [AuroraCity.kkwmc.cn] [CHAT] 肚子疼
