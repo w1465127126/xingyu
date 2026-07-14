@@ -5584,3 +5584,6 @@
 [2026-07-14 14:36:39] [AuroraCity.kkwmc.cn] [CHAT] 支持扩建
 [2026-07-14 14:36:56] [AuroraCity.kkwmc.cn] [CHAT] 这对吗
 [2026-07-14 14:37:20] [AuroraCity.kkwmc.cn] [CHAT] 兄弟你帮我建房子我帮你搞商店
+[2026-07-14 14:37:26] [AuroraCity.kkwmc.cn] [CHAT] 商店直接放我这来
+[2026-07-14 14:37:43] [AuroraCity.kkwmc.cn] [CHAT] 面包人是把
+[2026-07-14 14:38:19] [AuroraCity.kkwmc.cn] [CHAT] 没事小房子
