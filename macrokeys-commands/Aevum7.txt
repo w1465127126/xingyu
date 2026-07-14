@@ -5716,3 +5716,6 @@
 [2026-07-14 22:25:12] [AuroraCity.kkwmc.cn] [CMD] /back
 [2026-07-14 22:25:46] [AuroraCity.kkwmc.cn] [CHAT] 60
 [2026-07-14 22:25:47] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-14 22:26:45] [AuroraCity.kkwmc.cn] [CMD] /spawn
+[2026-07-14 22:27:52] [AuroraCity.kkwmc.cn] [CMD] /res tp d
+[2026-07-14 22:28:00] [AuroraCity.kkwmc.cn] [CMD] /home j
