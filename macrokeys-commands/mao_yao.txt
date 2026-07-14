@@ -97,3 +97,6 @@
 [2026-07-14 13:34:28] [x6.sjcmc.cn:34054] [CMD] /home home
 [2026-07-14 13:34:39] [x6.sjcmc.cn:34054] [CMD] /BACK
 [2026-07-14 16:28:27] [x6.sjcmc.cn:34054] [CMD] /home gc2
+[2026-07-14 16:30:50] [x6.sjcmc.cn:34054] [CMD] /home home
+[2026-07-14 16:30:55] [x6.sjcmc.cn:34054] [CMD] /back
+[2026-07-14 16:31:18] [x6.sjcmc.cn:34054] [CMD] /back
