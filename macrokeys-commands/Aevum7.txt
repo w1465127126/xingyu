@@ -5737,3 +5737,6 @@
 [2026-07-14 22:39:03] [AuroraCity.kkwmc.cn] [CHAT] 都没扣钥匙
 [2026-07-14 22:39:06] [AuroraCity.kkwmc.cn] [CHAT] 就给了东西
 [2026-07-14 22:39:19] [AuroraCity.kkwmc.cn] [CHAT] 没
+[2026-07-14 22:39:22] [AuroraCity.kkwmc.cn] [CHAT] 我抽了6发
+[2026-07-14 22:39:24] [AuroraCity.kkwmc.cn] [CHAT] 都没播报
+[2026-07-14 22:39:44] [AuroraCity.kkwmc.cn] [CHAT] 每日的么
