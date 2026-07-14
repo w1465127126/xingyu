@@ -5548,3 +5548,6 @@
 [2026-07-14 14:19:33] [AuroraCity.kkwmc.cn] [CMD] /back
 [2026-07-14 14:19:37] [AuroraCity.kkwmc.cn] [CMD] /res tp zhucheng
 [2026-07-14 14:20:05] [AuroraCity.kkwmc.cn] [CHAT] all
+[2026-07-14 14:20:06] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-14 14:20:09] [AuroraCity.kkwmc.cn] [CMD] /home j
+[2026-07-14 14:25:50] [AuroraCity.kkwmc.cn] [CHAT] ?这玩意还要批量做？
