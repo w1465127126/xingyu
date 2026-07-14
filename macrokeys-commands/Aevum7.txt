@@ -5665,3 +5665,6 @@
 [2026-07-14 15:20:38] [AuroraCity.kkwmc.cn] [CMD] /back
 [2026-07-14 15:20:41] [AuroraCity.kkwmc.cn] [CMD] /home jh
 [2026-07-14 15:20:42] [AuroraCity.kkwmc.cn] [CMD] /home j
+[2026-07-14 15:21:30] [AuroraCity.kkwmc.cn] [CMD] /tpaccept
+[2026-07-14 15:21:49] [AuroraCity.kkwmc.cn] [CMD] /pay gggggggguo 3000
+[2026-07-14 15:22:15] [AuroraCity.kkwmc.cn] [CHAT] 潜影盒不要啊
