@@ -5500,3 +5500,6 @@
 [2026-07-14 12:55:38] [AuroraCity.kkwmc.cn] [CMD] /home j
 [2026-07-14 12:58:49] [AuroraCity.kkwmc.cn] [CMD] /warp 资源世界
 [2026-07-14 12:58:53] [AuroraCity.kkwmc.cn] [CMD] /rtp
+[2026-07-14 13:00:38] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-14 13:00:42] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-14 13:00:44] [AuroraCity.kkwmc.cn] [CMD] /home j
