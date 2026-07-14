@@ -5659,3 +5659,9 @@
 [2026-07-14 15:17:07] [AuroraCity.kkwmc.cn] [CHAT] 是的
 [2026-07-14 15:17:27] [AuroraCity.kkwmc.cn] [CHAT] 出嘛
 [2026-07-14 15:17:52] [AuroraCity.kkwmc.cn] [CHAT] 910
+[2026-07-14 15:18:23] [AuroraCity.kkwmc.cn] [CHAT] 哈哈必须的
+[2026-07-14 15:20:24] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-14 15:20:37] [AuroraCity.kkwmc.cn] [CHAT] 500
+[2026-07-14 15:20:38] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-14 15:20:41] [AuroraCity.kkwmc.cn] [CMD] /home jh
+[2026-07-14 15:20:42] [AuroraCity.kkwmc.cn] [CMD] /home j
