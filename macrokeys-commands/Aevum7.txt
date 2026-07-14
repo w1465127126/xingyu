@@ -5599,3 +5599,9 @@
 [2026-07-14 14:42:48] [AuroraCity.kkwmc.cn] [CHAT] 普通石砖
 [2026-07-14 14:42:49] [AuroraCity.kkwmc.cn] [CHAT] 烧一下
 [2026-07-14 14:43:02] [AuroraCity.kkwmc.cn] [CHAT] 量不大1k个
+[2026-07-14 14:43:05] [AuroraCity.kkwmc.cn] [CHAT] 1w
+[2026-07-14 14:43:07] [AuroraCity.kkwmc.cn] [CHAT] ok不
+[2026-07-14 14:43:11] [AuroraCity.kkwmc.cn] [CHAT] 一个10金币
+[2026-07-14 14:43:15] [AuroraCity.kkwmc.cn] [CHAT] 是的
+[2026-07-14 14:43:23] [AuroraCity.kkwmc.cn] [CMD] /pay gggggggguo 7000
+[2026-07-14 14:43:24] [AuroraCity.kkwmc.cn] [CHAT] 定金
