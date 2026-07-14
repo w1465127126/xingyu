@@ -5719,3 +5719,6 @@
 [2026-07-14 22:26:45] [AuroraCity.kkwmc.cn] [CMD] /spawn
 [2026-07-14 22:27:52] [AuroraCity.kkwmc.cn] [CMD] /res tp d
 [2026-07-14 22:28:00] [AuroraCity.kkwmc.cn] [CMD] /home j
+[2026-07-14 22:28:21] [AuroraCity.kkwmc.cn] [CMD] /spawn
+[2026-07-14 22:31:37] [AuroraCity.kkwmc.cn] [CHAT] 啥脚本
+[2026-07-14 22:32:35] [AuroraCity.kkwmc.cn] [CHAT] 客户端的问题吧
