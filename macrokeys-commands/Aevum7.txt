@@ -5605,3 +5605,6 @@
 [2026-07-14 14:43:15] [AuroraCity.kkwmc.cn] [CHAT] 是的
 [2026-07-14 14:43:23] [AuroraCity.kkwmc.cn] [CMD] /pay gggggggguo 7000
 [2026-07-14 14:43:24] [AuroraCity.kkwmc.cn] [CHAT] 定金
+[2026-07-14 14:43:36] [AuroraCity.kkwmc.cn] [CHAT] 我一个人收集的好烦
+[2026-07-14 14:43:48] [AuroraCity.kkwmc.cn] [CHAT] 可以的
+[2026-07-14 14:44:40] [AuroraCity.kkwmc.cn] [CHAT] 附魔机
