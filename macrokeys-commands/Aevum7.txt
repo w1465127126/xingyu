@@ -5728,3 +5728,9 @@
 [2026-07-14 22:33:42] [AuroraCity.kkwmc.cn] [CMD] /back
 [2026-07-14 22:33:55] [AuroraCity.kkwmc.cn] [JOIN] 连接服务器: AuroraCity.kkwmc.cn
 [2026-07-14 22:34:01] [AuroraCity.kkwmc.cn] [CMD] /l wokaoa
+[2026-07-14 22:36:46] [AuroraCity.kkwmc.cn] [CMD] /tpaccept
+[2026-07-14 22:37:46] [AuroraCity.kkwmc.cn] [CHAT] 抽奖啊
+[2026-07-14 22:37:59] [AuroraCity.kkwmc.cn] [CHAT] 兄弟你来一直左键
+[2026-07-14 22:38:14] [AuroraCity.kkwmc.cn] [CHAT] 你进那个界面不要东
+[2026-07-14 22:38:53] [AuroraCity.kkwmc.cn] [CHAT] 怪事
+[2026-07-14 22:38:58] [AuroraCity.kkwmc.cn] [CHAT] 我刚刚左键宝箱
