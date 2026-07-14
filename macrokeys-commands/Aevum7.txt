@@ -5566,3 +5566,9 @@
 [2026-07-14 14:30:15] [AuroraCity.kkwmc.cn] [CHAT] ok
 [2026-07-14 14:30:55] [AuroraCity.kkwmc.cn] [CMD] /back
 [2026-07-14 14:31:01] [AuroraCity.kkwmc.cn] [CMD] /warp 资源世界
+[2026-07-14 14:31:04] [AuroraCity.kkwmc.cn] [CMD] /rtp
+[2026-07-14 14:32:07] [AuroraCity.kkwmc.cn] [CHAT] 这对吗
+[2026-07-14 14:32:52] [AuroraCity.kkwmc.cn] [CHAT] gggggggguo我记得我都好久没看到你了
+[2026-07-14 14:32:55] [AuroraCity.kkwmc.cn] [CHAT] 你咋最近突然回来玩了
+[2026-07-14 14:32:56] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-14 14:33:00] [AuroraCity.kkwmc.cn] [CMD] /back
