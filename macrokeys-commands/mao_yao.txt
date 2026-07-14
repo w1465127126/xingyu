@@ -58,3 +58,6 @@
 [2026-07-14 10:44:33] [x6.sjcmc.cn:34054] [CMD] /login maoyao170
 [2026-07-14 10:44:54] [x6.sjcmc.cn:34054] [CMD] /back
 [2026-07-14 10:44:58] [x6.sjcmc.cn:34054] [CMD] /back
+[2026-07-14 10:45:00] [x6.sjcmc.cn:34054] [CMD] /home home
+[2026-07-14 10:49:39] [x6.sjcmc.cn:34054] [CMD] /home gc2
+[2026-07-14 10:50:26] [x6.sjcmc.cn:34054] [CMD] /res tp fan
