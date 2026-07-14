@@ -5419,3 +5419,6 @@
 [2026-07-14 11:39:16] [AuroraCity.kkwmc.cn] [JOIN] 连接服务器: AuroraCity.kkwmc.cn
 [2026-07-14 11:39:27] [AuroraCity.kkwmc.cn] [CMD] /l wokaoa
 [2026-07-14 11:39:30] [AuroraCity.kkwmc.cn] [CMD] /res tp shangdian
+[2026-07-14 11:39:41] [AuroraCity.kkwmc.cn] [CHAT] 有啥好货
+[2026-07-14 11:39:49] [AuroraCity.kkwmc.cn] [CHAT] all
+[2026-07-14 11:39:50] [AuroraCity.kkwmc.cn] [CMD] /back
