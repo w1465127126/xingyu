@@ -5563,3 +5563,6 @@
 [2026-07-14 14:29:45] [AuroraCity.kkwmc.cn] [CHAT] awa
 [2026-07-14 14:29:47] [AuroraCity.kkwmc.cn] [CHAT] awa
 [2026-07-14 14:30:04] [AuroraCity.kkwmc.cn] [CHAT] tp
+[2026-07-14 14:30:15] [AuroraCity.kkwmc.cn] [CHAT] ok
+[2026-07-14 14:30:55] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-14 14:31:01] [AuroraCity.kkwmc.cn] [CMD] /warp 资源世界
