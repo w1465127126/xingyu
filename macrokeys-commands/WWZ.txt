@@ -2238,3 +2238,6 @@
 [2026-07-14 22:41:57] [x6.sjcmc.cn:34054] [CMD] /home Home
 [2026-07-14 22:45:46] [x6.sjcmc.cn:34054] [CMD] /home 1
 [2026-07-14 22:48:14] [x6.sjcmc.cn:34054] [CMD] /tpa LuckyMengYi
+[2026-07-14 22:48:32] [x6.sjcmc.cn:34054] [CMD] /res tp xbt
+[2026-07-14 22:48:46] [x6.sjcmc.cn:34054] [CHAT] 哇哦
+[2026-07-14 22:48:58] [x6.sjcmc.cn:34054] [CHAT] 掉了
