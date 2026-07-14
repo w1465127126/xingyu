@@ -2211,3 +2211,6 @@
 [2026-07-14 21:23:48] [x6.sjcmc.cn:34054] [CMD] /tpa Old_Cun_Zhang_
 [2026-07-14 21:23:58] [x6.sjcmc.cn:34054] [CHAT] 接一下？
 [2026-07-14 21:25:57] [x6.sjcmc.cn:34054] [CHAT] 你们在哪啊
+[2026-07-14 21:27:09] [x6.sjcmc.cn:34054] [CHAT] hi
+[2026-07-14 21:27:17] [x6.sjcmc.cn:34054] [CMD] /tpa Old_Cun_Zhang_
+[2026-07-14 21:31:43] [x6.sjcmc.cn:34054] [CMD] /res tp yt
