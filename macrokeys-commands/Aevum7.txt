@@ -5596,3 +5596,6 @@
 [2026-07-14 14:42:23] [AuroraCity.kkwmc.cn] [CHAT] 兄弟卖裂纹石砖么
 [2026-07-14 14:42:30] [AuroraCity.kkwmc.cn] [CHAT] 石砖烧一下就行
 [2026-07-14 14:42:33] [AuroraCity.kkwmc.cn] [CHAT] 高价收
+[2026-07-14 14:42:48] [AuroraCity.kkwmc.cn] [CHAT] 普通石砖
+[2026-07-14 14:42:49] [AuroraCity.kkwmc.cn] [CHAT] 烧一下
+[2026-07-14 14:43:02] [AuroraCity.kkwmc.cn] [CHAT] 量不大1k个
