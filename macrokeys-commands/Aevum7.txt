@@ -5701,3 +5701,6 @@
 [2026-07-14 22:12:58] [AuroraCity.kkwmc.cn] [CMD] /spawn
 [2026-07-14 22:13:21] [AuroraCity.kkwmc.cn] [CMD] /warp 鹅斯拉
 [2026-07-14 22:13:31] [AuroraCity.kkwmc.cn] [CMD] /warp 末地世界
+[2026-07-14 22:14:43] [AuroraCity.kkwmc.cn] [CMD] /spawn
+[2026-07-14 22:15:32] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-14 22:15:37] [AuroraCity.kkwmc.cn] [CMD] /res tp shy
