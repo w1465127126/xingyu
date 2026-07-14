@@ -5515,3 +5515,6 @@
 [2026-07-14 13:58:50] [AuroraCity.kkwmc.cn] [CMD] /res tp zhucheng
 [2026-07-14 13:58:59] [AuroraCity.kkwmc.cn] [CMD] /back
 [2026-07-14 13:59:00] [AuroraCity.kkwmc.cn] [CMD] /res tp zhucheng
+[2026-07-14 14:00:41] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-14 14:00:45] [AuroraCity.kkwmc.cn] [CMD] /warp 资源世界
+[2026-07-14 14:00:55] [AuroraCity.kkwmc.cn] [CMD] /rtp
