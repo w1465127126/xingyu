@@ -5485,3 +5485,6 @@
 [2026-07-14 12:36:35] [AuroraCity.kkwmc.cn] [CHAT] 出吗
 [2026-07-14 12:36:50] [AuroraCity.kkwmc.cn] [CHAT] 6
 [2026-07-14 12:37:01] [AuroraCity.kkwmc.cn] [CHAT] 不出怎么能说自由
+[2026-07-14 12:38:00] [AuroraCity.kkwmc.cn] [CHAT] hxd少量出一点
+[2026-07-14 12:40:52] [AuroraCity.kkwmc.cn] [CMD] /res tp zhucheng
+[2026-07-14 12:41:06] [AuroraCity.kkwmc.cn] [CHAT] all
