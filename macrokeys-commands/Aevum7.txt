@@ -5725,3 +5725,6 @@
 [2026-07-14 22:33:12] [AuroraCity.kkwmc.cn] [CHAT] 为什么我刚刚用钥匙左键可以白嫖
 [2026-07-14 22:33:18] [AuroraCity.kkwmc.cn] [CHAT] 不扣钥匙也得了东西
 [2026-07-14 22:33:19] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-14 22:33:42] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-14 22:33:55] [AuroraCity.kkwmc.cn] [JOIN] 连接服务器: AuroraCity.kkwmc.cn
+[2026-07-14 22:34:01] [AuroraCity.kkwmc.cn] [CMD] /l wokaoa
