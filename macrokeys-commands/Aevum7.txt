@@ -5488,3 +5488,6 @@
 [2026-07-14 12:38:00] [AuroraCity.kkwmc.cn] [CHAT] hxd少量出一点
 [2026-07-14 12:40:52] [AuroraCity.kkwmc.cn] [CMD] /res tp zhucheng
 [2026-07-14 12:41:06] [AuroraCity.kkwmc.cn] [CHAT] all
+[2026-07-14 12:41:07] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-14 12:41:10] [AuroraCity.kkwmc.cn] [CMD] /home j
+[2026-07-14 12:54:49] [AuroraCity.kkwmc.cn] [CMD] /back
