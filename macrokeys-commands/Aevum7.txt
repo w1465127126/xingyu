@@ -5686,3 +5686,6 @@
 [2026-07-14 15:36:12] [AuroraCity.kkwmc.cn] [CMD] /pay gggggggguo 19200
 [2026-07-14 15:36:23] [AuroraCity.kkwmc.cn] [CHAT] 你直接tp shy
 [2026-07-14 15:36:25] [AuroraCity.kkwmc.cn] [CMD] /res info
+[2026-07-14 15:36:35] [AuroraCity.kkwmc.cn] [CHAT] res tp shy旁边找个地方放就ok
+[2026-07-14 15:36:40] [AuroraCity.kkwmc.cn] [CHAT] 我直接关机了
+[2026-07-14 15:36:52] [AuroraCity.kkwmc.cn] [CHAT] 晕3d
