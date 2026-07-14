@@ -5635,3 +5635,6 @@
 [2026-07-14 14:53:20] [AuroraCity.kkwmc.cn] [CHAT] 这就是有圆人么
 [2026-07-14 14:56:32] [AuroraCity.kkwmc.cn] [CMD] /res tp zhucheng
 [2026-07-14 14:56:59] [AuroraCity.kkwmc.cn] [CHAT] 400
+[2026-07-14 14:57:11] [AuroraCity.kkwmc.cn] [CMD] /home j
+[2026-07-14 15:04:13] [AuroraCity.kkwmc.cn] [CMD] /tpa Old_Cun_Zhang_
+[2026-07-14 15:04:22] [AuroraCity.kkwmc.cn] [CHAT] 康康
