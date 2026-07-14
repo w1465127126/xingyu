@@ -82,3 +82,6 @@
 [2026-07-14 11:13:25] [x6.sjcmc.cn:34054] [CMD] /home home
 [2026-07-14 11:13:36] [x6.sjcmc.cn:34054] [CMD] /home gc2
 [2026-07-14 11:13:49] [x6.sjcmc.cn:34054] [CMD] /back
+[2026-07-14 11:13:53] [x6.sjcmc.cn:34054] [CMD] /home gc2
+[2026-07-14 11:46:41] [x6.sjcmc.cn:34054] [CMD] /tpa MUXU0099
+[2026-07-14 11:47:20] [x6.sjcmc.cn:34054] [CMD] /res tp shangdian
