@@ -5464,3 +5464,9 @@
 [2026-07-14 12:02:11] [AuroraCity.kkwmc.cn] [CMD] /res tp zc
 [2026-07-14 12:02:12] [AuroraCity.kkwmc.cn] [CMD] /spawn
 [2026-07-14 12:02:14] [AuroraCity.kkwmc.cn] [CMD] /res tp zcv
+[2026-07-14 12:02:15] [AuroraCity.kkwmc.cn] [CMD] /res tp zc
+[2026-07-14 12:02:31] [AuroraCity.kkwmc.cn] [CMD] /res list
+[2026-07-14 12:02:32] [AuroraCity.kkwmc.cn] [CMD] /res shy
+[2026-07-14 12:02:35] [AuroraCity.kkwmc.cn] [CMD] /res tp shy
+[2026-07-14 12:04:38] [AuroraCity.kkwmc.cn] [CHAT] 全身保护9
+[2026-07-14 12:05:10] [AuroraCity.kkwmc.cn] [CHAT] 然后武器最少得有逆势反击附魔还有灵魂风暴
