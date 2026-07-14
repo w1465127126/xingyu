@@ -5704,3 +5704,6 @@
 [2026-07-14 22:14:43] [AuroraCity.kkwmc.cn] [CMD] /spawn
 [2026-07-14 22:15:32] [AuroraCity.kkwmc.cn] [CMD] /back
 [2026-07-14 22:15:37] [AuroraCity.kkwmc.cn] [CMD] /res tp shy
+[2026-07-14 22:15:48] [AuroraCity.kkwmc.cn] [CMD] /home j
+[2026-07-14 22:19:55] [AuroraCity.kkwmc.cn] [CHAT] nb
+[2026-07-14 22:20:08] [AuroraCity.kkwmc.cn] [CHAT] 这称号真能抽到啊
