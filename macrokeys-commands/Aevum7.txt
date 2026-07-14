@@ -5641,3 +5641,6 @@
 [2026-07-14 15:04:39] [AuroraCity.kkwmc.cn] [CHAT] 这啥稿子
 [2026-07-14 15:04:51] [AuroraCity.kkwmc.cn] [CHAT] 花钱买把
 [2026-07-14 15:05:16] [AuroraCity.kkwmc.cn] [CHAT] 你这一点效率没有
+[2026-07-14 15:05:40] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-14 15:05:47] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-14 15:05:58] [AuroraCity.kkwmc.cn] [CMD] /back
