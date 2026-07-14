@@ -5683,3 +5683,6 @@
 [2026-07-14 15:35:26] [AuroraCity.kkwmc.cn] [CHAT] 想下了
 [2026-07-14 15:35:47] [AuroraCity.kkwmc.cn] [CHAT] 好
 [2026-07-14 15:35:53] [AuroraCity.kkwmc.cn] [CHAT] 多少个来着
+[2026-07-14 15:36:12] [AuroraCity.kkwmc.cn] [CMD] /pay gggggggguo 19200
+[2026-07-14 15:36:23] [AuroraCity.kkwmc.cn] [CHAT] 你直接tp shy
+[2026-07-14 15:36:25] [AuroraCity.kkwmc.cn] [CMD] /res info
