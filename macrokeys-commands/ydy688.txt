@@ -5364,3 +5364,6 @@
 [2026-07-14 22:32:56] [AuroraCity.kkwmc.cn] [CHAT] zzz给咱家做的核电呢
 [2026-07-14 22:33:20] [AuroraCity.kkwmc.cn] [CHAT] 那你多嫖几个
 [2026-07-14 22:35:05] [AuroraCity.kkwmc.cn] [CMD] /home32
+[2026-07-14 22:35:08] [AuroraCity.kkwmc.cn] [CMD] /home 3
+[2026-07-14 22:35:31] [AuroraCity.kkwmc.cn] [CHAT] 有铜矿可以来我这里卖
+[2026-07-14 22:35:37] [AuroraCity.kkwmc.cn] [CHAT] 价高
