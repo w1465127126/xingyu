@@ -5431,3 +5431,9 @@
 [2026-07-14 11:47:17] [AuroraCity.kkwmc.cn] [CHAT] gggggggguo 你卖深板瓦岩吗
 [2026-07-14 11:47:27] [AuroraCity.kkwmc.cn] [CHAT] awa
 [2026-07-14 11:47:35] [AuroraCity.kkwmc.cn] [CHAT] 没
+[2026-07-14 11:48:02] [AuroraCity.kkwmc.cn] [CHAT] ooo
+[2026-07-14 11:48:14] [AuroraCity.kkwmc.cn] [CHAT] 主城不全
+[2026-07-14 11:48:31] [AuroraCity.kkwmc.cn] [CMD] /warp 资源世界
+[2026-07-14 11:48:38] [AuroraCity.kkwmc.cn] [CHAT] \
+[2026-07-14 11:48:39] [AuroraCity.kkwmc.cn] [CMD] /rtp
+[2026-07-14 11:49:04] [AuroraCity.kkwmc.cn] [CHAT] 他昨天在服里我就说了
