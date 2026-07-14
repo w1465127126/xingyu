@@ -5361,3 +5361,6 @@
 [2026-07-14 22:21:59] [AuroraCity.kkwmc.cn] [CMD] /tpa app
 [2026-07-14 22:30:22] [AuroraCity.kkwmc.cn] [CMD] /hat
 [2026-07-14 22:31:46] [AuroraCity.kkwmc.cn] [CHAT] 说的你的那个宝石的
+[2026-07-14 22:32:56] [AuroraCity.kkwmc.cn] [CHAT] zzz给咱家做的核电呢
+[2026-07-14 22:33:20] [AuroraCity.kkwmc.cn] [CHAT] 那你多嫖几个
+[2026-07-14 22:35:05] [AuroraCity.kkwmc.cn] [CMD] /home32
