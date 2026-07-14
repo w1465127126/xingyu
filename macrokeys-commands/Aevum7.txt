@@ -5530,3 +5530,9 @@
 [2026-07-14 14:12:27] [AuroraCity.kkwmc.cn] [CHAT] 高价收
 [2026-07-14 14:13:05] [AuroraCity.kkwmc.cn] [CHAT] 早该放弃了
 [2026-07-14 14:13:11] [AuroraCity.kkwmc.cn] [CHAT] 生存世界才是归宿
+[2026-07-14 14:13:35] [AuroraCity.kkwmc.cn] [CHAT] 什么指令不对
+[2026-07-14 14:13:41] [AuroraCity.kkwmc.cn] [CMD] /tpa Young_CN2004
+[2026-07-14 14:13:48] [AuroraCity.kkwmc.cn] [CHAT] 让我康康
+[2026-07-14 14:13:55] [AuroraCity.kkwmc.cn] [CHAT] e
+[2026-07-14 14:13:59] [AuroraCity.kkwmc.cn] [CHAT] 你在地皮随机传送啊= =
+[2026-07-14 14:14:04] [AuroraCity.kkwmc.cn] [CHAT] 这不全是别人家么
