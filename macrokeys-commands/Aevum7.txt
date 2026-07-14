@@ -5536,3 +5536,6 @@
 [2026-07-14 14:13:55] [AuroraCity.kkwmc.cn] [CHAT] e
 [2026-07-14 14:13:59] [AuroraCity.kkwmc.cn] [CHAT] 你在地皮随机传送啊= =
 [2026-07-14 14:14:04] [AuroraCity.kkwmc.cn] [CHAT] 这不全是别人家么
+[2026-07-14 14:14:22] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-14 14:14:30] [AuroraCity.kkwmc.cn] [CHAT] 去生存世界随机
+[2026-07-14 14:14:42] [AuroraCity.kkwmc.cn] [CHAT] 直接不关
