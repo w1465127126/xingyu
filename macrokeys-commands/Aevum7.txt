@@ -5722,3 +5722,6 @@
 [2026-07-14 22:28:21] [AuroraCity.kkwmc.cn] [CMD] /spawn
 [2026-07-14 22:31:37] [AuroraCity.kkwmc.cn] [CHAT] 啥脚本
 [2026-07-14 22:32:35] [AuroraCity.kkwmc.cn] [CHAT] 客户端的问题吧
+[2026-07-14 22:33:12] [AuroraCity.kkwmc.cn] [CHAT] 为什么我刚刚用钥匙左键可以白嫖
+[2026-07-14 22:33:18] [AuroraCity.kkwmc.cn] [CHAT] 不扣钥匙也得了东西
+[2026-07-14 22:33:19] [AuroraCity.kkwmc.cn] [CMD] /back
