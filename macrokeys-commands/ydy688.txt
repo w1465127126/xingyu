@@ -5367,3 +5367,6 @@
 [2026-07-14 22:35:08] [AuroraCity.kkwmc.cn] [CMD] /home 3
 [2026-07-14 22:35:31] [AuroraCity.kkwmc.cn] [CHAT] 有铜矿可以来我这里卖
 [2026-07-14 22:35:37] [AuroraCity.kkwmc.cn] [CHAT] 价高
+[2026-07-14 22:36:42] [AuroraCity.kkwmc.cn] [CMD] /tpa Aevum7
+[2026-07-14 22:37:27] [AuroraCity.kkwmc.cn] [CHAT] 这是什么
+[2026-07-14 22:38:45] [AuroraCity.kkwmc.cn] [CHAT] 我咋没有
