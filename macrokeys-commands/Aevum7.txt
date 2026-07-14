@@ -5539,3 +5539,6 @@
 [2026-07-14 14:14:22] [AuroraCity.kkwmc.cn] [CMD] /back
 [2026-07-14 14:14:30] [AuroraCity.kkwmc.cn] [CHAT] 去生存世界随机
 [2026-07-14 14:14:42] [AuroraCity.kkwmc.cn] [CHAT] 直接不关
+[2026-07-14 14:14:43] [AuroraCity.kkwmc.cn] [CHAT] 管
+[2026-07-14 14:14:48] [AuroraCity.kkwmc.cn] [CHAT] 当他不存在
+[2026-07-14 14:14:59] [AuroraCity.kkwmc.cn] [CHAT] 去生存圈地
