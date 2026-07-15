@@ -5915,3 +5915,6 @@
 [2026-07-15 16:31:55] [AuroraCity.kkwmc.cn] [CMD] /spawn
 [2026-07-15 16:32:12] [AuroraCity.kkwmc.cn] [CMD] /warp 末地世界
 [2026-07-15 16:33:09] [AuroraCity.kkwmc.cn] [CMD] /spawn
+[2026-07-15 16:33:32] [AuroraCity.kkwmc.cn] [CMD] /ah
+[2026-07-15 16:33:47] [AuroraCity.kkwmc.cn] [CMD] /home j
+[2026-07-15 16:33:57] [AuroraCity.kkwmc.cn] [CMD] /spawn
