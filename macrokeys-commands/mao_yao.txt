@@ -194,3 +194,6 @@
 [2026-07-15 13:41:22] [x6.sjcmc.cn:34054] [CMD] /res tp fan
 [2026-07-15 13:43:48] [x6.sjcmc.cn:34054] [CMD] /back
 [2026-07-15 16:34:45] [x6.sjcmc.cn:34054] [CMD] /home home
+[2026-07-15 16:34:52] [x6.sjcmc.cn:34054] [CMD] /back
+[2026-07-15 16:37:15] [x6.sjcmc.cn:34054] [CMD] /res tp dldk
+[2026-07-15 16:37:18] [x6.sjcmc.cn:34054] [CMD] /res tp dlkl
