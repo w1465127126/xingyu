@@ -5823,3 +5823,6 @@
 [2026-07-15 10:46:16] [AuroraCity.kkwmc.cn] [CHAT] 加我
 [2026-07-15 10:46:21] [AuroraCity.kkwmc.cn] [CHAT] 我等会丢群里我不炸了
 [2026-07-15 11:29:42] [AuroraCity.kkwmc.cn] [CMD] /home j
+[2026-07-15 11:29:49] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-15 11:29:53] [AuroraCity.kkwmc.cn] [CMD] /res tp zhucheng2
+[2026-07-15 11:29:55] [AuroraCity.kkwmc.cn] [CMD] /res tp zhucheng
