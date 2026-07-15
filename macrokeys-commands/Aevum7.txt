@@ -5841,3 +5841,6 @@
 [2026-07-15 11:41:58] [AuroraCity.kkwmc.cn] [CMD] /spawn
 [2026-07-15 11:42:37] [AuroraCity.kkwmc.cn] [CMD] /spawn
 [2026-07-15 11:42:41] [AuroraCity.kkwmc.cn] [CMD] /home j
+[2026-07-15 11:44:25] [AuroraCity.kkwmc.cn] [CMD] /工作台
+[2026-07-15 11:44:46] [AuroraCity.kkwmc.cn] [CMD] /工作台
+[2026-07-15 11:46:35] [AuroraCity.kkwmc.cn] [CHAT] ?
