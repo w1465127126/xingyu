@@ -5808,3 +5808,6 @@
 [2026-07-15 10:43:04] [AuroraCity.kkwmc.cn] [CHAT] 一个人不好玩
 [2026-07-15 10:43:21] [AuroraCity.kkwmc.cn] [CHAT] 我现在服务器就用来挂号了
 [2026-07-15 10:43:35] [AuroraCity.kkwmc.cn] [CHAT] 服务器最难的是拉人哦
+[2026-07-15 10:43:52] [AuroraCity.kkwmc.cn] [CHAT] 开服多简单哈哈
+[2026-07-15 10:44:06] [AuroraCity.kkwmc.cn] [CHAT] 我公网ip都弄了
+[2026-07-15 10:44:13] [AuroraCity.kkwmc.cn] [CHAT] 别人都能进的
