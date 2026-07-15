@@ -5870,3 +5870,6 @@
 [2026-07-15 15:41:41] [AuroraCity.kkwmc.cn] [CMD] /工作台
 [2026-07-15 15:43:01] [AuroraCity.kkwmc.cn] [CMD] /工作台
 [2026-07-15 15:43:25] [AuroraCity.kkwmc.cn] [CHAT] ?
+[2026-07-15 15:43:36] [AuroraCity.kkwmc.cn] [CMD] /warp 鹅斯拉
+[2026-07-15 15:44:05] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-15 15:48:27] [AuroraCity.kkwmc.cn] [CMD] /home j
