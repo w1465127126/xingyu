@@ -182,3 +182,6 @@
 [2026-07-15 13:18:28] [x6.sjcmc.cn:34054] [CMD] /back
 [2026-07-15 13:20:38] [x6.sjcmc.cn:34054] [CHAT] mao_yao
 [2026-07-15 13:26:12] [x6.sjcmc.cn:34054] [CMD] /home gc2
+[2026-07-15 13:26:14] [x6.sjcmc.cn:34054] [CMD] /home gc
+[2026-07-15 13:26:28] [x6.sjcmc.cn:34054] [CMD] /back
+[2026-07-15 13:31:31] [x6.sjcmc.cn:34054] [CMD] /back
