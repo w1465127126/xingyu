@@ -5921,3 +5921,6 @@
 [2026-07-15 20:52:20] [AuroraCity.kkwmc.cn] [CMD] /res tp fan
 [2026-07-15 20:55:52] [AuroraCity.kkwmc.cn] [CMD] /warp 资源世界
 [2026-07-15 20:55:56] [AuroraCity.kkwmc.cn] [CMD] /rtp
+[2026-07-15 20:58:45] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-15 20:58:49] [AuroraCity.kkwmc.cn] [CMD] /home j
+[2026-07-15 20:59:45] [AuroraCity.kkwmc.cn] [CMD] /res set
