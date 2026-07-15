@@ -2472,3 +2472,6 @@
 [2026-07-15 18:26:10] [x6.sjcmc.cn:34054] [CMD] /fly
 [2026-07-15 18:27:21] [x6.sjcmc.cn:34054] [CMD] /fly
 [2026-07-15 18:29:15] [x6.sjcmc.cn:34054] [CMD] /home 1
+[2026-07-15 18:46:57] [x6.sjcmc.cn:34054] [CMD] /res tp zhucheng2
+[2026-07-15 18:47:07] [x6.sjcmc.cn:34054] [CMD] /res tp zhucheng
+[2026-07-15 18:49:38] [x6.sjcmc.cn:34054] [CHAT] 谁要粉色羊毛
