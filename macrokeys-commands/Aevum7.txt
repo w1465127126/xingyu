@@ -5754,3 +5754,6 @@
 [2026-07-15 09:53:47] [AuroraCity.kkwmc.cn] [JOIN] 连接服务器: AuroraCity.kkwmc.cn
 [2026-07-15 09:53:56] [AuroraCity.kkwmc.cn] [CMD] /l wokaoa
 [2026-07-15 09:54:03] [AuroraCity.kkwmc.cn] [CMD] /res tp d
+[2026-07-15 09:54:14] [AuroraCity.kkwmc.cn] [CMD] /fly
+[2026-07-15 09:54:17] [AuroraCity.kkwmc.cn] [CHAT] 要刷村民么
+[2026-07-15 09:54:19] [AuroraCity.kkwmc.cn] [CHAT] 滴滴代刷
