@@ -5769,3 +5769,6 @@
 [2026-07-15 10:22:57] [AuroraCity.kkwmc.cn] [CMD] /back
 [2026-07-15 10:30:21] [AuroraCity.kkwmc.cn] [CMD] /tpaccept
 [2026-07-15 10:31:00] [AuroraCity.kkwmc.cn] [CHAT] ?
+[2026-07-15 10:31:04] [AuroraCity.kkwmc.cn] [CHAT] 你打我了？
+[2026-07-15 10:31:21] [AuroraCity.kkwmc.cn] [CHAT] 不如这个
+[2026-07-15 10:31:44] [AuroraCity.kkwmc.cn] [CHAT] 不知道
