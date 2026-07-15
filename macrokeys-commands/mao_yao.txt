@@ -200,3 +200,6 @@
 [2026-07-15 16:38:03] [x6.sjcmc.cn:34054] [CMD] /res tp klt
 [2026-07-15 16:38:05] [x6.sjcmc.cn:34054] [CMD] /res tp dl
 [2026-07-15 16:38:24] [x6.sjcmc.cn:34054] [CMD] /res tp dlcs
+[2026-07-15 16:38:26] [x6.sjcmc.cn:34054] [CMD] /res tp dl
+[2026-07-15 16:38:48] [x6.sjcmc.cn:34054] [CMD] /res tp
+[2026-07-15 16:39:31] [x6.sjcmc.cn:34054] [CMD] /res tp sdl
