@@ -5389,3 +5389,6 @@
 [2026-07-15 20:37:01] [AuroraCity.kkwmc.cn] [JOIN] 连接服务器: AuroraCity.kkwmc.cn
 [2026-07-15 20:37:05] [AuroraCity.kkwmc.cn] [CMD] /login xvvcxc
 [2026-07-15 20:38:33] [AuroraCity.kkwmc.cn] [CHAT] 1
+[2026-07-15 20:38:38] [AuroraCity.kkwmc.cn] [CHAT] 有人吗
+[2026-07-15 20:38:44] [AuroraCity.kkwmc.cn] [CMD] /tpa Ru_Yue_
+[2026-07-15 20:38:48] [AuroraCity.kkwmc.cn] [CMD] /skins
