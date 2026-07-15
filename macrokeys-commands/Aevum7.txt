@@ -5850,3 +5850,6 @@
 [2026-07-15 11:48:26] [AuroraCity.kkwmc.cn] [CMD] /工作台
 [2026-07-15 11:48:59] [AuroraCity.kkwmc.cn] [CMD] /spawn
 [2026-07-15 11:49:02] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-15 11:49:06] [AuroraCity.kkwmc.cn] [CMD] /res tp shy
+[2026-07-15 11:49:09] [AuroraCity.kkwmc.cn] [CMD] /res tp zhucheng
+[2026-07-15 11:49:13] [AuroraCity.kkwmc.cn] [CMD] /back
