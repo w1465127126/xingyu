@@ -5749,3 +5749,8 @@
 [2026-07-14 22:40:55] [AuroraCity.kkwmc.cn] [CMD] /back
 [2026-07-14 22:41:08] [AuroraCity.kkwmc.cn] [CMD] /ah
 [2026-07-14 22:41:13] [AuroraCity.kkwmc.cn] [CHAT] 10w
+[2026-07-14 22:41:15] [AuroraCity.kkwmc.cn] [CHAT] 抢钱啊
+[2026-07-14 22:41:22] [AuroraCity.kkwmc.cn] [CHAT] 我觉得我也行
+[2026-07-15 09:53:47] [AuroraCity.kkwmc.cn] [JOIN] 连接服务器: AuroraCity.kkwmc.cn
+[2026-07-15 09:53:56] [AuroraCity.kkwmc.cn] [CMD] /l wokaoa
+[2026-07-15 09:54:03] [AuroraCity.kkwmc.cn] [CMD] /res tp d
