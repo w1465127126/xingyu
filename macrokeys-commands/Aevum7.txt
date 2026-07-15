@@ -5844,3 +5844,6 @@
 [2026-07-15 11:44:25] [AuroraCity.kkwmc.cn] [CMD] /工作台
 [2026-07-15 11:44:46] [AuroraCity.kkwmc.cn] [CMD] /工作台
 [2026-07-15 11:46:35] [AuroraCity.kkwmc.cn] [CHAT] ?
+[2026-07-15 11:46:46] [AuroraCity.kkwmc.cn] [CHAT] 坏菜了
+[2026-07-15 11:46:48] [AuroraCity.kkwmc.cn] [CHAT] 全是小号
+[2026-07-15 11:47:03] [AuroraCity.kkwmc.cn] [CMD] /工作台
