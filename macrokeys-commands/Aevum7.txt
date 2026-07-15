@@ -5909,3 +5909,6 @@
 [2026-07-15 16:30:42] [AuroraCity.kkwmc.cn] [CMD] /spawn
 [2026-07-15 16:30:56] [AuroraCity.kkwmc.cn] [CMD] /warp 资源世界
 [2026-07-15 16:30:59] [AuroraCity.kkwmc.cn] [CMD] /rtp
+[2026-07-15 16:31:25] [AuroraCity.kkwmc.cn] [CMD] /工作台
+[2026-07-15 16:31:31] [AuroraCity.kkwmc.cn] [CMD] /工作台
+[2026-07-15 16:31:38] [AuroraCity.kkwmc.cn] [CMD] /工作台
