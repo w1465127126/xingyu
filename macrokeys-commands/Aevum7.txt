@@ -6045,3 +6045,6 @@
 [2026-07-16 22:01:39] [AuroraCity.kkwmc.cn] [CMD] /back
 [2026-07-16 22:02:04] [AuroraCity.kkwmc.cn] [CHAT] 怎么说
 [2026-07-16 22:02:23] [AuroraCity.kkwmc.cn] [CMD] /res tp zhucheng
+[2026-07-16 22:02:25] [AuroraCity.kkwmc.cn] [CHAT] 好家伙
+[2026-07-16 22:02:36] [AuroraCity.kkwmc.cn] [CHAT] 你是不是按到f6了
+[2026-07-16 22:02:59] [AuroraCity.kkwmc.cn] [CHAT] 是不是离不开这快地方、
