@@ -417,3 +417,6 @@
 [2026-07-09 14:54:59] [AuroraCity.kkwmc.cn] [CMD] /hat
 [2026-07-16 11:21:04] [AuroraCity.kkwmc.cn] [JOIN] 连接服务器: AuroraCity.kkwmc.cn
 [2026-07-16 11:21:12] [AuroraCity.kkwmc.cn] [CMD] //l chen123
+[2026-07-16 11:21:34] [AuroraCity.kkwmc.cn] [JOIN] 连接服务器: AuroraCity.kkwmc.cn
+[2026-07-16 11:21:37] [AuroraCity.kkwmc.cn] [CMD] /l chen123
+[2026-07-16 11:21:40] [AuroraCity.kkwmc.cn] [JOIN] 连接服务器: AuroraCity.kkwmc.cn
