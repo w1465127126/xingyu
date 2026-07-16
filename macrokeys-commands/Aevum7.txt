@@ -5982,3 +5982,6 @@
 [2026-07-16 20:56:21] [AuroraCity.kkwmc.cn] [CMD] /home j
 [2026-07-16 20:57:16] [AuroraCity.kkwmc.cn] [CMD] /res tp d
 [2026-07-16 20:57:35] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-16 21:05:52] [AuroraCity.kkwmc.cn] [CMD] /home j
+[2026-07-16 21:11:05] [AuroraCity.kkwmc.cn] [CMD] /home j
+[2026-07-16 21:19:14] [AuroraCity.kkwmc.cn] [CMD] /home j
