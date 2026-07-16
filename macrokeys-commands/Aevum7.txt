@@ -6081,3 +6081,6 @@
 [2026-07-16 22:31:07] [AuroraCity.kkwmc.cn] [CMD] /res tp fan
 [2026-07-16 22:32:47] [AuroraCity.kkwmc.cn] [CMD] /home j
 [2026-07-16 22:33:42] [AuroraCity.kkwmc.cn] [CMD] /home j
+[2026-07-16 22:33:48] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-16 22:35:19] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-16 22:35:23] [AuroraCity.kkwmc.cn] [CMD] /back
