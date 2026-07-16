@@ -2577,3 +2577,6 @@
 [2026-07-16 22:03:01] [x6.sjcmc.cn:34054] [CHAT] ?
 [2026-07-16 22:49:34] [x6.sjcmc.cn:34054] [CMD] /spawn
 [2026-07-16 22:50:29] [x6.sjcmc.cn:34054] [CMD] /home Home
+[2026-07-16 22:50:54] [x6.sjcmc.cn:34054] [CMD] /home 1
+[2026-07-16 22:51:09] [x6.sjcmc.cn:34054] [CMD] /tpa lpld111161
+[2026-07-16 22:51:20] [x6.sjcmc.cn:34054] [CMD] /tpa qingbie
