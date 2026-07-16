@@ -6057,3 +6057,6 @@
 [2026-07-16 22:04:04] [AuroraCity.kkwmc.cn] [CHAT] 哈哈
 [2026-07-16 22:04:14] [AuroraCity.kkwmc.cn] [CHAT] 刷boss
 [2026-07-16 22:04:24] [AuroraCity.kkwmc.cn] [CHAT] 怕被boss打移动
+[2026-07-16 22:04:29] [AuroraCity.kkwmc.cn] [CHAT] 然后就弄个锚点
+[2026-07-16 22:04:36] [AuroraCity.kkwmc.cn] [CHAT] 被打开了自己回来
+[2026-07-16 22:24:29] [AuroraCity.kkwmc.cn] [CMD] /home j
