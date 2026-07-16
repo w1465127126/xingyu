@@ -2532,3 +2532,6 @@
 [2026-07-16 14:49:18] [x6.sjcmc.cn:34054] [CMD] /spawn
 [2026-07-16 15:11:36] [x6.sjcmc.cn:34054] [CMD] /home h
 [2026-07-16 15:11:40] [x6.sjcmc.cn:34054] [CMD] /home Home
+[2026-07-16 15:11:54] [x6.sjcmc.cn:34054] [CMD] /back
+[2026-07-16 15:14:56] [x6.sjcmc.cn:34054] [CMD] /home Home
+[2026-07-16 15:16:54] [x6.sjcmc.cn:34054] [CMD] /res tp yt
