@@ -313,3 +313,6 @@
 [2026-07-16 17:29:43] [x6.sjcmc.cn:34054] [CMD] /back
 [2026-07-16 17:30:06] [x6.sjcmc.cn:34054] [CMD] /res tp shangdian
 [2026-07-16 17:30:09] [x6.sjcmc.cn:34054] [CMD] /res tp shangdian
+[2026-07-16 17:31:07] [x6.sjcmc.cn:34054] [CMD] /back
+[2026-07-16 17:32:06] [x6.sjcmc.cn:34054] [CMD] /home gc2
+[2026-07-16 17:36:36] [x6.sjcmc.cn:34054] [CMD] /spawn
