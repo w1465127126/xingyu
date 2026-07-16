@@ -6048,3 +6048,12 @@
 [2026-07-16 22:02:25] [AuroraCity.kkwmc.cn] [CHAT] 好家伙
 [2026-07-16 22:02:36] [AuroraCity.kkwmc.cn] [CHAT] 你是不是按到f6了
 [2026-07-16 22:02:59] [AuroraCity.kkwmc.cn] [CHAT] 是不是离不开这快地方、
+[2026-07-16 22:03:07] [AuroraCity.kkwmc.cn] [CHAT] 你打开鼠标绑定
+[2026-07-16 22:03:10] [AuroraCity.kkwmc.cn] [CHAT] 设置一下锚点
+[2026-07-16 22:03:12] [AuroraCity.kkwmc.cn] [CHAT] = =
+[2026-07-16 22:03:15] [AuroraCity.kkwmc.cn] [CHAT] 我给你的mod功能
+[2026-07-16 22:03:32] [AuroraCity.kkwmc.cn] [CHAT] 490
+[2026-07-16 22:03:35] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-16 22:04:04] [AuroraCity.kkwmc.cn] [CHAT] 哈哈
+[2026-07-16 22:04:14] [AuroraCity.kkwmc.cn] [CHAT] 刷boss
+[2026-07-16 22:04:24] [AuroraCity.kkwmc.cn] [CHAT] 怕被boss打移动
