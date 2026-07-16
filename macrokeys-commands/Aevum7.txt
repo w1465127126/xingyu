@@ -5997,3 +5997,6 @@
 [2026-07-16 21:43:39] [AuroraCity.kkwmc.cn] [CMD] /工作台
 [2026-07-16 21:43:55] [AuroraCity.kkwmc.cn] [CHAT] 哈哈
 [2026-07-16 21:44:06] [AuroraCity.kkwmc.cn] [CHAT] 我准备直接替换掉i
+[2026-07-16 21:44:11] [AuroraCity.kkwmc.cn] [CHAT] 这玩意没必要要这么冷门的材料
+[2026-07-16 21:44:52] [AuroraCity.kkwmc.cn] [CHAT] 怎么说
+[2026-07-16 21:45:03] [AuroraCity.kkwmc.cn] [CHAT] 很多材料分不清是什么东西
