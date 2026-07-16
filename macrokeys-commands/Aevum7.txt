@@ -6012,3 +6012,6 @@
 [2026-07-16 21:47:33] [AuroraCity.kkwmc.cn] [CMD] /tpahere mao_yao
 [2026-07-16 21:47:40] [AuroraCity.kkwmc.cn] [CHAT] 2边
 [2026-07-16 21:47:50] [AuroraCity.kkwmc.cn] [CHAT] 没飞行搞这个跟坐牢没啥区别
+[2026-07-16 21:48:51] [AuroraCity.kkwmc.cn] [CHAT] 你还没嫖到会员啊
+[2026-07-16 21:49:06] [AuroraCity.kkwmc.cn] [CHAT] 我这第二个都嫖到了
+[2026-07-16 21:49:35] [AuroraCity.kkwmc.cn] [CMD] /res tp zhucheng
