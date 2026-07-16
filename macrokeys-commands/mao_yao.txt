@@ -316,3 +316,7 @@
 [2026-07-16 17:31:07] [x6.sjcmc.cn:34054] [CMD] /back
 [2026-07-16 17:32:06] [x6.sjcmc.cn:34054] [CMD] /home gc2
 [2026-07-16 17:36:36] [x6.sjcmc.cn:34054] [CMD] /spawn
+[2026-07-16 18:16:26] [x6.sjcmc.cn:34054] [CMD] /home home
+[2026-07-16 21:40:09] [x6.sjcmc.cn:34054] [JOIN] 连接服务器: x6.sjcmc.cn:34054
+[2026-07-16 21:40:19] [x6.sjcmc.cn:34054] [CMD] /login maoyao1270
+[2026-07-16 21:40:22] [x6.sjcmc.cn:34054] [JOIN] 连接服务器: x6.sjcmc.cn:34054
