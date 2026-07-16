@@ -6072,3 +6072,6 @@
 [2026-07-16 22:29:38] [AuroraCity.kkwmc.cn] [CMD] /res tp zhucheng
 [2026-07-16 22:29:53] [AuroraCity.kkwmc.cn] [CHAT] 300
 [2026-07-16 22:29:54] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-16 22:30:01] [AuroraCity.kkwmc.cn] [CMD] /工作台
+[2026-07-16 22:30:22] [AuroraCity.kkwmc.cn] [CMD] /home j
+[2026-07-16 22:30:32] [AuroraCity.kkwmc.cn] [CMD] /back
