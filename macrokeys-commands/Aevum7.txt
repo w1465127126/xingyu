@@ -6027,3 +6027,9 @@
 [2026-07-16 21:52:21] [AuroraCity.kkwmc.cn] [CMD] /back
 [2026-07-16 21:52:51] [AuroraCity.kkwmc.cn] [CMD] /back
 [2026-07-16 21:53:49] [AuroraCity.kkwmc.cn] [CHAT] 兄弟你是真挺劝
+[2026-07-16 21:53:56] [AuroraCity.kkwmc.cn] [CHAT] 听
+[2026-07-16 21:54:05] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-16 21:54:09] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-16 21:54:33] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-16 21:54:37] [AuroraCity.kkwmc.cn] [CHAT] 便宜
+[2026-07-16 21:54:58] [AuroraCity.kkwmc.cn] [CMD] /back
