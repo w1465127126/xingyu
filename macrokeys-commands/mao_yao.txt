@@ -273,3 +273,6 @@
 [2026-07-16 13:04:16] [x6.sjcmc.cn:34054] [CMD] /rtp
 [2026-07-16 13:04:23] [x6.sjcmc.cn:34054] [CMD] /rtp
 [2026-07-16 13:04:25] [x6.sjcmc.cn:34054] [CMD] /rtp
+[2026-07-16 13:05:42] [x6.sjcmc.cn:34054] [CMD] /home home
+[2026-07-16 13:05:47] [x6.sjcmc.cn:34054] [CMD] /home gc2
+[2026-07-16 13:06:38] [x6.sjcmc.cn:34054] [CMD] /home home
