@@ -6000,3 +6000,6 @@
 [2026-07-16 21:44:11] [AuroraCity.kkwmc.cn] [CHAT] 这玩意没必要要这么冷门的材料
 [2026-07-16 21:44:52] [AuroraCity.kkwmc.cn] [CHAT] 怎么说
 [2026-07-16 21:45:03] [AuroraCity.kkwmc.cn] [CHAT] 很多材料分不清是什么东西
+[2026-07-16 21:45:05] [AuroraCity.kkwmc.cn] [CHAT] 不好拿
+[2026-07-16 21:45:28] [AuroraCity.kkwmc.cn] [CHAT] 又不会自己拿出来
+[2026-07-16 21:45:40] [AuroraCity.kkwmc.cn] [CHAT] 太慢了
