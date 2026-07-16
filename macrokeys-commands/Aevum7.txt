@@ -6009,3 +6009,6 @@
 [2026-07-16 21:46:55] [AuroraCity.kkwmc.cn] [CHAT] 我只是单纯的懒
 [2026-07-16 21:47:08] [AuroraCity.kkwmc.cn] [CHAT] 2边有
 [2026-07-16 21:47:15] [AuroraCity.kkwmc.cn] [CMD] /tpahere mao_yao
+[2026-07-16 21:47:33] [AuroraCity.kkwmc.cn] [CMD] /tpahere mao_yao
+[2026-07-16 21:47:40] [AuroraCity.kkwmc.cn] [CHAT] 2边
+[2026-07-16 21:47:50] [AuroraCity.kkwmc.cn] [CHAT] 没飞行搞这个跟坐牢没啥区别
