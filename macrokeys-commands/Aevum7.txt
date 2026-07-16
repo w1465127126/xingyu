@@ -5964,3 +5964,6 @@
 [2026-07-16 11:01:22] [AuroraCity.kkwmc.cn] [CHAT] 有黑客
 [2026-07-16 11:01:59] [AuroraCity.kkwmc.cn] [CMD] /res tp yt
 [2026-07-16 11:03:16] [AuroraCity.kkwmc.cn] [CMD] /res tp d
+[2026-07-16 11:03:20] [AuroraCity.kkwmc.cn] [CMD] /warp 鹅斯拉
+[2026-07-16 11:03:42] [AuroraCity.kkwmc.cn] [CMD] /warp 地狱世界
+[2026-07-16 11:03:45] [AuroraCity.kkwmc.cn] [CMD] /rtp
