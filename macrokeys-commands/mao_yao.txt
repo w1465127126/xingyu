@@ -291,3 +291,7 @@
 [2026-07-16 13:48:40] [x6.sjcmc.cn:34054] [CMD] /back
 [2026-07-16 14:22:01] [x6.sjcmc.cn:34054] [CHAT] 可能不刷怪吧
 [2026-07-16 14:25:15] [x6.sjcmc.cn:34054] [CMD] /home gc2
+[2026-07-16 14:29:57] [x6.sjcmc.cn:34054] [CMD] /home gc2
+[2026-07-16 15:58:51] [x6.sjcmc.cn:34054] [JOIN] 连接服务器: x6.sjcmc.cn:34054
+[2026-07-16 15:59:01] [x6.sjcmc.cn:34054] [CMD] /login maoyao170
+[2026-07-16 16:09:36] [x6.sjcmc.cn:34054] [CMD] /home home
