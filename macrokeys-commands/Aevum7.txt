@@ -6015,3 +6015,9 @@
 [2026-07-16 21:48:51] [AuroraCity.kkwmc.cn] [CHAT] 你还没嫖到会员啊
 [2026-07-16 21:49:06] [AuroraCity.kkwmc.cn] [CHAT] 我这第二个都嫖到了
 [2026-07-16 21:49:35] [AuroraCity.kkwmc.cn] [CMD] /res tp zhucheng
+[2026-07-16 21:49:49] [AuroraCity.kkwmc.cn] [CHAT] 我就打龙
+[2026-07-16 21:49:52] [AuroraCity.kkwmc.cn] [CHAT] 其他都不做
+[2026-07-16 21:50:07] [AuroraCity.kkwmc.cn] [CHAT] 300
+[2026-07-16 21:50:08] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-16 21:50:14] [AuroraCity.kkwmc.cn] [CMD] /工作台
+[2026-07-16 21:50:27] [AuroraCity.kkwmc.cn] [CMD] /工作台
