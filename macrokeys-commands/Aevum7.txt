@@ -6075,3 +6075,9 @@
 [2026-07-16 22:30:01] [AuroraCity.kkwmc.cn] [CMD] /工作台
 [2026-07-16 22:30:22] [AuroraCity.kkwmc.cn] [CMD] /home j
 [2026-07-16 22:30:32] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-16 22:30:42] [AuroraCity.kkwmc.cn] [CMD] /home d
+[2026-07-16 22:30:46] [AuroraCity.kkwmc.cn] [CMD] /res tp d
+[2026-07-16 22:30:48] [AuroraCity.kkwmc.cn] [CMD] /res tp fan
+[2026-07-16 22:31:07] [AuroraCity.kkwmc.cn] [CMD] /res tp fan
+[2026-07-16 22:32:47] [AuroraCity.kkwmc.cn] [CMD] /home j
+[2026-07-16 22:33:42] [AuroraCity.kkwmc.cn] [CMD] /home j
