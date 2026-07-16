@@ -5958,3 +5958,6 @@
 [2026-07-16 10:59:14] [AuroraCity.kkwmc.cn] [CMD] /fly
 [2026-07-16 10:59:25] [AuroraCity.kkwmc.cn] [CMD] /warp
 [2026-07-16 10:59:40] [AuroraCity.kkwmc.cn] [CMD] /warp
+[2026-07-16 11:00:01] [AuroraCity.kkwmc.cn] [CHAT] 76
+[2026-07-16 11:00:59] [AuroraCity.kkwmc.cn] [CHAT] wtf
+[2026-07-16 11:01:16] [AuroraCity.kkwmc.cn] [CHAT] 为什么这个刷铁机的地标是我创建的
