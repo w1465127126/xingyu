@@ -6103,3 +6103,6 @@
 [2026-07-17 10:28:05] [AuroraCity.kkwmc.cn] [CMD] /back
 [2026-07-17 10:28:09] [AuroraCity.kkwmc.cn] [CMD] /home j
 [2026-07-17 10:56:29] [AuroraCity.kkwmc.cn] [CHAT] 收小麦awa
+[2026-07-17 11:00:37] [AuroraCity.kkwmc.cn] [JOIN] 连接服务器: AuroraCity.kkwmc.cn
+[2026-07-17 11:00:39] [AuroraCity.kkwmc.cn] [CMD] /l wokaoa
+[2026-07-17 11:00:44] [AuroraCity.kkwmc.cn] [JOIN] 连接服务器: AuroraCity.kkwmc.cn
