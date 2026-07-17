@@ -6087,3 +6087,7 @@
 [2026-07-16 22:35:55] [AuroraCity.kkwmc.cn] [CMD] /back
 [2026-07-16 22:36:27] [AuroraCity.kkwmc.cn] [CMD] /back
 [2026-07-16 22:38:19] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-16 22:38:30] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-17 10:10:38] [AuroraCity.kkwmc.cn] [JOIN] 连接服务器: AuroraCity.kkwmc.cn
+[2026-07-17 10:10:46] [AuroraCity.kkwmc.cn] [CMD] /l wokaoa
+[2026-07-17 10:15:17] [AuroraCity.kkwmc.cn] [CMD] /res tp fan
