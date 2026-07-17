@@ -370,3 +370,6 @@
 [2026-07-17 12:35:23] [x6.sjcmc.cn:34054] [JOIN] 连接服务器: x6.sjcmc.cn:34054
 [2026-07-17 12:35:37] [x6.sjcmc.cn:34054] [CMD] /login maoyao170
 [2026-07-17 12:35:56] [x6.sjcmc.cn:34054] [CMD] /home home
+[2026-07-17 12:48:56] [x6.sjcmc.cn:34054] [CMD] /home gc2
+[2026-07-17 12:48:57] [x6.sjcmc.cn:34054] [CMD] /home gc
+[2026-07-17 12:49:15] [x6.sjcmc.cn:34054] [CMD] /home home
