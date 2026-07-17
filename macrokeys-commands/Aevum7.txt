@@ -6100,3 +6100,6 @@
 [2026-07-17 10:26:10] [AuroraCity.kkwmc.cn] [CMD] /warp 资源世界
 [2026-07-17 10:26:13] [AuroraCity.kkwmc.cn] [CMD] /rtp
 [2026-07-17 10:26:16] [AuroraCity.kkwmc.cn] [CMD] /rtp
+[2026-07-17 10:28:05] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-17 10:28:09] [AuroraCity.kkwmc.cn] [CMD] /home j
+[2026-07-17 10:56:29] [AuroraCity.kkwmc.cn] [CHAT] 收小麦awa
