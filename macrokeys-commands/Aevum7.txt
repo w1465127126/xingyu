@@ -6091,3 +6091,6 @@
 [2026-07-17 10:10:38] [AuroraCity.kkwmc.cn] [JOIN] 连接服务器: AuroraCity.kkwmc.cn
 [2026-07-17 10:10:46] [AuroraCity.kkwmc.cn] [CMD] /l wokaoa
 [2026-07-17 10:15:17] [AuroraCity.kkwmc.cn] [CMD] /res tp fan
+[2026-07-17 10:16:47] [AuroraCity.kkwmc.cn] [CMD] /res tp d
+[2026-07-17 10:16:50] [AuroraCity.kkwmc.cn] [CMD] /res tp d
+[2026-07-17 10:17:23] [AuroraCity.kkwmc.cn] [CMD] /home j
