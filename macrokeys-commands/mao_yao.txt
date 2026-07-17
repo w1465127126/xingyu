@@ -434,3 +434,6 @@
 [2026-07-17 17:47:57] [x6.sjcmc.cn:34054] [CMD] /res tp home
 [2026-07-17 17:49:04] [x6.sjcmc.cn:34054] [CMD] /home home
 [2026-07-17 17:49:08] [x6.sjcmc.cn:34054] [CMD] /back
+[2026-07-17 17:49:44] [x6.sjcmc.cn:34054] [CMD] /home fan
+[2026-07-17 17:49:49] [x6.sjcmc.cn:34054] [CMD] /res tp fan
+[2026-07-17 17:54:19] [x6.sjcmc.cn:34054] [CMD] /home home
