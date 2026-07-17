@@ -428,3 +428,6 @@
 [2026-07-17 16:18:48] [x6.sjcmc.cn:34054] [CMD] /home home
 [2026-07-17 16:18:50] [x6.sjcmc.cn:34054] [CMD] /home gc2
 [2026-07-17 16:34:31] [x6.sjcmc.cn:34054] [CMD] /home home
+[2026-07-17 16:34:42] [x6.sjcmc.cn:34054] [CMD] /back
+[2026-07-17 17:47:45] [x6.sjcmc.cn:34054] [CMD] /res tp zrt
+[2026-07-17 17:47:50] [x6.sjcmc.cn:34054] [CMD] /res tp sgt
