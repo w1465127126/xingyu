@@ -6138,3 +6138,9 @@
 [2026-07-18 10:27:22] [AuroraCity.kkwmc.cn] [CHAT] 我忘记我背包还有半组
 [2026-07-18 10:27:24] [AuroraCity.kkwmc.cn] [CHAT] 我刷个毛
 [2026-07-18 10:28:02] [AuroraCity.kkwmc.cn] [CMD] /res tp d
+[2026-07-18 10:28:11] [AuroraCity.kkwmc.cn] [CHAT] 你这打boss不会被秒?
+[2026-07-18 10:28:23] [AuroraCity.kkwmc.cn] [CHAT] 刷套rpg啊
+[2026-07-18 10:28:31] [AuroraCity.kkwmc.cn] [CHAT] 行
+[2026-07-18 10:28:36] [AuroraCity.kkwmc.cn] [CHAT] 70血也不多啊
+[2026-07-18 10:28:47] [AuroraCity.kkwmc.cn] [CHAT] nb
+[2026-07-18 10:29:08] [AuroraCity.kkwmc.cn] [CMD] /spawn
