@@ -6320,3 +6320,6 @@
 [2026-07-18 23:57:26] [play.aneworld.top] [JOIN] 连接服务器: play.aneworld.top
 [2026-07-18 23:57:36] [play.aneworld.top] [CMD] /reg wokaoa wokaoa
 [2026-07-18 23:58:23] [play.aneworld.top] [JOIN] 连接服务器: play.aneworld.top
+[2026-07-18 23:59:50] [xczu.top] [JOIN] 连接服务器: xczu.top
+[2026-07-19 00:00:22] [xczu.top] [JOIN] 连接服务器: xczu.top
+[2026-07-19 00:00:50] [xczu.top] [CMD] /l wokaoa
