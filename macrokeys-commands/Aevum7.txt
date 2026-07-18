@@ -6219,3 +6219,6 @@
 [2026-07-18 10:52:35] [AuroraCity.kkwmc.cn] [CHAT] 还有我的头
 [2026-07-18 10:52:51] [AuroraCity.kkwmc.cn] [CHAT] [i]
 [2026-07-18 10:52:53] [AuroraCity.kkwmc.cn] [CHAT] 买不买
+[2026-07-18 10:52:55] [AuroraCity.kkwmc.cn] [CHAT] 腐竹的头
+[2026-07-18 10:53:11] [AuroraCity.kkwmc.cn] [CHAT] 你觉得腐竹人头值多少
+[2026-07-18 10:53:18] [AuroraCity.kkwmc.cn] [CHAT] 666
