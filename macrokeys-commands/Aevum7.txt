@@ -6344,3 +6344,6 @@
 [2026-07-19 00:56:06] [xczu.top] [CHAT] 圆石生成
 [2026-07-19 00:56:49] [xczu.top] [CHAT] 稿
 [2026-07-19 00:57:28] [xczu.top] [CMD] /rtp
+[2026-07-19 00:59:14] [xczu.top] [CMD] /res create fan
+[2026-07-19 00:59:20] [xczu.top] [CMD] /res create fan
+[2026-07-19 00:59:30] [xczu.top] [CMD] /res tpset
