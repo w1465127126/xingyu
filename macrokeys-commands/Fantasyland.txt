@@ -161,3 +161,9 @@
 [2026-07-18 10:16:07] [AuroraCity.kkwmc.cn] [JOIN] 连接服务器: AuroraCity.kkwmc.cn
 [2026-07-18 10:16:09] [AuroraCity.kkwmc.cn] [CMD] /l wokaoa
 [2026-07-18 10:16:35] [AuroraCity.kkwmc.cn] [CMD] /res tp fan
+[2026-07-18 10:17:35] [AuroraCity.kkwmc.cn] [JOIN] 连接服务器: AuroraCity.kkwmc.cn
+[2026-07-18 10:17:37] [AuroraCity.kkwmc.cn] [CMD] /l wokaoa
+[2026-07-18 10:17:49] [AuroraCity.kkwmc.cn] [CMD] /warp 末地世界
+[2026-07-18 10:18:02] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-18 10:18:05] [AuroraCity.kkwmc.cn] [CMD] /spawn
+[2026-07-18 10:18:12] [AuroraCity.kkwmc.cn] [CMD] /back
