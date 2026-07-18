@@ -6135,3 +6135,6 @@
 [2026-07-18 10:27:09] [AuroraCity.kkwmc.cn] [JOIN] 连接服务器: AuroraCity.kkwmc.cn
 [2026-07-18 10:27:15] [AuroraCity.kkwmc.cn] [CMD] /l wokaoa
 [2026-07-18 10:27:19] [AuroraCity.kkwmc.cn] [CHAT] 傻逼了
+[2026-07-18 10:27:22] [AuroraCity.kkwmc.cn] [CHAT] 我忘记我背包还有半组
+[2026-07-18 10:27:24] [AuroraCity.kkwmc.cn] [CHAT] 我刷个毛
+[2026-07-18 10:28:02] [AuroraCity.kkwmc.cn] [CMD] /res tp d
