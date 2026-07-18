@@ -239,3 +239,9 @@
 [2026-07-18 10:36:03] [AuroraCity.kkwmc.cn] [CMD] /back
 [2026-07-18 10:36:22] [AuroraCity.kkwmc.cn] [CHAT] 这傻逼龙
 [2026-07-18 10:36:27] [AuroraCity.kkwmc.cn] [CHAT] 打都打不到
+[2026-07-18 10:36:43] [AuroraCity.kkwmc.cn] [CHAT] 还得上真理
+[2026-07-18 10:36:57] [AuroraCity.kkwmc.cn] [CHAT] 这武器不附魔没得玩
+[2026-07-18 10:36:58] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-18 10:37:11] [AuroraCity.kkwmc.cn] [CMD] /spawn
+[2026-07-18 10:37:40] [AuroraCity.kkwmc.cn] [CHAT] 这个服务器精灵商城不是可以买么
+[2026-07-18 10:37:44] [AuroraCity.kkwmc.cn] [CHAT] 你有多少点券哦
