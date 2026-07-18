@@ -154,3 +154,6 @@
 [2026-07-16 11:20:44] [AuroraCity.kkwmc.cn] [CMD] /home jia
 [2026-07-18 10:08:40] [AuroraCity.kkwmc.cn] [JOIN] 连接服务器: AuroraCity.kkwmc.cn
 [2026-07-18 10:08:43] [AuroraCity.kkwmc.cn] [CMD] /l wokaoa
+[2026-07-18 10:08:44] [AuroraCity.kkwmc.cn] [CMD] /spawn
+[2026-07-18 10:09:13] [AuroraCity.kkwmc.cn] [CMD] /res tp fan
+[2026-07-18 10:09:21] [AuroraCity.kkwmc.cn] [CMD] /res tp d
