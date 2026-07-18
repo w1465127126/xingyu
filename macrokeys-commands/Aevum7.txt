@@ -6304,3 +6304,6 @@
 [2026-07-18 13:49:58] [AuroraCity.kkwmc.cn] [CHAT] ?
 [2026-07-18 13:50:15] [AuroraCity.kkwmc.cn] [CHAT] 不是么
 [2026-07-18 13:50:23] [AuroraCity.kkwmc.cn] [CHAT] 我小号都嫖出来了兄弟
+[2026-07-18 14:34:18] [AuroraCity.kkwmc.cn] [CMD] /home j
+[2026-07-18 14:34:22] [AuroraCity.kkwmc.cn] [CMD] /res to d
+[2026-07-18 14:34:24] [AuroraCity.kkwmc.cn] [CMD] /res tp d
