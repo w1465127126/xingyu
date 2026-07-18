@@ -6371,3 +6371,6 @@
 [2026-07-19 01:41:37] [xczu.top] [CMD] /back
 [2026-07-19 01:47:13] [xczu.top] [CMD] /back
 [2026-07-19 01:50:20] [xczu.top] [CHAT] 经验
+[2026-07-19 01:50:42] [xczu.top] [CMD] /ah
+[2026-07-19 01:50:45] [xczu.top] [CMD] /market
+[2026-07-19 01:50:47] [xczu.top] [CMD] /market gui
