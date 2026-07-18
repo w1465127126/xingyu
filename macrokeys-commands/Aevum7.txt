@@ -6356,3 +6356,6 @@
 [2026-07-19 01:20:33] [xczu.top] [CMD] /market
 [2026-07-19 01:20:35] [xczu.top] [CMD] /market gui
 [2026-07-19 01:24:08] [xczu.top] [CMD] /rtp
+[2026-07-19 01:24:42] [xczu.top] [CMD] /back
+[2026-07-19 01:26:33] [xczu.top] [CHAT] 红石
+[2026-07-19 01:27:07] [xczu.top] [CHAT] 圆石\
