@@ -6374,3 +6374,6 @@
 [2026-07-19 01:50:42] [xczu.top] [CMD] /ah
 [2026-07-19 01:50:45] [xczu.top] [CMD] /market
 [2026-07-19 01:50:47] [xczu.top] [CMD] /market gui
+[2026-07-19 01:51:06] [xczu.top] [CMD] /res tp fan
+[2026-07-19 01:53:06] [xczu.top] [CHAT] 经验
+[2026-07-19 01:55:32] [xczu.top] [CMD] /tpaccept
