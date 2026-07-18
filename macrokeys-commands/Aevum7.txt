@@ -6144,3 +6144,21 @@
 [2026-07-18 10:28:36] [AuroraCity.kkwmc.cn] [CHAT] 70血也不多啊
 [2026-07-18 10:28:47] [AuroraCity.kkwmc.cn] [CHAT] nb
 [2026-07-18 10:29:08] [AuroraCity.kkwmc.cn] [CMD] /spawn
+[2026-07-18 10:29:17] [AuroraCity.kkwmc.cn] [CHAT] 你还挺肝
+[2026-07-18 10:29:20] [AuroraCity.kkwmc.cn] [CHAT] 我116血
+[2026-07-18 10:29:22] [AuroraCity.kkwmc.cn] [CMD] /spawn
+[2026-07-18 10:29:23] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-18 10:29:24] [AuroraCity.kkwmc.cn] [CMD] /res tp d
+[2026-07-18 10:29:32] [AuroraCity.kkwmc.cn] [CHAT] 我都玩了那么久了
+[2026-07-18 10:39:09] [AuroraCity.kkwmc.cn] [CHAT] 哎不知道买了888点券武器的兄弟还好吗
+[2026-07-18 10:39:25] [AuroraCity.kkwmc.cn] [CHAT] 还没这嫁衣强
+[2026-07-18 10:39:54] [AuroraCity.kkwmc.cn] [CMD] /spawn
+[2026-07-18 10:40:10] [AuroraCity.kkwmc.cn] [CHAT] 8月3号到期
+[2026-07-18 10:40:16] [AuroraCity.kkwmc.cn] [CHAT] 感觉直接买个称号算了
+[2026-07-18 10:40:38] [AuroraCity.kkwmc.cn] [CHAT] 其实用个最垃圾的绿森剑附魔后伤害也够了
+[2026-07-18 10:40:54] [AuroraCity.kkwmc.cn] [CHAT] [i]
+[2026-07-18 10:40:58] [AuroraCity.kkwmc.cn] [CHAT] 加点小宝石
+[2026-07-18 10:41:03] [AuroraCity.kkwmc.cn] [CHAT] 伤害一样高
+[2026-07-18 10:41:25] [AuroraCity.kkwmc.cn] [CHAT] 点券的武器好像不能加宝石吧
+[2026-07-18 10:41:40] [AuroraCity.kkwmc.cn] [CHAT] 可以嘛
+[2026-07-18 10:41:42] [AuroraCity.kkwmc.cn] [CHAT] 行
