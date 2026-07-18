@@ -6395,3 +6395,6 @@
 [2026-07-19 02:19:56] [xczu.top] [CHAT] 粘液球
 [2026-07-19 02:20:33] [xczu.top] [CMD] /res tp nyq
 [2026-07-19 02:20:35] [xczu.top] [CMD] /res tp nianye
+[2026-07-19 02:20:38] [xczu.top] [CMD] /market
+[2026-07-19 02:20:41] [xczu.top] [CMD] /market gui
+[2026-07-19 02:22:52] [xczu.top] [CHAT] 无尽
