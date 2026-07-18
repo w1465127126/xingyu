@@ -6265,3 +6265,9 @@
 [2026-07-18 13:40:01] [AuroraCity.kkwmc.cn] [CMD] /home j
 [2026-07-18 13:40:06] [AuroraCity.kkwmc.cn] [CMD] /home j
 [2026-07-18 13:40:10] [AuroraCity.kkwmc.cn] [CMD] /home j
+[2026-07-18 13:41:05] [AuroraCity.kkwmc.cn] [CHAT] 这飞龙
+[2026-07-18 13:41:09] [AuroraCity.kkwmc.cn] [CHAT] 西方的是吧
+[2026-07-18 13:41:16] [AuroraCity.kkwmc.cn] [CMD] /ah
+[2026-07-18 13:41:20] [AuroraCity.kkwmc.cn] [CMD] /tpaccept
+[2026-07-18 13:41:46] [AuroraCity.kkwmc.cn] [CHAT] 可以啊
+[2026-07-18 13:41:54] [AuroraCity.kkwmc.cn] [CHAT] 你不动就停了
