@@ -6274,3 +6274,6 @@
 [2026-07-18 13:42:01] [AuroraCity.kkwmc.cn] [CHAT] 我上午在主城挂机了一上午
 [2026-07-18 13:42:19] [AuroraCity.kkwmc.cn] [JOIN] 连接服务器: AuroraCity.kkwmc.cn
 [2026-07-18 13:42:22] [AuroraCity.kkwmc.cn] [CMD] /l wokaoa
+[2026-07-18 13:42:26] [AuroraCity.kkwmc.cn] [CHAT] 退出再进也还在
+[2026-07-18 13:42:27] [AuroraCity.kkwmc.cn] [CMD] /spawn
+[2026-07-18 13:42:39] [AuroraCity.kkwmc.cn] [CMD] /back
