@@ -191,3 +191,33 @@
 [2026-07-18 10:22:53] [AuroraCity.kkwmc.cn] [CHAT] 你接了屠龙任务嘛
 [2026-07-18 10:23:27] [AuroraCity.kkwmc.cn] [CHAT] 摸了
 [2026-07-18 10:23:41] [AuroraCity.kkwmc.cn] [CHAT] 哎
+[2026-07-18 10:23:45] [AuroraCity.kkwmc.cn] [CHAT] 这被修了吗
+[2026-07-18 10:23:50] [AuroraCity.kkwmc.cn] [CHAT] 我记得之前摸一下就行的
+[2026-07-18 10:24:04] [AuroraCity.kkwmc.cn] [CHAT] 坏菜了
+[2026-07-18 10:24:14] [AuroraCity.kkwmc.cn] [CHAT] 算了我去搞套防具兄弟
+[2026-07-18 10:24:17] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-18 10:24:20] [AuroraCity.kkwmc.cn] [CMD] /res tp fan
+[2026-07-18 10:24:36] [AuroraCity.kkwmc.cn] [CMD] /res tp fan
+[2026-07-18 10:24:38] [AuroraCity.kkwmc.cn] [CMD] /tpaccept
+[2026-07-18 10:24:51] [AuroraCity.kkwmc.cn] [CHAT] 哎呀感谢感谢
+[2026-07-18 10:25:19] [AuroraCity.kkwmc.cn] [CHAT] 这没防具谁顶得住
+[2026-07-18 10:25:32] [AuroraCity.kkwmc.cn] [CHAT] 22
+[2026-07-18 10:25:43] [AuroraCity.kkwmc.cn] [CHAT] 等我吃2组金苹果
+[2026-07-18 10:25:45] [AuroraCity.kkwmc.cn] [CHAT] 加点血
+[2026-07-18 10:26:09] [AuroraCity.kkwmc.cn] [CMD] /res tp d
+[2026-07-18 10:26:17] [AuroraCity.kkwmc.cn] [CHAT] 懒得刷了
+[2026-07-18 10:26:25] [AuroraCity.kkwmc.cn] [CHAT] 我就打龙嫖个点券
+[2026-07-18 10:26:30] [AuroraCity.kkwmc.cn] [CHAT] 这么好
+[2026-07-18 10:26:46] [AuroraCity.kkwmc.cn] [CHAT] 还好还有一背包灵魂沙
+[2026-07-18 10:27:45] [AuroraCity.kkwmc.cn] [CHAT] 我是真一套多余的防具没有
+[2026-07-18 10:29:49] [AuroraCity.kkwmc.cn] [CMD] /tpahere mao_yao
+[2026-07-18 10:30:08] [AuroraCity.kkwmc.cn] [CMD] /res tp fan
+[2026-07-18 10:30:09] [AuroraCity.kkwmc.cn] [CHAT] 没权限？
+[2026-07-18 10:30:15] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-18 10:30:17] [AuroraCity.kkwmc.cn] [CMD] /tpahere mao_yao
+[2026-07-18 10:30:37] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-18 10:30:41] [AuroraCity.kkwmc.cn] [CMD] /tpahere mao_yao
+[2026-07-18 10:30:43] [AuroraCity.kkwmc.cn] [CHAT] 傻逼ydy
+[2026-07-18 10:31:11] [AuroraCity.kkwmc.cn] [CHAT] 这玩意除了加血没啥用
+[2026-07-18 10:32:01] [AuroraCity.kkwmc.cn] [CHAT] 我又能嫖一个月飞行了= =
+[2026-07-18 10:32:09] [AuroraCity.kkwmc.cn] [CHAT] 想换个称号了
