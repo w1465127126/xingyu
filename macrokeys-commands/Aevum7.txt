@@ -6347,3 +6347,6 @@
 [2026-07-19 00:59:14] [xczu.top] [CMD] /res create fan
 [2026-07-19 00:59:20] [xczu.top] [CMD] /res create fan
 [2026-07-19 00:59:30] [xczu.top] [CMD] /res tpset
+[2026-07-19 01:00:05] [xczu.top] [CMD] /market
+[2026-07-19 01:00:09] [xczu.top] [CMD] /market gui
+[2026-07-19 01:05:57] [xczu.top] [CMD] /back
