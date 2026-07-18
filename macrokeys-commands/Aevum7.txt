@@ -6262,3 +6262,6 @@
 [2026-07-18 13:38:41] [AuroraCity.kkwmc.cn] [CHAT] 而且下线都不掉
 [2026-07-18 13:38:57] [AuroraCity.kkwmc.cn] [CHAT] 有hxd来pvp吗
 [2026-07-18 13:39:16] [AuroraCity.kkwmc.cn] [CHAT] 还能正常射箭
+[2026-07-18 13:40:01] [AuroraCity.kkwmc.cn] [CMD] /home j
+[2026-07-18 13:40:06] [AuroraCity.kkwmc.cn] [CMD] /home j
+[2026-07-18 13:40:10] [AuroraCity.kkwmc.cn] [CMD] /home j
