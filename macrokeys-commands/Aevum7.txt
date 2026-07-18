@@ -6353,3 +6353,6 @@
 [2026-07-19 01:10:46] [xczu.top] [CHAT] 圆石
 [2026-07-19 01:13:43] [xczu.top] [CHAT] 圆石生成
 [2026-07-19 01:19:45] [xczu.top] [CMD] /back
+[2026-07-19 01:20:33] [xczu.top] [CMD] /market
+[2026-07-19 01:20:35] [xczu.top] [CMD] /market gui
+[2026-07-19 01:24:08] [xczu.top] [CMD] /rtp
