@@ -6313,3 +6313,10 @@
 [2026-07-18 14:35:56] [AuroraCity.kkwmc.cn] [CHAT] 来
 [2026-07-18 14:37:00] [AuroraCity.kkwmc.cn] [CHAT] sl1
 [2026-07-18 14:37:02] [AuroraCity.kkwmc.cn] [CMD] /spawn
+[2026-07-18 14:37:05] [AuroraCity.kkwmc.cn] [CMD] /res tp d
+[2026-07-18 14:38:09] [AuroraCity.kkwmc.cn] [CMD] /sf guide
+[2026-07-18 23:52:53] [AuroraCity.kkwmc.cn] [JOIN] 连接服务器: AuroraCity.kkwmc.cn
+[2026-07-18 23:53:02] [AuroraCity.kkwmc.cn] [CMD] /l wokaoa
+[2026-07-18 23:57:26] [play.aneworld.top] [JOIN] 连接服务器: play.aneworld.top
+[2026-07-18 23:57:36] [play.aneworld.top] [CMD] /reg wokaoa wokaoa
+[2026-07-18 23:58:23] [play.aneworld.top] [JOIN] 连接服务器: play.aneworld.top
