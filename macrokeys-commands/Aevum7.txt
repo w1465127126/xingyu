@@ -6237,3 +6237,6 @@
 [2026-07-18 11:02:32] [AuroraCity.kkwmc.cn] [CHAT] 没招了
 [2026-07-18 11:04:22] [AuroraCity.kkwmc.cn] [CHAT] 我勒个大蝙蝠
 [2026-07-18 11:04:50] [AuroraCity.kkwmc.cn] [CHAT] 好东西
+[2026-07-18 11:04:55] [AuroraCity.kkwmc.cn] [CHAT] 这飞行不就有了
+[2026-07-18 11:05:35] [AuroraCity.kkwmc.cn] [CHAT] 这他妈是真卡
+[2026-07-18 11:05:59] [AuroraCity.kkwmc.cn] [CMD] /tpa LuckyMengYi
