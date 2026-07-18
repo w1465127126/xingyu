@@ -6253,3 +6253,6 @@
 [2026-07-18 13:13:06] [mcip.byboy.top] [JOIN] 连接服务器: mcip.byboy.top
 [2026-07-18 13:14:19] [mcip.byboy.top] [JOIN] 连接服务器: mcip.byboy.top
 [2026-07-18 13:16:18] [mcip.byboy.top] [JOIN] 连接服务器: mcip.byboy.top
+[2026-07-18 13:36:36] [AuroraCity.kkwmc.cn] [JOIN] 连接服务器: AuroraCity.kkwmc.cn
+[2026-07-18 13:36:40] [AuroraCity.kkwmc.cn] [CMD] /l wokaoa
+[2026-07-18 13:38:09] [AuroraCity.kkwmc.cn] [CMD] /tpa mao_yao
