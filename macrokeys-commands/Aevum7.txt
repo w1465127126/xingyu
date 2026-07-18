@@ -6240,3 +6240,13 @@
 [2026-07-18 11:04:55] [AuroraCity.kkwmc.cn] [CHAT] 这飞行不就有了
 [2026-07-18 11:05:35] [AuroraCity.kkwmc.cn] [CHAT] 这他妈是真卡
 [2026-07-18 11:05:59] [AuroraCity.kkwmc.cn] [CMD] /tpa LuckyMengYi
+[2026-07-18 11:06:23] [AuroraCity.kkwmc.cn] [JOIN] 连接服务器: AuroraCity.kkwmc.cn
+[2026-07-18 11:06:25] [AuroraCity.kkwmc.cn] [CMD] /l wokaoa
+[2026-07-18 11:07:34] [AuroraCity.kkwmc.cn] [CMD] /hat
+[2026-07-18 11:08:26] [AuroraCity.kkwmc.cn] [JOIN] 连接服务器: AuroraCity.kkwmc.cn
+[2026-07-18 11:08:33] [AuroraCity.kkwmc.cn] [CMD] /l wokaoa
+[2026-07-18 11:10:11] [AuroraCity.kkwmc.cn] [JOIN] 连接服务器: AuroraCity.kkwmc.cn
+[2026-07-18 11:10:13] [AuroraCity.kkwmc.cn] [CMD] /l wokaoa
+[2026-07-18 13:11:25] [mcip.byboy.top] [JOIN] 连接服务器: mcip.byboy.top
+[2026-07-18 13:11:56] [mcip.byboy.top] [CMD] /reg wokaoa wokaoa
+[2026-07-18 13:12:02] [mcip.byboy.top] [JOIN] 连接服务器: mcip.byboy.top
