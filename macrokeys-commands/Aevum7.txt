@@ -6326,3 +6326,6 @@
 [2026-07-19 00:03:51] [xczu.top] [CMD] /prewards
 [2026-07-19 00:04:39] [xczu.top] [CMD] /rtp
 [2026-07-19 00:09:41] [xczu.top] [CMD] /co i
+[2026-07-19 00:09:47] [xczu.top] [CMD] /co i
+[2026-07-19 00:10:17] [xczu.top] [CHAT] 芦苇
+[2026-07-19 00:12:35] [xczu.top] [CMD] /res tp cm
