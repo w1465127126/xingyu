@@ -6283,3 +6283,6 @@
 [2026-07-18 13:43:08] [AuroraCity.kkwmc.cn] [CHAT] 就是不能传送
 [2026-07-18 13:43:16] [AuroraCity.kkwmc.cn] [CHAT] 我一开始还以为是精灵呢
 [2026-07-18 13:43:20] [AuroraCity.kkwmc.cn] [CHAT] 没传送会一直卡
+[2026-07-18 13:43:23] [AuroraCity.kkwmc.cn] [CHAT] 让你强行回来
+[2026-07-18 13:43:35] [AuroraCity.kkwmc.cn] [CHAT] 防呆拉满
+[2026-07-18 13:43:48] [AuroraCity.kkwmc.cn] [CHAT] hh
