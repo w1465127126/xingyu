@@ -6377,3 +6377,6 @@
 [2026-07-19 01:51:06] [xczu.top] [CMD] /res tp fan
 [2026-07-19 01:53:06] [xczu.top] [CHAT] 经验
 [2026-07-19 01:55:32] [xczu.top] [CMD] /tpaccept
+[2026-07-19 02:02:27] [xczu.top] [CHAT] 快捷
+[2026-07-19 02:02:56] [xczu.top] [CMD] /warp
+[2026-07-19 02:04:08] [xczu.top] [CMD] /res tp fan
