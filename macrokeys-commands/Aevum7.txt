@@ -6310,3 +6310,6 @@
 [2026-07-18 14:34:55] [AuroraCity.kkwmc.cn] [CMD] /res tp sl1
 [2026-07-18 14:35:02] [AuroraCity.kkwmc.cn] [CHAT] tp
 [2026-07-18 14:35:28] [AuroraCity.kkwmc.cn] [CMD] /tpahere udytd
+[2026-07-18 14:35:56] [AuroraCity.kkwmc.cn] [CHAT] 来
+[2026-07-18 14:37:00] [AuroraCity.kkwmc.cn] [CHAT] sl1
+[2026-07-18 14:37:02] [AuroraCity.kkwmc.cn] [CMD] /spawn
