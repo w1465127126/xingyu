@@ -6292,3 +6292,6 @@
 [2026-07-18 13:46:32] [AuroraCity.kkwmc.cn] [CHAT] 龙也不好看
 [2026-07-18 13:46:42] [AuroraCity.kkwmc.cn] [CHAT] 你可以试下飞船
 [2026-07-18 13:47:04] [AuroraCity.kkwmc.cn] [CHAT] 感觉蜜蜂应该也不错
+[2026-07-18 13:47:50] [AuroraCity.kkwmc.cn] [CHAT] 随便换嘛觉得不好看和我换awa
+[2026-07-18 13:48:11] [AuroraCity.kkwmc.cn] [CMD] /spawn
+[2026-07-18 13:48:21] [AuroraCity.kkwmc.cn] [CHAT] 不换个会员
