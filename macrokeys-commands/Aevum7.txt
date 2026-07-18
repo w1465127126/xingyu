@@ -6362,3 +6362,6 @@
 [2026-07-19 01:27:15] [xczu.top] [CHAT] 圆石
 [2026-07-19 01:29:17] [xczu.top] [CHAT] 冶炼
 [2026-07-19 01:33:13] [xczu.top] [CMD] /back
+[2026-07-19 01:35:39] [xczu.top] [CMD] /spawn
+[2026-07-19 01:35:57] [xczu.top] [CMD] /back
+[2026-07-19 01:37:44] [xczu.top] [CMD] /res expand 10
