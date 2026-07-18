@@ -6295,3 +6295,6 @@
 [2026-07-18 13:47:50] [AuroraCity.kkwmc.cn] [CHAT] 随便换嘛觉得不好看和我换awa
 [2026-07-18 13:48:11] [AuroraCity.kkwmc.cn] [CMD] /spawn
 [2026-07-18 13:48:21] [AuroraCity.kkwmc.cn] [CHAT] 不换个会员
+[2026-07-18 13:48:46] [AuroraCity.kkwmc.cn] [CHAT] 肯定优先会员啊
+[2026-07-18 13:48:56] [AuroraCity.kkwmc.cn] [CHAT] 每天40点券保底
+[2026-07-18 13:49:24] [AuroraCity.kkwmc.cn] [CHAT] 一个月最少能干2个会员出来吧
