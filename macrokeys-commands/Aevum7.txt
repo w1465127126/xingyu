@@ -6207,3 +6207,6 @@
 [2026-07-18 10:50:45] [AuroraCity.kkwmc.cn] [CMD] /tpa mao_yao
 [2026-07-18 10:50:52] [AuroraCity.kkwmc.cn] [CHAT] 傻逼小白
 [2026-07-18 10:50:59] [AuroraCity.kkwmc.cn] [CMD] /tpa mao_yao
+[2026-07-18 10:51:15] [AuroraCity.kkwmc.cn] [CHAT] 依旧空岛
+[2026-07-18 10:51:23] [AuroraCity.kkwmc.cn] [CHAT] 你的兄弟们都退游了
+[2026-07-18 10:51:48] [AuroraCity.kkwmc.cn] [CHAT] 我记得还一个挂哥
