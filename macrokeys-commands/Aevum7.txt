@@ -6424,3 +6424,6 @@
 [2026-07-19 20:45:28] [AuroraCity.kkwmc.cn] [CHAT] 哎我今天上线过了么
 [2026-07-19 20:45:41] [AuroraCity.kkwmc.cn] [CHAT] 失忆了
 [2026-07-19 20:45:44] [AuroraCity.kkwmc.cn] [CMD] /res tp d
+[2026-07-19 20:48:04] [mc.jxfamily.cn] [JOIN] 连接服务器: mc.jxfamily.cn
+[2026-07-19 20:48:08] [mc.jxfamily.cn] [CMD] /reg wokaoa wokaoa
+[2026-07-19 20:52:19] [MC.SKYCRAFT.CN] [JOIN] 连接服务器: MC.SKYCRAFT.CN
