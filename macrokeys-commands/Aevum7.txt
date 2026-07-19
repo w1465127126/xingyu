@@ -6414,3 +6414,6 @@
 [2026-07-19 09:46:59] [xczu.top] [CMD] /l wokaoa
 [2026-07-19 09:59:36] [xczu.top] [CHAT] 下界
 [2026-07-19 10:05:36] [xczu.top] [CHAT] 下界
+[2026-07-19 10:09:02] [xczu.top] [JOIN] 连接服务器: xczu.top
+[2026-07-19 10:10:42] [play.mcplay.cn:25565] [JOIN] 连接服务器: play.mcplay.cn:25565
+[2026-07-19 10:10:47] [play.mcplay.cn:25565] [CMD] /reg wokaoa wokaoa
