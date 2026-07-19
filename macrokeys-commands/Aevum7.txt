@@ -2298,3 +2298,6 @@
 [2026-07-20 00:39:28] [x6.sjcmc.cn:34054] [JOIN] 连接服务器: x6.sjcmc.cn:34054
 [2026-07-20 00:39:32] [x6.sjcmc.cn:34054] [CMD] /l wokaoa
 [2026-07-20 00:39:36] [x6.sjcmc.cn:34054] [CMD] /fly
+[2026-07-20 00:40:30] [x6.sjcmc.cn:34054] [CMD] /tpa yoyooooo
+[2026-07-20 00:40:39] [x6.sjcmc.cn:34054] [CMD] /hat
+[2026-07-20 00:47:20] [x6.sjcmc.cn:34054] [CMD] /res tp d
