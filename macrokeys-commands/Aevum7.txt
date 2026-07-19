@@ -6408,3 +6408,6 @@
 [2026-07-19 09:42:18] [AuroraCity.kkwmc.cn] [JOIN] 连接服务器: AuroraCity.kkwmc.cn
 [2026-07-19 09:42:21] [AuroraCity.kkwmc.cn] [CMD] /l wokaoa
 [2026-07-19 09:43:51] [play.aneworld.top] [JOIN] 连接服务器: play.aneworld.top
+[2026-07-19 09:43:55] [play.aneworld.top] [CMD] /l wokaoa
+[2026-07-19 09:46:33] [xczu.top] [JOIN] 连接服务器: xczu.top
+[2026-07-19 09:46:53] [xczu.top] [JOIN] 连接服务器: xczu.top
