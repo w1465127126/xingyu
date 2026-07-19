@@ -6472,3 +6472,6 @@
 [2026-07-19 21:16:49] [AuroraCity.kkwmc.cn] [CHAT] 不是啊
 [2026-07-19 21:16:56] [AuroraCity.kkwmc.cn] [CHAT] 这个是正常的飞行速度啊= =
 [2026-07-19 21:17:30] [AuroraCity.kkwmc.cn] [CHAT] 用鞘翅快点
+[2026-07-19 21:17:52] [AuroraCity.kkwmc.cn] [CMD] /fly
+[2026-07-19 21:18:04] [AuroraCity.kkwmc.cn] [CHAT] = =
+[2026-07-19 21:18:07] [AuroraCity.kkwmc.cn] [CHAT] 干啥呢
