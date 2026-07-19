@@ -6496,3 +6496,6 @@
 [2026-07-19 21:21:47] [AuroraCity.kkwmc.cn] [CHAT] 咋了
 [2026-07-19 21:22:20] [AuroraCity.kkwmc.cn] [CHAT] 你是真肝啊
 [2026-07-19 21:22:29] [AuroraCity.kkwmc.cn] [CHAT] 肝这天火的装备啊
+[2026-07-19 21:22:35] [AuroraCity.kkwmc.cn] [CHAT] 比正常飞行快
+[2026-07-19 21:23:07] [AuroraCity.kkwmc.cn] [CHAT] 感觉没啥必要
+[2026-07-19 21:23:19] [AuroraCity.kkwmc.cn] [CHAT] 肝完rpg就能退服了
