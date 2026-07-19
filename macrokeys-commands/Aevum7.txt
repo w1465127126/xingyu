@@ -6448,3 +6448,6 @@
 [2026-07-19 21:12:34] [AuroraCity.kkwmc.cn] [CHAT] 不是
 [2026-07-19 21:12:39] [AuroraCity.kkwmc.cn] [CHAT] 大概？
 [2026-07-19 21:12:50] [AuroraCity.kkwmc.cn] [CHAT] 反正都能飞
+[2026-07-19 21:13:20] [AuroraCity.kkwmc.cn] [CHAT] 鞘翅最快
+[2026-07-19 21:13:58] [AuroraCity.kkwmc.cn] [CHAT] 鞘翅才是真神
+[2026-07-19 21:14:06] [AuroraCity.kkwmc.cn] [CHAT] 没啥功能
