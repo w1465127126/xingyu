@@ -6475,3 +6475,6 @@
 [2026-07-19 21:17:52] [AuroraCity.kkwmc.cn] [CMD] /fly
 [2026-07-19 21:18:04] [AuroraCity.kkwmc.cn] [CHAT] = =
 [2026-07-19 21:18:07] [AuroraCity.kkwmc.cn] [CHAT] 干啥呢
+[2026-07-19 21:18:16] [AuroraCity.kkwmc.cn] [CHAT] 收集挂了
+[2026-07-19 21:18:22] [AuroraCity.kkwmc.cn] [CHAT] 懒得搞了
+[2026-07-19 21:18:31] [AuroraCity.kkwmc.cn] [CHAT] 东西多了被
