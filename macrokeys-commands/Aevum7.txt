@@ -6439,3 +6439,6 @@
 [2026-07-19 21:03:49] [AuroraCity.kkwmc.cn] [CMD] /l wokaoa
 [2026-07-19 21:09:05] [AuroraCity.kkwmc.cn] [JOIN] 连接服务器: AuroraCity.kkwmc.cn
 [2026-07-19 21:09:08] [AuroraCity.kkwmc.cn] [CMD] /l wokaoa
+[2026-07-19 21:10:48] [AuroraCity.kkwmc.cn] [CMD] /tpa Accompany
+[2026-07-19 21:11:24] [AuroraCity.kkwmc.cn] [CHAT] oo
+[2026-07-19 21:11:27] [AuroraCity.kkwmc.cn] [CHAT] 这么多地方
