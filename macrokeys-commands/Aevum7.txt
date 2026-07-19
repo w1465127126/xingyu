@@ -6436,3 +6436,6 @@
 [2026-07-19 21:02:42] [play.lcyh.top] [CMD] /rules
 [2026-07-19 21:03:10] [play.lcyh.top] [JOIN] 连接服务器: play.lcyh.top
 [2026-07-19 21:03:47] [AuroraCity.kkwmc.cn] [JOIN] 连接服务器: AuroraCity.kkwmc.cn
+[2026-07-19 21:03:49] [AuroraCity.kkwmc.cn] [CMD] /l wokaoa
+[2026-07-19 21:09:05] [AuroraCity.kkwmc.cn] [JOIN] 连接服务器: AuroraCity.kkwmc.cn
+[2026-07-19 21:09:08] [AuroraCity.kkwmc.cn] [CMD] /l wokaoa
