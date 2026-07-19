@@ -6445,3 +6445,6 @@
 [2026-07-19 21:11:44] [AuroraCity.kkwmc.cn] [CHAT] 你需要一个坐骑
 [2026-07-19 21:12:08] [AuroraCity.kkwmc.cn] [CHAT] 精灵
 [2026-07-19 21:12:21] [AuroraCity.kkwmc.cn] [CHAT] 道具城
+[2026-07-19 21:12:34] [AuroraCity.kkwmc.cn] [CHAT] 不是
+[2026-07-19 21:12:39] [AuroraCity.kkwmc.cn] [CHAT] 大概？
+[2026-07-19 21:12:50] [AuroraCity.kkwmc.cn] [CHAT] 反正都能飞
