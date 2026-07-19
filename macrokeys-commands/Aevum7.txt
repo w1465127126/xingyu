@@ -6442,3 +6442,6 @@
 [2026-07-19 21:10:48] [AuroraCity.kkwmc.cn] [CMD] /tpa Accompany
 [2026-07-19 21:11:24] [AuroraCity.kkwmc.cn] [CHAT] oo
 [2026-07-19 21:11:27] [AuroraCity.kkwmc.cn] [CHAT] 这么多地方
+[2026-07-19 21:11:44] [AuroraCity.kkwmc.cn] [CHAT] 你需要一个坐骑
+[2026-07-19 21:12:08] [AuroraCity.kkwmc.cn] [CHAT] 精灵
+[2026-07-19 21:12:21] [AuroraCity.kkwmc.cn] [CHAT] 道具城
