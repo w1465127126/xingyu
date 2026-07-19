@@ -6433,3 +6433,6 @@
 [2026-07-19 20:59:55] [play.mcplay.cn] [CMD] /l wokaoa
 [2026-07-19 21:02:33] [play.lcyh.top] [JOIN] 连接服务器: play.lcyh.top
 [2026-07-19 21:02:39] [play.lcyh.top] [CMD] /reg wokaoa wokaoa
+[2026-07-19 21:02:42] [play.lcyh.top] [CMD] /rules
+[2026-07-19 21:03:10] [play.lcyh.top] [JOIN] 连接服务器: play.lcyh.top
+[2026-07-19 21:03:47] [AuroraCity.kkwmc.cn] [JOIN] 连接服务器: AuroraCity.kkwmc.cn
