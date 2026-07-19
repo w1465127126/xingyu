@@ -6487,3 +6487,9 @@
 [2026-07-19 21:20:26] [AuroraCity.kkwmc.cn] [CHAT] 我直接龙骑士
 [2026-07-19 21:20:28] [AuroraCity.kkwmc.cn] [CMD] /pvp
 [2026-07-19 21:20:32] [AuroraCity.kkwmc.cn] [CMD] /pvp
+[2026-07-19 21:20:40] [AuroraCity.kkwmc.cn] [CHAT] 你pvp开了?
+[2026-07-19 21:20:44] [AuroraCity.kkwmc.cn] [CHAT] 别把我村民打死了
+[2026-07-19 21:20:48] [AuroraCity.kkwmc.cn] [CHAT] 6
+[2026-07-19 21:21:10] [AuroraCity.kkwmc.cn] [CHAT] 这个坐骑飞行建筑和打架都不受干扰
+[2026-07-19 21:21:15] [AuroraCity.kkwmc.cn] [CHAT] 真不错
+[2026-07-19 21:21:46] [AuroraCity.kkwmc.cn] [CHAT] 我小号
