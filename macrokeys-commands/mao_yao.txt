@@ -578,3 +578,7 @@
 [2026-07-18 14:14:31] [x6.sjcmc.cn:34054] [CMD] /home gc2
 [2026-07-18 14:14:51] [x6.sjcmc.cn:34054] [CMD] /res tp mygc
 [2026-07-18 21:25:16] [x6.sjcmc.cn:34054] [CMD] /home home
+[2026-07-18 21:25:23] [x6.sjcmc.cn:34054] [CMD] /back
+[2026-07-19 09:28:54] [x6.sjcmc.cn:34054] [JOIN] 连接服务器: x6.sjcmc.cn:34054
+[2026-07-19 09:29:09] [x6.sjcmc.cn:34054] [CMD] /login maoyao170
+[2026-07-19 09:32:21] [x6.sjcmc.cn:34054] [CMD] /home gc2
