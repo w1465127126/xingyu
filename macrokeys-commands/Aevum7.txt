@@ -6511,3 +6511,6 @@
 [2026-07-19 21:26:10] [AuroraCity.kkwmc.cn] [CHAT] 我没血珠
 [2026-07-19 21:26:22] [AuroraCity.kkwmc.cn] [CHAT] 兜里干净的很
 [2026-07-19 21:26:34] [AuroraCity.kkwmc.cn] [CHAT] 你拿呗
+[2026-07-19 21:26:43] [AuroraCity.kkwmc.cn] [CHAT] 为啥
+[2026-07-19 21:26:44] [AuroraCity.kkwmc.cn] [CMD] /res info
+[2026-07-19 21:26:54] [AuroraCity.kkwmc.cn] [CHAT] 收集到哪去了
