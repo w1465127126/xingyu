@@ -6466,3 +6466,6 @@
 [2026-07-19 21:15:47] [AuroraCity.kkwmc.cn] [CMD] /home j
 [2026-07-19 21:15:49] [AuroraCity.kkwmc.cn] [CMD] /tpaccept
 [2026-07-19 21:15:57] [AuroraCity.kkwmc.cn] [CHAT] 666
+[2026-07-19 21:16:02] [AuroraCity.kkwmc.cn] [CHAT] 又坑蒙拐骗
+[2026-07-19 21:16:19] [AuroraCity.kkwmc.cn] [CHAT] 1k
+[2026-07-19 21:16:35] [AuroraCity.kkwmc.cn] [CHAT] ok
