@@ -6484,3 +6484,6 @@
 [2026-07-19 21:19:30] [AuroraCity.kkwmc.cn] [CHAT] 是的
 [2026-07-19 21:19:41] [AuroraCity.kkwmc.cn] [CHAT] 末地地狱死亡掉经验
 [2026-07-19 21:19:59] [AuroraCity.kkwmc.cn] [CHAT] 来pvp WWZ
+[2026-07-19 21:20:26] [AuroraCity.kkwmc.cn] [CHAT] 我直接龙骑士
+[2026-07-19 21:20:28] [AuroraCity.kkwmc.cn] [CMD] /pvp
+[2026-07-19 21:20:32] [AuroraCity.kkwmc.cn] [CMD] /pvp
