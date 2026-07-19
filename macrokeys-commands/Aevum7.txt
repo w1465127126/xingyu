@@ -6411,3 +6411,6 @@
 [2026-07-19 09:43:55] [play.aneworld.top] [CMD] /l wokaoa
 [2026-07-19 09:46:33] [xczu.top] [JOIN] 连接服务器: xczu.top
 [2026-07-19 09:46:53] [xczu.top] [JOIN] 连接服务器: xczu.top
+[2026-07-19 09:46:59] [xczu.top] [CMD] /l wokaoa
+[2026-07-19 09:59:36] [xczu.top] [CHAT] 下界
+[2026-07-19 10:05:36] [xczu.top] [CHAT] 下界
