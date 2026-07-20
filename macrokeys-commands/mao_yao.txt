@@ -638,3 +638,6 @@
 [2026-07-20 09:42:53] [x6.sjcmc.cn:34054] [CHAT] 搞个5也能用
 [2026-07-20 09:44:41] [x6.sjcmc.cn:34054] [JOIN] 连接服务器: x6.sjcmc.cn:34054
 [2026-07-20 09:44:52] [x6.sjcmc.cn:34054] [CMD] /login maoyao170
+[2026-07-20 09:44:56] [x6.sjcmc.cn:34054] [CMD] /home aaa
+[2026-07-20 09:45:00] [x6.sjcmc.cn:34054] [CMD] /home aaa
+[2026-07-20 09:45:43] [x6.sjcmc.cn:34054] [CMD] /home home
