@@ -644,3 +644,6 @@
 [2026-07-20 09:45:52] [x6.sjcmc.cn:34054] [CHAT] 不固定
 [2026-07-20 09:46:00] [x6.sjcmc.cn:34054] [CMD] /home gc2'
 [2026-07-20 09:46:02] [x6.sjcmc.cn:34054] [CMD] /home gc2
+[2026-07-20 09:46:17] [x6.sjcmc.cn:34054] [CMD] /home home
+[2026-07-20 09:46:29] [x6.sjcmc.cn:34054] [CMD] /home home
+[2026-07-20 09:46:32] [x6.sjcmc.cn:34054] [CMD] /home gc2
