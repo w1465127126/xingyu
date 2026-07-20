@@ -269,3 +269,6 @@
 [2026-07-20 11:09:27] [AuroraCity.kkwmc.cn] [CMD] /l wokaoa
 [2026-07-20 11:09:28] [AuroraCity.kkwmc.cn] [CMD] /res tp d
 [2026-07-20 11:09:48] [AuroraCity.kkwmc.cn] [CMD] /spawn
+[2026-07-20 11:10:31] [AuroraCity.kkwmc.cn] [CMD] /warp 末地世界
+[2026-07-20 11:11:25] [AuroraCity.kkwmc.cn] [CMD] /spawn
+[2026-07-20 11:11:35] [AuroraCity.kkwmc.cn] [CMD] /res tp d
