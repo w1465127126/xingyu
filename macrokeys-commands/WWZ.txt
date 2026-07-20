@@ -2812,3 +2812,6 @@
 [2026-07-20 14:08:01] [x6.sjcmc.cn:34054] [CMD] /home 1
 [2026-07-20 14:08:32] [x6.sjcmc.cn:34054] [CMD] /gly
 [2026-07-20 14:08:35] [x6.sjcmc.cn:34054] [CMD] /fly
+[2026-07-20 14:12:12] [x6.sjcmc.cn:34054] [CMD] /tpa Accompany
+[2026-07-20 14:12:52] [x6.sjcmc.cn:34054] [CMD] /home Home
+[2026-07-20 14:12:55] [x6.sjcmc.cn:34054] [CMD] /tpa mao_yao
