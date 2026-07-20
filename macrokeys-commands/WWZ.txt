@@ -2788,3 +2788,6 @@
 [2026-07-20 11:19:50] [x6.sjcmc.cn:34054] [CMD] /res tp fan
 [2026-07-20 11:22:25] [x6.sjcmc.cn:34054] [CMD] /back
 [2026-07-20 11:30:55] [x6.sjcmc.cn:34054] [CMD] /spawn
+[2026-07-20 11:31:34] [x6.sjcmc.cn:34054] [CMD] /home Home
+[2026-07-20 11:33:09] [x6.sjcmc.cn:34054] [CMD] /back
+[2026-07-20 11:47:13] [x6.sjcmc.cn:34054] [JOIN] 连接服务器: x6.sjcmc.cn:34054
