@@ -289,3 +289,6 @@
 [2026-07-21 17:37:38] [mc.guisurvive.top] [CMD] /plugmanx:plm
 [2026-07-21 17:38:08] [mc.guisurvive.top] [CMD] /is
 [2026-07-21 17:38:26] [mc.guisurvive.top] [CMD] /is
+[2026-07-21 17:38:32] [mc.guisurvive.top] [CMD] /cd
+[2026-07-21 17:38:35] [mc.guisurvive.top] [CMD] /menu
+[2026-07-21 17:38:44] [mc.guisurvive.top] [JOIN] 连接服务器: mc.guisurvive.top
