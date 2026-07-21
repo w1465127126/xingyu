@@ -298,3 +298,6 @@
 [2026-07-21 17:42:45] [mc.guisurvive.top] [JOIN] 连接服务器: mc.guisurvive.top
 [2026-07-21 17:43:24] [mc.guisurvive.top] [CMD] /lobby
 [2026-07-21 17:44:03] [mc.guisurvive.top] [CMD] /help
+[2026-07-21 17:44:22] [mc.guisurvive.top] [CMD] /fcc
+[2026-07-21 17:44:25] [mc.guisurvive.top] [CMD] /bkick
+[2026-07-21 17:44:28] [mc.guisurvive.top] [CMD] /bplugins
