@@ -301,3 +301,6 @@
 [2026-07-21 17:44:22] [mc.guisurvive.top] [CMD] /fcc
 [2026-07-21 17:44:25] [mc.guisurvive.top] [CMD] /bkick
 [2026-07-21 17:44:28] [mc.guisurvive.top] [CMD] /bplugins
+[2026-07-21 17:44:32] [mc.guisurvive.top] [CMD] /btab
+[2026-07-21 17:45:24] [mc.guisurvive.top] [CMD] /points help
+[2026-07-21 17:45:33] [mc.guisurvive.top] [CMD] /minimotd
