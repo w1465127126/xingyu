@@ -752,3 +752,6 @@
 [2026-07-24 13:00:59] [x6.sjcmc.cn:34054] [CMD] /time set night
 [2026-07-24 13:18:07] [x6.sjcmc.cn:34054] [CMD] /time set night
 [2026-07-24 13:29:22] [x6.sjcmc.cn:34054] [CMD] /time set night
+[2026-07-24 13:37:12] [x6.sjcmc.cn:34054] [CMD] /time set night
+[2026-07-24 13:44:49] [x6.sjcmc.cn:34054] [CMD] /time set night
+[2026-07-24 13:54:09] [x6.sjcmc.cn:34054] [CMD] /fill ~ ~ ~ ~ ~ ~ minecraft:acacia_wood
