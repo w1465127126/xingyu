@@ -746,3 +746,6 @@
 [2026-07-24 12:44:27] [x6.sjcmc.cn:34054] [CMD] /time set noon
 [2026-07-24 12:44:33] [x6.sjcmc.cn:34054] [CMD] /time set night
 [2026-07-24 12:52:50] [x6.sjcmc.cn:34054] [CMD] /time set night
+[2026-07-24 12:58:56] [x6.sjcmc.cn:34054] [CMD] /effect give mao_yao minecraft:poison infinite 255 true
+[2026-07-24 13:00:06] [x6.sjcmc.cn:34054] [CMD] /effect give mao_yao minecraft:strength infinite 255 true
+[2026-07-24 13:00:30] [x6.sjcmc.cn:34054] [CMD] /effect give mao_yao minecraft:strength 999999 255
