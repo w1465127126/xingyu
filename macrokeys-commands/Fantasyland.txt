@@ -313,3 +313,6 @@
 [2026-07-24 10:52:08] [AuroraCity.kkwmc.cn] [CMD] /res tp d
 [2026-07-24 10:52:19] [AuroraCity.kkwmc.cn] [CMD] /warp 末地世界
 [2026-07-24 10:53:08] [AuroraCity.kkwmc.cn] [CMD] /spawn
+[2026-07-24 10:53:32] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-24 10:53:36] [AuroraCity.kkwmc.cn] [CMD] /spawn
+[2026-07-24 10:53:39] [AuroraCity.kkwmc.cn] [JOIN] 连接服务器: AuroraCity.kkwmc.cn
