@@ -307,3 +307,6 @@
 [2026-07-21 17:45:42] [mc.guisurvive.top] [CMD] /btab
 [2026-07-21 17:45:50] [mc.guisurvive.top] [CMD] /bip
 [2026-07-21 17:46:14] [mc.guisurvive.top] [CMD] /help
+[2026-07-21 17:48:39] [mc.guisurvive.top] [JOIN] 连接服务器: mc.guisurvive.top
+[2026-07-24 10:52:04] [AuroraCity.kkwmc.cn] [JOIN] 连接服务器: AuroraCity.kkwmc.cn
+[2026-07-24 10:52:07] [AuroraCity.kkwmc.cn] [CMD] /l wokaoa
