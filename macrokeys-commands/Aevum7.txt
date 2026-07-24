@@ -6549,3 +6549,6 @@
 [2026-07-24 10:49:24] [AuroraCity.kkwmc.cn] [CMD] /back
 [2026-07-24 10:50:10] [AuroraCity.kkwmc.cn] [CMD] /res tp d
 [2026-07-24 10:50:16] [AuroraCity.kkwmc.cn] [CMD] /spawn
+[2026-07-24 10:51:22] [AuroraCity.kkwmc.cn] [JOIN] 连接服务器: AuroraCity.kkwmc.cn
+[2026-07-24 10:51:26] [AuroraCity.kkwmc.cn] [CMD] /l wokaoa
+[2026-07-24 10:51:28] [AuroraCity.kkwmc.cn] [CMD] /spawn
