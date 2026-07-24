@@ -698,3 +698,6 @@
 [2026-07-24 10:50:20] [x6.sjcmc.cn:34054] [CMD] /home home
 [2026-07-24 10:50:41] [x6.sjcmc.cn:34054] [CMD] /back
 [2026-07-24 10:51:27] [x6.sjcmc.cn:34054] [CMD] /home aaa
+[2026-07-24 10:51:31] [x6.sjcmc.cn:34054] [CMD] /back
+[2026-07-24 10:51:36] [x6.sjcmc.cn:34054] [CMD] /home home
+[2026-07-24 10:51:49] [x6.sjcmc.cn:34054] [CMD] /back
