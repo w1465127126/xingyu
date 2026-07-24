@@ -725,3 +725,6 @@
 [2026-07-24 12:15:53] [x6.sjcmc.cn:34054] [CMD] /res c
 [2026-07-24 12:15:57] [x6.sjcmc.cn:34054] [CMD] /res create
 [2026-07-24 12:16:03] [x6.sjcmc.cn:34054] [CMD] /res create myjys
+[2026-07-24 12:20:21] [x6.sjcmc.cn:34054] [CMD] /home home
+[2026-07-24 12:22:10] [x6.sjcmc.cn:34054] [CMD] /res tp myjys
+[2026-07-24 12:23:04] [x6.sjcmc.cn:34054] [CMD] /home home
