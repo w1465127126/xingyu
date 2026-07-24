@@ -734,3 +734,6 @@
 [2026-07-24 12:26:27] [x6.sjcmc.cn:34054] [CMD] /back
 [2026-07-24 12:26:33] [x6.sjcmc.cn:34054] [CMD] /back
 [2026-07-24 12:26:38] [x6.sjcmc.cn:34054] [CMD] /back
+[2026-07-24 12:26:59] [x6.sjcmc.cn:34054] [CMD] /res tp myjys
+[2026-07-24 12:27:59] [x6.sjcmc.cn:34054] [CMD] /home home
+[2026-07-24 12:28:05] [x6.sjcmc.cn:34054] [CMD] /back
