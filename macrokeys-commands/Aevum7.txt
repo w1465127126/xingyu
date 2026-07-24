@@ -6540,3 +6540,6 @@
 [2026-07-21 17:29:13] [AuroraCity.kkwmc.cn] [CMD] /back
 [2026-07-21 17:29:17] [AuroraCity.kkwmc.cn] [CMD] /spawn
 [2026-07-21 17:29:52] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-24 10:47:27] [AuroraCity.kkwmc.cn] [JOIN] 连接服务器: AuroraCity.kkwmc.cn
+[2026-07-24 10:47:34] [AuroraCity.kkwmc.cn] [CMD] /l wokaoa
+[2026-07-24 10:47:55] [AuroraCity.kkwmc.cn] [CHAT] LuckyMengYi 多少附魔书
