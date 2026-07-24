@@ -722,3 +722,6 @@
 [2026-07-24 12:13:28] [x6.sjcmc.cn:34054] [CMD] /skins
 [2026-07-24 12:13:37] [x6.sjcmc.cn:34054] [CMD] /skins
 [2026-07-24 12:15:38] [x6.sjcmc.cn:34054] [CMD] /set
+[2026-07-24 12:15:53] [x6.sjcmc.cn:34054] [CMD] /res c
+[2026-07-24 12:15:57] [x6.sjcmc.cn:34054] [CMD] /res create
+[2026-07-24 12:16:03] [x6.sjcmc.cn:34054] [CMD] /res create myjys
