@@ -365,3 +365,6 @@
 [2026-07-25 19:32:25] [AuroraCity.kkwmc.cn] [CHAT] awa
 [2026-07-25 20:10:29] [AuroraCity.kkwmc.cn] [CHAT] 0.0
 [2026-07-25 20:11:12] [AuroraCity.kkwmc.cn] [JOIN] 连接服务器: AuroraCity.kkwmc.cn
+[2026-07-25 20:11:16] [AuroraCity.kkwmc.cn] [CMD] /l wokaoa
+[2026-07-25 20:11:18] [AuroraCity.kkwmc.cn] [CHAT] 1
+[2026-07-25 20:11:20] [AuroraCity.kkwmc.cn] [CHAT] 好了么
