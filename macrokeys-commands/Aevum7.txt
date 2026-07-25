@@ -6820,3 +6820,6 @@
 [2026-07-25 18:46:00] [AuroraCity.kkwmc.cn] [CMD] /delhome gusen
 [2026-07-25 18:46:03] [AuroraCity.kkwmc.cn] [CMD] /sethome gusen
 [2026-07-25 18:46:23] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-25 18:46:32] [AuroraCity.kkwmc.cn] [CMD] /delhome gusen
+[2026-07-25 18:46:34] [AuroraCity.kkwmc.cn] [CMD] /sethome gusen
+[2026-07-25 18:47:10] [AuroraCity.kkwmc.cn] [CMD] /home gusen
