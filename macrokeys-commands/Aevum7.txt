@@ -7312,3 +7312,6 @@
 [2026-07-25 21:44:49] [AuroraCity.kkwmc.cn] [CHAT] 手动也可以
 [2026-07-25 21:44:57] [AuroraCity.kkwmc.cn] [CMD] /money
 [2026-07-25 21:45:08] [AuroraCity.kkwmc.cn] [CMD] /pay Fantasyland 300000
+[2026-07-25 21:49:23] [AuroraCity.kkwmc.cn] [CMD] /money
+[2026-07-25 21:49:47] [AuroraCity.kkwmc.cn] [CMD] /pay Fantasyland 3000
+[2026-07-25 21:49:58] [AuroraCity.kkwmc.cn] [CMD] /pay Fantasyland 3000
