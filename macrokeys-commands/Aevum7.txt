@@ -6967,3 +6967,6 @@
 [2026-07-25 20:34:20] [AuroraCity.kkwmc.cn] [CHAT] 1
 [2026-07-25 20:34:26] [AuroraCity.kkwmc.cn] [CHAT] 不刷了
 [2026-07-25 20:34:38] [AuroraCity.kkwmc.cn] [CHAT] 这刷个蛋
+[2026-07-25 20:34:45] [AuroraCity.kkwmc.cn] [CHAT] 服务器受不了这个毒打
+[2026-07-25 20:35:15] [AuroraCity.kkwmc.cn] [CHAT] 咋手动离开来着 LuckyMengYi
+[2026-07-25 20:35:33] [AuroraCity.kkwmc.cn] [CHAT] ok
