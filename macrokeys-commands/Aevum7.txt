@@ -6892,3 +6892,6 @@
 [2026-07-25 19:11:15] [AuroraCity.kkwmc.cn] [CHAT] 我小号咋老死掉
 [2026-07-25 19:11:17] [AuroraCity.kkwmc.cn] [CMD] /res tp d
 [2026-07-25 19:12:28] [AuroraCity.kkwmc.cn] [CHAT] 你看着给吧
+[2026-07-25 19:12:46] [AuroraCity.kkwmc.cn] [CHAT] 这服钱也没啥用
+[2026-07-25 19:12:51] [AuroraCity.kkwmc.cn] [CHAT] 你工会叫啥
+[2026-07-25 19:12:52] [AuroraCity.kkwmc.cn] [CHAT] 缺人么
