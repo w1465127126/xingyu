@@ -7443,3 +7443,9 @@
 [2026-07-25 22:44:23] [AuroraCity.kkwmc.cn] [CHAT] 我先搞货运
 [2026-07-25 22:44:49] [AuroraCity.kkwmc.cn] [CHAT] 是的
 [2026-07-25 22:44:53] [AuroraCity.kkwmc.cn] [CHAT] wc
+[2026-07-25 22:44:57] [AuroraCity.kkwmc.cn] [CHAT] 没红石了
+[2026-07-25 22:45:10] [AuroraCity.kkwmc.cn] [CHAT] 究极破产
+[2026-07-25 22:45:17] [AuroraCity.kkwmc.cn] [CHAT] 没
+[2026-07-25 22:45:19] [AuroraCity.kkwmc.cn] [CHAT] 我刷怪塔又
+[2026-07-25 22:45:32] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-25 22:45:34] [AuroraCity.kkwmc.cn] [CMD] /back
