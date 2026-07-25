@@ -7333,3 +7333,7 @@
 [2026-07-25 21:58:21] [AuroraCity.kkwmc.cn] [CHAT] ydy这么有钱
 [2026-07-25 21:58:28] [AuroraCity.kkwmc.cn] [CHAT] 150w
 [2026-07-25 21:58:42] [AuroraCity.kkwmc.cn] [CHAT] 反正他也退游了
+[2026-07-25 21:58:50] [AuroraCity.kkwmc.cn] [CHAT] 留着肯定没啥用吧awa
+[2026-07-25 21:59:50] [AuroraCity.kkwmc.cn] [JOIN] 连接服务器: AuroraCity.kkwmc.cn
+[2026-07-25 21:59:54] [AuroraCity.kkwmc.cn] [CMD] /l wokaoa
+[2026-07-25 21:59:54] [AuroraCity.kkwmc.cn] [CHAT] awa
