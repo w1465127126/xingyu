@@ -424,3 +424,6 @@
 [2026-07-25 20:26:26] [AuroraCity.kkwmc.cn] [CHAT] 1
 [2026-07-25 20:26:43] [AuroraCity.kkwmc.cn] [CMD] /spawn
 [2026-07-25 20:26:50] [AuroraCity.kkwmc.cn] [CHAT] 谁在打副本
+[2026-07-25 20:26:52] [AuroraCity.kkwmc.cn] [CHAT] 刷啥呢
+[2026-07-25 20:27:08] [AuroraCity.kkwmc.cn] [CHAT] 你在刷啥0.0
+[2026-07-25 20:27:31] [AuroraCity.kkwmc.cn] [CHAT] 我刚刚2w卖了一套= =
