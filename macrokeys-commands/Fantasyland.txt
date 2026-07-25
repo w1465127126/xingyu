@@ -460,3 +460,6 @@
 [2026-07-25 21:48:21] [AuroraCity.kkwmc.cn] [CHAT] ?
 [2026-07-25 21:48:32] [AuroraCity.kkwmc.cn] [CHAT] 我勒个zzz
 [2026-07-25 21:49:38] [AuroraCity.kkwmc.cn] [CMD] /pay Aevum7 349000
+[2026-07-25 21:51:14] [AuroraCity.kkwmc.cn] [CMD] /pay Aevum7 35000
+[2026-07-25 21:51:20] [AuroraCity.kkwmc.cn] [CMD] /pay Aevum7 47
+[2026-07-25 21:54:41] [AuroraCity.kkwmc.cn] [CHAT] 不给我开箱子
