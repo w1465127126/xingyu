@@ -7309,3 +7309,6 @@
 [2026-07-25 21:43:17] [AuroraCity.kkwmc.cn] [CHAT] 钻石直接磨
 [2026-07-25 21:43:22] [AuroraCity.kkwmc.cn] [CHAT] 钻石不是挺好高的么
 [2026-07-25 21:43:34] [AuroraCity.kkwmc.cn] [CHAT] 是的
+[2026-07-25 21:44:49] [AuroraCity.kkwmc.cn] [CHAT] 手动也可以
+[2026-07-25 21:44:57] [AuroraCity.kkwmc.cn] [CMD] /money
+[2026-07-25 21:45:08] [AuroraCity.kkwmc.cn] [CMD] /pay Fantasyland 300000
