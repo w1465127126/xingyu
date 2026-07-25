@@ -6772,3 +6772,6 @@
 [2026-07-25 18:25:25] [AuroraCity.kkwmc.cn] [CMD] /back
 [2026-07-25 18:25:56] [AuroraCity.kkwmc.cn] [CMD] /back
 [2026-07-25 18:26:15] [AuroraCity.kkwmc.cn] [CMD] /l wokaoa
+[2026-07-25 18:26:21] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-25 18:27:01] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-25 18:27:32] [AuroraCity.kkwmc.cn] [CMD] /back
