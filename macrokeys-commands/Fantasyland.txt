@@ -454,3 +454,6 @@
 [2026-07-25 21:19:54] [AuroraCity.kkwmc.cn] [CHAT] 太残忍了
 [2026-07-25 21:24:45] [AuroraCity.kkwmc.cn] [CMD] /back
 [2026-07-25 21:35:35] [AuroraCity.kkwmc.cn] [CMD] /spawn
+[2026-07-25 21:35:47] [AuroraCity.kkwmc.cn] [CMD] /pay Aevum7 39700
+[2026-07-25 21:35:50] [AuroraCity.kkwmc.cn] [CMD] /pay Aevum7 397000
+[2026-07-25 21:35:54] [AuroraCity.kkwmc.cn] [CMD] /pay Aevum7 358000
