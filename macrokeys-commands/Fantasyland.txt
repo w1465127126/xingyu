@@ -463,3 +463,6 @@
 [2026-07-25 21:51:14] [AuroraCity.kkwmc.cn] [CMD] /pay Aevum7 35000
 [2026-07-25 21:51:20] [AuroraCity.kkwmc.cn] [CMD] /pay Aevum7 47
 [2026-07-25 21:54:41] [AuroraCity.kkwmc.cn] [CHAT] 不给我开箱子
+[2026-07-25 21:55:06] [AuroraCity.kkwmc.cn] [CHAT] 可恶啊
+[2026-07-25 21:55:14] [AuroraCity.kkwmc.cn] [CHAT] 兄弟你能打开活跃嘛
+[2026-07-25 21:55:16] [AuroraCity.kkwmc.cn] [CMD] /tpahere MC_nian_hua
