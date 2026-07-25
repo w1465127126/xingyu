@@ -6625,3 +6625,6 @@
 [2026-07-25 17:10:51] [AuroraCity.kkwmc.cn] [CHAT] [i]
 [2026-07-25 17:10:55] [AuroraCity.kkwmc.cn] [CHAT] 脱下来用这个敲一下
 [2026-07-25 17:11:03] [AuroraCity.kkwmc.cn] [CHAT] 爆了附魔属性还在身上
+[2026-07-25 17:11:16] [AuroraCity.kkwmc.cn] [CHAT] 说错了
+[2026-07-25 17:11:22] [AuroraCity.kkwmc.cn] [CHAT] 没耐久了附魔效果还在
+[2026-07-25 17:12:09] [AuroraCity.kkwmc.cn] [CHAT] 去打一身呗
