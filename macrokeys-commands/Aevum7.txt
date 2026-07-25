@@ -6910,3 +6910,6 @@
 [2026-07-25 19:15:30] [AuroraCity.kkwmc.cn] [CHAT] 这个坐骑你买么
 [2026-07-25 19:15:37] [AuroraCity.kkwmc.cn] [CHAT] [i]
 [2026-07-25 19:15:54] [AuroraCity.kkwmc.cn] [CHAT] 看
+[2026-07-25 19:16:04] [AuroraCity.kkwmc.cn] [CHAT] 可以正常用弓
+[2026-07-25 19:16:18] [AuroraCity.kkwmc.cn] [CHAT] 再也不怕被a一下飞行掉了
+[2026-07-25 19:16:32] [AuroraCity.kkwmc.cn] [CHAT] 王牌空战
