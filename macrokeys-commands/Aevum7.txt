@@ -6769,3 +6769,6 @@
 [2026-07-25 18:24:23] [AuroraCity.kkwmc.cn] [CMD] /back
 [2026-07-25 18:24:52] [AuroraCity.kkwmc.cn] [JOIN] 连接服务器: AuroraCity.kkwmc.cn
 [2026-07-25 18:24:54] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-25 18:25:25] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-25 18:25:56] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-25 18:26:15] [AuroraCity.kkwmc.cn] [CMD] /l wokaoa
