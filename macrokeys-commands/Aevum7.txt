@@ -7075,3 +7075,6 @@
 [2026-07-25 21:02:25] [AuroraCity.kkwmc.cn] [CHAT] 你一下来就没效率了
 [2026-07-25 21:02:47] [AuroraCity.kkwmc.cn] [CHAT] 剑的附魔我这边有一些
 [2026-07-25 21:02:49] [AuroraCity.kkwmc.cn] [CHAT] 你要直接换
+[2026-07-25 21:03:01] [AuroraCity.kkwmc.cn] [CMD] /fly
+[2026-07-25 21:03:07] [AuroraCity.kkwmc.cn] [CHAT] 这个更多附魔挺变态的= =
+[2026-07-25 21:03:22] [AuroraCity.kkwmc.cn] [CHAT] 也是
