@@ -7479,3 +7479,6 @@
 [2026-07-25 23:27:51] [AuroraCity.kkwmc.cn] [CHAT] soga
 [2026-07-25 23:28:24] [AuroraCity.kkwmc.cn] [CHAT] 感觉还是打少了
 [2026-07-25 23:29:31] [AuroraCity.kkwmc.cn] [CHAT] 1
+[2026-07-25 23:30:08] [AuroraCity.kkwmc.cn] [CHAT] 这刷怪塔也得改货运
+[2026-07-25 23:30:11] [AuroraCity.kkwmc.cn] [CHAT] 又不想动了
+[2026-07-25 23:32:17] [AuroraCity.kkwmc.cn] [CMD] /res tp d
