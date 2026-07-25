@@ -433,3 +433,6 @@
 [2026-07-25 20:28:27] [AuroraCity.kkwmc.cn] [CHAT] 我看下晚上我挂一晚上= =
 [2026-07-25 20:28:51] [AuroraCity.kkwmc.cn] [CHAT] 行
 [2026-07-25 20:29:21] [AuroraCity.kkwmc.cn] [CHAT] 算了我现在挂把
+[2026-07-25 20:29:44] [AuroraCity.kkwmc.cn] [CHAT] 卡一卡awa
+[2026-07-25 20:52:33] [AuroraCity.kkwmc.cn] [JOIN] 连接服务器: AuroraCity.kkwmc.cn
+[2026-07-25 20:52:40] [AuroraCity.kkwmc.cn] [CMD] /l wokaoa
