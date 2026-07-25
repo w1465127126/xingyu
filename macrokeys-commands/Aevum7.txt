@@ -6991,3 +6991,6 @@
 [2026-07-25 20:44:39] [AuroraCity.kkwmc.cn] [CHAT] 是这样的
 [2026-07-25 20:44:47] [AuroraCity.kkwmc.cn] [CHAT] 有谁家村民要刷附魔吗
 [2026-07-25 20:44:49] [AuroraCity.kkwmc.cn] [CHAT] 滴滴代刷
+[2026-07-25 20:45:21] [AuroraCity.kkwmc.cn] [CHAT] 我记得你不是进服好久了么= =
+[2026-07-25 20:45:27] [AuroraCity.kkwmc.cn] [CMD] /tpa Accompany
+[2026-07-25 20:45:30] [AuroraCity.kkwmc.cn] [CHAT] 看下进度xd
