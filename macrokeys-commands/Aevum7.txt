@@ -6976,3 +6976,6 @@
 [2026-07-25 20:41:27] [AuroraCity.kkwmc.cn] [CHAT] tp我
 [2026-07-25 20:41:35] [AuroraCity.kkwmc.cn] [CHAT] 我帮你jiejue
 [2026-07-25 20:41:48] [AuroraCity.kkwmc.cn] [CMD] /tpaccept
+[2026-07-25 20:41:55] [AuroraCity.kkwmc.cn] [CHAT] 又卡成ppt
+[2026-07-25 20:42:03] [AuroraCity.kkwmc.cn] [CMD] /res set pvp t
+[2026-07-25 20:42:09] [AuroraCity.kkwmc.cn] [CHAT] 出去
