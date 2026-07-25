@@ -6889,3 +6889,6 @@
 [2026-07-25 19:10:34] [AuroraCity.kkwmc.cn] [CHAT] 我这几天我小号都懒得挂了
 [2026-07-25 19:11:01] [AuroraCity.kkwmc.cn] [CHAT] 买不
 [2026-07-25 19:11:05] [AuroraCity.kkwmc.cn] [CHAT] 这多实惠
+[2026-07-25 19:11:15] [AuroraCity.kkwmc.cn] [CHAT] 我小号咋老死掉
+[2026-07-25 19:11:17] [AuroraCity.kkwmc.cn] [CMD] /res tp d
+[2026-07-25 19:12:28] [AuroraCity.kkwmc.cn] [CHAT] 你看着给吧
