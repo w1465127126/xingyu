@@ -6865,3 +6865,6 @@
 [2026-07-25 19:07:29] [AuroraCity.kkwmc.cn] [CHAT] 我卖你xd
 [2026-07-25 19:07:32] [AuroraCity.kkwmc.cn] [CHAT] 没内饰的
 [2026-07-25 19:07:43] [AuroraCity.kkwmc.cn] [CMD] /res tp shy
+[2026-07-25 19:07:53] [AuroraCity.kkwmc.cn] [CHAT] 材料也用了那么多
+[2026-07-25 19:08:00] [AuroraCity.kkwmc.cn] [CHAT] 一口价20w
+[2026-07-25 19:08:06] [AuroraCity.kkwmc.cn] [CMD] /fly
