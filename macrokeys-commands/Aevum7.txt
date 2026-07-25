@@ -6880,3 +6880,6 @@
 [2026-07-25 19:09:00] [AuroraCity.kkwmc.cn] [CMD] /tpaccept
 [2026-07-25 19:09:05] [AuroraCity.kkwmc.cn] [CHAT] 不然烂尾了
 [2026-07-25 19:09:10] [AuroraCity.kkwmc.cn] [CHAT] 有投影啊
+[2026-07-25 19:09:25] [AuroraCity.kkwmc.cn] [CHAT] 我发给你覆盖一下就行了
+[2026-07-25 19:09:41] [AuroraCity.kkwmc.cn] [CHAT] 也不多了
+[2026-07-25 19:09:44] [AuroraCity.kkwmc.cn] [CHAT] 我懒得造了
