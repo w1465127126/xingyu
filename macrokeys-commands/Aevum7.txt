@@ -7243,3 +7243,6 @@
 [2026-07-25 21:32:21] [AuroraCity.kkwmc.cn] [CHAT] 以后不这么收了
 [2026-07-25 21:32:32] [AuroraCity.kkwmc.cn] [CMD] /pay Accompany 600000
 [2026-07-25 21:32:49] [AuroraCity.kkwmc.cn] [CHAT] 这玩意吃了可以加血的==
+[2026-07-25 21:32:55] [AuroraCity.kkwmc.cn] [CHAT] 永久血量
+[2026-07-25 21:32:59] [AuroraCity.kkwmc.cn] [CHAT] 3组就能满级
+[2026-07-25 21:33:14] [AuroraCity.kkwmc.cn] [CHAT] 你可以原价回收3组回去awa
