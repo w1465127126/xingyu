@@ -6598,3 +6598,6 @@
 [2026-07-25 17:05:50] [AuroraCity.kkwmc.cn] [CHAT] ok
 [2026-07-25 17:05:53] [AuroraCity.kkwmc.cn] [CHAT] 来战斗
 [2026-07-25 17:06:05] [AuroraCity.kkwmc.cn] [CMD] /res tp gz
+[2026-07-25 17:06:07] [AuroraCity.kkwmc.cn] [CHAT] res tp gz
+[2026-07-25 17:06:43] [AuroraCity.kkwmc.cn] [CHAT] 来
+[2026-07-25 17:06:46] [AuroraCity.kkwmc.cn] [CHAT] 你下界套？
