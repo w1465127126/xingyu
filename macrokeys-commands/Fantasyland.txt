@@ -389,3 +389,6 @@
 [2026-07-25 20:17:27] [AuroraCity.kkwmc.cn] [CHAT] 1
 [2026-07-25 20:17:30] [AuroraCity.kkwmc.cn] [CHAT] nb
 [2026-07-25 20:17:43] [AuroraCity.kkwmc.cn] [CHAT] 没招了
+[2026-07-25 20:17:46] [AuroraCity.kkwmc.cn] [CHAT] 罪魁祸首
+[2026-07-25 20:18:00] [AuroraCity.kkwmc.cn] [CHAT] = =
+[2026-07-25 20:18:06] [AuroraCity.kkwmc.cn] [CHAT] 这不就找到原因了
