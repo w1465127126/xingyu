@@ -407,3 +407,6 @@
 [2026-07-25 20:21:54] [AuroraCity.kkwmc.cn] [CHAT] 抽点券啊0.0
 [2026-07-25 20:22:16] [AuroraCity.kkwmc.cn] [CMD] /tpa Accompany
 [2026-07-25 20:22:20] [AuroraCity.kkwmc.cn] [CHAT] 老板大气
+[2026-07-25 20:22:21] [AuroraCity.kkwmc.cn] [CHAT] 买个坐骑
+[2026-07-25 20:22:32] [AuroraCity.kkwmc.cn] [CHAT] 等腐竹上线我都抽到了
+[2026-07-25 20:23:18] [AuroraCity.kkwmc.cn] [CHAT] 有挂
