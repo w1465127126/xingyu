@@ -7024,3 +7024,9 @@
 [2026-07-25 20:50:42] [AuroraCity.kkwmc.cn] [CHAT] 1
 [2026-07-25 20:52:55] [AuroraCity.kkwmc.cn] [JOIN] 连接服务器: AuroraCity.kkwmc.cn
 [2026-07-25 20:53:00] [AuroraCity.kkwmc.cn] [CMD] /l wokaoa
+[2026-07-25 20:53:03] [AuroraCity.kkwmc.cn] [CMD] /res tp g
+[2026-07-25 20:53:05] [AuroraCity.kkwmc.cn] [CMD] /res tp d
+[2026-07-25 20:53:07] [AuroraCity.kkwmc.cn] [CHAT] 确实= =
+[2026-07-25 20:53:14] [AuroraCity.kkwmc.cn] [CHAT] 打副本打副本
+[2026-07-25 20:53:29] [AuroraCity.kkwmc.cn] [CMD] /tpahere Accompany
+[2026-07-25 20:53:54] [AuroraCity.kkwmc.cn] [CHAT] nb
