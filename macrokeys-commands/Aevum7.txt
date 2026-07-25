@@ -7455,3 +7455,6 @@
 [2026-07-25 22:48:25] [AuroraCity.kkwmc.cn] [CHAT] 有附属就舒服了
 [2026-07-25 22:48:33] [AuroraCity.kkwmc.cn] [CHAT] 直接全都可以一键
 [2026-07-25 22:48:40] [AuroraCity.kkwmc.cn] [CHAT] 这个太麻烦了
+[2026-07-25 22:59:25] [AuroraCity.kkwmc.cn] [CMD] /tpaccept
+[2026-07-25 22:59:33] [AuroraCity.kkwmc.cn] [CHAT] awa
+[2026-07-25 22:59:38] [AuroraCity.kkwmc.cn] [CHAT] 放着
