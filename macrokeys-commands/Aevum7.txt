@@ -7237,3 +7237,9 @@
 [2026-07-25 21:31:47] [AuroraCity.kkwmc.cn] [CHAT] 这
 [2026-07-25 21:31:51] [AuroraCity.kkwmc.cn] [CHAT] 行
 [2026-07-25 21:32:01] [AuroraCity.kkwmc.cn] [CMD] /pay MC_nian_hua 600000
+[2026-07-25 21:32:05] [AuroraCity.kkwmc.cn] [CHAT] 来
+[2026-07-25 21:32:07] [AuroraCity.kkwmc.cn] [CMD] /tpahere Accompany
+[2026-07-25 21:32:13] [AuroraCity.kkwmc.cn] [CHAT] 我这怕是要破产
+[2026-07-25 21:32:21] [AuroraCity.kkwmc.cn] [CHAT] 以后不这么收了
+[2026-07-25 21:32:32] [AuroraCity.kkwmc.cn] [CMD] /pay Accompany 600000
+[2026-07-25 21:32:49] [AuroraCity.kkwmc.cn] [CHAT] 这玩意吃了可以加血的==
