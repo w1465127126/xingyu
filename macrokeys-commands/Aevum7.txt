@@ -7132,3 +7132,6 @@
 [2026-07-25 21:11:07] [AuroraCity.kkwmc.cn] [CHAT] 来打鹅不
 [2026-07-25 21:11:18] [AuroraCity.kkwmc.cn] [CMD] /tpahere Accompany
 [2026-07-25 21:11:27] [AuroraCity.kkwmc.cn] [CHAT] 你打也就是几刀= =
+[2026-07-25 21:11:45] [AuroraCity.kkwmc.cn] [CHAT] 这不是正常么= =
+[2026-07-25 21:11:53] [AuroraCity.kkwmc.cn] [CMD] /warp 冒险者大厅
+[2026-07-25 21:12:07] [AuroraCity.kkwmc.cn] [CHAT] 不然我还等啥awa
