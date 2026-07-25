@@ -7087,3 +7087,6 @@
 [2026-07-25 21:04:32] [AuroraCity.kkwmc.cn] [CHAT] 可以
 [2026-07-25 21:04:41] [AuroraCity.kkwmc.cn] [CHAT] 就是宝石槽满了= =
 [2026-07-25 21:04:44] [AuroraCity.kkwmc.cn] [CHAT] 你得用粘液的附魔
+[2026-07-25 21:04:49] [AuroraCity.kkwmc.cn] [CHAT] 普通的别想了
+[2026-07-25 21:05:08] [AuroraCity.kkwmc.cn] [CHAT] 没啥用
+[2026-07-25 21:05:10] [AuroraCity.kkwmc.cn] [CHAT] 效率很低
