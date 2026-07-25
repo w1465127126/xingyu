@@ -472,3 +472,6 @@
 [2026-07-25 21:55:44] [AuroraCity.kkwmc.cn] [CHAT] 我重登一下又可以了
 [2026-07-25 21:55:47] [AuroraCity.kkwmc.cn] [CHAT] 我的时间
 [2026-07-25 22:19:55] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-25 22:19:58] [AuroraCity.kkwmc.cn] [CMD] /res tp f
+[2026-07-25 22:20:03] [AuroraCity.kkwmc.cn] [CMD] /res tp d
+[2026-07-25 22:20:21] [AuroraCity.kkwmc.cn] [CHAT] Aevum7
