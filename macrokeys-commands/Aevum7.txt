@@ -6595,3 +6595,6 @@
 [2026-07-25 17:05:05] [AuroraCity.kkwmc.cn] [CHAT] 我射炸了
 [2026-07-25 17:05:37] [AuroraCity.kkwmc.cn] [CMD] /res tp d
 [2026-07-25 17:05:40] [AuroraCity.kkwmc.cn] [CMD] /spawn
+[2026-07-25 17:05:50] [AuroraCity.kkwmc.cn] [CHAT] ok
+[2026-07-25 17:05:53] [AuroraCity.kkwmc.cn] [CHAT] 来战斗
+[2026-07-25 17:06:05] [AuroraCity.kkwmc.cn] [CMD] /res tp gz
