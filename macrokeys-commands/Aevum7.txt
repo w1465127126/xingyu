@@ -6979,3 +6979,6 @@
 [2026-07-25 20:41:55] [AuroraCity.kkwmc.cn] [CHAT] 又卡成ppt
 [2026-07-25 20:42:03] [AuroraCity.kkwmc.cn] [CMD] /res set pvp t
 [2026-07-25 20:42:09] [AuroraCity.kkwmc.cn] [CHAT] 出去
+[2026-07-25 20:42:23] [AuroraCity.kkwmc.cn] [CHAT] 你没开pvp
+[2026-07-25 20:42:45] [AuroraCity.kkwmc.cn] [CHAT] 爆了么
+[2026-07-25 20:43:02] [AuroraCity.kkwmc.cn] [CHAT] 必须的
