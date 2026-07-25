@@ -6637,3 +6637,6 @@
 [2026-07-25 17:13:33] [AuroraCity.kkwmc.cn] [CMD] /warp 冒险者大厅
 [2026-07-25 17:13:35] [AuroraCity.kkwmc.cn] [CMD] /tpacept
 [2026-07-25 17:13:37] [AuroraCity.kkwmc.cn] [CMD] /tpaccept
+[2026-07-25 17:13:57] [AuroraCity.kkwmc.cn] [CHAT] 咋了
+[2026-07-25 17:14:08] [AuroraCity.kkwmc.cn] [CHAT] 就这身
+[2026-07-25 17:14:16] [AuroraCity.kkwmc.cn] [CHAT] 永恒的
