@@ -359,3 +359,6 @@
 [2026-07-25 19:30:52] [AuroraCity.kkwmc.cn] [CHAT] 你看群里
 [2026-07-25 19:31:16] [AuroraCity.kkwmc.cn] [CHAT] all
 [2026-07-25 19:31:35] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-25 19:31:43] [AuroraCity.kkwmc.cn] [CHAT] 挂机抽奖了xd
+[2026-07-25 19:32:15] [AuroraCity.kkwmc.cn] [CHAT] 补货啊xd
+[2026-07-25 19:32:24] [AuroraCity.kkwmc.cn] [CHAT] wa
