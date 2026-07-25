@@ -7021,3 +7021,6 @@
 [2026-07-25 20:50:16] [AuroraCity.kkwmc.cn] [CHAT] 懒得搞
 [2026-07-25 20:50:27] [AuroraCity.kkwmc.cn] [CMD] /res tp s
 [2026-07-25 20:50:31] [AuroraCity.kkwmc.cn] [CHAT] ==
+[2026-07-25 20:50:42] [AuroraCity.kkwmc.cn] [CHAT] 1
+[2026-07-25 20:52:55] [AuroraCity.kkwmc.cn] [JOIN] 连接服务器: AuroraCity.kkwmc.cn
+[2026-07-25 20:53:00] [AuroraCity.kkwmc.cn] [CMD] /l wokaoa
