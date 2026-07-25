@@ -350,3 +350,6 @@
 [2026-07-25 19:29:17] [AuroraCity.kkwmc.cn] [CHAT] 都不用打指令了
 [2026-07-25 19:29:21] [AuroraCity.kkwmc.cn] [CHAT] 叫他干嘛就干嘛
 [2026-07-25 19:29:32] [AuroraCity.kkwmc.cn] [CHAT] 真不搓
+[2026-07-25 19:29:45] [AuroraCity.kkwmc.cn] [CHAT] 哦哦哦你是说你商店有这个卖是把
+[2026-07-25 19:29:52] [AuroraCity.kkwmc.cn] [CMD] /res list gggggggguo
+[2026-07-25 19:29:54] [AuroraCity.kkwmc.cn] [CMD] /res tp shangdian
