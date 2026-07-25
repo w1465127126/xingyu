@@ -6628,3 +6628,6 @@
 [2026-07-25 17:11:16] [AuroraCity.kkwmc.cn] [CHAT] 说错了
 [2026-07-25 17:11:22] [AuroraCity.kkwmc.cn] [CHAT] 没耐久了附魔效果还在
 [2026-07-25 17:12:09] [AuroraCity.kkwmc.cn] [CHAT] 去打一身呗
+[2026-07-25 17:12:16] [AuroraCity.kkwmc.cn] [CHAT] 要代肝马
+[2026-07-25 17:12:28] [AuroraCity.kkwmc.cn] [CHAT] 我刚好没啥事可以挂一身
+[2026-07-25 17:12:36] [AuroraCity.kkwmc.cn] [CMD] /spawn
