@@ -335,3 +335,6 @@
 [2026-07-25 19:25:40] [AuroraCity.kkwmc.cn] [CHAT] 没差
 [2026-07-25 19:25:49] [AuroraCity.kkwmc.cn] [CMD] /warp 末地世界
 [2026-07-25 19:25:58] [AuroraCity.kkwmc.cn] [CHAT] 骷髅没怒之角是真的
+[2026-07-25 19:26:03] [AuroraCity.kkwmc.cn] [CHAT] 好看
+[2026-07-25 19:26:25] [AuroraCity.kkwmc.cn] [CHAT] wc还差8点券
+[2026-07-25 19:26:28] [AuroraCity.kkwmc.cn] [CHAT] 挂机满
