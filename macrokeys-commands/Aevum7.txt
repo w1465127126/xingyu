@@ -7060,3 +7060,9 @@
 [2026-07-25 21:00:38] [AuroraCity.kkwmc.cn] [CHAT] 我这小号24小时在线
 [2026-07-25 21:00:54] [AuroraCity.kkwmc.cn] [CHAT] 就是懒得搞货运
 [2026-07-25 21:00:58] [AuroraCity.kkwmc.cn] [CHAT] 没啊
+[2026-07-25 21:01:00] [AuroraCity.kkwmc.cn] [CHAT] 就在这
+[2026-07-25 21:01:03] [AuroraCity.kkwmc.cn] [CHAT] 你人呢
+[2026-07-25 21:01:08] [AuroraCity.kkwmc.cn] [CHAT] 懒
+[2026-07-25 21:01:12] [AuroraCity.kkwmc.cn] [CMD] /tpahere Accompany
+[2026-07-25 21:01:16] [AuroraCity.kkwmc.cn] [CHAT] 不需要这玩意了
+[2026-07-25 21:01:26] [AuroraCity.kkwmc.cn] [CHAT] 没附属
