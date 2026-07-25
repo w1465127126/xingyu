@@ -323,3 +323,6 @@
 [2026-07-25 17:03:26] [AuroraCity.kkwmc.cn] [CMD] /l wokaoa
 [2026-07-25 17:03:34] [AuroraCity.kkwmc.cn] [CHAT] 虚惊一场
 [2026-07-25 19:24:11] [AuroraCity.kkwmc.cn] [JOIN] 连接服务器: AuroraCity.kkwmc.cn
+[2026-07-25 19:24:13] [AuroraCity.kkwmc.cn] [CMD] /l wokaoa
+[2026-07-25 19:24:14] [AuroraCity.kkwmc.cn] [CMD] /res tp d
+[2026-07-25 19:24:17] [AuroraCity.kkwmc.cn] [CHAT] 是这样的= =
