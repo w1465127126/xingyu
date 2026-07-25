@@ -7452,3 +7452,6 @@
 [2026-07-25 22:45:35] [AuroraCity.kkwmc.cn] [CMD] /res tp d
 [2026-07-25 22:45:36] [AuroraCity.kkwmc.cn] [CMD] /res tp d
 [2026-07-25 22:48:07] [AuroraCity.kkwmc.cn] [CHAT] awa电磁铁ok
+[2026-07-25 22:48:25] [AuroraCity.kkwmc.cn] [CHAT] 有附属就舒服了
+[2026-07-25 22:48:33] [AuroraCity.kkwmc.cn] [CHAT] 直接全都可以一键
+[2026-07-25 22:48:40] [AuroraCity.kkwmc.cn] [CHAT] 这个太麻烦了
