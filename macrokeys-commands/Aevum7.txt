@@ -6874,3 +6874,9 @@
 [2026-07-25 19:08:26] [AuroraCity.kkwmc.cn] [CHAT] 我也有awa
 [2026-07-25 19:08:31] [AuroraCity.kkwmc.cn] [CHAT] 差一点点内饰
 [2026-07-25 19:08:34] [AuroraCity.kkwmc.cn] [CMD] /res inof
+[2026-07-25 19:08:37] [AuroraCity.kkwmc.cn] [CMD] /res info
+[2026-07-25 19:08:44] [AuroraCity.kkwmc.cn] [CHAT] 我圈地都圈了20w
+[2026-07-25 19:08:58] [AuroraCity.kkwmc.cn] [CHAT] 我就是因为懒卖给你
+[2026-07-25 19:09:00] [AuroraCity.kkwmc.cn] [CMD] /tpaccept
+[2026-07-25 19:09:05] [AuroraCity.kkwmc.cn] [CHAT] 不然烂尾了
+[2026-07-25 19:09:10] [AuroraCity.kkwmc.cn] [CHAT] 有投影啊
