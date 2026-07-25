@@ -7282,3 +7282,6 @@
 [2026-07-25 21:40:00] [AuroraCity.kkwmc.cn] [CMD] /末影箱·
 [2026-07-25 21:40:02] [AuroraCity.kkwmc.cn] [CMD] /末影箱
 [2026-07-25 21:40:12] [AuroraCity.kkwmc.cn] [CHAT] [i]
+[2026-07-25 21:40:14] [AuroraCity.kkwmc.cn] [CMD] /末影箱
+[2026-07-25 21:40:27] [AuroraCity.kkwmc.cn] [CMD] /pay LuckyMengYi 60000
+[2026-07-25 21:40:40] [AuroraCity.kkwmc.cn] [CHAT] 这是裤子的
