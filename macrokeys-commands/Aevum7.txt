@@ -7252,3 +7252,6 @@
 [2026-07-25 21:33:38] [AuroraCity.kkwmc.cn] [CHAT] 一组不够
 [2026-07-25 21:33:40] [AuroraCity.kkwmc.cn] [CMD] /tpahere MC_nian_hua
 [2026-07-25 21:33:43] [AuroraCity.kkwmc.cn] [CHAT] 116
+[2026-07-25 21:33:58] [AuroraCity.kkwmc.cn] [CHAT] 收2组回去么
+[2026-07-25 21:34:06] [AuroraCity.kkwmc.cn] [CHAT] awa
+[2026-07-25 21:34:10] [AuroraCity.kkwmc.cn] [CHAT] 你小子
