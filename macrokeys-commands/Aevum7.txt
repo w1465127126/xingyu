@@ -6643,3 +6643,6 @@
 [2026-07-25 17:14:27] [AuroraCity.kkwmc.cn] [CHAT] 这个好看点
 [2026-07-25 17:14:33] [AuroraCity.kkwmc.cn] [CHAT] 头就配怒之角
 [2026-07-25 17:14:39] [AuroraCity.kkwmc.cn] [CHAT] 因为原本的头用不了= =
+[2026-07-25 17:14:48] [AuroraCity.kkwmc.cn] [CHAT] 这个npc换啊
+[2026-07-25 17:15:07] [AuroraCity.kkwmc.cn] [CHAT] 挺简单的
+[2026-07-25 17:15:22] [AuroraCity.kkwmc.cn] [CHAT] 是啊
