@@ -484,3 +484,6 @@
 [2026-07-25 23:31:16] [AuroraCity.kkwmc.cn] [CHAT] 整个超大蜜蜂
 [2026-07-25 23:31:49] [AuroraCity.kkwmc.cn] [CHAT] wc
 [2026-07-25 23:31:49] [AuroraCity.kkwmc.cn] [CHAT] nb
+[2026-07-25 23:31:51] [AuroraCity.kkwmc.cn] [CHAT] nb
+[2026-07-25 23:31:55] [AuroraCity.kkwmc.cn] [CMD] /res tp d
+[2026-07-25 23:32:12] [AuroraCity.kkwmc.cn] [CMD] /home jia
