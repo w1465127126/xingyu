@@ -6619,3 +6619,6 @@
 [2026-07-25 17:09:54] [AuroraCity.kkwmc.cn] [CHAT] [i]
 [2026-07-25 17:10:11] [AuroraCity.kkwmc.cn] [CHAT] 打出来的啊= =
 [2026-07-25 17:10:19] [AuroraCity.kkwmc.cn] [CHAT] 大厅不是能换么
+[2026-07-25 17:10:26] [AuroraCity.kkwmc.cn] [CHAT] 建议换最基础的= =
+[2026-07-25 17:10:43] [AuroraCity.kkwmc.cn] [CHAT] 这玩意没耐久了压根不用修
+[2026-07-25 17:10:46] [AuroraCity.kkwmc.cn] [CHAT] 不脱下来就行
