@@ -421,3 +421,6 @@
 [2026-07-25 20:26:19] [AuroraCity.kkwmc.cn] [CMD] /res tp d
 [2026-07-25 20:26:20] [AuroraCity.kkwmc.cn] [CHAT] awa
 [2026-07-25 20:26:24] [AuroraCity.kkwmc.cn] [CMD] /res tp d
+[2026-07-25 20:26:26] [AuroraCity.kkwmc.cn] [CHAT] 1
+[2026-07-25 20:26:43] [AuroraCity.kkwmc.cn] [CMD] /spawn
+[2026-07-25 20:26:50] [AuroraCity.kkwmc.cn] [CHAT] 谁在打副本
