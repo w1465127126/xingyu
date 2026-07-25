@@ -6949,3 +6949,6 @@
 [2026-07-25 20:30:13] [AuroraCity.kkwmc.cn] [JOIN] 连接服务器: AuroraCity.kkwmc.cn
 [2026-07-25 20:30:23] [AuroraCity.kkwmc.cn] [CMD] /l wokaoa
 [2026-07-25 20:30:25] [AuroraCity.kkwmc.cn] [CMD] /spawn
+[2026-07-25 20:30:32] [AuroraCity.kkwmc.cn] [CHAT] 话说这装备有啥用
+[2026-07-25 20:30:42] [AuroraCity.kkwmc.cn] [CHAT] 啥
+[2026-07-25 20:30:55] [AuroraCity.kkwmc.cn] [CHAT] 还能飞
