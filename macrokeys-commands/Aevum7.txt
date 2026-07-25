@@ -6970,3 +6970,6 @@
 [2026-07-25 20:34:45] [AuroraCity.kkwmc.cn] [CHAT] 服务器受不了这个毒打
 [2026-07-25 20:35:15] [AuroraCity.kkwmc.cn] [CHAT] 咋手动离开来着 LuckyMengYi
 [2026-07-25 20:35:33] [AuroraCity.kkwmc.cn] [CHAT] ok
+[2026-07-25 20:36:29] [AuroraCity.kkwmc.cn] [CMD] /res tp fan
+[2026-07-25 20:37:15] [AuroraCity.kkwmc.cn] [CHAT] 接村民附魔awa
+[2026-07-25 20:37:27] [AuroraCity.kkwmc.cn] [CHAT] 在线代刷附魔
