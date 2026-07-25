@@ -332,3 +332,6 @@
 [2026-07-25 19:25:08] [AuroraCity.kkwmc.cn] [CHAT] 我感觉带那个骷髅的够了
 [2026-07-25 19:25:22] [AuroraCity.kkwmc.cn] [CHAT] 反正3件装备也打不死你
 [2026-07-25 19:25:38] [AuroraCity.kkwmc.cn] [CHAT] 打pvp的话4件也就是一刀= =
+[2026-07-25 19:25:40] [AuroraCity.kkwmc.cn] [CHAT] 没差
+[2026-07-25 19:25:49] [AuroraCity.kkwmc.cn] [CMD] /warp 末地世界
+[2026-07-25 19:25:58] [AuroraCity.kkwmc.cn] [CHAT] 骷髅没怒之角是真的
