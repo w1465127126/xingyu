@@ -7234,3 +7234,6 @@
 [2026-07-25 21:31:31] [AuroraCity.kkwmc.cn] [CHAT] 你卖jizu
 [2026-07-25 21:31:35] [AuroraCity.kkwmc.cn] [CHAT] 几组
 [2026-07-25 21:31:41] [AuroraCity.kkwmc.cn] [CHAT] ?
+[2026-07-25 21:31:47] [AuroraCity.kkwmc.cn] [CHAT] 这
+[2026-07-25 21:31:51] [AuroraCity.kkwmc.cn] [CHAT] 行
+[2026-07-25 21:32:01] [AuroraCity.kkwmc.cn] [CMD] /pay MC_nian_hua 600000
