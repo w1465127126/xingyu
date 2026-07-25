@@ -6931,3 +6931,6 @@
 [2026-07-25 19:20:20] [AuroraCity.kkwmc.cn] [CHAT] 不太好肝= =
 [2026-07-25 19:21:34] [AuroraCity.kkwmc.cn] [CMD] /home xh
 [2026-07-25 19:21:56] [AuroraCity.kkwmc.cn] [CHAT] 想卖领地了
+[2026-07-25 19:22:03] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-25 19:22:20] [AuroraCity.kkwmc.cn] [CHAT] 要脚本末地、
+[2026-07-25 19:22:25] [AuroraCity.kkwmc.cn] [CHAT] 要脚本mod么
