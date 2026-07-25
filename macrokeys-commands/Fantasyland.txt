@@ -448,3 +448,6 @@
 [2026-07-25 21:02:04] [AuroraCity.kkwmc.cn] [CMD] /home jia
 [2026-07-25 21:19:07] [AuroraCity.kkwmc.cn] [CMD] /spawn
 [2026-07-25 21:19:26] [AuroraCity.kkwmc.cn] [CHAT] md
+[2026-07-25 21:19:29] [AuroraCity.kkwmc.cn] [CHAT] 抽奖不给我抽
+[2026-07-25 21:19:39] [AuroraCity.kkwmc.cn] [CHAT] 爆炸
+[2026-07-25 21:19:50] [AuroraCity.kkwmc.cn] [CHAT] 就差3点券了
