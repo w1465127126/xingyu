@@ -356,3 +356,6 @@
 [2026-07-25 19:29:57] [AuroraCity.kkwmc.cn] [CHAT] 商店1还说2
 [2026-07-25 19:30:12] [AuroraCity.kkwmc.cn] [CHAT] 这是啥
 [2026-07-25 19:30:23] [AuroraCity.kkwmc.cn] [CHAT] 你把菜单贴图给干上商店了
+[2026-07-25 19:30:52] [AuroraCity.kkwmc.cn] [CHAT] 你看群里
+[2026-07-25 19:31:16] [AuroraCity.kkwmc.cn] [CHAT] all
+[2026-07-25 19:31:35] [AuroraCity.kkwmc.cn] [CMD] /back
