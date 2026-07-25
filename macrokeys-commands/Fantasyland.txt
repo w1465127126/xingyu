@@ -451,3 +451,6 @@
 [2026-07-25 21:19:29] [AuroraCity.kkwmc.cn] [CHAT] 抽奖不给我抽
 [2026-07-25 21:19:39] [AuroraCity.kkwmc.cn] [CHAT] 爆炸
 [2026-07-25 21:19:50] [AuroraCity.kkwmc.cn] [CHAT] 就差3点券了
+[2026-07-25 21:19:54] [AuroraCity.kkwmc.cn] [CHAT] 太残忍了
+[2026-07-25 21:24:45] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-25 21:35:35] [AuroraCity.kkwmc.cn] [CMD] /spawn
