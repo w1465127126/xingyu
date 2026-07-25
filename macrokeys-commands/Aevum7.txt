@@ -6850,3 +6850,9 @@
 [2026-07-25 18:59:25] [AuroraCity.kkwmc.cn] [CHAT] 又是boss问题么= =
 [2026-07-25 18:59:46] [AuroraCity.kkwmc.cn] [CHAT] 我刷完这个我退一下试试
 [2026-07-25 19:05:15] [AuroraCity.kkwmc.cn] [JOIN] 连接服务器: AuroraCity.kkwmc.cn
+[2026-07-25 19:05:19] [AuroraCity.kkwmc.cn] [CMD] /l wokaoa
+[2026-07-25 19:05:23] [AuroraCity.kkwmc.cn] [CHAT] gggggggguo
+[2026-07-25 19:05:25] [AuroraCity.kkwmc.cn] [CMD] /res tp d
+[2026-07-25 19:05:43] [AuroraCity.kkwmc.cn] [CHAT] 马上ok了
+[2026-07-25 19:06:14] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-25 19:06:20] [AuroraCity.kkwmc.cn] [CHAT] 哎这有啥感谢的
