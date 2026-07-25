@@ -7337,3 +7337,7 @@
 [2026-07-25 21:59:50] [AuroraCity.kkwmc.cn] [JOIN] 连接服务器: AuroraCity.kkwmc.cn
 [2026-07-25 21:59:54] [AuroraCity.kkwmc.cn] [CMD] /l wokaoa
 [2026-07-25 21:59:54] [AuroraCity.kkwmc.cn] [CHAT] awa
+[2026-07-25 22:00:28] [AuroraCity.kkwmc.cn] [CHAT] 看看wwz有没有钱
+[2026-07-25 22:02:37] [AuroraCity.kkwmc.cn] [JOIN] 连接服务器: AuroraCity.kkwmc.cn
+[2026-07-25 22:02:39] [AuroraCity.kkwmc.cn] [CMD] /l wokaoa
+[2026-07-25 22:02:50] [AuroraCity.kkwmc.cn] [CHAT] 重回巅峰
