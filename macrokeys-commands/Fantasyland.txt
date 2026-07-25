@@ -413,3 +413,6 @@
 [2026-07-25 20:23:47] [AuroraCity.kkwmc.cn] [CHAT] 我咋抽不到
 [2026-07-25 20:24:02] [AuroraCity.kkwmc.cn] [CHAT] 切号了= =我大号好像还有
 [2026-07-25 20:24:06] [AuroraCity.kkwmc.cn] [CHAT] 哎
+[2026-07-25 20:24:07] [AuroraCity.kkwmc.cn] [CMD] /res tp d
+[2026-07-25 20:24:28] [AuroraCity.kkwmc.cn] [JOIN] 连接服务器: AuroraCity.kkwmc.cn
+[2026-07-25 20:24:30] [AuroraCity.kkwmc.cn] [CMD] /l wokaoa
