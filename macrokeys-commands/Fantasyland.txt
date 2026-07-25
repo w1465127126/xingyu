@@ -466,3 +466,6 @@
 [2026-07-25 21:55:06] [AuroraCity.kkwmc.cn] [CHAT] 可恶啊
 [2026-07-25 21:55:14] [AuroraCity.kkwmc.cn] [CHAT] 兄弟你能打开活跃嘛
 [2026-07-25 21:55:16] [AuroraCity.kkwmc.cn] [CMD] /tpahere MC_nian_hua
+[2026-07-25 21:55:32] [AuroraCity.kkwmc.cn] [JOIN] 连接服务器: AuroraCity.kkwmc.cn
+[2026-07-25 21:55:35] [AuroraCity.kkwmc.cn] [CMD] /l wokaoa
+[2026-07-25 21:55:38] [AuroraCity.kkwmc.cn] [CHAT] wc?
