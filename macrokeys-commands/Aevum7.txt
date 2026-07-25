@@ -6945,3 +6945,7 @@
 [2026-07-25 20:25:08] [AuroraCity.kkwmc.cn] [JOIN] 连接服务器: AuroraCity.kkwmc.cn
 [2026-07-25 20:25:10] [AuroraCity.kkwmc.cn] [CMD] /l wokaoa
 [2026-07-25 20:25:24] [AuroraCity.kkwmc.cn] [CHAT] 天不亡我
+[2026-07-25 20:25:26] [AuroraCity.kkwmc.cn] [CHAT] 还有2组
+[2026-07-25 20:30:13] [AuroraCity.kkwmc.cn] [JOIN] 连接服务器: AuroraCity.kkwmc.cn
+[2026-07-25 20:30:23] [AuroraCity.kkwmc.cn] [CMD] /l wokaoa
+[2026-07-25 20:30:25] [AuroraCity.kkwmc.cn] [CMD] /spawn
