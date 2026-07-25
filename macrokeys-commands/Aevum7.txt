@@ -6844,3 +6844,6 @@
 [2026-07-25 18:56:56] [AuroraCity.kkwmc.cn] [CMD] /home gusen
 [2026-07-25 18:57:26] [AuroraCity.kkwmc.cn] [CMD] /home gusen
 [2026-07-25 18:57:57] [AuroraCity.kkwmc.cn] [CMD] /home gusen
+[2026-07-25 18:58:28] [AuroraCity.kkwmc.cn] [CMD] /home gusen
+[2026-07-25 18:58:55] [AuroraCity.kkwmc.cn] [CHAT] 1
+[2026-07-25 18:59:07] [AuroraCity.kkwmc.cn] [CHAT] 我卡了吗
