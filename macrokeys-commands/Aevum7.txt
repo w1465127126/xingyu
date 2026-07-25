@@ -6796,3 +6796,6 @@
 [2026-07-25 18:34:05] [AuroraCity.kkwmc.cn] [CMD] /back
 [2026-07-25 18:34:36] [AuroraCity.kkwmc.cn] [CMD] /back
 [2026-07-25 18:35:07] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-25 18:35:37] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-25 18:36:06] [AuroraCity.kkwmc.cn] [CHAT] 还是要设置个家= =
+[2026-07-25 18:36:11] [AuroraCity.kkwmc.cn] [CHAT] 这back太不稳了
