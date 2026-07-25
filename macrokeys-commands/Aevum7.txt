@@ -7195,3 +7195,6 @@
 [2026-07-25 21:24:31] [AuroraCity.kkwmc.cn] [CHAT] 要不
 [2026-07-25 21:24:41] [AuroraCity.kkwmc.cn] [CHAT] 量产
 [2026-07-25 21:25:16] [AuroraCity.kkwmc.cn] [CHAT] 0.0
+[2026-07-25 21:25:38] [AuroraCity.kkwmc.cn] [CMD] /vault pay Aevum7 1
+[2026-07-25 21:25:43] [AuroraCity.kkwmc.cn] [CMD] /vault help
+[2026-07-25 21:25:50] [AuroraCity.kkwmc.cn] [CMD] /vault Fantasyland
