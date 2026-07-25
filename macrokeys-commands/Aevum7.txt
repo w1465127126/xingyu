@@ -7300,3 +7300,9 @@
 [2026-07-25 21:42:10] [AuroraCity.kkwmc.cn] [CHAT] 效率6耐久x
 [2026-07-25 21:42:23] [AuroraCity.kkwmc.cn] [CHAT] 哎
 [2026-07-25 21:42:26] [AuroraCity.kkwmc.cn] [CHAT] 你自己搞扒
+[2026-07-25 21:42:30] [AuroraCity.kkwmc.cn] [CHAT] 我突然懒了
+[2026-07-25 21:42:32] [AuroraCity.kkwmc.cn] [CMD] /spawn
+[2026-07-25 21:42:48] [AuroraCity.kkwmc.cn] [CHAT] ?
+[2026-07-25 21:42:52] [AuroraCity.kkwmc.cn] [CHAT] 这玩意
+[2026-07-25 21:42:56] [AuroraCity.kkwmc.cn] [CHAT] 还有不用的
+[2026-07-25 21:42:59] [AuroraCity.kkwmc.cn] [CHAT] 钻石直接分解啊= =
