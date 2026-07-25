@@ -368,3 +368,6 @@
 [2026-07-25 20:11:16] [AuroraCity.kkwmc.cn] [CMD] /l wokaoa
 [2026-07-25 20:11:18] [AuroraCity.kkwmc.cn] [CHAT] 1
 [2026-07-25 20:11:20] [AuroraCity.kkwmc.cn] [CHAT] 好了么
+[2026-07-25 20:11:25] [AuroraCity.kkwmc.cn] [CHAT] awa
+[2026-07-25 20:11:37] [AuroraCity.kkwmc.cn] [CHAT] 应该是抽奖抽多了？
+[2026-07-25 20:11:42] [AuroraCity.kkwmc.cn] [CHAT] 我一下就好了
