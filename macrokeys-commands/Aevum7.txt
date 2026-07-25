@@ -6937,3 +6937,6 @@
 [2026-07-25 19:22:27] [AuroraCity.kkwmc.cn] [CHAT] g
 [2026-07-25 19:22:28] [AuroraCity.kkwmc.cn] [CHAT] gggggggguo
 [2026-07-25 19:22:36] [AuroraCity.kkwmc.cn] [CHAT] 解放双手
+[2026-07-25 19:22:43] [AuroraCity.kkwmc.cn] [CHAT] 还有刷村民功能
+[2026-07-25 19:22:54] [AuroraCity.kkwmc.cn] [CHAT] 刷村民附魔书
+[2026-07-25 19:23:05] [AuroraCity.kkwmc.cn] [CHAT] 因为没用= =
