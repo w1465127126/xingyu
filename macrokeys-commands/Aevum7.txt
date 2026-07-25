@@ -7210,3 +7210,6 @@
 [2026-07-25 21:27:52] [AuroraCity.kkwmc.cn] [CHAT] 是的
 [2026-07-25 21:28:01] [AuroraCity.kkwmc.cn] [CHAT] 没啥存货了
 [2026-07-25 21:28:04] [AuroraCity.kkwmc.cn] [CHAT] 你看着来
+[2026-07-25 21:28:21] [AuroraCity.kkwmc.cn] [CHAT] 可以的
+[2026-07-25 21:28:23] [AuroraCity.kkwmc.cn] [CHAT] 一组多少
+[2026-07-25 21:28:38] [AuroraCity.kkwmc.cn] [CHAT] 你出价嘛= =
