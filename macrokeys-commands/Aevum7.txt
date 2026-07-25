@@ -7261,3 +7261,9 @@
 [2026-07-25 21:34:41] [AuroraCity.kkwmc.cn] [CHAT] 我说我收awa
 [2026-07-25 21:34:54] [AuroraCity.kkwmc.cn] [CHAT] 这还不给后悔的awa
 [2026-07-25 21:35:04] [AuroraCity.kkwmc.cn] [CHAT] 我这金币也不是刷的= =
+[2026-07-25 21:35:08] [AuroraCity.kkwmc.cn] [CHAT] 难搞
+[2026-07-25 21:35:18] [AuroraCity.kkwmc.cn] [CHAT] 破产
+[2026-07-25 21:35:25] [AuroraCity.kkwmc.cn] [CMD] /spawn
+[2026-07-25 21:36:07] [AuroraCity.kkwmc.cn] [CMD] /pay Fantasyland 10000
+[2026-07-25 21:36:14] [AuroraCity.kkwmc.cn] [CHAT] ?
+[2026-07-25 21:36:21] [AuroraCity.kkwmc.cn] [CHAT] 你在说什么
