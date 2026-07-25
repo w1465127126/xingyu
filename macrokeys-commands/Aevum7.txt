@@ -6928,3 +6928,6 @@
 [2026-07-25 19:19:33] [AuroraCity.kkwmc.cn] [CHAT] 2组金苹果awa
 [2026-07-25 19:19:53] [AuroraCity.kkwmc.cn] [CHAT] az
 [2026-07-25 19:20:04] [AuroraCity.kkwmc.cn] [CHAT] 这玩意金币卖亏
+[2026-07-25 19:20:20] [AuroraCity.kkwmc.cn] [CHAT] 不太好肝= =
+[2026-07-25 19:21:34] [AuroraCity.kkwmc.cn] [CMD] /home xh
+[2026-07-25 19:21:56] [AuroraCity.kkwmc.cn] [CHAT] 想卖领地了
