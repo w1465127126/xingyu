@@ -7030,3 +7030,6 @@
 [2026-07-25 20:53:14] [AuroraCity.kkwmc.cn] [CHAT] 打副本打副本
 [2026-07-25 20:53:29] [AuroraCity.kkwmc.cn] [CMD] /tpahere Accompany
 [2026-07-25 20:53:54] [AuroraCity.kkwmc.cn] [CHAT] nb
+[2026-07-25 20:54:01] [AuroraCity.kkwmc.cn] [CMD] /res info
+[2026-07-25 20:54:07] [AuroraCity.kkwmc.cn] [CMD] /tpahere Accompany
+[2026-07-25 20:54:41] [AuroraCity.kkwmc.cn] [CHAT] 全停了 = =
