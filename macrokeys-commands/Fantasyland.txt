@@ -478,3 +478,6 @@
 [2026-07-25 22:20:27] [AuroraCity.kkwmc.cn] [CHAT] Aevum7
 [2026-07-25 22:20:32] [AuroraCity.kkwmc.cn] [CHAT] Aevum7
 [2026-07-25 22:20:40] [AuroraCity.kkwmc.cn] [CHAT] Aevum7
+[2026-07-25 22:20:47] [AuroraCity.kkwmc.cn] [CMD] /home jia
+[2026-07-25 23:30:23] [AuroraCity.kkwmc.cn] [CMD] /spawn
+[2026-07-25 23:30:47] [AuroraCity.kkwmc.cn] [CHAT] 买个啥坐骑好
