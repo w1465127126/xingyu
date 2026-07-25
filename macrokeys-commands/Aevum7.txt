@@ -6646,3 +6646,9 @@
 [2026-07-25 17:14:48] [AuroraCity.kkwmc.cn] [CHAT] 这个npc换啊
 [2026-07-25 17:15:07] [AuroraCity.kkwmc.cn] [CHAT] 挺简单的
 [2026-07-25 17:15:22] [AuroraCity.kkwmc.cn] [CHAT] 是啊
+[2026-07-25 17:15:24] [AuroraCity.kkwmc.cn] [CHAT] 我反正挂机
+[2026-07-25 17:15:26] [AuroraCity.kkwmc.cn] [CHAT] 我帮你挂吧
+[2026-07-25 17:15:30] [AuroraCity.kkwmc.cn] [CHAT] 你别进
+[2026-07-25 17:16:10] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-25 17:17:31] [AuroraCity.kkwmc.cn] [JOIN] 连接服务器: AuroraCity.kkwmc.cn
+[2026-07-25 17:17:34] [AuroraCity.kkwmc.cn] [CMD] /l wokaoa
