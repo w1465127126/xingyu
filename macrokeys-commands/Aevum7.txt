@@ -7198,3 +7198,6 @@
 [2026-07-25 21:25:38] [AuroraCity.kkwmc.cn] [CMD] /vault pay Aevum7 1
 [2026-07-25 21:25:43] [AuroraCity.kkwmc.cn] [CMD] /vault help
 [2026-07-25 21:25:50] [AuroraCity.kkwmc.cn] [CMD] /vault Fantasyland
+[2026-07-25 21:26:10] [AuroraCity.kkwmc.cn] [CHAT] 不如手挖= =
+[2026-07-25 21:26:36] [AuroraCity.kkwmc.cn] [CHAT] md我村民怎么又死了一个
+[2026-07-25 21:26:45] [AuroraCity.kkwmc.cn] [CHAT] 傻逼掠夺者
