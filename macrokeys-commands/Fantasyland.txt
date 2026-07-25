@@ -416,3 +416,5 @@
 [2026-07-25 20:24:07] [AuroraCity.kkwmc.cn] [CMD] /res tp d
 [2026-07-25 20:24:28] [AuroraCity.kkwmc.cn] [JOIN] 连接服务器: AuroraCity.kkwmc.cn
 [2026-07-25 20:24:30] [AuroraCity.kkwmc.cn] [CMD] /l wokaoa
+[2026-07-25 20:26:14] [AuroraCity.kkwmc.cn] [JOIN] 连接服务器: AuroraCity.kkwmc.cn
+[2026-07-25 20:26:16] [AuroraCity.kkwmc.cn] [CMD] /l wokaoa
