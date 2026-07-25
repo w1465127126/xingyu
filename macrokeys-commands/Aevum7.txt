@@ -6562,3 +6562,6 @@
 [2026-07-25 16:57:16] [AuroraCity.kkwmc.cn] [CMD] /res tp d
 [2026-07-25 16:59:07] [AuroraCity.kkwmc.cn] [CMD] /warp
 [2026-07-25 17:00:18] [AuroraCity.kkwmc.cn] [CMD] /res tp d
+[2026-07-25 17:00:27] [AuroraCity.kkwmc.cn] [CHAT] 9个要么awa
+[2026-07-25 17:00:42] [AuroraCity.kkwmc.cn] [CHAT] 有半组
+[2026-07-25 17:00:46] [AuroraCity.kkwmc.cn] [CMD] /tpacept
