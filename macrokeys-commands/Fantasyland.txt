@@ -374,3 +374,6 @@
 [2026-07-25 20:12:56] [AuroraCity.kkwmc.cn] [CHAT] 咋一抽奖就卡
 [2026-07-25 20:12:58] [AuroraCity.kkwmc.cn] [CHAT] md
 [2026-07-25 20:13:25] [AuroraCity.kkwmc.cn] [JOIN] 连接服务器: AuroraCity.kkwmc.cn
+[2026-07-25 20:13:29] [AuroraCity.kkwmc.cn] [CMD] /l wokaoa
+[2026-07-25 20:13:31] [AuroraCity.kkwmc.cn] [CHAT] = =
+[2026-07-25 20:13:35] [AuroraCity.kkwmc.cn] [CHAT] 不对
