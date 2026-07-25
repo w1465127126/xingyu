@@ -6631,3 +6631,6 @@
 [2026-07-25 17:12:16] [AuroraCity.kkwmc.cn] [CHAT] 要代肝马
 [2026-07-25 17:12:28] [AuroraCity.kkwmc.cn] [CHAT] 我刚好没啥事可以挂一身
 [2026-07-25 17:12:36] [AuroraCity.kkwmc.cn] [CMD] /spawn
+[2026-07-25 17:12:46] [AuroraCity.kkwmc.cn] [CHAT] 我脚本看下还能用么
+[2026-07-25 17:12:55] [AuroraCity.kkwmc.cn] [CHAT] 我要材料全开吗
+[2026-07-25 17:13:01] [AuroraCity.kkwmc.cn] [CMD] /res tp d
