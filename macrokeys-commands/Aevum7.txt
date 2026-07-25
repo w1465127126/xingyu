@@ -6559,3 +6559,6 @@
 [2026-07-25 16:55:16] [AuroraCity.kkwmc.cn] [CHAT] 我武器咋没了
 [2026-07-25 16:55:47] [AuroraCity.kkwmc.cn] [CMD] /warp 末地世界
 [2026-07-25 16:57:01] [AuroraCity.kkwmc.cn] [CMD] /spawn
+[2026-07-25 16:57:16] [AuroraCity.kkwmc.cn] [CMD] /res tp d
+[2026-07-25 16:59:07] [AuroraCity.kkwmc.cn] [CMD] /warp
+[2026-07-25 17:00:18] [AuroraCity.kkwmc.cn] [CMD] /res tp d
