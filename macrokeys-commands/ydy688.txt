@@ -30,3 +30,9 @@
 [2026-07-18 10:15:53] [AuroraCity.kkwmc.cn] [CMD] /rtp
 [2026-07-25 21:59:20] [AuroraCity.kkwmc.cn] [JOIN] 连接服务器: AuroraCity.kkwmc.cn
 [2026-07-25 21:59:22] [AuroraCity.kkwmc.cn] [CMD] /login xvvcxc
+[2026-07-25 21:59:24] [AuroraCity.kkwmc.cn] [CHAT] 咳咳
+[2026-07-25 21:59:36] [AuroraCity.kkwmc.cn] [CMD] /pay Fantasyland 500000
+[2026-07-25 21:59:41] [AuroraCity.kkwmc.cn] [CHAT] 转个50w应应急
+[2026-07-26 18:07:22] [AuroraCity.kkwmc.cn] [JOIN] 连接服务器: AuroraCity.kkwmc.cn
+[2026-07-26 18:07:26] [AuroraCity.kkwmc.cn] [CMD] /login xvvcxc
+[2026-07-26 18:07:27] [AuroraCity.kkwmc.cn] [CMD] /spawn
