@@ -7793,3 +7793,9 @@
 [2026-07-26 23:46:44] [AuroraCity.kkwmc.cn] [CMD] /tpa Tangerinep
 [2026-07-26 23:47:02] [AuroraCity.kkwmc.cn] [CHAT] 没权限awa
 [2026-07-26 23:47:19] [AuroraCity.kkwmc.cn] [CMD] /tpa Tangerinep
+[2026-07-26 23:47:29] [AuroraCity.kkwmc.cn] [CHAT] wc
+[2026-07-26 23:47:31] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-26 23:47:32] [AuroraCity.kkwmc.cn] [CHAT] 可以的
+[2026-07-26 23:48:09] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-26 23:48:12] [AuroraCity.kkwmc.cn] [CMD] /res tp d
+[2026-07-26 23:48:48] [AuroraCity.kkwmc.cn] [CMD] /back
