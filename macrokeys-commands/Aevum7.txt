@@ -7728,3 +7728,9 @@
 [2026-07-26 21:17:02] [AuroraCity.kkwmc.cn] [CMD] /res tp d
 [2026-07-26 21:21:31] [AuroraCity.kkwmc.cn] [CMD] /res tp d
 [2026-07-26 21:30:57] [AuroraCity.kkwmc.cn] [CMD] /res tp d
+[2026-07-26 21:37:58] [AuroraCity.kkwmc.cn] [CMD] /res tp d
+[2026-07-26 21:41:21] [AuroraCity.kkwmc.cn] [CHAT] ?
+[2026-07-26 21:41:24] [AuroraCity.kkwmc.cn] [CMD] /tpa Tangerinep
+[2026-07-26 21:41:37] [AuroraCity.kkwmc.cn] [CHAT] 好东西
+[2026-07-26 21:41:41] [AuroraCity.kkwmc.cn] [CHAT] 出吗
+[2026-07-26 21:41:55] [AuroraCity.kkwmc.cn] [CHAT] 不知道
