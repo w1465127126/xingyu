@@ -7645,3 +7645,6 @@
 [2026-07-26 19:53:06] [AuroraCity.kkwmc.cn] [CHAT] 改下货运哎
 [2026-07-26 19:53:32] [AuroraCity.kkwmc.cn] [CHAT] 依旧艰难选择
 [2026-07-26 19:53:39] [AuroraCity.kkwmc.cn] [CMD] /res tp d
+[2026-07-26 19:53:44] [AuroraCity.kkwmc.cn] [CMD] /res tp d
+[2026-07-26 19:55:21] [AuroraCity.kkwmc.cn] [CHAT] 一点动力没有咋办
+[2026-07-26 20:02:58] [AuroraCity.kkwmc.cn] [CMD] /qs remove
