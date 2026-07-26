@@ -755,3 +755,7 @@
 [2026-07-24 13:37:12] [x6.sjcmc.cn:34054] [CMD] /time set night
 [2026-07-24 13:44:49] [x6.sjcmc.cn:34054] [CMD] /time set night
 [2026-07-24 13:54:09] [x6.sjcmc.cn:34054] [CMD] /fill ~ ~ ~ ~ ~ ~ minecraft:acacia_wood
+[2026-07-24 14:00:07] [x6.sjcmc.cn:34054] [CMD] /time set night
+[2026-07-26 10:03:02] [x6.sjcmc.cn:34054] [JOIN] 连接服务器: x6.sjcmc.cn:34054
+[2026-07-26 10:03:14] [x6.sjcmc.cn:34054] [CMD] /login maoyao170
+[2026-07-26 10:10:29] [x6.sjcmc.cn:34054] [CMD] /home home
