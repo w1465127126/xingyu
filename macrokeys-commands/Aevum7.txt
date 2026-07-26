@@ -7624,3 +7624,6 @@
 [2026-07-26 19:44:30] [AuroraCity.kkwmc.cn] [CMD] /fly
 [2026-07-26 19:44:32] [AuroraCity.kkwmc.cn] [CMD] /fly
 [2026-07-26 19:44:34] [AuroraCity.kkwmc.cn] [CMD] /fly
+[2026-07-26 19:45:08] [AuroraCity.kkwmc.cn] [CHAT] 受不了= =
+[2026-07-26 19:45:12] [AuroraCity.kkwmc.cn] [CHAT] 这个混乱是真恶心
+[2026-07-26 19:47:30] [AuroraCity.kkwmc.cn] [CHAT] 不会吧
