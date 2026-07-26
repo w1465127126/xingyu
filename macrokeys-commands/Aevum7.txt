@@ -7639,3 +7639,6 @@
 [2026-07-26 19:49:56] [AuroraCity.kkwmc.cn] [CHAT] 不打了打不过
 [2026-07-26 19:50:04] [AuroraCity.kkwmc.cn] [CHAT] 我上他号给一下
 [2026-07-26 19:50:07] [AuroraCity.kkwmc.cn] [CMD] /tpaccept
+[2026-07-26 19:50:38] [AuroraCity.kkwmc.cn] [CMD] /res pset gggggggguo
+[2026-07-26 19:51:13] [AuroraCity.kkwmc.cn] [CHAT] 现在呢
+[2026-07-26 19:51:35] [AuroraCity.kkwmc.cn] [CHAT] [i]
