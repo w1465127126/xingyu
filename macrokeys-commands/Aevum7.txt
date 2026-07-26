@@ -7636,3 +7636,6 @@
 [2026-07-26 19:49:10] [AuroraCity.kkwmc.cn] [CMD] /res tp d
 [2026-07-26 19:49:20] [AuroraCity.kkwmc.cn] [CMD] /fly
 [2026-07-26 19:49:31] [AuroraCity.kkwmc.cn] [CHAT] 我也没权限
+[2026-07-26 19:49:56] [AuroraCity.kkwmc.cn] [CHAT] 不打了打不过
+[2026-07-26 19:50:04] [AuroraCity.kkwmc.cn] [CHAT] 我上他号给一下
+[2026-07-26 19:50:07] [AuroraCity.kkwmc.cn] [CMD] /tpaccept
