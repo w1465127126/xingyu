@@ -7681,3 +7681,9 @@
 [2026-07-26 20:34:08] [AuroraCity.kkwmc.cn] [CMD] /tpa gggggggguo
 [2026-07-26 20:34:21] [AuroraCity.kkwmc.cn] [CHAT] 这个
 [2026-07-26 20:34:31] [AuroraCity.kkwmc.cn] [CHAT] 坏菜了
+[2026-07-26 20:34:48] [AuroraCity.kkwmc.cn] [CHAT] 你小子别老拿强化合金锭就行
+[2026-07-26 20:34:53] [AuroraCity.kkwmc.cn] [CHAT] 不然金粉供不上
+[2026-07-26 20:34:58] [AuroraCity.kkwmc.cn] [CHAT] 这边有锭
+[2026-07-26 20:35:22] [AuroraCity.kkwmc.cn] [CHAT] 常用的锭
+[2026-07-26 20:35:33] [AuroraCity.kkwmc.cn] [CHAT] ?
+[2026-07-26 20:35:37] [AuroraCity.kkwmc.cn] [CHAT] 啥意思
