@@ -7570,3 +7570,9 @@
 [2026-07-26 19:29:09] [AuroraCity.kkwmc.cn] [CMD] /back
 [2026-07-26 19:31:07] [AuroraCity.kkwmc.cn] [CHAT] [i]
 [2026-07-26 19:31:08] [AuroraCity.kkwmc.cn] [CHAT] awa
+[2026-07-26 19:31:09] [AuroraCity.kkwmc.cn] [CHAT] awa
+[2026-07-26 19:31:12] [AuroraCity.kkwmc.cn] [CHAT] tp
+[2026-07-26 19:31:21] [AuroraCity.kkwmc.cn] [CMD] /tpaccept
+[2026-07-26 19:31:22] [AuroraCity.kkwmc.cn] [CMD] /tpaccept
+[2026-07-26 19:31:35] [AuroraCity.kkwmc.cn] [CMD] /tpaccept
+[2026-07-26 19:32:00] [AuroraCity.kkwmc.cn] [CMD] /末影箱
