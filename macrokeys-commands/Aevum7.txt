@@ -7766,3 +7766,6 @@
 [2026-07-26 23:32:20] [AuroraCity.kkwmc.cn] [CHAT] 还在刷
 [2026-07-26 23:32:23] [AuroraCity.kkwmc.cn] [CHAT] 就是慢
 [2026-07-26 23:32:56] [AuroraCity.kkwmc.cn] [CHAT] 你来了又刷了
+[2026-07-26 23:32:58] [AuroraCity.kkwmc.cn] [CHAT] 神奇
+[2026-07-26 23:33:13] [AuroraCity.kkwmc.cn] [CHAT] 你小号用你电脑挂的？
+[2026-07-26 23:33:30] [AuroraCity.kkwmc.cn] [CMD] /fly
