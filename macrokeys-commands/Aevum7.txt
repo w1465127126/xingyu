@@ -7600,3 +7600,6 @@
 [2026-07-26 19:35:56] [AuroraCity.kkwmc.cn] [CHAT] pvp
 [2026-07-26 19:36:07] [AuroraCity.kkwmc.cn] [CHAT] 没事
 [2026-07-26 19:36:12] [AuroraCity.kkwmc.cn] [CHAT] 碎了就裸装
+[2026-07-26 19:36:37] [AuroraCity.kkwmc.cn] [CMD] /res tp d
+[2026-07-26 19:36:50] [AuroraCity.kkwmc.cn] [CHAT] md好有道理
+[2026-07-26 19:36:55] [AuroraCity.kkwmc.cn] [CMD] /res set
