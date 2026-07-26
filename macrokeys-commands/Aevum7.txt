@@ -7660,3 +7660,6 @@
 [2026-07-26 20:14:27] [AuroraCity.kkwmc.cn] [CMD] /tpahere Tangerinep
 [2026-07-26 20:14:32] [AuroraCity.kkwmc.cn] [CHAT] 我这玩意一堆
 [2026-07-26 20:14:50] [AuroraCity.kkwmc.cn] [CHAT] 多的爆地上
+[2026-07-26 20:15:00] [AuroraCity.kkwmc.cn] [CMD] /res tp d
+[2026-07-26 20:16:47] [AuroraCity.kkwmc.cn] [CMD] /res tp d
+[2026-07-26 20:20:18] [AuroraCity.kkwmc.cn] [CMD] /res tp d
