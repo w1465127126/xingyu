@@ -825,3 +825,6 @@
 [2026-07-26 15:21:05] [x6.sjcmc.cn:34054] [CMD] /delhome aaa
 [2026-07-26 15:21:11] [x6.sjcmc.cn:34054] [CMD] /sethome dlkl
 [2026-07-26 15:24:32] [x6.sjcmc.cn:34054] [CMD] /home home
+[2026-07-26 15:24:35] [x6.sjcmc.cn:34054] [CMD] /back
+[2026-07-26 15:24:37] [x6.sjcmc.cn:34054] [CMD] /home gc2
+[2026-07-26 15:24:52] [x6.sjcmc.cn:34054] [CMD] /back
