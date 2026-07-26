@@ -69,3 +69,6 @@
 [2026-07-26 22:41:53] [x6.sjcmc.cn:34054] [CHAT] 我整点信标
 [2026-07-26 23:13:43] [x6.sjcmc.cn:34054] [CMD] /res tp jiaoyi
 [2026-07-26 23:14:33] [x6.sjcmc.cn:34054] [CMD] /res tp xiaoh
+[2026-07-26 23:16:15] [x6.sjcmc.cn:34054] [CMD] /res tp shuatie
+[2026-07-26 23:16:45] [x6.sjcmc.cn:34054] [CMD] /res tp xiaoh
+[2026-07-26 23:40:10] [x6.sjcmc.cn:34054] [JOIN] 连接服务器: x6.sjcmc.cn:34054
