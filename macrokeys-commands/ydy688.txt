@@ -36,3 +36,6 @@
 [2026-07-26 18:07:22] [AuroraCity.kkwmc.cn] [JOIN] 连接服务器: AuroraCity.kkwmc.cn
 [2026-07-26 18:07:26] [AuroraCity.kkwmc.cn] [CMD] /login xvvcxc
 [2026-07-26 18:07:27] [AuroraCity.kkwmc.cn] [CMD] /spawn
+[2026-07-26 18:07:29] [AuroraCity.kkwmc.cn] [CMD] /res tp d
+[2026-07-26 18:07:41] [AuroraCity.kkwmc.cn] [CMD] /res give d Aevum7
+[2026-07-26 18:07:52] [AuroraCity.kkwmc.cn] [CHAT] = =
