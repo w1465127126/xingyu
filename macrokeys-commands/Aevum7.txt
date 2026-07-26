@@ -7627,3 +7627,6 @@
 [2026-07-26 19:45:08] [AuroraCity.kkwmc.cn] [CHAT] 受不了= =
 [2026-07-26 19:45:12] [AuroraCity.kkwmc.cn] [CHAT] 这个混乱是真恶心
 [2026-07-26 19:47:30] [AuroraCity.kkwmc.cn] [CHAT] 不会吧
+[2026-07-26 19:48:17] [AuroraCity.kkwmc.cn] [CHAT] 你本来有啥权限
+[2026-07-26 19:48:37] [AuroraCity.kkwmc.cn] [CMD] /tpa gggggggguo
+[2026-07-26 19:48:48] [AuroraCity.kkwmc.cn] [CHAT] use
