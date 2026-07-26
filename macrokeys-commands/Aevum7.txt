@@ -7740,3 +7740,9 @@
 [2026-07-26 21:42:46] [AuroraCity.kkwmc.cn] [CHAT] 一起搞啊awa放我家
 [2026-07-26 21:42:51] [AuroraCity.kkwmc.cn] [CHAT] 我家有燃料供应
 [2026-07-26 21:43:25] [AuroraCity.kkwmc.cn] [CHAT] 缺电磁铁
+[2026-07-26 21:43:35] [AuroraCity.kkwmc.cn] [CHAT] 我家铜都用完了
+[2026-07-26 21:43:37] [AuroraCity.kkwmc.cn] [CHAT] 下次吧= =
+[2026-07-26 21:43:38] [AuroraCity.kkwmc.cn] [CMD] /res tp d
+[2026-07-26 21:44:07] [AuroraCity.kkwmc.cn] [CHAT] 这铜粉去哪了= =md
+[2026-07-26 21:46:30] [AuroraCity.kkwmc.cn] [CHAT] 挂机挂机
+[2026-07-26 21:46:33] [AuroraCity.kkwmc.cn] [CMD] /spawn
