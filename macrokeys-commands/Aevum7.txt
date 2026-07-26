@@ -7772,3 +7772,6 @@
 [2026-07-26 23:33:31] [AuroraCity.kkwmc.cn] [CMD] /fly
 [2026-07-26 23:33:40] [AuroraCity.kkwmc.cn] [CHAT] 也没圈地啊
 [2026-07-26 23:34:20] [AuroraCity.kkwmc.cn] [CHAT] 你再出去试试
+[2026-07-26 23:34:49] [AuroraCity.kkwmc.cn] [CHAT] 再刷
+[2026-07-26 23:35:07] [AuroraCity.kkwmc.cn] [CHAT] 你要不把你小号的渲染距离开高一点?
+[2026-07-26 23:35:28] [AuroraCity.kkwmc.cn] [CHAT] 模拟距离和渲染距离拉高点
