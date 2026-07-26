@@ -789,3 +789,6 @@
 [2026-07-26 15:08:44] [x6.sjcmc.cn:34054] [CMD] /back
 [2026-07-26 15:08:51] [x6.sjcmc.cn:34054] [CMD] /res tp dlkl
 [2026-07-26 15:09:36] [x6.sjcmc.cn:34054] [CMD] /res tp dl
+[2026-07-26 15:09:45] [x6.sjcmc.cn:34054] [CMD] /res list
+[2026-07-26 15:11:10] [x6.sjcmc.cn:34054] [CMD] /rtp
+[2026-07-26 15:11:13] [x6.sjcmc.cn:34054] [CMD] /rtp
