@@ -7564,3 +7564,6 @@
 [2026-07-26 19:18:02] [AuroraCity.kkwmc.cn] [CMD] /res tp d
 [2026-07-26 19:27:44] [AuroraCity.kkwmc.cn] [CHAT] 有羊毛不
 [2026-07-26 19:27:44] [AuroraCity.kkwmc.cn] [CHAT] awa
+[2026-07-26 19:27:56] [AuroraCity.kkwmc.cn] [CMD] /res tp zhucheng
+[2026-07-26 19:28:23] [AuroraCity.kkwmc.cn] [CHAT] 没
+[2026-07-26 19:29:08] [AuroraCity.kkwmc.cn] [CHAT] 64
