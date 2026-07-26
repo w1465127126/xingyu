@@ -780,3 +780,6 @@
 [2026-07-26 13:40:38] [x6.sjcmc.cn:34054] [CMD] /home gc2
 [2026-07-26 13:48:31] [x6.sjcmc.cn:34054] [CMD] /res tp fan
 [2026-07-26 13:48:57] [x6.sjcmc.cn:34054] [CMD] /back
+[2026-07-26 13:49:01] [x6.sjcmc.cn:34054] [CMD] /back
+[2026-07-26 13:49:34] [x6.sjcmc.cn:34054] [CMD] /back
+[2026-07-26 15:03:18] [x6.sjcmc.cn:34054] [CMD] /res tp fan
