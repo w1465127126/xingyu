@@ -7576,3 +7576,9 @@
 [2026-07-26 19:31:22] [AuroraCity.kkwmc.cn] [CMD] /tpaccept
 [2026-07-26 19:31:35] [AuroraCity.kkwmc.cn] [CMD] /tpaccept
 [2026-07-26 19:32:00] [AuroraCity.kkwmc.cn] [CMD] /末影箱
+[2026-07-26 19:32:09] [AuroraCity.kkwmc.cn] [CHAT] 0.0
+[2026-07-26 19:32:21] [AuroraCity.kkwmc.cn] [CHAT] 见者有份好吧
+[2026-07-26 19:32:27] [AuroraCity.kkwmc.cn] [CMD] /末影箱
+[2026-07-26 19:32:36] [AuroraCity.kkwmc.cn] [CHAT] 咋了 gggggggguo
+[2026-07-26 19:32:38] [AuroraCity.kkwmc.cn] [CHAT] pvp啊
+[2026-07-26 19:32:55] [AuroraCity.kkwmc.cn] [CHAT] 刷啥
