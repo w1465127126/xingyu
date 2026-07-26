@@ -7603,3 +7603,9 @@
 [2026-07-26 19:36:37] [AuroraCity.kkwmc.cn] [CMD] /res tp d
 [2026-07-26 19:36:50] [AuroraCity.kkwmc.cn] [CHAT] md好有道理
 [2026-07-26 19:36:55] [AuroraCity.kkwmc.cn] [CMD] /res set
+[2026-07-26 19:37:03] [AuroraCity.kkwmc.cn] [CHAT] res tp gz
+[2026-07-26 19:37:08] [AuroraCity.kkwmc.cn] [CMD] /res tp gz
+[2026-07-26 19:37:18] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-26 19:37:23] [AuroraCity.kkwmc.cn] [CMD] /fly
+[2026-07-26 19:37:26] [AuroraCity.kkwmc.cn] [CHAT] zhe
+[2026-07-26 19:37:29] [AuroraCity.kkwmc.cn] [CMD] /fly
