@@ -7648,3 +7648,6 @@
 [2026-07-26 19:53:44] [AuroraCity.kkwmc.cn] [CMD] /res tp d
 [2026-07-26 19:55:21] [AuroraCity.kkwmc.cn] [CHAT] 一点动力没有咋办
 [2026-07-26 20:02:58] [AuroraCity.kkwmc.cn] [CMD] /qs remove
+[2026-07-26 20:03:02] [AuroraCity.kkwmc.cn] [CMD] /qs remove
+[2026-07-26 20:03:03] [AuroraCity.kkwmc.cn] [CMD] /qs remove
+[2026-07-26 20:07:09] [AuroraCity.kkwmc.cn] [CMD] /res tp d
