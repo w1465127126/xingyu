@@ -7746,3 +7746,14 @@
 [2026-07-26 21:44:07] [AuroraCity.kkwmc.cn] [CHAT] 这铜粉去哪了= =md
 [2026-07-26 21:46:30] [AuroraCity.kkwmc.cn] [CHAT] 挂机挂机
 [2026-07-26 21:46:33] [AuroraCity.kkwmc.cn] [CMD] /spawn
+[2026-07-26 21:46:46] [AuroraCity.kkwmc.cn] [CHAT] 现在挂机池都空了
+[2026-07-26 21:47:04] [AuroraCity.kkwmc.cn] [CHAT] 挂小号的xd退游了
+[2026-07-26 21:47:06] [AuroraCity.kkwmc.cn] [CMD] /res tp d
+[2026-07-26 21:47:14] [AuroraCity.kkwmc.cn] [CHAT] sdg xxx
+[2026-07-26 21:47:30] [AuroraCity.kkwmc.cn] [CHAT] 人少我红石都不死了
+[2026-07-26 21:48:14] [AuroraCity.kkwmc.cn] [CHAT] 是这样的
+[2026-07-26 21:48:19] [AuroraCity.kkwmc.cn] [CMD] /spawn
+[2026-07-26 21:48:37] [AuroraCity.kkwmc.cn] [CHAT] 坐着我的小蜜蜂挂机
+[2026-07-26 23:30:07] [AuroraCity.kkwmc.cn] [JOIN] 连接服务器: AuroraCity.kkwmc.cn
+[2026-07-26 23:30:14] [AuroraCity.kkwmc.cn] [CMD] /l wokaoa
+[2026-07-26 23:30:20] [AuroraCity.kkwmc.cn] [CMD] /tpa Accompany
