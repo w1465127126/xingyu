@@ -7977,3 +7977,15 @@
 [2026-07-27 18:19:06] [AuroraCity.kkwmc.cn] [CHAT] 你咋不找腐竹氪一套rpg装备awa
 [2026-07-27 18:19:36] [AuroraCity.kkwmc.cn] [CHAT] 没事死不掉的= =
 [2026-07-27 18:19:42] [AuroraCity.kkwmc.cn] [CHAT] 你看luck 不是裸体么
+[2026-07-27 18:20:45] [AuroraCity.kkwmc.cn] [CHAT] 没事哦
+[2026-07-27 18:20:47] [AuroraCity.kkwmc.cn] [CHAT] 死不掉的
+[2026-07-27 18:20:59] [AuroraCity.kkwmc.cn] [CHAT] 我去试试鹅能不能秒
+[2026-07-27 18:21:08] [AuroraCity.kkwmc.cn] [CHAT] 还差50s
+[2026-07-27 18:21:13] [AuroraCity.kkwmc.cn] [CHAT] 那是你秒不到他
+[2026-07-27 18:21:27] [AuroraCity.kkwmc.cn] [CHAT] 你秒他他都打不到你
+[2026-07-27 18:21:49] [AuroraCity.kkwmc.cn] [CHAT] 10s
+[2026-07-27 18:21:52] [AuroraCity.kkwmc.cn] [CHAT] 我看下伤害
+[2026-07-27 18:22:10] [AuroraCity.kkwmc.cn] [CMD] /warp 鹅斯拉
+[2026-07-27 18:22:13] [AuroraCity.kkwmc.cn] [CMD] /tpahere Accompany
+[2026-07-27 18:22:22] [AuroraCity.kkwmc.cn] [CHAT] ?
+[2026-07-27 18:22:25] [AuroraCity.kkwmc.cn] [CHAT] 怎么现在还有人打鹅
