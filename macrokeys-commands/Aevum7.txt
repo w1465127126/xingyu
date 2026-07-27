@@ -7896,3 +7896,6 @@
 [2026-07-27 17:43:15] [AuroraCity.kkwmc.cn] [CHAT] 刷boss卡服= =
 [2026-07-27 17:43:19] [AuroraCity.kkwmc.cn] [CHAT] 卖你点附魔书还行
 [2026-07-27 17:43:24] [AuroraCity.kkwmc.cn] [CHAT] 保护X耐久X
+[2026-07-27 17:43:29] [AuroraCity.kkwmc.cn] [CHAT] 其他的你自己凑
+[2026-07-27 17:43:34] [AuroraCity.kkwmc.cn] [CHAT] 哦保护9
+[2026-07-27 17:43:39] [AuroraCity.kkwmc.cn] [CHAT] 耐久9
