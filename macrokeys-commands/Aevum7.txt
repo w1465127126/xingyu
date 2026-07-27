@@ -8144,3 +8144,9 @@
 [2026-07-27 23:45:40] [AuroraCity.kkwmc.cn] [CHAT] 我肝3天还不如充30块钱
 [2026-07-27 23:45:45] [AuroraCity.kkwmc.cn] [CHAT] 有点迷茫了
 [2026-07-27 23:46:15] [AuroraCity.kkwmc.cn] [CHAT] 啥
+[2026-07-27 23:46:28] [AuroraCity.kkwmc.cn] [CHAT] 行
+[2026-07-27 23:46:32] [AuroraCity.kkwmc.cn] [CMD] /末影箱
+[2026-07-27 23:46:35] [AuroraCity.kkwmc.cn] [CHAT] 来
+[2026-07-27 23:47:21] [AuroraCity.kkwmc.cn] [CHAT] 你去哪
+[2026-07-27 23:47:35] [AuroraCity.kkwmc.cn] [CHAT] 答应给你的背包
+[2026-07-27 23:47:40] [AuroraCity.kkwmc.cn] [CMD] /末影箱
