@@ -7938,3 +7938,12 @@
 [2026-07-27 17:50:46] [AuroraCity.kkwmc.cn] [CHAT] 我都没打这个阴间附魔
 [2026-07-27 17:51:26] [AuroraCity.kkwmc.cn] [CMD] /res tp d
 [2026-07-27 17:54:09] [AuroraCity.kkwmc.cn] [CMD] /res tp d
+[2026-07-27 17:54:10] [AuroraCity.kkwmc.cn] [CMD] /res tp d
+[2026-07-27 17:56:17] [AuroraCity.kkwmc.cn] [CMD] /res tp zhucheng
+[2026-07-27 17:56:34] [AuroraCity.kkwmc.cn] [CHAT] 1000
+[2026-07-27 17:56:35] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-27 17:57:50] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-27 17:57:52] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-27 17:57:53] [AuroraCity.kkwmc.cn] [CMD] /res tp d
+[2026-07-27 18:03:18] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-27 18:03:21] [AuroraCity.kkwmc.cn] [CMD] /back
