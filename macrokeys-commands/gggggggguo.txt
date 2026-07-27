@@ -246,3 +246,6 @@
 [2026-07-28 00:16:26] [x6.sjcmc.cn:34054] [CHAT] 拜拜
 [2026-07-28 00:42:29] [x6.sjcmc.cn:34054] [CMD] /res tp shangdian2
 [2026-07-28 00:44:09] [x6.sjcmc.cn:34054] [CMD] /tpa LuckyMengYi
+[2026-07-28 00:51:44] [x6.sjcmc.cn:34054] [CMD] /res tp shangdian
+[2026-07-28 00:58:21] [x6.sjcmc.cn:34054] [CMD] /res tp shangdian2
+[2026-07-28 00:58:35] [x6.sjcmc.cn:34054] [CMD] /qs price 6000
