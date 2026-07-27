@@ -7836,3 +7836,24 @@
 [2026-07-27 17:17:45] [AuroraCity.kkwmc.cn] [CHAT] 我上面机器全停了
 [2026-07-27 17:17:57] [AuroraCity.kkwmc.cn] [CHAT] 让他自然死亡把awa
 [2026-07-27 17:18:05] [AuroraCity.kkwmc.cn] [CHAT] = =
+[2026-07-27 17:18:08] [AuroraCity.kkwmc.cn] [CHAT] 东西太杂了
+[2026-07-27 17:18:25] [AuroraCity.kkwmc.cn] [CHAT] 耐久度不一样还不吃
+[2026-07-27 17:18:56] [AuroraCity.kkwmc.cn] [CHAT] 挂了一晚上铜粉依旧为0
+[2026-07-27 17:19:05] [AuroraCity.kkwmc.cn] [CHAT] 顶不住
+[2026-07-27 17:20:00] [AuroraCity.kkwmc.cn] [CHAT] 好像会抢
+[2026-07-27 17:20:07] [AuroraCity.kkwmc.cn] [CHAT] 我就弄了一个箱子
+[2026-07-27 17:20:11] [AuroraCity.kkwmc.cn] [CHAT] 里面转
+[2026-07-27 17:20:23] [AuroraCity.kkwmc.cn] [CHAT] 不是得2个输入么
+[2026-07-27 17:20:50] [AuroraCity.kkwmc.cn] [CHAT] 哦你是单独弄个弩的中转
+[2026-07-27 17:20:54] [AuroraCity.kkwmc.cn] [CHAT] 太麻烦了= =
+[2026-07-27 17:21:13] [AuroraCity.kkwmc.cn] [CHAT] 我就弄了3个分类
+[2026-07-27 17:21:20] [AuroraCity.kkwmc.cn] [CHAT] 我家都没矿粉了
+[2026-07-27 17:21:36] [AuroraCity.kkwmc.cn] [CHAT] 做高级输出都做不起了
+[2026-07-27 17:22:28] [AuroraCity.kkwmc.cn] [CMD] /res tp d
+[2026-07-27 17:22:51] [AuroraCity.kkwmc.cn] [CHAT] 这些机器最少停了10天了
+[2026-07-27 17:22:59] [AuroraCity.kkwmc.cn] [CHAT] 下面强化合金还在运行awa
+[2026-07-27 17:23:03] [AuroraCity.kkwmc.cn] [CHAT] 根本供不过来
+[2026-07-27 17:25:55] [AuroraCity.kkwmc.cn] [CHAT] 被盔甲架杀死
+[2026-07-27 17:25:57] [AuroraCity.kkwmc.cn] [CHAT] 是什么死法
+[2026-07-27 17:26:54] [AuroraCity.kkwmc.cn] [CHAT] no
+[2026-07-27 17:27:18] [AuroraCity.kkwmc.cn] [CHAT] 是的
