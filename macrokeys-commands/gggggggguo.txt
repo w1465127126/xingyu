@@ -113,3 +113,6 @@
 [2026-07-27 22:05:04] [x6.sjcmc.cn:34054] [CMD] /res tp shangdian
 [2026-07-27 22:19:27] [x6.sjcmc.cn:34054] [CMD] /res tp shangdian
 [2026-07-27 22:21:27] [x6.sjcmc.cn:34054] [CMD] /res tp shuatie
+[2026-07-27 22:46:22] [x6.sjcmc.cn:34054] [CMD] /res tp shangdian2
+[2026-07-27 22:46:47] [x6.sjcmc.cn:34054] [CHAT] 10000
+[2026-07-27 22:47:01] [x6.sjcmc.cn:34054] [CHAT] 下界合金锭？
