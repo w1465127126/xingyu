@@ -252,3 +252,6 @@
 [2026-07-28 01:01:23] [x6.sjcmc.cn:34054] [CMD] /res help
 [2026-07-28 01:01:41] [x6.sjcmc.cn:34054] [CMD] /res list
 [2026-07-28 01:01:49] [x6.sjcmc.cn:34054] [CMD] /res help
+[2026-07-28 01:02:38] [x6.sjcmc.cn:34054] [CMD] /res set
+[2026-07-28 02:08:48] [x6.sjcmc.cn:34054] [CMD] /res tp zhucheng2
+[2026-07-28 02:09:03] [x6.sjcmc.cn:34054] [CHAT] all
