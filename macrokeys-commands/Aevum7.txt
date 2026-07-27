@@ -7860,3 +7860,18 @@
 [2026-07-27 17:27:24] [AuroraCity.kkwmc.cn] [CHAT] 谁开的谁拿
 [2026-07-27 17:27:36] [AuroraCity.kkwmc.cn] [CHAT] 组队系统依托
 [2026-07-27 17:28:23] [AuroraCity.kkwmc.cn] [CHAT] 这不是好事么
+[2026-07-27 17:28:52] [AuroraCity.kkwmc.cn] [CHAT] 还有这种好事
+[2026-07-27 17:29:18] [AuroraCity.kkwmc.cn] [CMD] /spawn
+[2026-07-27 17:29:20] [AuroraCity.kkwmc.cn] [CMD] /home jia
+[2026-07-27 17:30:23] [AuroraCity.kkwmc.cn] [CHAT] 收末影水晶awa
+[2026-07-27 17:30:27] [AuroraCity.kkwmc.cn] [CHAT] 大量收
+[2026-07-27 17:30:32] [AuroraCity.kkwmc.cn] [CMD] /res tp d
+[2026-07-27 17:30:45] [AuroraCity.kkwmc.cn] [CMD] /res list LuckyMengYi
+[2026-07-27 17:30:50] [AuroraCity.kkwmc.cn] [CMD] /res tp xbt
+[2026-07-27 17:30:58] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-27 17:31:02] [AuroraCity.kkwmc.cn] [CHAT] 666
+[2026-07-27 17:33:56] [AuroraCity.kkwmc.cn] [CMD] /warp 末地世界
+[2026-07-27 17:34:55] [AuroraCity.kkwmc.cn] [CHAT] ?
+[2026-07-27 17:34:56] [AuroraCity.kkwmc.cn] [CMD] /res tp d
+[2026-07-27 17:35:02] [AuroraCity.kkwmc.cn] [CMD] /spawn
+[2026-07-27 17:35:29] [AuroraCity.kkwmc.cn] [CHAT] 你咋还是铁套
