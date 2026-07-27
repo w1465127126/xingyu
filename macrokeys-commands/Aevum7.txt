@@ -8051,3 +8051,18 @@
 [2026-07-27 23:25:35] [AuroraCity.kkwmc.cn] [CMD] /res tp shangdian2
 [2026-07-27 23:25:37] [AuroraCity.kkwmc.cn] [CMD] /res tp shangdian1
 [2026-07-27 23:25:39] [AuroraCity.kkwmc.cn] [CMD] /res tp shangdian
+[2026-07-27 23:25:58] [AuroraCity.kkwmc.cn] [CHAT] 所以商店1怎么去商店2
+[2026-07-27 23:26:12] [AuroraCity.kkwmc.cn] [CHAT] 看到了
+[2026-07-27 23:26:20] [AuroraCity.kkwmc.cn] [CHAT] all
+[2026-07-27 23:26:33] [AuroraCity.kkwmc.cn] [CHAT] 哎有凯子真好
+[2026-07-27 23:26:43] [AuroraCity.kkwmc.cn] [CHAT] 一下66w
+[2026-07-27 23:26:47] [AuroraCity.kkwmc.cn] [CHAT] 这钱真好赚
+[2026-07-27 23:26:53] [AuroraCity.kkwmc.cn] [CHAT] 别删我继续做
+[2026-07-27 23:26:54] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-27 23:27:08] [AuroraCity.kkwmc.cn] [CHAT] 还要么
+[2026-07-27 23:27:41] [AuroraCity.kkwmc.cn] [CHAT] ok
+[2026-07-27 23:28:33] [AuroraCity.kkwmc.cn] [CHAT] 我帮你破产
+[2026-07-27 23:29:09] [AuroraCity.kkwmc.cn] [CHAT] 你值得让我去挖矿
+[2026-07-27 23:29:32] [AuroraCity.kkwmc.cn] [CHAT] 再搓2组
+[2026-07-27 23:31:26] [AuroraCity.kkwmc.cn] [CHAT] 做一个被
+[2026-07-27 23:31:51] [AuroraCity.kkwmc.cn] [CHAT] 穷
