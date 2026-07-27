@@ -7989,3 +7989,24 @@
 [2026-07-27 18:22:13] [AuroraCity.kkwmc.cn] [CMD] /tpahere Accompany
 [2026-07-27 18:22:22] [AuroraCity.kkwmc.cn] [CHAT] ?
 [2026-07-27 18:22:25] [AuroraCity.kkwmc.cn] [CHAT] 怎么现在还有人打鹅
+[2026-07-27 18:22:32] [AuroraCity.kkwmc.cn] [CHAT] md
+[2026-07-27 18:22:39] [AuroraCity.kkwmc.cn] [CHAT] 去那个嫁衣
+[2026-07-27 18:22:42] [AuroraCity.kkwmc.cn] [CMD] /warp 冒险者大厅
+[2026-07-27 18:22:53] [AuroraCity.kkwmc.cn] [CMD] /tpahere Accompany
+[2026-07-27 18:23:29] [AuroraCity.kkwmc.cn] [CHAT] 可以哦
+[2026-07-27 18:23:33] [AuroraCity.kkwmc.cn] [CHAT] 轻松秒杀
+[2026-07-27 18:23:40] [AuroraCity.kkwmc.cn] [CHAT] 哎没看
+[2026-07-27 18:23:45] [AuroraCity.kkwmc.cn] [CHAT] 我再去看看
+[2026-07-27 18:23:48] [AuroraCity.kkwmc.cn] [CMD] /tpahere Accompany
+[2026-07-27 18:24:33] [AuroraCity.kkwmc.cn] [CHAT] 怎么3段伤害
+[2026-07-27 18:24:39] [AuroraCity.kkwmc.cn] [CHAT] 这就是氪金武器么
+[2026-07-27 18:24:59] [AuroraCity.kkwmc.cn] [CMD] /res tp gz
+[2026-07-27 18:25:04] [AuroraCity.kkwmc.cn] [CMD] /res tp gz
+[2026-07-27 18:25:07] [AuroraCity.kkwmc.cn] [CHAT] tp w
+[2026-07-27 18:25:16] [AuroraCity.kkwmc.cn] [CMD] /tpaccept
+[2026-07-27 18:25:33] [AuroraCity.kkwmc.cn] [CMD] /hat
+[2026-07-27 18:25:37] [AuroraCity.kkwmc.cn] [CHAT] 打我
+[2026-07-27 18:25:44] [AuroraCity.kkwmc.cn] [CHAT] wc
+[2026-07-27 18:25:50] [AuroraCity.kkwmc.cn] [CMD] /hat
+[2026-07-27 18:26:00] [AuroraCity.kkwmc.cn] [CHAT] 多少伤害
+[2026-07-27 18:26:24] [AuroraCity.kkwmc.cn] [CHAT] 毕业了兄弟
