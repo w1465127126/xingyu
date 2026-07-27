@@ -7950,3 +7950,24 @@
 [2026-07-27 18:03:22] [AuroraCity.kkwmc.cn] [CMD] /res tp d
 [2026-07-27 18:04:21] [AuroraCity.kkwmc.cn] [CMD] /res tp d
 [2026-07-27 18:04:29] [AuroraCity.kkwmc.cn] [CMD] /spawn
+[2026-07-27 18:04:31] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-27 18:04:34] [AuroraCity.kkwmc.cn] [CMD] /res tp d
+[2026-07-27 18:05:27] [AuroraCity.kkwmc.cn] [CHAT] 这个镰刀强么
+[2026-07-27 18:05:57] [AuroraCity.kkwmc.cn] [CHAT] 哎刚刚谁找我附魔来着
+[2026-07-27 18:09:42] [AuroraCity.kkwmc.cn] [CMD] /res tp d
+[2026-07-27 18:14:23] [AuroraCity.kkwmc.cn] [CHAT] 武器马上出炉了awa
+[2026-07-27 18:14:36] [AuroraCity.kkwmc.cn] [CHAT] 这金币真好赚awa
+[2026-07-27 18:15:40] [AuroraCity.kkwmc.cn] [CHAT] 网络交易不归市场监督局管
+[2026-07-27 18:15:44] [AuroraCity.kkwmc.cn] [CHAT] awa
+[2026-07-27 18:16:39] [AuroraCity.kkwmc.cn] [CHAT] [i]
+[2026-07-27 18:16:42] [AuroraCity.kkwmc.cn] [CHAT] 这俩要不
+[2026-07-27 18:16:51] [AuroraCity.kkwmc.cn] [CHAT] 不要马上就能出炉
+[2026-07-27 18:17:05] [AuroraCity.kkwmc.cn] [CHAT] ?
+[2026-07-27 18:17:10] [AuroraCity.kkwmc.cn] [CHAT] 你拿这武器远程?
+[2026-07-27 18:17:25] [AuroraCity.kkwmc.cn] [CHAT] = =
+[2026-07-27 18:17:34] [AuroraCity.kkwmc.cn] [CHAT] 这个远程技能伤害应该是固定的
+[2026-07-27 18:17:58] [AuroraCity.kkwmc.cn] [CHAT] = =
+[2026-07-27 18:18:10] [AuroraCity.kkwmc.cn] [CHAT] 不用试
+[2026-07-27 18:18:11] [AuroraCity.kkwmc.cn] [CHAT] 肯定是
+[2026-07-27 18:18:24] [AuroraCity.kkwmc.cn] [CHAT] 你为啥不近战
+[2026-07-27 18:18:35] [AuroraCity.kkwmc.cn] [CHAT] ?
