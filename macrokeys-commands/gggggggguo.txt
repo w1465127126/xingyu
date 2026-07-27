@@ -110,3 +110,6 @@
 [2026-07-27 21:37:58] [x6.sjcmc.cn:34054] [CHAT] 咋了
 [2026-07-27 21:39:39] [x6.sjcmc.cn:34054] [CHAT] 这小房子整的还挺好
 [2026-07-27 21:42:29] [x6.sjcmc.cn:34054] [CMD] /icanhasbukkit
+[2026-07-27 22:05:04] [x6.sjcmc.cn:34054] [CMD] /res tp shangdian
+[2026-07-27 22:19:27] [x6.sjcmc.cn:34054] [CMD] /res tp shangdian
+[2026-07-27 22:21:27] [x6.sjcmc.cn:34054] [CMD] /res tp shuatie
