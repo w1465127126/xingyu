@@ -7812,3 +7812,9 @@
 [2026-07-27 17:08:59] [AuroraCity.kkwmc.cn] [CHAT] 我人呢
 [2026-07-27 17:09:07] [AuroraCity.kkwmc.cn] [CMD] /res tp d
 [2026-07-27 17:09:21] [AuroraCity.kkwmc.cn] [CHAT] wc
+[2026-07-27 17:09:23] [AuroraCity.kkwmc.cn] [CHAT] 为什么
+[2026-07-27 17:09:27] [AuroraCity.kkwmc.cn] [CHAT] 怎么还会停机
+[2026-07-27 17:10:13] [AuroraCity.kkwmc.cn] [CMD] /fly
+[2026-07-27 17:11:13] [AuroraCity.kkwmc.cn] [CMD] /res tp d
+[2026-07-27 17:12:20] [AuroraCity.kkwmc.cn] [CHAT] 还是好人多啊
+[2026-07-27 17:14:23] [AuroraCity.kkwmc.cn] [CHAT] 我刷怪塔东西咋会被定时拿光awa
