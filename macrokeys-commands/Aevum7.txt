@@ -7947,3 +7947,6 @@
 [2026-07-27 17:57:53] [AuroraCity.kkwmc.cn] [CMD] /res tp d
 [2026-07-27 18:03:18] [AuroraCity.kkwmc.cn] [CMD] /back
 [2026-07-27 18:03:21] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-27 18:03:22] [AuroraCity.kkwmc.cn] [CMD] /res tp d
+[2026-07-27 18:04:21] [AuroraCity.kkwmc.cn] [CMD] /res tp d
+[2026-07-27 18:04:29] [AuroraCity.kkwmc.cn] [CMD] /spawn
