@@ -125,3 +125,6 @@
 [2026-07-27 23:18:45] [x6.sjcmc.cn:34054] [CHAT] 也能下去
 [2026-07-27 23:19:01] [x6.sjcmc.cn:34054] [CHAT] ./res tp shangdian
 [2026-07-27 23:26:07] [x6.sjcmc.cn:34054] [CMD] /res tp shangdian.
+[2026-07-27 23:26:16] [x6.sjcmc.cn:34054] [CHAT] ok
+[2026-07-27 23:26:29] [x6.sjcmc.cn:34054] [CHAT] 这么快
+[2026-07-27 23:26:57] [x6.sjcmc.cn:34054] [CHAT] 让你赚爽了
