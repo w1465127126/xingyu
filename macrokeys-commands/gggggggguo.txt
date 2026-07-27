@@ -122,3 +122,6 @@
 [2026-07-27 23:18:04] [x6.sjcmc.cn:34054] [CHAT] shangdian2
 [2026-07-27 23:18:33] [x6.sjcmc.cn:34054] [CHAT] 难道我没开权限？
 [2026-07-27 23:18:40] [x6.sjcmc.cn:34054] [CHAT] 你先去商店1吧
+[2026-07-27 23:18:45] [x6.sjcmc.cn:34054] [CHAT] 也能下去
+[2026-07-27 23:19:01] [x6.sjcmc.cn:34054] [CHAT] ./res tp shangdian
+[2026-07-27 23:26:07] [x6.sjcmc.cn:34054] [CMD] /res tp shangdian.
