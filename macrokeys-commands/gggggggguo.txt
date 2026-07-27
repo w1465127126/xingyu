@@ -273,3 +273,6 @@
 [2026-07-28 02:17:46] [x6.sjcmc.cn:34054] [CMD] /res tp shangdian2
 [2026-07-28 04:02:49] [x6.sjcmc.cn:34054] [JOIN] 连接服务器: x6.sjcmc.cn:34054
 [2026-07-28 04:02:54] [x6.sjcmc.cn:34054] [CMD] /login 081014
+[2026-07-28 04:03:28] [x6.sjcmc.cn:34054] [CMD] /飞行
+[2026-07-28 04:07:40] [x6.sjcmc.cn:34054] [CMD] /res tp shangdian
+[2026-07-28 04:09:57] [x6.sjcmc.cn:34054] [CMD] /res tp shangdian
