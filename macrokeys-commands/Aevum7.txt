@@ -8096,3 +8096,12 @@
 [2026-07-27 23:37:45] [AuroraCity.kkwmc.cn] [CHAT] 你电磁铁1w一个
 [2026-07-27 23:37:52] [AuroraCity.kkwmc.cn] [CHAT] 这强化合金锭不是一般的难做awa
 [2026-07-27 23:38:16] [AuroraCity.kkwmc.cn] [CHAT] 你看着来吧
+[2026-07-27 23:38:32] [AuroraCity.kkwmc.cn] [CHAT] 你要去挖矿的话帮我留点铜
+[2026-07-27 23:38:53] [AuroraCity.kkwmc.cn] [CHAT] 你觉得这3组
+[2026-07-27 23:39:08] [AuroraCity.kkwmc.cn] [CHAT] 你要不拿铜矿换
+[2026-07-27 23:39:16] [AuroraCity.kkwmc.cn] [CHAT] 铜矿和金矿
+[2026-07-27 23:39:22] [AuroraCity.kkwmc.cn] [CHAT] 原矿
+[2026-07-27 23:39:27] [AuroraCity.kkwmc.cn] [CHAT] 不要烧的
+[2026-07-27 23:39:29] [AuroraCity.kkwmc.cn] [CMD] /res tp d
+[2026-07-27 23:39:43] [AuroraCity.kkwmc.cn] [CHAT] 那必须的
+[2026-07-27 23:39:47] [AuroraCity.kkwmc.cn] [CMD] /tpahere gggggggguo
