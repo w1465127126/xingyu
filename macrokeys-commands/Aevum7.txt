@@ -8213,3 +8213,18 @@
 [2026-07-28 00:00:42] [AuroraCity.kkwmc.cn] [CHAT] awa
 [2026-07-28 00:00:50] [AuroraCity.kkwmc.cn] [CHAT] 没有矿就没有电磁铁
 [2026-07-28 00:00:59] [AuroraCity.kkwmc.cn] [CMD] /tpa Accompany
+[2026-07-28 00:01:02] [AuroraCity.kkwmc.cn] [CHAT] 去你家玩下
+[2026-07-28 00:01:42] [AuroraCity.kkwmc.cn] [CHAT] 领地权限卖么
+[2026-07-28 00:01:51] [AuroraCity.kkwmc.cn] [CHAT] 没事来熊点东西
+[2026-07-28 00:02:11] [AuroraCity.kkwmc.cn] [CMD] /res info
+[2026-07-28 00:02:19] [AuroraCity.kkwmc.cn] [CHAT] 金币awa
+[2026-07-28 00:02:47] [AuroraCity.kkwmc.cn] [CHAT] wc太阳能啊
+[2026-07-28 00:03:09] [AuroraCity.kkwmc.cn] [CHAT] = =
+[2026-07-28 00:03:16] [AuroraCity.kkwmc.cn] [CHAT] 任重道远
+[2026-07-28 00:03:29] [AuroraCity.kkwmc.cn] [CHAT] 你都不缺点你整啥核电
+[2026-07-28 00:03:44] [AuroraCity.kkwmc.cn] [CHAT] 配套产线上来了再整核电嘛
+[2026-07-28 00:03:58] [AuroraCity.kkwmc.cn] [CMD] /res tp d
+[2026-07-28 00:04:04] [AuroraCity.kkwmc.cn] [CHAT] 6
+[2026-07-28 00:04:23] [AuroraCity.kkwmc.cn] [CHAT] 狗骑吕布说是
+[2026-07-28 00:04:35] [AuroraCity.kkwmc.cn] [CHAT] 下号= =
+[2026-07-28 00:04:40] [AuroraCity.kkwmc.cn] [CHAT] 等你的矿
