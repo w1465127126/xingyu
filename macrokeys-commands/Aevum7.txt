@@ -8036,3 +8036,12 @@
 [2026-07-27 23:17:40] [AuroraCity.kkwmc.cn] [CMD] /res tp shangdian
 [2026-07-27 23:17:50] [AuroraCity.kkwmc.cn] [CMD] /res tp shangdian2
 [2026-07-27 23:17:55] [AuroraCity.kkwmc.cn] [CHAT] 在哪收呢
+[2026-07-27 23:18:03] [AuroraCity.kkwmc.cn] [CHAT] 我咋没看到
+[2026-07-27 23:18:11] [AuroraCity.kkwmc.cn] [CHAT] 没权限
+[2026-07-27 23:18:16] [AuroraCity.kkwmc.cn] [CHAT] 你shangdian2还是会员制啊
+[2026-07-27 23:18:39] [AuroraCity.kkwmc.cn] [CMD] /res tp shangdian2
+[2026-07-27 23:18:43] [AuroraCity.kkwmc.cn] [CHAT] 没人的原因
+[2026-07-27 23:18:45] [AuroraCity.kkwmc.cn] [CMD] /back
+[2026-07-27 23:18:53] [AuroraCity.kkwmc.cn] [CHAT] ky
+[2026-07-27 23:19:02] [AuroraCity.kkwmc.cn] [CHAT] 我先去搓一点
+[2026-07-27 23:19:24] [AuroraCity.kkwmc.cn] [CHAT] 没事
