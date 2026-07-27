@@ -7818,3 +7818,6 @@
 [2026-07-27 17:11:13] [AuroraCity.kkwmc.cn] [CMD] /res tp d
 [2026-07-27 17:12:20] [AuroraCity.kkwmc.cn] [CHAT] 还是好人多啊
 [2026-07-27 17:14:23] [AuroraCity.kkwmc.cn] [CHAT] 我刷怪塔东西咋会被定时拿光awa
+[2026-07-27 17:14:45] [AuroraCity.kkwmc.cn] [CHAT] md上面箱子卡了东西也不帮我清一下
+[2026-07-27 17:14:47] [AuroraCity.kkwmc.cn] [CHAT] 白挂了
+[2026-07-27 17:14:49] [AuroraCity.kkwmc.cn] [CHAT] 刷怪塔
