@@ -8045,3 +8045,9 @@
 [2026-07-27 23:18:53] [AuroraCity.kkwmc.cn] [CHAT] ky
 [2026-07-27 23:19:02] [AuroraCity.kkwmc.cn] [CHAT] 我先去搓一点
 [2026-07-27 23:19:24] [AuroraCity.kkwmc.cn] [CHAT] 没事
+[2026-07-27 23:19:28] [AuroraCity.kkwmc.cn] [CHAT] 炸了重新做
+[2026-07-27 23:25:11] [AuroraCity.kkwmc.cn] [CHAT] 炸了要赔吗，鹅
+[2026-07-27 23:25:33] [AuroraCity.kkwmc.cn] [CHAT] 666
+[2026-07-27 23:25:35] [AuroraCity.kkwmc.cn] [CMD] /res tp shangdian2
+[2026-07-27 23:25:37] [AuroraCity.kkwmc.cn] [CMD] /res tp shangdian1
+[2026-07-27 23:25:39] [AuroraCity.kkwmc.cn] [CMD] /res tp shangdian
