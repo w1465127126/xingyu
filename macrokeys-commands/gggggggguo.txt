@@ -313,3 +313,6 @@
 [2026-07-28 09:31:19] [x6.sjcmc.cn:34054] [CHAT] all
 [2026-07-28 09:32:03] [x6.sjcmc.cn:34054] [CMD] /tpa LuckyMengYi
 [2026-07-28 09:32:25] [x6.sjcmc.cn:34054] [CHAT] LuckyMengYi 在不在
+[2026-07-28 09:45:27] [x6.sjcmc.cn:34054] [CMD] /res tp zhucheng
+[2026-07-28 09:46:10] [x6.sjcmc.cn:34054] [CHAT] 64
+[2026-07-28 09:52:01] [x6.sjcmc.cn:34054] [CHAT] 背包
