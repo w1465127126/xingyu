@@ -316,3 +316,6 @@
 [2026-07-28 09:45:27] [x6.sjcmc.cn:34054] [CMD] /res tp zhucheng
 [2026-07-28 09:46:10] [x6.sjcmc.cn:34054] [CHAT] 64
 [2026-07-28 09:52:01] [x6.sjcmc.cn:34054] [CHAT] 背包
+[2026-07-28 16:28:13] [x6.sjcmc.cn:34054] [JOIN] 连接服务器: x6.sjcmc.cn:34054
+[2026-07-28 16:28:20] [x6.sjcmc.cn:34054] [CMD] /login 081014
+[2026-07-28 16:31:35] [x6.sjcmc.cn:34054] [CMD] /pay LuckyMengYi 110000
