@@ -8335,3 +8335,6 @@
 [2026-07-28 18:13:34] [AuroraCity.kkwmc.cn] [CMD] /tpaccept
 [2026-07-28 18:13:51] [AuroraCity.kkwmc.cn] [CHAT] zzzz 最近在哪发财
 [2026-07-28 18:14:12] [AuroraCity.kkwmc.cn] [CHAT] 这么潇洒
+[2026-07-28 18:14:16] [AuroraCity.kkwmc.cn] [CHAT] 上网玩啥
+[2026-07-28 18:14:41] [AuroraCity.kkwmc.cn] [CHAT] 可以的
+[2026-07-28 18:14:48] [AuroraCity.kkwmc.cn] [CHAT] 无聊给你推荐个游戏
