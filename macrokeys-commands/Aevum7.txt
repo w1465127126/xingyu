@@ -8234,3 +8234,10 @@
 [2026-07-28 00:04:59] [AuroraCity.kkwmc.cn] [CMD] /pay gggggggguo 100000
 [2026-07-28 00:04:59] [AuroraCity.kkwmc.cn] [CMD] /pay gggggggguo 100000
 [2026-07-28 00:05:05] [AuroraCity.kkwmc.cn] [CHAT] 告辞
+[2026-07-28 00:05:08] [AuroraCity.kkwmc.cn] [CMD] /spawn
+[2026-07-28 00:05:20] [AuroraCity.kkwmc.cn] [CHAT] 感觉我太黑了
+[2026-07-28 00:05:22] [AuroraCity.kkwmc.cn] [CHAT] 加点
+[2026-07-28 00:05:38] [AuroraCity.kkwmc.cn] [CMD] /sethome jia
+[2026-07-28 14:48:49] [AuroraCity.kkwmc.cn] [JOIN] 连接服务器: AuroraCity.kkwmc.cn
+[2026-07-28 14:48:56] [AuroraCity.kkwmc.cn] [CMD] /l wokaoa
+[2026-07-28 14:49:04] [AuroraCity.kkwmc.cn] [CHAT] Accompany 你又有金pp了?
