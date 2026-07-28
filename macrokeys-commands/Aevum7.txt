@@ -8268,3 +8268,12 @@
 [2026-07-28 14:53:53] [AuroraCity.kkwmc.cn] [CHAT] 他昨天估计肝了点
 [2026-07-28 14:53:54] [AuroraCity.kkwmc.cn] [CMD] /res tp d
 [2026-07-28 14:54:00] [AuroraCity.kkwmc.cn] [CMD] /res tp shangdian
+[2026-07-28 14:55:18] [AuroraCity.kkwmc.cn] [CMD] /res tp d
+[2026-07-28 14:55:21] [AuroraCity.kkwmc.cn] [CHAT] ggo变了
+[2026-07-28 14:55:23] [AuroraCity.kkwmc.cn] [CHAT] ggo变了
+[2026-07-28 14:55:28] [AuroraCity.kkwmc.cn] [CHAT] 他收1w了
+[2026-07-28 14:55:32] [AuroraCity.kkwmc.cn] [CHAT] 变6k了
+[2026-07-28 15:00:26] [AuroraCity.kkwmc.cn] [CHAT] 圈啥地要300w= =
+[2026-07-28 15:00:36] [AuroraCity.kkwmc.cn] [CHAT] 我这四合院都多少个区块了才200w
+[2026-07-28 15:00:56] [AuroraCity.kkwmc.cn] [CHAT] Accompany 说他圈地
+[2026-07-28 15:01:05] [AuroraCity.kkwmc.cn] [CHAT] 吓人
