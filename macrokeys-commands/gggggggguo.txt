@@ -412,3 +412,7 @@
 [2026-07-28 23:12:21] [x6.sjcmc.cn:34054] [CHAT] 漏斗
 [2026-07-28 23:15:18] [x6.sjcmc.cn:34054] [CMD] /res tp zhucheng
 [2026-07-28 23:15:38] [x6.sjcmc.cn:34054] [CHAT] 10
+[2026-07-28 23:27:26] [x6.sjcmc.cn:34054] [CMD] /res tp zhucheng
+[2026-07-29 00:32:51] [x6.sjcmc.cn:34054] [JOIN] 连接服务器: x6.sjcmc.cn:34054
+[2026-07-29 00:33:01] [x6.sjcmc.cn:34054] [CMD] /login 081014
+[2026-07-29 00:37:32] [x6.sjcmc.cn:34054] [CMD] /res tp zhucheng
