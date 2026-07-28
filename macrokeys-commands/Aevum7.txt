@@ -8320,3 +8320,6 @@
 [2026-07-28 18:04:29] [AuroraCity.kkwmc.cn] [CHAT] ?
 [2026-07-28 18:04:50] [AuroraCity.kkwmc.cn] [CHAT] wc这傻逼兔子
 [2026-07-28 18:05:03] [AuroraCity.kkwmc.cn] [CHAT] 有把我刷怪塔堵了
+[2026-07-28 18:05:07] [AuroraCity.kkwmc.cn] [CMD] /res tp d
+[2026-07-28 18:06:47] [AuroraCity.kkwmc.cn] [CHAT] 绝版人物上线说是
+[2026-07-28 18:07:54] [AuroraCity.kkwmc.cn] [CHAT] 还有小号= =
