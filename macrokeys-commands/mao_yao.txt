@@ -849,3 +849,7 @@
 [2026-07-26 16:12:17] [x6.sjcmc.cn:34054] [CMD] /home home
 [2026-07-26 16:14:08] [x6.sjcmc.cn:34054] [CMD] /back
 [2026-07-26 16:26:06] [x6.sjcmc.cn:34054] [CMD] /delhome dlkl
+[2026-07-26 16:26:10] [x6.sjcmc.cn:34054] [CMD] /sethome dlkl
+[2026-07-28 11:07:48] [x6.sjcmc.cn:34054] [JOIN] 连接服务器: x6.sjcmc.cn:34054
+[2026-07-28 11:07:57] [x6.sjcmc.cn:34054] [CMD] /login maoyao170
+[2026-07-28 11:09:26] [x6.sjcmc.cn:34054] [CMD] /home home
