@@ -409,3 +409,6 @@
 [2026-07-28 21:27:12] [x6.sjcmc.cn:34054] [CHAT] 材料都有
 [2026-07-28 21:28:50] [x6.sjcmc.cn:34054] [CMD] /res tp shuatie
 [2026-07-28 23:02:35] [x6.sjcmc.cn:34054] [CMD] /res tp shangdian
+[2026-07-28 23:12:21] [x6.sjcmc.cn:34054] [CHAT] 漏斗
+[2026-07-28 23:15:18] [x6.sjcmc.cn:34054] [CMD] /res tp zhucheng
+[2026-07-28 23:15:38] [x6.sjcmc.cn:34054] [CHAT] 10
