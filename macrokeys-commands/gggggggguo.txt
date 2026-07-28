@@ -289,3 +289,6 @@
 [2026-07-28 07:30:08] [x6.sjcmc.cn:34054] [CMD] /res tp shuatie
 [2026-07-28 07:34:49] [x6.sjcmc.cn:34054] [CMD] /res tp shangdian2
 [2026-07-28 07:35:06] [x6.sjcmc.cn:34054] [CHAT] 1000
+[2026-07-28 07:35:46] [x6.sjcmc.cn:34054] [CMD] /qs buy
+[2026-07-28 07:35:56] [x6.sjcmc.cn:34054] [CMD] /qs buy
+[2026-07-28 08:35:01] [x6.sjcmc.cn:34054] [CHAT] Accompany
