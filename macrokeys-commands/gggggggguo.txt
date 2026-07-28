@@ -319,3 +319,6 @@
 [2026-07-28 16:28:13] [x6.sjcmc.cn:34054] [JOIN] 连接服务器: x6.sjcmc.cn:34054
 [2026-07-28 16:28:20] [x6.sjcmc.cn:34054] [CMD] /login 081014
 [2026-07-28 16:31:35] [x6.sjcmc.cn:34054] [CMD] /pay LuckyMengYi 110000
+[2026-07-28 16:37:25] [x6.sjcmc.cn:34054] [CMD] /res tp shangdian2
+[2026-07-28 16:38:07] [x6.sjcmc.cn:34054] [CMD] /res tp shuatie
+[2026-07-28 16:39:01] [x6.sjcmc.cn:34054] [CMD] /res tp zhucheng
