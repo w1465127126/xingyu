@@ -8349,3 +8349,6 @@
 [2026-08-01 22:13:01] [AuroraCity.kkwmc.cn] [JOIN] 连接服务器: AuroraCity.kkwmc.cn
 [2026-08-01 22:13:10] [AuroraCity.kkwmc.cn] [CMD] /l wokaoa
 [2026-08-01 22:13:40] [AuroraCity.kkwmc.cn] [CMD] /res tp fm
+[2026-08-01 22:13:43] [AuroraCity.kkwmc.cn] [CMD] /tpa Accompany
+[2026-08-01 22:14:19] [AuroraCity.kkwmc.cn] [CMD] /spawn
+[2026-08-01 22:15:45] [AuroraCity.kkwmc.cn] [CMD] /tpa Accompany
