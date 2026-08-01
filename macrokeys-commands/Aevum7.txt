@@ -8355,3 +8355,6 @@
 [2026-08-01 22:17:08] [AuroraCity.kkwmc.cn] [CMD] /money
 [2026-08-01 22:17:34] [AuroraCity.kkwmc.cn] [CMD] /tpa Accompany
 [2026-08-01 22:17:50] [AuroraCity.kkwmc.cn] [CMD] /pay Accompany 2200000
+[2026-08-01 22:17:54] [AuroraCity.kkwmc.cn] [CMD] /money
+[2026-08-01 22:18:07] [AuroraCity.kkwmc.cn] [CHAT] 给你个可爱的
+[2026-08-01 22:18:24] [AuroraCity.kkwmc.cn] [CHAT] wc
