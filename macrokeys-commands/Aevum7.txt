@@ -8352,3 +8352,6 @@
 [2026-08-01 22:13:43] [AuroraCity.kkwmc.cn] [CMD] /tpa Accompany
 [2026-08-01 22:14:19] [AuroraCity.kkwmc.cn] [CMD] /spawn
 [2026-08-01 22:15:45] [AuroraCity.kkwmc.cn] [CMD] /tpa Accompany
+[2026-08-01 22:17:08] [AuroraCity.kkwmc.cn] [CMD] /money
+[2026-08-01 22:17:34] [AuroraCity.kkwmc.cn] [CMD] /tpa Accompany
+[2026-08-01 22:17:50] [AuroraCity.kkwmc.cn] [CMD] /pay Accompany 2200000
