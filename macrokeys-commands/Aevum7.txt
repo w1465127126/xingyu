@@ -8338,3 +8338,14 @@
 [2026-07-28 18:14:16] [AuroraCity.kkwmc.cn] [CHAT] 上网玩啥
 [2026-07-28 18:14:41] [AuroraCity.kkwmc.cn] [CHAT] 可以的
 [2026-07-28 18:14:48] [AuroraCity.kkwmc.cn] [CHAT] 无聊给你推荐个游戏
+[2026-07-28 18:14:50] [AuroraCity.kkwmc.cn] [CHAT] 阿尔比恩
+[2026-07-28 18:14:59] [AuroraCity.kkwmc.cn] [CHAT] 我2天就睡了3小时
+[2026-07-28 18:15:01] [AuroraCity.kkwmc.cn] [CHAT] 时间吞噬者
+[2026-07-28 18:15:16] [AuroraCity.kkwmc.cn] [CHAT] 肝了2天终于破产了
+[2026-07-28 18:15:21] [AuroraCity.kkwmc.cn] [CHAT] 安心的来mc了
+[2026-07-28 18:15:32] [AuroraCity.kkwmc.cn] [CHAT] 菜单里的基地
+[2026-07-28 18:17:01] [AuroraCity.kkwmc.cn] [CMD] /res tp d
+[2026-07-28 18:17:35] [AuroraCity.kkwmc.cn] [CHAT] 继续阿尔比恩告辞
+[2026-08-01 22:13:01] [AuroraCity.kkwmc.cn] [JOIN] 连接服务器: AuroraCity.kkwmc.cn
+[2026-08-01 22:13:10] [AuroraCity.kkwmc.cn] [CMD] /l wokaoa
+[2026-08-01 22:13:40] [AuroraCity.kkwmc.cn] [CMD] /res tp fm
