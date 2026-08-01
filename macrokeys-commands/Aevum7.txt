@@ -8358,3 +8358,6 @@
 [2026-08-01 22:17:54] [AuroraCity.kkwmc.cn] [CMD] /money
 [2026-08-01 22:18:07] [AuroraCity.kkwmc.cn] [CHAT] 给你个可爱的
 [2026-08-01 22:18:24] [AuroraCity.kkwmc.cn] [CHAT] wc
+[2026-08-01 22:18:30] [AuroraCity.kkwmc.cn] [CHAT] 此乃何物
+[2026-08-01 22:19:33] [AuroraCity.kkwmc.cn] [CHAT] 这打伞
+[2026-08-01 22:19:39] [AuroraCity.kkwmc.cn] [CHAT] 大伞
