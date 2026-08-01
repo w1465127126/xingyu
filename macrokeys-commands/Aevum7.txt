@@ -8361,3 +8361,6 @@
 [2026-08-01 22:18:30] [AuroraCity.kkwmc.cn] [CHAT] 此乃何物
 [2026-08-01 22:19:33] [AuroraCity.kkwmc.cn] [CHAT] 这打伞
 [2026-08-01 22:19:39] [AuroraCity.kkwmc.cn] [CHAT] 大伞
+[2026-08-01 22:19:53] [AuroraCity.kkwmc.cn] [CHAT] 好大的保护伞
+[2026-08-01 22:20:32] [AuroraCity.kkwmc.cn] [CHAT] 吓哭了
+[2026-08-01 22:20:38] [AuroraCity.kkwmc.cn] [CMD] /spawn
