@@ -468,3 +468,6 @@
 [2026-08-10 00:21:09] [x6.sjcmc.cn:34054] [CHAT] all
 [2026-08-10 00:21:16] [x6.sjcmc.cn:34054] [CHAT] all
 [2026-08-10 00:21:24] [x6.sjcmc.cn:34054] [CHAT] all
+[2026-08-10 00:21:31] [x6.sjcmc.cn:34054] [CHAT] all
+[2026-08-10 00:21:38] [x6.sjcmc.cn:34054] [CHAT] all
+[2026-08-10 00:25:35] [x6.sjcmc.cn:34054] [CMD] /res tp shuaguaita
