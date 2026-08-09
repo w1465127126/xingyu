@@ -474,3 +474,6 @@
 [2026-08-10 00:30:58] [x6.sjcmc.cn:34054] [CMD] /res tp zhucheng
 [2026-08-10 00:31:51] [x6.sjcmc.cn:34054] [CHAT] all
 [2026-08-10 00:37:52] [x6.sjcmc.cn:34054] [CMD] /res tp zhucheng
+[2026-08-10 00:38:27] [x6.sjcmc.cn:34054] [CHAT] 320
+[2026-08-10 00:45:08] [x6.sjcmc.cn:34054] [CMD] /res create shuaguaita
+[2026-08-10 01:07:59] [x6.sjcmc.cn:34054] [CHAT] aaa
