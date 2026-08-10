@@ -489,3 +489,6 @@
 [2026-08-10 20:14:43] [x6.sjcmc.cn:34054] [CMD] /qs buy
 [2026-08-10 20:14:51] [x6.sjcmc.cn:34054] [CMD] /qs sell
 [2026-08-10 20:15:06] [x6.sjcmc.cn:34054] [CMD] /qs help
+[2026-08-10 20:15:14] [x6.sjcmc.cn:34054] [CMD] /qs remove
+[2026-08-10 20:15:30] [x6.sjcmc.cn:34054] [CMD] /qs remove
+[2026-08-10 20:16:11] [x6.sjcmc.cn:34054] [CHAT] 1563
