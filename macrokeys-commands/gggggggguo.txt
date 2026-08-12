@@ -647,3 +647,7 @@
 [2026-08-12 00:28:35] [x6.sjcmc.cn:34054] [CMD] /res tp zhucheng
 [2026-08-12 00:28:57] [x6.sjcmc.cn:34054] [CHAT] 500
 [2026-08-12 00:43:08] [x6.sjcmc.cn:34054] [CMD] /res tp xiaozhen
+[2026-08-12 00:43:15] [x6.sjcmc.cn:34054] [CMD] /res tp gz
+[2026-08-12 15:29:24] [x6.sjcmc.cn:34054] [JOIN] 连接服务器: x6.sjcmc.cn:34054
+[2026-08-12 15:29:33] [x6.sjcmc.cn:34054] [CMD] /login 081014
+[2026-08-12 15:29:42] [x6.sjcmc.cn:34054] [CMD] /飞行
