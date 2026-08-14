@@ -670,3 +670,6 @@
 [2026-08-14 21:17:17] [x6.sjcmc.cn:34054] [CMD] /res tp shuatie
 [2026-08-14 21:43:13] [x6.sjcmc.cn:34054] [CHAT] Old_Cun_Zhang_ 你现在网好了？
 [2026-08-14 21:43:53] [x6.sjcmc.cn:34054] [CMD] /res tp shangdian2
+[2026-08-14 22:13:28] [x6.sjcmc.cn:34054] [CHAT] 都是小号
+[2026-08-14 22:13:49] [x6.sjcmc.cn:34054] [CHAT] 那一排没工会的都是
+[2026-08-14 22:14:12] [x6.sjcmc.cn:34054] [CHAT] 这是真黄了
