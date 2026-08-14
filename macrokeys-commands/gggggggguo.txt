@@ -685,3 +685,6 @@
 [2026-08-14 22:59:35] [x6.sjcmc.cn:34054] [CHAT] all
 [2026-08-14 23:01:39] [x6.sjcmc.cn:34054] [CMD] /res tp shangdian
 [2026-08-14 23:01:59] [x6.sjcmc.cn:34054] [CMD] /qs help
+[2026-08-14 23:02:07] [x6.sjcmc.cn:34054] [CMD] /qs remove
+[2026-08-14 23:02:15] [x6.sjcmc.cn:34054] [CHAT] 5
+[2026-08-14 23:02:30] [x6.sjcmc.cn:34054] [CMD] /qs price 5
