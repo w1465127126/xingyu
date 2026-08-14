@@ -691,3 +691,6 @@
 [2026-08-14 23:02:38] [x6.sjcmc.cn:34054] [CMD] /qs price 5
 [2026-08-14 23:02:48] [x6.sjcmc.cn:34054] [CMD] /qs price 5
 [2026-08-14 23:03:25] [x6.sjcmc.cn:34054] [CMD] /res tp zhucheng
+[2026-08-14 23:03:44] [x6.sjcmc.cn:34054] [CHAT] 2
+[2026-08-14 23:03:52] [x6.sjcmc.cn:34054] [CHAT] all
+[2026-08-14 23:03:57] [x6.sjcmc.cn:34054] [CHAT] all
