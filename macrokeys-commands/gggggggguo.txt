@@ -667,3 +667,6 @@
 [2026-08-14 20:55:54] [x6.sjcmc.cn:34054] [JOIN] 连接服务器: x6.sjcmc.cn:34054
 [2026-08-14 20:57:06] [x6.sjcmc.cn:34054] [CMD] /login 081014
 [2026-08-14 20:59:41] [x6.sjcmc.cn:34054] [CMD] /飞行
+[2026-08-14 21:17:17] [x6.sjcmc.cn:34054] [CMD] /res tp shuatie
+[2026-08-14 21:43:13] [x6.sjcmc.cn:34054] [CHAT] Old_Cun_Zhang_ 你现在网好了？
+[2026-08-14 21:43:53] [x6.sjcmc.cn:34054] [CMD] /res tp shangdian2
