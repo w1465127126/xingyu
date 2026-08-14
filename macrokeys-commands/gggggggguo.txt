@@ -676,3 +676,6 @@
 [2026-08-14 22:34:11] [x6.sjcmc.cn:34054] [CMD] /res tp shangdian
 [2026-08-14 22:35:11] [x6.sjcmc.cn:34054] [CMD] /qs help
 [2026-08-14 22:39:34] [x6.sjcmc.cn:34054] [CMD] /res tp shangdian
+[2026-08-14 22:58:53] [x6.sjcmc.cn:34054] [CMD] /res tp zhucheng
+[2026-08-14 22:59:05] [x6.sjcmc.cn:34054] [CHAT] all
+[2026-08-14 22:59:08] [x6.sjcmc.cn:34054] [CHAT] all
