@@ -87,3 +87,8 @@
 [2026-08-13 20:54:50] [x6.sjcmc.cn:34054] [CHAT] all
 [2026-08-13 20:54:58] [x6.sjcmc.cn:34054] [CHAT] all
 [2026-08-13 20:55:04] [x6.sjcmc.cn:34054] [CHAT] all
+[2026-08-13 20:55:10] [x6.sjcmc.cn:34054] [CHAT] all
+[2026-08-13 20:55:25] [x6.sjcmc.cn:34054] [CMD] /pay gggggggguo 200000
+[2026-08-14 21:00:14] [x6.sjcmc.cn:34054] [JOIN] 连接服务器: x6.sjcmc.cn:34054
+[2026-08-14 21:00:30] [x6.sjcmc.cn:34054] [CMD] /login 081014
+[2026-08-14 21:49:21] [x6.sjcmc.cn:34054] [CMD] /res tp shangdian
