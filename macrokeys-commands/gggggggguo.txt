@@ -739,3 +739,6 @@
 [2026-08-15 23:41:12] [x6.sjcmc.cn:34054] [CMD] /res tp shuatie
 [2026-08-15 23:58:26] [x6.sjcmc.cn:34054] [CMD] /pay LuckyMengYi 20000
 [2026-08-16 00:06:10] [x6.sjcmc.cn:34054] [CMD] /hat
+[2026-08-16 00:06:54] [x6.sjcmc.cn:34054] [CMD] /chestshop
+[2026-08-16 00:07:17] [x6.sjcmc.cn:34054] [CMD] /hat
+[2026-08-16 00:07:25] [x6.sjcmc.cn:34054] [CMD] /hat
