@@ -718,3 +718,6 @@
 [2026-08-15 20:21:17] [x6.sjcmc.cn:34054] [JOIN] 连接服务器: x6.sjcmc.cn:34054
 [2026-08-15 20:21:27] [x6.sjcmc.cn:34054] [CMD] /login 081014
 [2026-08-15 20:47:03] [x6.sjcmc.cn:34054] [CMD] /res tp zhucheng
+[2026-08-15 20:47:25] [x6.sjcmc.cn:34054] [CMD] /res tp shangdian
+[2026-08-15 21:03:05] [x6.sjcmc.cn:34054] [CMD] /res tp shangdian
+[2026-08-15 21:12:27] [x6.sjcmc.cn:34054] [CHAT] 真黄了
