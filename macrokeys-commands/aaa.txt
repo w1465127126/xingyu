@@ -126,3 +126,6 @@
 [2026-08-18 22:09:33] [x6.sjcmc.cn:34054] [CMD] /res tp zhucheng2
 [2026-08-18 22:10:11] [x6.sjcmc.cn:34054] [CHAT] all
 [2026-08-18 22:10:22] [x6.sjcmc.cn:34054] [CHAT] all
+[2026-08-18 22:10:31] [x6.sjcmc.cn:34054] [CHAT] all
+[2026-08-18 22:10:37] [x6.sjcmc.cn:34054] [CHAT] all
+[2026-08-18 22:10:45] [x6.sjcmc.cn:34054] [CMD] /pay gggggggguo 150000
