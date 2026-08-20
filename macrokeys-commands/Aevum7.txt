@@ -8511,3 +8511,6 @@
 [2026-08-20 19:53:54] [AuroraCity.kkwmc.cn] [CHAT] 挖树的
 [2026-08-20 19:54:02] [AuroraCity.kkwmc.cn] [CMD] /tpaccept
 [2026-08-20 19:54:16] [AuroraCity.kkwmc.cn] [CHAT] 你应该挖不掉
+[2026-08-20 19:54:26] [AuroraCity.kkwmc.cn] [CHAT] 666
+[2026-08-20 19:54:32] [AuroraCity.kkwmc.cn] [CHAT] 直接坏菜了
+[2026-08-20 19:54:37] [AuroraCity.kkwmc.cn] [CHAT] 机器人
