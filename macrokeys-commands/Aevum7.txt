@@ -8466,3 +8466,6 @@
 [2026-08-20 19:43:29] [AuroraCity.kkwmc.cn] [CHAT] 不扔一直死awa
 [2026-08-20 19:44:05] [AuroraCity.kkwmc.cn] [CHAT] 来扔了回来给你前期发展装备
 [2026-08-20 19:45:15] [AuroraCity.kkwmc.cn] [CMD] /hat
+[2026-08-20 19:46:29] [AuroraCity.kkwmc.cn] [CHAT] 岩浆都堂不死你
+[2026-08-20 19:46:35] [AuroraCity.kkwmc.cn] [CHAT] 太超标了
+[2026-08-20 19:47:22] [AuroraCity.kkwmc.cn] [CHAT] 宝石都没有
