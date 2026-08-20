@@ -494,3 +494,6 @@
 [2026-08-20 19:55:59] [AuroraCity.kkwmc.cn] [CHAT] 啥小号
 [2026-08-20 19:56:12] [AuroraCity.kkwmc.cn] [CHAT] 没权限
 [2026-08-20 19:56:13] [AuroraCity.kkwmc.cn] [CHAT] awa
+[2026-08-20 19:56:14] [AuroraCity.kkwmc.cn] [CHAT] awa
+[2026-08-20 19:56:22] [AuroraCity.kkwmc.cn] [CHAT] 刚给的没传送权限
+[2026-08-20 19:56:37] [AuroraCity.kkwmc.cn] [CMD] /res padd Fantasyland
