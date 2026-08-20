@@ -8505,3 +8505,6 @@
 [2026-08-20 19:53:19] [AuroraCity.kkwmc.cn] [CHAT] 这个机器人我等会上小号给挖了
 [2026-08-20 19:53:23] [AuroraCity.kkwmc.cn] [CHAT] 你自己看着摆吧
 [2026-08-20 19:53:33] [AuroraCity.kkwmc.cn] [CHAT] 给我小号权限
+[2026-08-20 19:53:34] [AuroraCity.kkwmc.cn] [CHAT] Fantasyland
+[2026-08-20 19:53:50] [AuroraCity.kkwmc.cn] [CHAT] 这几个机器人
+[2026-08-20 19:53:52] [AuroraCity.kkwmc.cn] [CHAT] 挖矿的
