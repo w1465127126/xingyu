@@ -8431,3 +8431,6 @@
 [2026-08-20 19:32:06] [AuroraCity.kkwmc.cn] [CHAT] 这不吵么
 [2026-08-20 19:32:15] [AuroraCity.kkwmc.cn] [CHAT] 咋连
 [2026-08-20 19:32:17] [AuroraCity.kkwmc.cn] [CHAT] 指令吗
+[2026-08-20 19:33:14] [AuroraCity.kkwmc.cn] [CHAT] 哎告诉你一个我隐藏多年的秘密
+[2026-08-20 19:33:23] [AuroraCity.kkwmc.cn] [CMD] /tell gggggggguo 我知道你密码 /login 081014
+[2026-08-20 19:33:31] [AuroraCity.kkwmc.cn] [CHAT] 其实你给不给都一样awa
