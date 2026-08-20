@@ -8502,3 +8502,6 @@
 [2026-08-20 19:53:03] [AuroraCity.kkwmc.cn] [CMD] /res give shy gggggggguo
 [2026-08-20 19:53:05] [AuroraCity.kkwmc.cn] [CHAT] 四合院也给你了
 [2026-08-20 19:53:12] [AuroraCity.kkwmc.cn] [CHAT] res tp shy
+[2026-08-20 19:53:19] [AuroraCity.kkwmc.cn] [CHAT] 这个机器人我等会上小号给挖了
+[2026-08-20 19:53:23] [AuroraCity.kkwmc.cn] [CHAT] 你自己看着摆吧
+[2026-08-20 19:53:33] [AuroraCity.kkwmc.cn] [CHAT] 给我小号权限
