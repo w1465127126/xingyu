@@ -8460,3 +8460,6 @@
 [2026-08-20 19:40:58] [AuroraCity.kkwmc.cn] [CHAT] 上门送温暖
 [2026-08-20 19:41:36] [AuroraCity.kkwmc.cn] [CHAT] 我也没去
 [2026-08-20 19:41:42] [AuroraCity.kkwmc.cn] [CMD] /tpa xiaobobo
+[2026-08-20 19:42:00] [AuroraCity.kkwmc.cn] [CHAT] 上门送温暖
+[2026-08-20 19:42:46] [AuroraCity.kkwmc.cn] [CHAT] 欢迎来到服务器
+[2026-08-20 19:43:02] [AuroraCity.kkwmc.cn] [CHAT] 坏了真萌新是吧
