@@ -497,3 +497,6 @@
 [2026-08-20 19:56:14] [AuroraCity.kkwmc.cn] [CHAT] awa
 [2026-08-20 19:56:22] [AuroraCity.kkwmc.cn] [CHAT] 刚给的没传送权限
 [2026-08-20 19:56:37] [AuroraCity.kkwmc.cn] [CMD] /res padd Fantasyland
+[2026-08-20 19:56:44] [AuroraCity.kkwmc.cn] [CHAT] res padd Fantasyland
+[2026-08-20 19:56:54] [AuroraCity.kkwmc.cn] [CMD] /res tp d
+[2026-08-20 19:57:01] [AuroraCity.kkwmc.cn] [CMD] /pay gggggggguo 800000
