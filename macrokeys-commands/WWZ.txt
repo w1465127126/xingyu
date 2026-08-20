@@ -27,3 +27,6 @@
 [2026-08-01 22:30:51] [AuroraCity.kkwmc.cn] [JOIN] 连接服务器: AuroraCity.kkwmc.cn
 [2026-08-01 22:30:54] [AuroraCity.kkwmc.cn] [CMD] /l 002731
 [2026-08-20 19:35:04] [AuroraCity.kkwmc.cn] [JOIN] 连接服务器: AuroraCity.kkwmc.cn
+[2026-08-20 19:35:06] [AuroraCity.kkwmc.cn] [CMD] /l 002731
+[2026-08-20 19:35:10] [AuroraCity.kkwmc.cn] [CHAT] 你认识这个id吗
+[2026-08-20 19:35:23] [AuroraCity.kkwmc.cn] [CHAT] 你退一下
