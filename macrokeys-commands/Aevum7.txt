@@ -8442,3 +8442,6 @@
 [2026-08-20 19:37:23] [AuroraCity.kkwmc.cn] [CHAT] awa
 [2026-08-20 19:38:23] [AuroraCity.kkwmc.cn] [CMD] /hart
 [2026-08-20 19:38:24] [AuroraCity.kkwmc.cn] [CMD] /hat
+[2026-08-20 19:38:35] [AuroraCity.kkwmc.cn] [CHAT] [i]
+[2026-08-20 19:38:37] [AuroraCity.kkwmc.cn] [CHAT] 出
+[2026-08-20 19:39:03] [AuroraCity.kkwmc.cn] [CHAT] 啥
