@@ -897,3 +897,6 @@
 [2026-08-20 19:58:46] [x6.sjcmc.cn:34054] [CHAT] 我把怪的权限关了
 [2026-08-20 19:59:13] [x6.sjcmc.cn:34054] [CHAT] 拜拜
 [2026-08-20 19:59:19] [x6.sjcmc.cn:34054] [CMD] /res set
+[2026-08-20 20:02:00] [x6.sjcmc.cn:34054] [CMD] /res set
+[2026-08-20 20:08:31] [x6.sjcmc.cn:34054] [CMD] /res tp shangdian
+[2026-08-20 20:12:28] [x6.sjcmc.cn:34054] [CMD] /set home
