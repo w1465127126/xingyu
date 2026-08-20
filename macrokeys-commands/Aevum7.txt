@@ -8478,3 +8478,6 @@
 [2026-08-20 19:48:57] [AuroraCity.kkwmc.cn] [CHAT] 看下我能不能射死你
 [2026-08-20 19:49:20] [AuroraCity.kkwmc.cn] [CHAT] 你怎么这么脆
 [2026-08-20 19:49:26] [AuroraCity.kkwmc.cn] [CHAT] 你装备没附魔么
+[2026-08-20 19:49:36] [AuroraCity.kkwmc.cn] [CHAT] 我一箭1600血= =
+[2026-08-20 19:49:57] [AuroraCity.kkwmc.cn] [CHAT] xd回来吃个金苹果试试
+[2026-08-20 19:50:02] [AuroraCity.kkwmc.cn] [CMD] /tpahere gggggggguo
