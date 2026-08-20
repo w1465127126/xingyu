@@ -8422,3 +8422,6 @@
 [2026-08-20 19:30:24] [AuroraCity.kkwmc.cn] [CHAT] 没有动力
 [2026-08-20 19:30:29] [AuroraCity.kkwmc.cn] [CMD] /tpa gggggggguo
 [2026-08-20 19:30:31] [AuroraCity.kkwmc.cn] [CHAT] 康康
+[2026-08-20 19:30:46] [AuroraCity.kkwmc.cn] [CHAT] 已经凉了哎
+[2026-08-20 19:30:48] [AuroraCity.kkwmc.cn] [CHAT] 全是小号
+[2026-08-20 19:30:57] [AuroraCity.kkwmc.cn] [CMD] /tpa gggggggguo
