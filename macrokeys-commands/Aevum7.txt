@@ -8490,3 +8490,6 @@
 [2026-08-20 19:51:26] [AuroraCity.kkwmc.cn] [CHAT] 留着没啥用
 [2026-08-20 19:51:39] [AuroraCity.kkwmc.cn] [CMD] /spawn
 [2026-08-20 19:51:43] [AuroraCity.kkwmc.cn] [CHAT] 领地也给你了
+[2026-08-20 19:51:45] [AuroraCity.kkwmc.cn] [CMD] /res tp d
+[2026-08-20 19:51:52] [AuroraCity.kkwmc.cn] [CHAT] 来
+[2026-08-20 19:51:58] [AuroraCity.kkwmc.cn] [CHAT] 我都不知道我要干啥了
