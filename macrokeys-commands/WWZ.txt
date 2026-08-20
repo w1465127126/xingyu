@@ -24,3 +24,6 @@
 [2026-07-25 22:00:55] [AuroraCity.kkwmc.cn] [CHAT] 这么穷
 [2026-07-25 22:01:05] [AuroraCity.kkwmc.cn] [CHAT] 转个20w应应急awa
 [2026-07-25 22:01:07] [AuroraCity.kkwmc.cn] [CMD] /pay Fantasyland 200000
+[2026-08-01 22:30:51] [AuroraCity.kkwmc.cn] [JOIN] 连接服务器: AuroraCity.kkwmc.cn
+[2026-08-01 22:30:54] [AuroraCity.kkwmc.cn] [CMD] /l 002731
+[2026-08-20 19:35:04] [AuroraCity.kkwmc.cn] [JOIN] 连接服务器: AuroraCity.kkwmc.cn
