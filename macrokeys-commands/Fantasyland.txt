@@ -500,3 +500,6 @@
 [2026-08-20 19:56:44] [AuroraCity.kkwmc.cn] [CHAT] res padd Fantasyland
 [2026-08-20 19:56:54] [AuroraCity.kkwmc.cn] [CMD] /res tp d
 [2026-08-20 19:57:01] [AuroraCity.kkwmc.cn] [CMD] /pay gggggggguo 800000
+[2026-08-20 19:57:07] [AuroraCity.kkwmc.cn] [CMD] /res tp d
+[2026-08-20 19:57:57] [AuroraCity.kkwmc.cn] [CHAT] 哎
+[2026-08-20 19:57:59] [AuroraCity.kkwmc.cn] [CHAT] 机器人呢
