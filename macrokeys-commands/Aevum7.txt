@@ -8434,3 +8434,8 @@
 [2026-08-20 19:33:14] [AuroraCity.kkwmc.cn] [CHAT] 哎告诉你一个我隐藏多年的秘密
 [2026-08-20 19:33:23] [AuroraCity.kkwmc.cn] [CMD] /tell gggggggguo 我知道你密码 /login 081014
 [2026-08-20 19:33:31] [AuroraCity.kkwmc.cn] [CHAT] 其实你给不给都一样awa
+[2026-08-20 19:33:58] [AuroraCity.kkwmc.cn] [CHAT] 服务器很多号我都有
+[2026-08-20 19:34:02] [AuroraCity.kkwmc.cn] [CHAT] 等下哈
+[2026-08-20 19:37:04] [AuroraCity.kkwmc.cn] [JOIN] 连接服务器: AuroraCity.kkwmc.cn
+[2026-08-20 19:37:06] [AuroraCity.kkwmc.cn] [CMD] /l wokaoa
+[2026-08-20 19:37:19] [AuroraCity.kkwmc.cn] [CHAT] 就挺没意思
