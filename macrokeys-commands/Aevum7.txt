@@ -8419,3 +8419,6 @@
 [2026-08-20 19:29:52] [AuroraCity.kkwmc.cn] [CHAT] 这服你能玩这么久啊
 [2026-08-20 19:30:03] [AuroraCity.kkwmc.cn] [CHAT] hxd看看你家造的咋样啊awa
 [2026-08-20 19:30:22] [AuroraCity.kkwmc.cn] [CHAT] 没有萌新
+[2026-08-20 19:30:24] [AuroraCity.kkwmc.cn] [CHAT] 没有动力
+[2026-08-20 19:30:29] [AuroraCity.kkwmc.cn] [CMD] /tpa gggggggguo
+[2026-08-20 19:30:31] [AuroraCity.kkwmc.cn] [CHAT] 康康
