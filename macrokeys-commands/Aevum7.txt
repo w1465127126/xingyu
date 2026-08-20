@@ -8401,3 +8401,6 @@
 [2026-08-20 19:25:57] [AuroraCity.kkwmc.cn] [CHAT] 直接少了一块
 [2026-08-20 19:26:20] [AuroraCity.kkwmc.cn] [CHAT] 绝了
 [2026-08-20 19:26:43] [AuroraCity.kkwmc.cn] [CHAT] 上面毫无影响哈
+[2026-08-20 19:27:07] [AuroraCity.kkwmc.cn] [CHAT] 坏菜了
+[2026-08-20 19:27:25] [AuroraCity.kkwmc.cn] [CMD] /res info
+[2026-08-20 19:27:37] [AuroraCity.kkwmc.cn] [CMD] /spawn
