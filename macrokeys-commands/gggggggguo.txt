@@ -1051,3 +1051,6 @@
 [2026-08-21 19:03:10] [t21.sjcmc.cn:17046] [CMD] /res tp d
 [2026-08-21 19:49:14] [t21.sjcmc.cn:17046] [CMD] /res tp d
 [2026-08-21 19:49:49] [t21.sjcmc.cn:17046] [CMD] /飞行
+[2026-08-21 19:50:54] [t21.sjcmc.cn:17046] [CMD] /res tp d
+[2026-08-21 21:17:51] [t21.sjcmc.cn:17046] [CMD] /res tp shangdian
+[2026-08-21 21:18:17] [t21.sjcmc.cn:17046] [CMD] /res tp d
