@@ -144,3 +144,6 @@
 [2026-08-20 20:13:14] [x6.sjcmc.cn:34054] [CMD] /tpa gggggggguo
 [2026-08-20 20:24:09] [x6.sjcmc.cn:34054] [CMD] /tpa gggggggguo
 [2026-08-20 21:57:14] [x6.sjcmc.cn:34054] [CMD] /tpa gggggggguo
+[2026-08-21 17:39:54] [t21.sjcmc.cn:17046] [JOIN] 连接服务器: t21.sjcmc.cn:17046
+[2026-08-21 17:40:04] [t21.sjcmc.cn:17046] [CMD] /login 081014
+[2026-08-21 17:49:40] [t21.sjcmc.cn:17046] [CMD] /hat
