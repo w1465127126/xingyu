@@ -1048,3 +1048,6 @@
 [2026-08-21 18:19:08] [t21.sjcmc.cn:17046] [CMD] /res tp xiaozhen
 [2026-08-21 18:19:36] [t21.sjcmc.cn:17046] [CMD] /res tp zhucheng
 [2026-08-21 18:25:05] [t21.sjcmc.cn:17046] [CMD] /res tp d
+[2026-08-21 19:03:10] [t21.sjcmc.cn:17046] [CMD] /res tp d
+[2026-08-21 19:49:14] [t21.sjcmc.cn:17046] [CMD] /res tp d
+[2026-08-21 19:49:49] [t21.sjcmc.cn:17046] [CMD] /飞行
