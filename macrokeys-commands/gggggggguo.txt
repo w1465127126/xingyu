@@ -1042,3 +1042,6 @@
 [2026-08-21 18:05:39] [t21.sjcmc.cn:17046] [CMD] /res tp d
 [2026-08-21 18:06:20] [t21.sjcmc.cn:17046] [CMD] /res tp shangdian
 [2026-08-21 18:06:44] [t21.sjcmc.cn:17046] [CMD] /res tp d
+[2026-08-21 18:13:07] [t21.sjcmc.cn:17046] [CMD] /tpa xiaobobo
+[2026-08-21 18:18:22] [t21.sjcmc.cn:17046] [CMD] /res tp zc
+[2026-08-21 18:18:35] [t21.sjcmc.cn:17046] [CMD] /res tp d
