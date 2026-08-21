@@ -153,3 +153,6 @@
 [2026-08-21 17:59:13] [t21.sjcmc.cn:17046] [CMD] /res tp shangdian
 [2026-08-21 18:00:37] [t21.sjcmc.cn:17046] [CHAT] 2
 [2026-08-21 18:02:32] [t21.sjcmc.cn:17046] [CMD] /res tp d
+[2026-08-21 18:58:31] [t21.sjcmc.cn:17046] [CMD] /res tp d
+[2026-08-21 21:06:48] [t21.sjcmc.cn:17046] [CMD] /res tp zhucheng2
+[2026-08-21 21:07:44] [t21.sjcmc.cn:17046] [CHAT] all
