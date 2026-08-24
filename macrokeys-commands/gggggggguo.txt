@@ -1436,3 +1436,6 @@
 [2026-08-24 23:44:52] [t21.sjcmc.cn:17046] [CMD] /res tp shangdian2
 [2026-08-24 23:44:58] [t21.sjcmc.cn:17046] [CHAT] ?
 [2026-08-24 23:45:02] [t21.sjcmc.cn:17046] [CHAT] 啥呀
+[2026-08-24 23:45:18] [t21.sjcmc.cn:17046] [CMD] /res tp xxx
+[2026-08-24 23:47:58] [t21.sjcmc.cn:17046] [CMD] /res tp d
+[2026-08-24 23:49:15] [t21.sjcmc.cn:17046] [CMD] /res tp xxx
