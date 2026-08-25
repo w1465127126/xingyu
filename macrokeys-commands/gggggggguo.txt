@@ -1485,3 +1485,6 @@
 [2026-08-25 19:10:12] [t21.sjcmc.cn:17046] [CHAT] 得整四个
 [2026-08-25 19:10:30] [t21.sjcmc.cn:17046] [CHAT] 好吧
 [2026-08-25 20:17:07] [t21.sjcmc.cn:17046] [CMD] /res tp shangdian2
+[2026-08-25 21:23:54] [t21.sjcmc.cn:17046] [CMD] /res tp shangdian
+[2026-08-25 23:22:47] [t21.sjcmc.cn:17046] [CMD] /tpa Tang
+[2026-08-25 23:23:54] [t21.sjcmc.cn:17046] [CHAT] Tang
