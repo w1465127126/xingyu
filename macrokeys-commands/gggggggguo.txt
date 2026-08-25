@@ -1482,3 +1482,6 @@
 [2026-08-25 18:54:11] [t21.sjcmc.cn:17046] [CMD] /res tp xxx
 [2026-08-25 18:55:48] [t21.sjcmc.cn:17046] [CMD] /res tp shangdian
 [2026-08-25 19:09:56] [t21.sjcmc.cn:17046] [CHAT] Tangerinep 有没有凋零头
+[2026-08-25 19:10:12] [t21.sjcmc.cn:17046] [CHAT] 得整四个
+[2026-08-25 19:10:30] [t21.sjcmc.cn:17046] [CHAT] 好吧
+[2026-08-25 20:17:07] [t21.sjcmc.cn:17046] [CMD] /res tp shangdian2
