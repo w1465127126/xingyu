@@ -1541,3 +1541,7 @@
 [2026-08-27 02:09:17] [t21.sjcmc.cn:17046] [CMD] /qs buy
 [2026-08-27 02:09:21] [t21.sjcmc.cn:17046] [CMD] /qs buy
 [2026-08-27 02:09:27] [t21.sjcmc.cn:17046] [CMD] /qs buy
+[2026-08-27 03:10:51] [t21.sjcmc.cn:17046] [CMD] /res tp shangdian
+[2026-08-28 14:54:41] [t21.sjcmc.cn:17046] [JOIN] 连接服务器: t21.sjcmc.cn:17046
+[2026-08-28 14:54:58] [t21.sjcmc.cn:17046] [CMD] /login 081014
+[2026-08-28 14:56:23] [t21.sjcmc.cn:17046] [CMD] /skins
