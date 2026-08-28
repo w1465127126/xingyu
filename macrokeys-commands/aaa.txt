@@ -246,3 +246,6 @@
 [2026-08-28 14:53:54] [t21.sjcmc.cn:17046] [JOIN] 连接服务器: t21.sjcmc.cn:17046
 [2026-08-28 14:54:03] [t21.sjcmc.cn:17046] [CMD] /login 081014
 [2026-08-28 14:59:02] [t21.sjcmc.cn:17046] [CMD] /skins
+[2026-08-28 22:29:28] [t21.sjcmc.cn:17046] [CMD] /tpa gggggggguo
+[2026-08-28 22:38:40] [t21.sjcmc.cn:17046] [CMD] /res tp d
+[2026-08-28 22:40:13] [t21.sjcmc.cn:17046] [CMD] /res tp shuatie
