@@ -1548,3 +1548,6 @@
 [2026-08-28 14:57:02] [t21.sjcmc.cn:17046] [CMD] /res tp xxx
 [2026-08-28 14:57:13] [t21.sjcmc.cn:17046] [CMD] /飞行
 [2026-08-28 17:48:06] [t21.sjcmc.cn:17046] [CMD] /res tp xxx
+[2026-08-28 17:49:01] [t21.sjcmc.cn:17046] [CMD] /res tp tang
+[2026-08-28 17:49:12] [t21.sjcmc.cn:17046] [CMD] /res list
+[2026-08-28 17:51:13] [t21.sjcmc.cn:17046] [CMD] /tpa Tang
