@@ -1581,3 +1581,6 @@
 [2026-08-29 17:10:44] [t21.sjcmc.cn:17046] [CMD] /res tp xxx
 [2026-08-29 17:11:52] [t21.sjcmc.cn:17046] [CMD] /res tp xiaoh
 [2026-08-29 17:12:40] [t21.sjcmc.cn:17046] [CMD] /res tp nian
+[2026-08-29 17:31:16] [t21.sjcmc.cn:17046] [CMD] /res tp nian
+[2026-08-29 17:38:51] [t21.sjcmc.cn:17046] [CMD] /carpet
+[2026-08-29 17:46:57] [t21.sjcmc.cn:17046] [CMD] /res tp xxx
