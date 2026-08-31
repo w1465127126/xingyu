@@ -1684,3 +1684,6 @@
 [2026-08-31 18:02:31] [t21.sjcmc.cn:17046] [CMD] /qs settoner aaa
 [2026-08-31 18:02:57] [t21.sjcmc.cn:17046] [CMD] /qs setowner aaa
 [2026-08-31 18:05:09] [t21.sjcmc.cn:17046] [CMD] /qs help
+[2026-08-31 18:05:19] [t21.sjcmc.cn:17046] [CMD] /qs remove
+[2026-08-31 18:07:55] [t21.sjcmc.cn:17046] [CMD] /qs sell
+[2026-08-31 18:08:16] [t21.sjcmc.cn:17046] [CHAT] 5
