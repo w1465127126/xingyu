@@ -1693,3 +1693,6 @@
 [2026-08-31 21:36:53] [t21.sjcmc.cn:17046] [CHAT] 老村长给我商店东西全买了
 [2026-08-31 21:37:16] [t21.sjcmc.cn:17046] [CMD] /res tp shangdian
 [2026-08-31 22:03:05] [t21.sjcmc.cn:17046] [CMD] /res tp shangdian
+[2026-08-31 22:04:43] [t21.sjcmc.cn:17046] [CMD] /res tp shangdian
+[2026-08-31 22:09:30] [t21.sjcmc.cn:17046] [CMD] /res tp xxx
+[2026-08-31 22:11:49] [t21.sjcmc.cn:17046] [CMD] /res tp shangdian
