@@ -1681,3 +1681,6 @@
 [2026-08-31 17:55:11] [t21.sjcmc.cn:17046] [CHAT] 慢慢来吧
 [2026-08-31 17:55:22] [t21.sjcmc.cn:17046] [CHAT] 我先补货去
 [2026-08-31 18:00:28] [t21.sjcmc.cn:17046] [CMD] /res tp shangdian
+[2026-08-31 18:02:31] [t21.sjcmc.cn:17046] [CMD] /qs settoner aaa
+[2026-08-31 18:02:57] [t21.sjcmc.cn:17046] [CMD] /qs setowner aaa
+[2026-08-31 18:05:09] [t21.sjcmc.cn:17046] [CMD] /qs help
