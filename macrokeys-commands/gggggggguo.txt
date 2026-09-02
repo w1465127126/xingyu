@@ -1718,3 +1718,6 @@
 [2026-09-02 20:09:12] [t21.sjcmc.cn:17046] [CHAT] 64
 [2026-09-02 20:13:26] [t21.sjcmc.cn:17046] [CMD] /res tp shangdian2
 [2026-09-02 20:19:29] [t21.sjcmc.cn:17046] [CMD] /res tp d
+[2026-09-02 20:23:08] [t21.sjcmc.cn:17046] [CMD] /res tp d
+[2026-09-02 20:52:00] [t21.sjcmc.cn:17046] [CMD] /res tp shangdian
+[2026-09-02 20:53:05] [t21.sjcmc.cn:17046] [CMD] /qs help
